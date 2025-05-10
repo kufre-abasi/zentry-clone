@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   pages: true,
   spaLoadingTemplate: 'spa-loading-template.html',
-  css: ['~/assets/main.css', "vue-toastification/dist/index.css"],
+  css: ['~/assets/main.css', 'vue-toastification/dist/index.css'],
   i18n: {
     vueI18n: './i18n.config.ts',
     locales: [
@@ -67,16 +67,11 @@ export default defineNuxtConfig({
     head: {
       script: [
         {
-          src: 'https://www.googletagmanager.com/gtag/js?id=AW-16694980929',
+          src: ' ',
           async: true
         },
         {
-          children: `
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'AW-16694980929');
-          `
+          children: `  `
         }
       ]
     }

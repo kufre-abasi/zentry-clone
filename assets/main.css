@@ -22,7 +22,7 @@ html {
 body {
   min-height: 100vh;
   /* font-family: 'Poppins', sans-serif; */
-  font-family: 'General Sans', sans-serif;
+  font-family: 'Roobert-Regular', sans-serif;
 
   transition:
     color 0.5s,
@@ -33,9 +33,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
   /* @apply bg-shades-white; */
 }
+.Roobert-Regular {
+  font-family: 'Roobert-Regular', sans-serif;
+}
+.Roobert-Medium {
+  font-family: 'Roobert-Medium', sans-serif;
+}
+.ZENTRY-Regular {
+  font-family: 'ZENTRY-Regular', sans-serif !important;
+}
 p {
-  font-family: 'General Sans', sans-serif;
-  @apply !mb-0  ;
+  font-family: 'Roobert-Regular', sans-serif;
+  @apply !mb-0 ;
 }
 h1,
 h2,
@@ -43,7 +52,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'General Sans', sans-serif;
+  font-family: 'Roobert-Regular', sans-serif;
   @apply !mb-0;
 }
 select {
@@ -51,7 +60,7 @@ select {
 }
 @layer base {
   body {
-    font-family: 'General Sans', sans-serif;
+    font-family: 'Roobert-Regular', sans-serif;
   }
 }
 .container {

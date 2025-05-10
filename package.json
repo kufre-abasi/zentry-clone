@@ -14,6 +14,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@kalimahapps/vue-icons": "^1.7.1",
     "@pinia/nuxt": "^0.5.1",
     "@vueuse/motion": "^2.2.3",
     "ant-design-vue": "^4.0.0-rc.6",
