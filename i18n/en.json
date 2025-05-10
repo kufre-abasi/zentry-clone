@@ -1,0 +1,1146 @@
+{
+  "navbar": {
+    "Rides": "Rides",
+    "Drive": "Drive",
+    "earn": "Earn with Tec-R ",
+    "Products": "Products",
+    "Company": "Company",
+    "Support": "Support",
+    "Patner": "Partner with Tec-R",
+    "FleetOwners": "Fleet Owners",
+    "Logistics": "Tec-R Logistics",
+    "Rentals": "Tec-R Rentals",
+    "AboutUs": "About Us",
+    "Blog": "Blog",
+    "ContactUs": "Contact Us",
+    "Safety": "Safety",
+    "OurBrand": "Our Brand"
+  },
+  "footer": {
+    "Subscribe": "Subscribe",
+    "Products": "Products",
+    "Rides": "Rides",
+    "Driver": "Drive",
+    "Business": "Business",
+    "Earn_with_TecR": "Earn with Tec-R",
+    "Patner_with_TecR": "Partner with Tec-R",
+    "Fleet_Owners": "Fleet Owners",
+    "Company": "Company",
+    "About_Us": "About Us",
+    "Contact_Us": "Contact Us",
+    "Support": "Support",
+    "Blog": "Blog",
+    "Privacy": "Privacy",
+    "Join_Us": "Join Us",
+    "Terms_&_Condition": "Terms & Condition",
+    "T_&_C": "T & C",
+    "Cookies": "Cookies",
+    "Security": "Security",
+    "All_rights": "All rights reserved.",
+    "placeholder": "Enter your Email..."
+  },
+  "home": {
+    "section1": {
+      "homeIntroHeading": "Effortlessly <br class=\"md:block hidden\" /> summon your <br class=\"md:block hidden\" /> Journey with <br class=\"md:block hidden\" /> our App.",
+      "homeIntroMemo": " Enjoy a convenient ride-hailing <br class=\"md:block hidden\" /> experience with our app, where you <br class=\"md:block hidden\" /> can effortlessly request, track, and <br class=\"md:block hidden\" /> pay for your ride.",
+      "buttonText": "Download the app"
+    },
+    "section2": {
+      "heading": "Drive to earn on your journey.",
+      "buttonText": " Learn More",
+      "items": {
+        "title1": "Seamless Earnings on the Go",
+        "desc1": "Our easy-to-use app tracks your mileage and pays you for the distance covered, ensuring a  hassle-free way to supplement your income while on the road.",
+        "title2": "From Point A to Payday",
+        "desc2": "Transform every journey into a money-making opportunity. We ensure you get paid for the  miles you cover, turning everyday travel into a lucrative activity.",
+        "title3": "Reliable earnings:",
+        "desc3": "Tec-R offers a steady and dependable source of income, providing financial security and  peace of mind.",
+        "title4": "Your Fleet, Your Earnings",
+        "desc4": " Put your fleet to work and maximize your earnings effortlessly. Join our platform and  discover how easy it is to generate income from your vehicles."
+      }
+    },
+    "section3": {
+      "heading": "Why choose us?",
+      "intro": "We Enhance Your Urban <br class=\"md:block hidden\" /><span class=\"lg:text-[60px] text-[32px] tracking-[2%] font-medium !mb-6 text-brand md:leading-[86.4px] leading-[43.2px]\"> Mobility Experience.</span>",
+      "items": {
+        "title1": "We offer quick and easy rides",
+        "desc1": "Our ride app offers a swift and seamless process to book a ride ",
+        "title2": "We provide points and rewards",
+        "desc2": "Every journey with zentry-clone brings you closer to exclusive rewards",
+        "title3": "We offer variety of options",
+        "desc3": "You can choose from a range of vehicle options to suit your needs."
+      }
+    },
+    "section4": {
+      "heading": "Our Services",
+      "subheading": "Our wide product range caters to diverse needs globally, with availability varying by country.",
+      "intro": "We Enhance Your Urban <br class=\"md:block hidden\" /><span class=\"lg:text-[60px] text-[32px] tracking-[2%] font-medium !mb-6 text-brand md:leading-[86.4px] leading-[43.2px]\"> Mobility Experience.</span>",
+      "items": {
+        "title1": "Regular Rides",
+        "desc1": "Choose Tec-R regular rides for stress-free travel. Professional drivers, clean vehicles, and  prompt pickups always ensure a pleasant journey.",
+        "title2": "Private Jet  ",
+        "desc2": "Indulge in luxury and convenience with our private jet package, offering customizable  itineraries, VIP services, and world-class amenities.",
+        "title3": "Tec-R Celeb/VIP",
+        "desc3": "Elevate your ride with the Celebrity/VIP Ride Plan for a truly luxurious experience tailored  to your needs.",
+        "title4": "Tec-R Business",
+        "desc4": "With a single click, easily manage employee travel, invoicing, and spending for a hassle-free  experience.",
+        "title5": "Tec-R Helicopter Journey",
+        "desc5": "Tec-R is taking urban mobility to new heights with its helicopter leasing service, offering a  fast and efficient way to navigate the city.",
+        "title6": "Tec-R Haulage",
+        "desc6": "Easily optimize your logistics with our solutions, assuring smooth operations and efficient  resource usage."
+      }
+    },
+    "section5": {
+      "heading": "Order swiftly,  <br class=\"md:block hidden\" /> ride promptly.",
+      "subheading": "Wherever you go, we’ll help you get there safely and comfortably. The city is yours!",
+      "buttonText": "Scan to download",
+      "items": {
+        "title1": "Download App on App Store",
+        "desc1": "Our ride app offers a swift and seamless process to book a ride ",
+        "title2": "Download App on Play Store ",
+        "desc2": "Every journey with zentry-clone brings you closer to exclusive rewards"
+      }
+    },
+    "faqs": {
+      "first": {
+        "name": " How do I download the Tec-R app?",
+        "content": "You can download the Tec-R app from the App Store for iOS devices or Google Play Store for Android devices. Simply search for \"zentry-clone\" and install it on your phone."
+      },
+      "second": {
+        "name": " How do I create an account with zentry-clone?",
+        "content": "Open the Tec-R app and click on \"Sign Up.\" Enter your email address, create a password, and follow the prompts to complete the registration process."
+      },
+      "third": {
+        "name": "How to Request A Ride?",
+        "content": "To request a ride, simply open our app, enter your pickup and drop-off locations, select your preferred vehicle type, and confirm your request. (A nearby driver will be assigned to your trip.)"
+      },
+      "fourth": {
+        "name": "How to Make Payment?",
+        "content": "We accept various payment methods, including credit/debit cards, Tec-R personal or Family wallet, and cash. You can choose your preferred payment option during the request process."
+      },
+      "fifth": {
+        "name": "Is the fare fixed?",
+        "content": "No, the fare varies based on distance, time, and location."
+      },
+      "sixth": {
+        "name": "How can I become a Tec-R driver?",
+        "content": "To become a Tec-R driver, download the Tec-R Driver app. Complete the online application, submit the required documents, and undergo a background check."
+      },
+      "seventh": {
+        "name": "Can I schedule rides in advance with Tec-R?",
+        "content": "Yes, you can schedule rides in advance. Simply select the \"Schedule Ride\" option in the app, choose your desired pickup time and date, and follow the prompts to confirm your booking."
+      }
+    }
+  },
+  "rides": {
+    "section1": {
+      "heading": {
+        "smooth": "Smooth",
+        "Rides": "Rides",
+        "Seamless": "Seamless",
+        "Booking": "Booking"
+      },
+      "intro": "All rides in one app, with different <br class=\"md:block hidden\" /> packages to enjoy",
+      "buttonText": "Get the app",
+      "items": {
+        "title1": "Select",
+        "desc1": "Select destination <br/> address effortlessly.",
+        "title2": "Choose",
+        "desc2": "Choose vehicles <br/> based on tastes.",
+        "title3": "Confirm",
+        "desc3": "Confirm ride after <br/> reviewing details."
+      }
+    },
+    "section2": {
+      "buttonText": "Get the app",
+      "heading": {
+        "BikeRides": "Bike Rides",
+        "atYour": "at Your",
+        "Fingertips": "Fingertips:",
+        "Seamless": "Seamless",
+        "Unbeatable": "Unbeatable",
+        "Experience": "Experience",
+        "Booking": "Booking"
+      },
+      "intro": "Pedal into adventure with our exhilarating Bike Ride package today ,explore scenic routes, feel the rush of the wind in your hair and create unforgettable memories."
+    },
+    "section3": {
+      "buttonText": "Get the app",
+      "heading": {
+        "Our": "Our",
+        "PrivateJet": "Private Jet",
+        "Package": "Package:",
+        "offers": "offers",
+        "Luxury": "Luxury",
+        "in": "in",
+        "the": "the",
+        "Skies": "Skies"
+      },
+      "intro": "Indulge in luxury and convenience with our private jet package, offering customizable itineraries, VIP services, and world-class amenities"
+    },
+    "section4": {
+      "buttonText": "Get the app",
+      "heading": {
+        "The": "The",
+        "Celebrity/VIP": "Celebrity/VIP",
+        "Ride": "Ride:",
+        "Plan": "Plan",
+        "offers": "offers",
+        "Exclusive": "Exclusive",
+        "and": "and",
+        "Personalized": "Personalized",
+        "Services": "Services"
+      },
+      "intro": "Elevate your ride with the Celebrity/VIP Ride Plan for a truly luxurious experience tailored to your needs. Enjoy exclusive services, personalized attention, and the ultimate in comfort and convenience."
+    },
+    "section5": {
+      "heading": {
+        "Effortlessly": "Effortlessly",
+        "manage": "manage",
+        "employee": "employee",
+        "travel": "travel",
+        "with": "with",
+        "a": "a",
+        "on": "on",
+        "click": "click",
+        "Tec-RBusiness": "Tec-R Business"
+      },
+      "intro": "Our Business package offers efficient management of employee travel with a click, while easily handling invoicing and expenses for a seamless experience."
+    },
+    "section6": {
+      "buttonText": "Get the app",
+
+      "heading": {
+        "Experience": "Experience",
+        "an": "an",
+        "extraordinary": "extraordinary",
+        "Trip": "Trip",
+        "with": "with",
+        "our": "our",
+        "exclusive": "exclusive",
+        "Helicopter": "Helicopter",
+        "Package": "Package"
+      },
+      "intro": "Our helicopter package offers an unforgettable and luxurious experience. Soar above the rest and make memories that will last a lifetime."
+    },
+    "section7": {
+      "buttonText": "Explore our safety measures",
+      "heading": {
+        "Ensuring": "Ensuring",
+        "Safety": "Safety",
+        "by": "by",
+        "prioritizing": "prioritizing",
+        "Riders": "Rider’s",
+        "well-being": "well-being"
+      },
+      "intro": " We prioritize your safety and respect, starting with your first ride. Our proactive safety features are always on, providing real help day or night."
+    },
+    "section8": {
+      "buttonText": "Explore our safety measures",
+      "heading": {
+        "Everyone": "Everyone",
+        "Deserves": "Deserves",
+        "a": "a",
+        "Ride": "Ride:",
+        "Tec-R": "Tec-R",
+        "Accessibility": "Accessibility",
+        "Features": "Features"
+      },
+      "intro": "At Tec-R, we believe everyone deserves a comfortable and convenient ride-hailing experience. That's why we're committed to offering a variety of accessibility features to make getting around town easier for all.",
+      "items": {
+        "title1": "Wheelchair-Accessible Vehicles",
+        "desc1": "Request a wheelchair-accessible vehicle directly through the app to ensure a smooth and  comfortable ride.",
+        "title2": "In-App Accessibility Features",
+        "desc2": "Our app is designed to be accessible to everyone, including features like Screen Reader  Compatibility, Larger Font Size Options, and High-Contrast Themes.",
+        "title3": "Additional Assistance",
+        "desc3": "Indicate if you require specific assistance during pick-up or drop-off, and our drivers will be  happy to help."
+      }
+    }
+  },
+  "Explore": "Explore",
+  "More": "More",
+  "drive": {
+    "section1": {
+      "heading": {
+        "Drive": "Drive",
+        "your": "your",
+        "Way": "Way",
+        "Be": "Be",
+        "on": "on",
+        "Boss": "Boss",
+        "and": "and",
+        "Terms": "Terms",
+        "Earn": "Earn"
+      },
+      "intro": "Ready to drive? Download the app and start <br class=\"md:block hidden\" /> earning as a driver with zentry-clone today!",
+      "buttonText": "Download the app"
+    },
+    "section2": {
+      "heading": "Get Started as a Driver.",
+      "items": {
+        "title1": "Download & Sign Up",
+        "desc1": "Download the Tec-R Driver app (available on the App Store or Google Play Store). Open the app and find the \"Sign Up\" or \"Become a Driver\" option. Briefly enter your information to get started.",
+        "title2": "Quick Verification",
+        "desc2": "Provide some basic documents like your driver's license, vehicle registration, and proof of insurance (requirements might vary). Tec-R Drive will conduct a background check to ensure safety.",
+        "title3": "Hit the Road!",
+        "desc3": "Once approved, you'll receive a notification and can activate driver mode within the app. Start accepting rides and earning money on your schedule. It’s as simple as that, all you need to do is start your journey."
+      }
+    },
+    "section3": {
+      "heading": "Benefits of Driving with zentry-clone.",
+      "intro": " Whether you're looking for occasional flexibility or a regular <br class=\"lg:flex hidden\" /> income stream, Tec-R lets you drive on your terms.",
+      "items": {
+        "title1": "Flexibility and Freedom",
+        "desc1": "Drive whenever it suits you. Experience the freedom to drive in any city, at any time.  Whether it's a few hours a week or full-time, you set your own schedule.",
+        "title2": "Consistent Earnings",
+        "desc2": "Enjoy a steady income stream with our reliable and competitive pay rates, providing  financial stability.",
+        "title3": "Incentives and Bonuses",
+        "desc3": "Earn extra with performance-based bonuses and incentives, rewarding your dedication and  hard work."
+      }
+    },
+    "section4": {
+      "heading": "How the zentry-clone Driver app works",
+      "intro": " Reliable and easy to use, with everything you need to drive and earn when you want.",
+      "items": {
+        "title1": "Download and Register",
+        "desc1": "Go to the Google Play Store or Apple App Store. Download the app and sign up using your personal information.",
+        "title2": "Receiving and Accepting Rides",
+        "desc2": "You’ll receive a notification when a ride request comes in. Accept to confirm the ride and proceed to the pick-up location.",
+        "title3": "Navigating to Pick-Up and Drop-Off Locations",
+        "desc3": "Use the app’s built-in navigation to reach the pick-up location. If needed, use the app’s messaging or calling feature to contact the passenger.",
+        "title4": "Completing the Ride and Managing Earnings",
+        "desc4": "Once the passenger is dropped off, tap \"End Ride\" in the app.  Set up your payment method and withdraw your funds."
+      }
+    },
+    "section5": {
+      "heading": "Popular questions from Drivers"
+    },
+    "section6": {
+      "heading": {
+        "Prioritizing": "Prioritizing",
+        "Driver": "Driver",
+        "well-being": "Way",
+        "to": "to",
+        "ensure": "ensure",
+        "Safety": "Safety"
+      },
+      "intro": "We prioritize your safety and respect, starting with your first ride. Our proactive safety features are always on, providing real help day or night.",
+      "buttonText": " Explore our safety measures"
+    }
+  },
+  "partnerWithTecR": {
+    "section1": {
+      "heading": {
+        "Expand": "Expand",
+        "Your": "Your",
+        "Reach": "Reach",
+        "Become": "Become",
+        "a": "a",
+        "Tec-R": "Tec-R",
+        "Partner": "Partner"
+      },
+      "intro": "Partner with Tec-R today and enjoy <br class=\"md:block hidden\" /> more orders, increased sales, and <br class=\"md:block hidden\" /> unmatched visibility — start reaping <br class=\"md:block hidden\" /> the benefits now!",
+      "buttonText": "Get Started Today"
+    },
+    "section2": {
+      "heading": {
+        "Why": "Why",
+        "with": "with",
+        "Tec-R": "Tec-R?",
+        "Partner": "Partner"
+      },
+      "intro": " We creates a compelling value proposition that attracts a diverse pool of partners and fosters a win-win ecosystem for all stakeholders.",
+      "buttonText": "Get Started Today",
+      "items": {
+        "title1": "Expanded Reach",
+        "desc1": "Access to a large and growing network of fleet owners and drivers.",
+        "title2": "Increased Brand Awareness",
+        "desc2": "Increased brand awareness and reach through co-marketing opportunities.",
+        "title3": "Commission Opportunities",
+        "desc3": "Revenue generation opportunities through referrals or commissions.",
+        "title4": "Enhanced Service Offerings",
+        "desc4": "Integration with a leading fleet management platform."
+      }
+    },
+    "section3": {
+      "heading": "Partnership Opportunities",
+      "intro": " Tec-R, a leading ride-hailing platform, connects riders with drivers and vehicles.<br class=\"lg:flex hidden\" /> We offer businesses various partnership opportunities to expand their reach,<br class=\"lg:flex hidden\" /> generate revenue, and enhance services.",
+      "items": {
+        "title1": "Driver Partnership",
+        "desc1": "Join the Tec-R network by signing up with your vehicle and earn a commission on every completed ride.",
+        "title2": "Marketing and Expansion Partnership",
+        "desc2": "Attract new customers and foot traffic to your business by partnering with a widely used platform.",
+        "title3": "Technology Partnership",
+        "desc3": "Develop integrations between your technology solutions and the Tec-R platform for a seamless user experience.",
+        "title4": "Fleet Management Companies",
+        "desc4": "Offer your existing fleet of vehicles and drivers to a wider customer base through the Tec-R platform."
+      }
+    },
+    "banner": {
+      "heading": {
+        "Expand": "Expand",
+        "Your": "Your",
+        "Reach": "Reach",
+        "Today": "Today!"
+      },
+      "intro": "Get in Touch to Explore a Customized . <br class=\"lg:flex hidden\" />Partnership",
+      "buttonText": "Contact Us"
+    },
+    "FAQs": {
+      "heading": "Frequently asked questions",
+      "intro": "Find quick solutions to frequent questions about our ride-hailing and<br class=\"md:block hidden\" />  other services."
+    }
+  },
+  "earnWithTecR": {
+    "section1": {
+      "heading": {
+        "Empower": "Empower",
+        "Your": "Your",
+        "Fleet": "Fleet",
+        "Optimize": "Optimize",
+        "Business": "Business"
+      },
+      "intro": " Take control of your fleet operations with our <br class=\"md:block hidden\" /> management solutions, reducing costs, boosting <br class=\"md:block hidden\" />productivity, and gaining valuable insights for <br class=\"md:block hidden\" /> smarter decisions.",
+      "buttonText": "Get the App"
+    },
+    "section2": {
+      "heading": {
+        "Benefits": "Benefits",
+        "of": "of",
+        "Partnering": "Partnering",
+        "with": "with",
+        "Us": "Us"
+      },
+      "intro": " Reliable and easy to use, with everything you need to drive and earn when you want.",
+      "items": {
+        "title1": "Reduced Costs",
+        "desc1": "Save fuel with optimized routes, lower maintenance costs with preventive scheduling, and reduce insurance expenses through safe driving habits.",
+        "title2": "Increased Productivity",
+        "desc2": "Optimize delivery schedules for timely arrivals, enhance driver efficiency with streamlined tasks, and reduce downtime with preventative maintenance.",
+        "title3": "Enhanced Safety",
+        "desc3": "Promote safe driving and reduce accident risk, enhance driver accountability with real-time tracking, and ensure vehicle and asset security"
+      }
+    },
+    "section3": {
+      "heading": "How the zentry-clone Fleet works",
+      "intro": " Tec-r simplifies fleet management and empowers you to take control with a  comprehensive suite of features.",
+      "items": {
+        "title1": "Reduced Costs",
+        "desc1": "Save fuel with optimized routes, lower maintenance costs with preventive scheduling, and reduce insurance expenses through safe driving habits.",
+        "title2": "Increased Productivity",
+        "desc2": "Optimize delivery schedules for timely arrivals, enhance driver efficiency with streamlined tasks, and reduce downtime with preventative maintenance.",
+        "title3": "Enhanced Safety",
+        "desc3": "Promote safe driving and reduce accident risk, enhance driver accountability with real-time tracking, and ensure vehicle and asset security"
+      }
+    },
+    "FAQs": {
+      "heading": "Frequently asked questions"
+    },
+    "banner": {
+      "heading": {
+        "Begin": "Begin",
+        "to": "to",
+        "Earn": "Earn",
+        "with": "with!",
+        "your": "your",
+        "Vehicle": "Vehicle"
+      },
+      "intro": "Unlock the potential of your fleet <br class=\"lg:flex hidden\" /> and start earning today for free!",
+      "buttonText": "Get Started "
+    }
+  },
+  "TecRLogistics": {
+    "section1": {
+      "heading": {
+        "Simplify": "Simplify",
+        "Deliveries": "Deliveries",
+        "with": "with",
+        "Tec-R": "Tec-R",
+        "Logistics": "Logistics"
+      },
+      "intro": "Tec-R Logistics is a streamlined delivery <br class=\"md:block hidden\" /> service coming to the Tec-R app.",
+      "buttonText": "Subscribe",
+      "subIntro": "Receive updates about our launch."
+    },
+    "section2": {
+      "heading": "Explore Essential Features",
+      "intro": "Unlock the full potential of our product by exploring its<br class=\"md:block hidden\" /> essential features.",
+      "items": {
+        "title1": "On-demand Deliveries",
+        "desc1": "Schedule pickups and deliveries at your convenience, directly through the Tec-R app.",
+        "title2": "Real-time Tracking",
+        "desc2": "Track your package in real-time and see estimated delivery times.",
+        "title3": "Multiple Delivery Options",
+        "desc3": "Choose from a variety of delivery options to suit your needs.",
+        "title4": "Competitive Pricing",
+        "desc4": "Get affordable and transparent pricing for your deliveries."
+      }
+    },
+    "banner": {
+      "heading": "Sign Up Now to Get Early Access to <br class=\"md:block hidden\" /> Tec-R Logistics & Exclusive Discounts!",
+      "intro": "Unlock the potential of your fleet <br class=\"lg:flex hidden\" /> and start earning today for free!",
+      "buttonText": "Subscribe"
+    }
+  },
+  "TecRRentals": {
+    "section1": {
+      "heading": {
+        "Rentals": "Rentals",
+        "Your": "Your",
+        "Car": "Car",
+        "Tec-R": "Tec-R",
+        "Rental": "Rental",
+        "Hub": "Hub"
+      },
+      "intro": "Tec-R Rentals is a convenient car rental <br class=\"md:block hidden\" /> service coming to the Tec-R app.",
+      "buttonText": "Subscribe",
+      "subIntro": "Receive updates about our launch."
+    },
+    "section2": {
+      "heading": "Explore Essential Features",
+      "intro": "Unlock the full potential of our product by exploring its<br class=\"md:block hidden\" /> essential features.",
+      "items": {
+        "title1": "Wide Selection of Vehicles",
+        "desc1": "Choose from a diverse fleet of vehicles to suit your needs, from compact cars to spacious SUVs.",
+        "title2": "Simple In-App Booking",
+        "desc2": "Book your rental car quickly and easily directly through the Tec-R app, anytime and anywhere.",
+        "title3": "Transparent Pricing",
+        "desc3": "See upfront pricing with no hidden fees - know exactly what you're paying before you book.",
+        "title4": "Easy Pick-up & Drop-off Choices",
+        "desc4": "Enjoy flexible pick-up and drop-off options to seamlessly integrate car rentals into your plans."
+      }
+    },
+    "banner": {
+      "heading": "Sign Up Now to Get Early Access to <br class=\"md:block hidden\" />Tec-R Rentals & Exclusive Discounts!",
+      "intro": "Unlock the potential of your fleet <br class=\"lg:flex hidden\" /> and start earning today for free!",
+      "buttonText": "Subscribe"
+    }
+  },
+
+  "earn_faqs": {
+    "first": {
+      "name": "How do I sign up as a fleet owner with Tec-R?",
+      "content": "To sign up as a fleet owner, download the Tec-R Driver app from the App Store or Google Play Store. Select the \"Sign Up\" option and choose \"Fleet Owner.\" Enter the required information to get started."
+    },
+    "second": {
+      "name": "What documents are required to register my fleet?",
+      "content": "You will need to provide driver’s licenses for all drivers, vehicle registrations, proof of insurance, and any relevant business licenses. Requirements may vary based on your location."
+    },
+    "third": {
+      "name": "How many vehicles are required to be a fleet owner with Tec-R?",
+      "content": "To qualify as a fleet owner with Tec-R, you typically need at least two vehicles. This requirement ensures you can manage multiple drivers and optimize your operations effectively."
+    },
+    "fourth": {
+      "name": "How does Tec-R ensure the safety of my fleet drivers?",
+      "content": "Tec-R prioritizes safety with comprehensive background checks for all drivers, in-app safety features like GPS tracking, and 24/7 support to ensure help is always available."
+    },
+    "fifth": {
+      "name": "Can I track the performance of my fleet in real-time?",
+      "content": "Yes, the Tec-R app provides real-time tracking of all your vehicles, allowing you to monitor your fleet's location, ride status, and performance."
+    }
+  },
+  "faqs": {
+    "first": {
+      "name": "How do I sign up as a fleet owner with Tec-R?",
+      "content": "To sign up as a fleet owner, download the Tec-R Driver app from the App Store or Google Play Store. Select the \"Sign Up\" option and choose \"Fleet Owner.\" Enter the required information to get started."
+    },
+    "second": {
+      "name": "What documents are required to register my fleet?",
+      "content": "You will need to provide driver’s licenses for all drivers, vehicle registrations, proof of insurance, and any relevant business licenses. Requirements may vary based on your location."
+    },
+    "third": {
+      "name": "How many vehicles are required to be a fleet owner with Tec-R?",
+      "content": "To qualify as a fleet owner with Tec-R, you typically need at least two vehicles. This requirement ensures you can manage multiple drivers and optimize your operations effectively."
+    },
+    "fourth": {
+      "name": "How does Tec-R ensure the safety of my fleet drivers?",
+      "content": "Tec-R prioritizes safety with comprehensive background checks for all drivers, in-app safety features like GPS tracking, and 24/7 support to ensure help is always available."
+    },
+    "fifth": {
+      "name": "Can I track the performance of my fleet in real-time?",
+      "content": "Yes, the Tec-R app provides real-time tracking of all your vehicles, allowing you to monitor your fleet's location, ride status, and performance."
+    },
+    "sixth": {
+      "name": "What kind of earnings can I expect as a fleet owner?",
+      "content": "Earnings can vary based on the number of vehicles, hours driven, and demand. Tec-R offers competitive rates, and performance-based bonuses can further enhance your income."
+    },
+    "seventh": {
+      "name": "How do I manage payments for my fleet?",
+      "content": "Payments are managed through the Tec-R app. You can easily set up a payment method, track earnings, and withdraw funds. Detailed earnings reports are available for transparency."
+    }
+  },
+  "contactUs": {
+    "heading": "Contact Us",
+    "intro": "Have any questions or comments? Send us a message, we're here to assist you!",
+    "cardHeading": "Contact Information",
+    "cardIntro": "Have any questions or comments? Send us a message, we're here to assist you!",
+    "buttonText": "Send Message",
+    "FirstName": "First Name",
+    "LastName": "Last Name",
+    "E-mail": "E-mail",
+    "PhoneNumber": "Phone number",
+    "DropMessage": "Drop a Message..."
+  },
+  "AboutUs": {
+    "tag": "About Us",
+    "heading": {
+      "Weaving": "Weaving",
+      "Together": "Together",
+      "Your": "Your",
+      "Urban": "Urban",
+      "Journey": "Journey"
+    },
+    "intro": "At zentry-clone, we believe that navigating busy city streets shouldn't be a hassle. We connect riders and drivers for seamless urban adventures, ensuring a smooth and efficient journey every time.",
+    "section5": {
+      "heading": " Our Mission: Putting people <br class=\"md:block hidden\" /> at the heart of urban design.",
+      "intro": " We prioritize pedestrians, cyclists, and public transportation, creating vibrant communities where people thrive. We are dedicated to connecting riders  and drivers in a way that enhances convenience, promotes safety, and contributes to a smarter, more sustainable future for urban mobility."
+    },
+    "section6": {
+      "heading": "Our values: What Defines Us",
+      "intro": " At Tec-R, we are dedicated to the field of technology and its transformative potential. Our <br class=\"md:block hidden\" /> vision extends beyond the technology itself, emphasizing the importance of core values <br class=\"md:block hidden\" /> that underpin our success and guide our actions.",
+      "items": {
+        "title1": "Innovation",
+        "desc1": "We focus on constantly developing and pushing boundaries in technological advancements.",
+        "title2": "Efficiency",
+        "desc2": "We constantly prioritize solutions that optimize processes and maximize results.",
+        "title3": "Reliability",
+        "desc3": "We keep building trust through dependable technology that consistently delivers."
+      }
+    },
+    "section7": {
+      "heading": "Our Story: Bridging the Urban Gap",
+      "intro": "Tec-R was founded in 2024 with a vision to transform urban transportation by offering a more efficient, reliable, and user-friendly mobility solution. Starting with a group of passionate innovators, Tec-R has grown into a team of dedicated professionals who have developed a platform that revolutionizes urban commuting. Key milestones include the initial pilot program and widespread adoption in major cities. Tec-R prioritizes safety, convenience, and sustainability, always aiming to innovate and improve for smarter, more connected urban living."
+    },
+    "section2": {
+      "heading": "Future Vision",
+      "intro": "As we look ahead, our goal is to further integrate sustainable solutions and expand our services to new markets, continuing our mission to make urban life better for everyone."
+    },
+    "section3": {
+      "heading": "Impact Stories",
+      "intro": " Since our inception, we've been dedicated to improving and expanding our  services. From integrating advanced GPS technology to offering electric and hybrid vehicle options, we've continuously evolved to meet the needs of our users. Today, zentry-clone is not just a transportation service; it's a movement towards smarter, greener cities. Our story is one of innovation, persistence, and a relentless drive to make urban life better for everyone."
+    },
+    "section4": {
+      "heading": {
+        "Benefits": "Benefits",
+        "of": "of",
+        "Using": "Using",
+        "Our": "Our",
+        "Services": "Services"
+      },
+
+      "items": {
+        "title1": "Cost Savings",
+        "desc1": "By using our service, you can reduce overhead costs and increase your bottom line. Our affordable pricing plans are designed to fit your budget.",
+        "title2": "Improved Efficiency",
+        "desc2": "Our service streamlines your workflow, saving you time and effort With automated processes, you can focus on what matters most.",
+        "title3": "Enhanced Safety",
+        "desc3": "Your data is secure with us. We use the latest encryption technology to protect your information and ensure privacy."
+      }
+    },
+    "banner": {
+      "heading": {
+        "Download": "Download",
+        "the": "the",
+        "App": "App",
+        "Explore": "& Explore",
+        "your": "your",
+        "City": "City"
+      },
+      "intro": "Unlock the potential of your fleet <br class=\"lg:flex hidden\" /> and start earning today for free!",
+      "buttonText": "Get Started "
+    }
+  },
+  "notFound": {
+    "title": "Oops! Something went Wrong.",
+    "subTitle": "We couldn't find the page you were looking for, but we can definitely get you on your way! Head over to our Homepage for all your transportation solutions and more.",
+    "buttonText": "Homepage"
+  },
+  "safety": {
+    "heading": "Your Safety,<br class=\"md:block hidden\" /> Our Priority.",
+    "intro": "We prioritize safety at zentry-clone, creating a secure environment for riders and drivers through comprehensive policies, technology, and a dedicated team.",
+
+    "section2": {
+      "heading": "Creating a Secure Experience",
+      "intro": "At zentry-clone, safety is our top priority. We ensure a secure environment for both <br class=\"md:block hidden\" /> riders and drivers by implementing robust policies, leveraging advanced <br class=\"md:block hidden\" />technology, and relying on our dedicated support team.",
+      "items": {
+        "title1": "Dedicated Support Team",
+        "desc1": "We have a team of safety specialists available 24/7 to address any concerns or emergencies that may arise during your trip.",
+        "title2": "Advanced Technology",
+        "desc2": "Our app is equipped with features that promote safety, such as real-time trip tracking, emergency buttons, and in-app ID verification.",
+        "title3": "Detailed Screenings",
+        "desc3": "We conduct thorough background checks on all drivers to ensure their qualifications and suitability for the platform."
+      }
+    },
+    "section3": {
+      "heading": "Your Safety on Every Ride",
+      "heading2": "Rider Safety Tips",
+      "items": {
+        "title1": "Thoroughly Vetted Drivers",
+        "desc1": "We conduct thorough background checks on all drivers to ensure their qualifications and suitability for the platform.",
+        "title2": "Safe and Reliable Vehicles",
+        "desc2": "Your safety is our priority, that's why all vehicles in our network undergo regular maintenance checks and adhere to strict safety standards.",
+        "title3": "Safety Features at Your Fingertips",
+        "desc3": "Our app includes real-time trip tracking, in-app ID verification, and emergency buttons to ensure you stay in control and connected throughout your ride."
+      },
+      "tips": {
+        "title1": "Verifying the Driver and Vehicle",
+        "desc1": "Verify the driver's name, license plate, and car model on your app match the actual driver and vehicle. Use zentry-clone's live location tracking to confirm the arriving car is the correct one.",
+        "title2": "Safety During Pickup",
+        "desc2": "Wait in well-lit, populated areas, especially at night. Cancel and contact support if you feel unsafe. Confirm the driver's identity by addressing them by their app-displayed name.",
+        "title3": "Ensuring a Safe Ride",
+        "desc3": "Upon entering the car, buckle your seatbelt immediately. Know your destination and be ready to give directions. Familiarize yourself with the app's emergency button for urgent situations.",
+        "title4": "Post-ride safety",
+        "desc4": "Rate and review your driver after each ride to help maintain a safe platform. Report any safety concerns immediately through the app or by contacting zentry-clone support."
+      }
+    },
+    "section3View2": {
+      "heading": "Drive with Assurance",
+      "heading2": "Driver Safety Tips",
+      "items": {
+        "title1": "Verified Riders",
+        "desc1": "We minimize risk for drivers by verifying rider identities and payment methods before pickups.",
+        "title2": "Two-Way Communication",
+        "desc2": "Our two-way feedback system lets you report unsafe rider behavior, allowing us to take swift action to ensure a safe driving experience for everyone.",
+        "title3": "Safe and Efficient Routes",
+        "desc3": "We plan your trips with confidence using our in-app features such as Real-time traffic updates, Suggested routes and Turn-by-Turn navigation."
+      },
+      "tips": {
+        "title1": "Before the Ride",
+        "desc1": "Getting enough rest ensures alertness. Reviewing trip details helps plan efficiently. Checking vehicle maintenance avoids breakdowns.",
+        "title2": "Verifying Riders",
+        "desc2": "Confirming rider identity prevents picking up the wrong person.Reviewing rider ratings (optional) provides additional information (if available).",
+        "title3": "Preparing for the Ride",
+        "desc3": "Setting up navigation ensures a smooth route.Clear communication clarifies pick-up/drop-off details. Adjusting car settings promotes comfortable and focused driving.",
+        "title4": "Safety on the Road",
+        "desc4": "Focusing on the road minimizes distractions.Obeying traffic laws ensures everyone's safety.Using in-app features allows for immediate response to safety concerns"
+      }
+    },
+
+    "banner": {
+      "heading": "Learn More <br class=\"md:block hidden\" /> About Safety",
+      "intro": "Download the app, learn more about our <br class=\"md:block hidden\" /> services and explore safety resources.",
+      "buttonText": "Get the app"
+    }
+  },
+  "support": {
+    "heading": "zentry-clone Support Center",
+    "intro": "Welcome to the zentry-clone Support Center. How can we help you today?",
+    "placeholder": "What do you need help with?",
+    "buttonText": "Search",
+    "items": {
+      "title1": "Riders",
+      "title2": "Drivers",
+      "title3": "Fleet Owners"
+    },
+    "section2": {
+      "heading": "Popular Help Articles"
+    },
+    "faqs": {
+      "first": {
+        "name": "How to book a ride?",
+        "content": "<div><span class=\" font-medium text-[20px]\">1. How to Request A Ride?</span><p class=\"text-[20px] font-normal\"> To request a ride, simply open our app, enter your pickup and drop-off locations, select your preferred vehicle type, and confirm your request. </p></div><div><span class=\" font-medium text-[20px]\">2. Can I schedule a ride in advance?</span><p class=\"text-[20px] font-normal\"> Yes, with zentry-clone, you can schedule a ride in advance by selecting the \"Schedule\" option during the booking process. Simply choose the desired date and time, and we’ll confirm your scheduled ride. </p></div><div><span class=\" font-medium text-[20px]\">3. What are the different ride options available?</span><p class=\"text-[20px] font-normal\"> zentry-clone offers multiple options based on your needs, including economy, and luxury vehicle categories. We also provide helicopter and private jet bookings for exclusive travel experiences.</p></div><div><span class=\" font-medium text-[20px]\">4. How do I use a promo code during booking?  </span><p class=\"text-[20px] font-normal\"> When booking a ride, enter your promo code in the designated field before confirming. The discount will be applied to your fare automatically.</p></div><div><span class=\" font-medium text-[20px]\">5. Can I add multiple stops to my ride?  </span><p class=\"text-[20px] font-normal\"> Yes, you can add multiple stops by selecting \"Add Destination\" when entering your destination. This allows you to include one additional stop before your final destination.</p></div>"
+      },
+      "second": {
+        "name": "Managing your account",
+        "content": "<div><span class=\" font-medium text-[20px]\">1. How do I track my driver's location in real-time?</span><p class=\"text-[20px] font-normal\"> Once your ride is confirmed, a real-time map will appear on the app, showing your driver’s current location and estimated time of arrival.</p></div><div><span class=\" font-medium text-[20px]\">2. How do I contact my driver during the ride? </span><p class=\"text-[20px] font-normal\">You can contact your driver directly through the app by tapping the \"Contact\" option in the ride details. </p></div><div><span class=\" font-medium text-[20px]\">3. Can I change my destination during the ride? </span><p class=\"text-[20px] font-normal\">No, you can’t modify your destination during the ride. Alternatively, you can end the trip and start a new ride. </p></div><div><span class=\" font-medium text-[20px]\">4. What happens if my ride is canceled by me or the driver?</span><p class=\"text-[20px] font-normal\">If you cancel a ride, a cancellation fee may apply depending on the timing of the cancellation. If the driver cancels, you will not be charged, and we’ll help you find a new ride as soon as possible. </p></div><div><span class=\" font-medium text-[20px]\">5. How do I share my ride details with others such as friends or family?  </span><p class=\"text-[20px] font-normal\"> To share your ride details, tap the \"Share Ride\" option in the ride details, and send the link to your contacts. They can view your real-time location and track your journey for safety purposes.</p></div>"
+      },
+      "third": {
+        "name": "Payment issues",
+        "content": "<div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div>"
+      },
+      "fourth": {
+        "name": "How to track your ride?",
+        "content": ""
+      },
+      "fifth": {
+        "name": "Understanding ride fares and charges",
+        "content": ""
+      }
+    },
+    "banner": {
+      "heading": "Still have questions? We’re here to help!",
+      "intro": "Need assistance? Click the chat button to talk with our support team or visit our Contact Us page for more options.",
+      "buttonText": "Contact Us",
+      "items": {
+        "title1": "Live Chat",
+        "title2": "Contact Us"
+      }
+    },
+    "riders": {
+      "heading": "Riders",
+      "BookingaRide": {
+        "heading": "Booking a Ride",
+        "list": {
+          "title1": "How to Request A Ride?",
+          "content1": "To request a ride, simply open our app, enter your pickup and drop-off locations, select your preferred vehicle type, and confirm your request. ",
+          "title2": "Can I schedule a ride in advance?",
+          "content2": "Yes, with zentry-clone, you can schedule a ride in advance by selecting the \"Schedule\" option during the booking process. Simply choose the desired date and time, and we’ll confirm your scheduled ride",
+
+          "title3": "What are the different ride options available?",
+          "content3": "zentry-clone offers multiple options based on your needs, including economy, and luxury vehicle categories. We also provide helicopter and private jet bookings for exclusive travel experiences.",
+
+          "title4": "How do I use a promo code during booking?",
+          "content4": "When booking a ride, enter your promo code in the designated field before confirming. The discount will be applied to your fare automatically.",
+
+          "title5": "Can I add a stop to my ride?",
+          "content5": "Yes, you can add multiple stops by selecting \"Add Destination\" when entering your destination. This allows you to include one additional stop before your final destination."
+        }
+      },
+      "ManagingYourRide": {
+        "heading": "Managing Your Ride",
+        "list": {
+          "title1": "How do I track my driver's location in real-time?",
+          "content1": "Once your ride is confirmed, a real-time map will appear on the app, showing your driver’s current location and estimated time of arrival.",
+          "title2": "How do I contact my driver during the ride?",
+          "content2": "You can contact your driver directly through the app by tapping the \"Contact\" option in the ride details.",
+
+          "title3": "Can I change my destination during the ride?",
+          "content3": "No, you can’t modify your destination during the ride. Alternatively, you can end the trip and start a new ride.",
+
+          "title4": "What happens if my ride is canceled by me or the driver?",
+          "content4": "If you cancel a ride, a cancellation fee may apply depending on the timing of the cancellation. If the driver cancels, you will not be charged, and we’ll help you find a new ride as soon as possible.",
+
+          "title5": "How do I share my ride details with others such as friends or family?",
+          "content5": "To share your ride details, tap the \"Share Ride\" option in the ride details, and send the link to your contacts. They can view your real-time location and track your journey for safety purposes."
+        }
+      },
+      "PaymentAndFares": {
+        "heading": "Payment and Fares",
+        "list": {
+          "title1": "How do I pay for my ride?",
+          "content1": "You can pay for your ride using the payment method linked to your zentry-clone account, including credit/debit cards, digital wallets, or other accepted options in your region.",
+          "title2": "Can I change my default payment method?",
+          "content2": "Yes, you can update your default payment method in the app under “Payment Settings.” Select your preferred payment option and set it as the default.",
+
+          "title3": "What are the fare calculation factors?",
+          "content3": "zentry-clone fares are calculated based on factors like distance, time, vehicle type, and real-time demand. Surge pricing may apply during high-demand times.",
+
+          "title4": "Can I see a fare estimate before booking a ride?",
+          "content4": "Yes, the app provides a fare estimate before you confirm the ride. Simply enter your pickup and drop-off locations to view the estimated fare.",
+
+          "title5": "How do I get a receipt for my ride?",
+          "content5": "After your ride, a receipt will be sent to your registered email. You can also view past ride receipts in the “Ride History” section of the app."
+        }
+      },
+      "AccountManagement": {
+        "heading": "Account Management",
+        "list": {
+          "title1": "How do I create a zentry-clone account?",
+          "content1": "Download the zentry-clone app and open it. Select \"Sign Up\" and enter the required information to create an account. You’ll need a valid email, phone number, and password to register.",
+          "title2": "How do I update my account information?",
+          "content2": "Go to “Account Settings” in the app to update your personal details, including email, phone number, and address.",
+
+          "title3": "How do I change my password?",
+          "content3": "In “Account Settings,” select “Change Password” and follow the prompts to reset your password.",
+
+          "title4": "How do I delete my zentry-clone account and reactivate it?",
+          "content4": "To delete your account, go to “Account Settings” and select “Delete Account.” Follow the steps to confirm. If you want to reactivate, contact zentry-clone customer support for assistance."
+        }
+      },
+      "SafetyAndSecurity": {
+        "heading": "Safety and Security",
+        "list": {
+          "title1": "What safety features does zentry-clone offer?",
+          "content1": "zentry-clone includes features such as real-time ride tracking, SOS emergency assistance, driver background checks, and the ability to share ride details with trusted contacts.",
+          "title2": "What is zentry-clone's rider safety policy?",
+          "content2": "zentry-clone’s safety policy ensures that drivers and riders adhere to safety guidelines. This includes background checks, in-ride monitoring, and a zero-tolerance policy for misconduct.",
+
+          "title3": "What should I do if I forget something in the car?",
+          "content3": "If you forget something in the car, go to “Ride History” and select “Report Lost Item.” You can contact your driver directly or work with customer support to retrieve the item.",
+
+          "title4": "How do I report a safety concern or incident during a ride?",
+          "content4": "For immediate assistance, use the SOS button. To report after the ride, visit “Ride History,” select the ride in question, and tap “Report an Issue.”",
+          "title5": "Can I share my ride details with a friend for safety reasons?",
+          "content5": "Yes, the app has a \"Share Ride\" option that lets you send your ride information and real-time location to friends or family members, allowing them to track your trip for safety."
+        }
+      }
+    },
+    "drivers": {
+      "heading": "Drivers",
+      "GettingStarted": {
+        "heading": "Getting Started with zentry-clone",
+        "list": {
+          "title1": "How do I apply to become a zentry-clone driver?",
+          "content1": "To apply, download the zentry-clone Driver app, create an account, and complete the application process by submitting your required details and documents. ",
+          "title2": "What documents and information do I need to provide?",
+          "content2": "You’ll need to submit a valid driver’s license, vehicle registration, proof of insurance, and a background check. Additional information may be required depending on your region.",
+          "title3": "What are the vehicle age and condition requirements?",
+          "content3": "Vehicles must meet zentry-clone’s minimum age requirement (often under 10 years old) and must pass a vehicle inspection to ensure they meet our safety and comfort standards.",
+          "title4": "How do I contact zentry-clone driver support?",
+          "content4": "You can contact driver support through the app by navigating to “Help & Support” or by mailing the dedicated driver support line provided in your account.",
+          "title5": "How do I update my driver profile information?",
+          "content5": "In the zentry-clone Driver app, go to “Profile Settings” to update your personal and vehicle information. Ensure your details are accurate and up to date."
+        }
+      },
+      "DriverApp": {
+        "heading": "Using the zentry-clone Driver App",
+        "list": {
+          "title1": "How do I accept a ride request?",
+          "content1": "When a ride request comes in, you’ll see a notification on your screen. Tap “Accept” to confirm the ride, and the app will provide the rider’s pickup details.",
+          "title2": "How do I use the app for navigation during a ride?",
+          "content2": "The zentry-clone Driver app is integrated with a map. After accepting a ride, tap to view turn-by-turn directions to the rider’s pickup location and destination.",
+          "title3": "How do I communicate with riders through the app?",
+          "content3": "You can message or call riders directly through the app. Go to the ride details screen and select the “Contact” options to connect.",
+          "title4": "What should I do if a rider has special requests or needs assistance?",
+          "content4": "Be attentive to rider requests and accommodate them whenever possible. If any request exceeds your capacity or zentry-clone’s policies, inform the rider courteously and contact driver support if needed.",
+          "title5": "What are zentry-clone's guidelines for rider behavior and passenger etiquette?",
+          "content5": "zentry-clone expects passengers to respect drivers, their vehicles, and any relevant safety regulations. If a rider fails to comply with expected behavior, report the issue through the app."
+        }
+      },
+      "EarningsAndPayments": {
+        "heading": "Earnings and Payments",
+        "list": {
+          "title1": "How are fares calculated for zentry-clone rides?",
+          "content1": "Fares are calculated based on distance, time, and any applicable fees. Surge pricing may apply during peak hours, increasing the fare accordingly.",
+          "title2": "What are the different types of fees or deductions that may apply?",
+          "content2": "Typical deductions may include a service fee, cancellation fees (if applicable), and adjustments for tolls or other expenses as stated in zentry-clone’s fee policy.",
+          "title3": "How do I get paid for driving with zentry-clone?",
+          "content3": "Earnings are automatically deposited into your linked bank account or preferred payment method on a weekly basis. Some regions may offer daily or instant payout options.",
+          "title4": "Can I change my preferred payment method?",
+          "content4": "Yes, you can update your preferred payment method in the app under “Payment Settings.” Ensure your bank or account information is accurate to prevent delays.",
+          "title5": "Does zentry-clone provide invoices for my earnings?",
+          "content5": "Yes, you can access your weekly or monthly earnings statements in the app under “Earnings” to view and download invoices."
+        }
+      },
+      "SafetyAndCustomerService": {
+        "heading": "Safety and Customer Service",
+        "list": {
+          "title1": "What safety features does zentry-clone offer for drivers?",
+          "content1": "zentry-clone offers in-app emergency assistance, GPS tracking, and a feature for drivers to share their ride details with trusted contacts. We also perform thorough background checks to ensure driver and rider safety.",
+          "title2": "How do I report a safety concern or incident during a ride?",
+          "content2": "For immediate assistance, use the “Emergency” button in the app. For non-urgent concerns, go to “Ride History” after the ride and report the incident through “Report an Issue.”",
+          "title3": "What are zentry-clone's policies regarding driver behavior and professionalism?",
+          "content3": "zentry-clone expects all drivers to maintain professional behavior, follow traffic rules, and treat riders respectfully. Violations of these policies may result in account deactivation.",
+          "title4": "How do I report a problem with a rider or passenger behavior?",
+          "content4": "You can report issues with a rider through the “Ride History” tab. Select the ride in question and tap “Report an Issue.” Our support team will review your report and take the necessary actions.",
+          "title5": "What should I do if there is an accident or damage to my vehicle during a ride?",
+          "content5": "If you’re involved in an accident, ensure your safety and call emergency services if needed. Report the accident through the app, and contact zentry-clone support as soon as possible to file an incident report and receive guidance on the next steps."
+        }
+      }
+    },
+    "fleetOwners": {
+      "heading": "Fleet Owners",
+      "ManagingYourFleet": {
+        "heading": "Managing Your Fleet",
+        "list": {
+          "title1": " How do I add vehicles to my zentry-clone fleet?",
+          "content1": "In the zentry-clone Fleet Dashboard, go to “Manage Fleet” and select “Add Vehicle.” You’ll be prompted to enter details about each vehicle, including model, year, registration, and insurance information.",
+          "title2": " What documents and information are required for each vehicle?",
+          "content2": "Each vehicle must have up-to-date registration, a valid insurance certificate, proof of ownership, and a recent inspection report. These documents should be uploaded to the platform for each vehicle added to your fleet.",
+          "title3": " How do I monitor driver performance and activity on the platform?",
+          "content3": "In the zentry-clone Fleet Dashboard, you can view driver performance metrics such as ratings, trip completion rates, and overall activity. You’ll also receive regular summaries and insights on driver performance to help identify top performers and address any issues.",
+          "title4": "Are there strategies for maximizing fleet earnings and efficiency? ",
+          "content4": "Yes, some strategies include monitoring peak ride times, maintaining vehicle cleanliness and functionality, and encouraging drivers to accept ride requests promptly. zentry-clone provides insights in the Fleet Dashboard to help you optimize fleet usage.",
+          "title5": "How can I remove a vehicle from my fleet if needed? ",
+          "content5": "In the Fleet Dashboard, select the vehicle you wish to remove and click on “Remove Vehicle.” Confirm the removal to take it out of the fleet list. Make sure to settle any pending fares or issues associated with the vehicle before removal."
+        }
+      },
+      "BillingAndInvoicing": {
+        "heading": "Billing and Invoicing",
+        "list": {
+          "title1": "How are fares calculated for rides completed by my fleet? ",
+          "content1": "Fares are calculated based on distance, time, and any additional fees or surcharges. zentry-clone’s fare structure is standardized, but rates may vary depending on location and time of day.",
+          "title2": " How can I track my overall fleet earnings and revenue?",
+          "content2": "Fleet earnings and revenue are available in the Fleet Dashboard under the “Earnings” tab. Here, you can view real-time earnings, weekly or monthly summaries, and detailed breakdowns of individual vehicle performance.",
+          "title3": " What fees or deductions might apply to fleet earnings?",
+          "content3": "Deductions may include zentry-clone’s service fees, cancellation fees, and adjustments for tolls. Any applicable fees are itemized in your earnings report for transparency.",
+          "title4": "How does zentry-clone handle payouts for fleet operations? ",
+          "content4": "Payouts for completed rides are processed weekly and are directly deposited into the bank account linked to your Fleet Dashboard. Fleet owners can also access detailed payout histories and download invoices.",
+          "title5": " When and how often will I receive invoices for my fleet's activity?",
+          "content5": "Invoices are generated weekly and can be viewed and downloaded from the Fleet Dashboard. These invoices include details of all rides, fees, and adjustments for the specified period."
+        }
+      },
+      "ComplianceAndRegulations": {
+        "heading": "Compliance and Regulations",
+        "list": {
+          "title1": "What are zentry-clone's requirements for vehicle maintenance and safety inspections?",
+          "content1": "zentry-clone requires fleet vehicles to undergo regular maintenance and pass an annual safety inspection. Any vehicle failing to meet safety standards must be repaired and re-inspected before it can resume operations on the platform.",
+          "title2": "How can I ensure my fleet vehicles comply with local regulations?",
+          "content2": "To stay compliant, ensure all fleet vehicles are registered, insured, and inspected per local laws. zentry-clone may provide reminders, but it’s essential for fleet owners to keep the documentation current.",
+          "title3": "Does zentry-clone offer resources or support for vehicle maintenance?",
+          "content3": "While zentry-clone does not directly provide maintenance services, we partner with local service providers who may offer discounts to zentry-clone fleet owners. Contact zentry-clone support for a list of partners in your area.",
+          "title4": "Does zentry-clone offer any insurance options or partnerships for fleet owners?",
+          "content4": "Yes, zentry-clone partners with select insurance providers who offer tailored policies for fleet operations. Contact fleet support for a list of insurance partners and to discuss coverage options for your fleet.",
+          "title5": "How do I update my fleet's insurance information within the platform?",
+          "content5": "To update insurance information, go to the Fleet Dashboard, select the vehicle, and navigate to “Insurance Information.” Upload the updated insurance document to ensure your vehicle remains compliant."
+        }
+      },
+      "SupportAndResources": {
+        "heading": "Support and Resources",
+        "list": {
+          "title1": "Does zentry-clone offer dedicated support channels for fleet owners?",
+          "content1": "Yes, fleet owners have access to a dedicated support line and can reach support via the in-app chat or email for quick assistance. zentry-clone prioritizes support requests from fleet owners.",
+          "title2": "How can I contact fleet owner support for assistance?",
+          "content2": "You can contact support through the Fleet Dashboard by selecting “Help & Support.” This includes options for in-app messaging, phone support, and email assistance.",
+          "title3": "Does zentry-clone provide training materials or resources for fleet owners?",
+          "content3": "Yes, zentry-clone provides training resources, including best practices for fleet management, tips for improving driver performance, and resources on maximizing fleet earnings.",
+          "title4": "How can I access best practices or guidelines for successful fleet management?",
+          "content4": "Best practices for fleet management are available in the Fleet Dashboard under “Resources.” This section includes guides on optimizing earnings, safety protocols, and other fleet management tips.",
+          "title5": "Are there educational resources available for drivers within my fleet?",
+          "content5": "zentry-clone offers training videos, safety tips, and resources for drivers, accessible directly through the driver app. Fleet owners can encourage drivers to access and review these materials regularly."
+        }
+      }
+    }
+  },
+  "PrivacyPolicy": {
+    "heading": "zentry-clone Privacy Policy",
+    "intro": "At zentry-clone, we prioritize your privacy. This Privacy Policy details how we collect, use, and disclose your information when using our app and platform. We strive for transparency and provide control over your personal data. This policy applies to all users, including riders, drivers, and fleet owners. By using our services, you agree to these terms.",
+    "items": {
+      "title1": "Range of this policy",
+      "title2": "The Information we collect",
+      "title3": "The Information you provide to us",
+      "title4": "Information we collect when we use zentry-clone Platform",
+      "title5": "Information we collect from Third parties",
+      "title6": "How we use your Information"
+    },
+    "content": {
+      "first": {
+        "title": "Range of this policy",
+        "memo": "This policy applies to all zentry-clone users, including riders and drivers and to all zentry-clone services and platforms, including our apps, websites, features, and all other services altogether referred to as zentry-clone Platforms."
+      },
+      "second": {
+        "title": "The information we collect",
+        "memo": "When you use zentry-clone Platform, we collect the information you provide, usage information, and information about your device. We also collect information about you from other sources like third-party services, and optional programs in which you participate, which we may combine with other information we have about you. Here are the type of information we collect about you"
+      },
+      "third": {
+        "title": "Information you provide to us",
+        "memo": "<p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Account Registration: </span> When you create an account with zentry-clone, we collect the information you provide us, such as your name, email address, phone number, birth date, and payment information. You mau choose to share additional information with us for your rider profile, like your photo or saved addresses (e.g., home or work), and set up other preferences such as your preferred pronouns. </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Driver Information:  </span>If you apply to be a driver, we will collect the information you provide in your application, including your name, email address, phone number, birth date,profile photo, physical address, government identification number such as social security number/national insurance number, driver's license information, vehicle information, and car insurance information. We collect the payment information you provide us, including your bank routing numbers, Iban numbers, and tax information. Depending on where you want to drive, we may also ask for an additional business license or permit information or other information to manage driving and programs relevant to that location. We may need additional information from you at some point after you become a driver, including information to confirm your identity such as a photo.</p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Ratings and Feedback: </span> When you rate and provide feedback about riders or drivers, we collect all of the information you provide in your feedback.</p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Communication: </span>When you contact us or we contact you, we collect any information that you provide, including the contents of the messages or attachments you send us.</p>"
+      },
+      "fourth": {
+        "title": "Information you provide to us",
+        "memo": "<p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Location information:  </span> Very good rides start with an easy and accurate pickup. zentry-clone platform collects location information including GPS and Wi-Fi data differently depending on your zentry-clone app settings and device permissions as well as whether you are using the platform as a rider or driver </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Riders: </span>  We collect your device's precise location when you open and use the zentry-clone app, including while the app is running in the background from the time you request a ride until it ends. zentry-clone also tracks the precise location of scooters etc at all times.   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Drivers: </span>  We collect your device's precise location when you open and use the app, including while the app is running in the background when it is in driver mode. We also collect your precise location for a limited time after you exit driver mode in order to detect ride incidents and continue collecting it until a reported or detected incident is no longer active.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Usage information: </span>  We collect information about your use of the zentry-clone platform, including ride information like the date, time, destination, distance, route, payment and whether you use a promotional or referral code. We also collect information about your interactions with the zentry-clone platform like our apps and websites, including the pages and content you view and the dates and times of your use.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Device Information: </span>  We collect information about the devices you use to access the zentry-clone platform, including device model, IP address, type of browser, version of operating system, identity of carrier or manufacturer, radio type such as 5G, preferences and settings such as preferred language, application installations, device identifiers, advertising identifiers, and push notification tokens. If you are a driver, we also collect mobile sensor data from your device such as speed, direction, height, acceleration, deceleration, and other technical data.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Communications Between Riders and Drivers: </span>  We work with a third party to facilitate phone calls and text messages between Riders and Drivers without sharing either party's actual phone number with the other. Whilst using a third party to provide the communication service, we collect information about these communications, including the participants' phone numbers, the date and time, and the contents of SMS messages. For security purposes, we may also monitor or record the contents of phone calls made through the zentry-clone Platform, but we will always let you know we are about to do so before the call commences. </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Address Book Contacts: </span> You may set your device permissions to grant zentry-clone access to your contact lists and direct zentry-clone to access your contact list, to help you book a ride for friends and families, and refer friends to zentry-clone. When you have done this, we will access and store the names and contact information of the people in your address book.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Cookies, Analytics, and Third-Party Technologies:</span>  We collect information through the use of \"cookies\", tracking pixels, data analytics tools like Google Analytics, SDKs, and other third-party technologies to understand how you navigate through the zentry-clone Platform and interact with zentry-clone advertisements, to make your experience with zentry-clone safer, to learn what content is popular, to improve the experience you have with the site, to serve you better ads and other sites, and to save your preferences. Cookies are small text files that web servers place on your device; they are designed to store basic information and to help websites and apps recognize your browser. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be accessed every time you use the zentry-clone Platform. You can consult your web browser(s) to modify your cookie settings. Be reminded that if you delete or choose not to accept cookies from us, you may miss out on certain features of the zentry-clone Platform. </p>"
+      },
+      "fith": {
+        "title": "Information We Collect From Third Parties",
+        "memo": "<p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Third-Party Services:</span> Third-party services provide us with the information needed for core aspects of zentry-clone Platform, as well as for additional services, programs, loyalty benefits, and promotions that can enhance your experience with zentry-clone. These third-party services include background check providers, insurance partners, financial service providers, marketing providers, and other businesses. We obtain the following information about you from these third-party services</p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Information about you provided by specific services, such as demographic and marketing segment information.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Information to operationalize loyalty and promotional programs or applications, services, or features you choose to connect or link to your zentry-clone account, such as information about your use of such programs, applications, services or features</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Information about your participation in third-party programs that provide things like insurance coverage and financial instruments, such as insurance, payments, transaction, and fraud detection information</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Information to make zentry-clone Platform safer, like background check information for drivers.</p></li></ul><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">Enterprise Programs:</span> When you use zentry-clone through your employer or other organization that participates in one of our zentry-clone Business enterprise programs, we will collect information about you from those parties, such as your name and contact information.</p><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">Concierge Service:</span> Sometimes another business or entity may order you a zentry-clone ride. If an organization has ordered a ride for you using our Concierge Service, they will provide us your contact information and the pickup and drop-off location of your ride.</p><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">Referral Programs: </span> Friends help friends use zentry-clone Platform. If someone refers you to zentry-clone, we will collect information about you from that referral including your name and contact information. </p><p class=\"text-[24px] font-normal\"><span class=\" text-[24px] font-medium\">Other Users and Sources: </span>Other users or public or third-party sources such as law enforcement, insurers, media, or pedestrians may provide us with information about you, for instance as part of an investigation into an incident or to provide you support.</p>"
+      },
+      "sixth": {
+        "title": "How We Use Your Information",
+        "memo": "<p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">We use your personal information to:</span></p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Provide zentry-clone Platform.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Respond to legal proceedings and obligations.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Improve zentry-clone Platforms.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Provide customer support.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Build and maintain zentry-clone community.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. Maintain the security and safety of zentry-clone Platform and its users.</p></li></ul><p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Providing zentry-clone Platform:</span> We use your personal information to provide a useful, effective, efficient, intuitive, and worthwhile experience on our platform. To do this, we use your personal information to:</p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Verify your identity and maintain your account, settings, and preferences.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Connect you to your rides and track their progress.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Calculate prices and process payments.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Allow Riders and Drivers to connect regarding their ride and to choose to share their location with others. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Communicate with you about your rides and experience.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. Collect feedback regarding your experience.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">7. Operate contests, sweepstakes, and other promotions.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">8. Facilitate additional services and programs with third parties.</p></li></ul><p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Maintaining the security and safety of zentry-clone Platform and its users: </span>Providing you with a safe and secure experience drives our platform, both on the road and on our apps. For us to do this, we use your personal information to:</p><ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Authenticate users.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Verify that Drivers and their vehicles meet safety requirements.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Encourage safe driving behavior and avoid unsafe activities.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Investigate and resolve incidents, accidents, and insurance claims.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Find and prevent fraud, and block and remove unsafe or fraudulent users from zentry-clone Platform. </p></li></ul> <p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Building and Maintaining zentry-clone Community:</span> zentry-clone works to be a positive part of the community. We use your personal information to:</p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Communicate with you about events, and promotions.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Personalize and provide content, experiences, communications and advertisement to promote and grow zentry-clone platform and help facilitate donations you choose to make through zentry-clone Platform. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Provide Customer Support by working hard to provide the best experience possible, including supporting you when you need it. To enable us do this, we use your personal information to Investigate and assist you in resolving questions or issues you have regarding zentry-clone Platform and Provide support or respond to you.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Improve the zentry-clone Platform, we are always working to improve your experience and provide you with new and helpful features. To be able to do this, we use your personal information to prevent, find and resolve software or hardware bugs and issues. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Monitor and Improve our operations and processes including security practices, algorithms and other modeling. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. Develop new products, features, partnerships, and services. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">7. Perform research, testing, and analysis.  </p></li></ul> <p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Responding to Legal Proceedings and Requirements: </span>Sometimes the law, government entities, or other regulatory bodies impose demands and obligations on us with respect to the services we seek to provide. In such circumstances, we may use your personal information to respond to those demands or obligations.</p> "
+      }
+    }
+  },
+  "TermsAndCondition": {
+    "heading": "zentry-clone Terms and Conditions",
+    "items": {
+      "title1": "Introduction",
+      "title2": "Modification to the Agreement",
+      "title3": "Eligibility",
+      "title4": "Account Registration",
+      "title5": "User Conduct",
+      "title6": "Ride Requests and Cancellations",
+      "title7": "Payment",
+      "title8": "Ratings and Feedback",
+      "title9": "Device Permissions",
+      "title10": "Third-Party Services",
+      "title11": "Limitation of Liability",
+      "title12": "Indemnification",
+      "title13": "Termination",
+      "title14": "Governing Law",
+      "title15": "Changes to Terms and Conditions",
+      "title16": "Contact Us"
+    },
+    "content": {
+      "first": {
+        "title": "Introduction",
+        "memo": "Welcome to zentry-clone, a ride-hailing service that connects riders with drivers through our platforms, including apps, websites, and other services (collectively referred to as zentry-clone Platforms). By using zentry-clone Platforms, you agree to comply with and be bound by the following terms and conditions."
+      },
+      "second": {
+        "title": "Modification to the Agreement",
+        "memo": "zentry-clone reserves the right to amend the terms and conditions of this Agreement. Such amendments will only be binding upon your acceptance of the revised Agreement. zentry-clone may also update any information on the pages linked within this Agreement, and these updates will become effective upon posting. By continuing to use the zentry-clone Platform after any changes, you acknowledge and accept these modifications. Unless there are significant changes to the arbitration provisions, you agree that modifying this Agreement does not provide a new opportunity to opt out of arbitration if applicable."
+      },
+      "third": {
+        "title": "Eligibility",
+        "memo": "<p class=\"text-[24px] font-normal\">To use zentry-clone Platforms, you must be at least 18 years old and capable of forming a legally binding contract. If you are the parent or legal guardian of a 16 or 17-year old minor you may create a User account for such minor to use the zentry-clone Platform subject to the following requirements and restrictions: </p><p class=\"text-[24px] font-normal\"> You ensure that the minor’s use of the zentry-clone Platform is limited solely to accessing and using zentry-clone Services and/or Third-Party Services where expressly permitted under the Supplemental Agreement applicable to such zentry-clone Services and/or Third-Party Services, </p><p class=\"text-[24px] font-normal\">You determine that the zentry-clone Services and/or Third-Party Services are suitable for the minor, </p><p class=\"text-[24px] font-normal\">You ensure that the minor’s use of the zentry-clone Platform and applicable zentry-clone Services and/or Third-Party Services is done in compliance and acknowledgement of all applicable safety instructions and warnings in this Agreement, any applicable Supplemental Agreements, and the zentry-clone Platform. Your participation in certain zentry-clone programs and use of certain zentry-clone services may be subject to additional eligibility requirements as determined by zentry-clone.</p>"
+      },
+      "fourth": {
+        "title": "User Conduct",
+        "memo": "When you create an account with zentry-clone, you must provide accurate and complete information, including your name, email address, phone number, and payment information. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account."
+      },
+      "fifth": {
+        "title": " User Conduct",
+        "memo": "You agree to use zentry-clone Platforms in accordance with all applicable laws and regulations. You must not use zentry-clone Platforms for any unlawful or fraudulent purpose. You must not harm, threaten, or harass other users, and you must not engage in any activity that interferes with or disrupts zentry-clone Platforms."
+      },
+      "sixth": {
+        "title": "Ride Requests and Cancellations",
+        "memo": "Riders can request rides through zentry-clone Platforms. Once a ride request is accepted by a driver, both parties are bound by the terms of the ride. Riders may cancel ride requests, but repeated cancellations or no-shows may result in penalties or account suspension."
+      },
+      "seventh": {
+        "title": "Payment",
+        "memo": "Riders agree to pay the fare displayed in the app for each ride, which may include additional fees, tolls, or surcharges. Payment is processed automatically through the payment method linked to the rider’s account. zentry-clone may offer promotional codes or discounts, which are subject to specific terms and conditions."
+      },
+      "eight": {
+        "title": "Ratings and Feedback",
+        "memo": "After each ride, riders and drivers can rate each other and provide feedback. Ratings and feedback must be honest and accurate. Abusive or misleading feedback may result in penalties or account suspension."
+      },
+      "nine": {
+        "title": " Device Permissions",
+        "memo": "zentry-clone Platforms may request access to your device’s location services, contact list, and other permissions to provide a better experience. You can control these permissions through your device settings."
+      },
+      "tenth": {
+        "title": "Third-Party Services",
+        "memo": "zentry-clone may use third-party services to facilitate certain functions, such as payment processing and communication between riders and drivers. By using zentry-clone Platforms, you agree to the terms and conditions of these third-party services."
+      },
+      "eleventh": {
+        "title": "Limitation of Liability",
+        "memo": "To the maximum extent permitted by law, zentry-clone is not liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from (i) your use of or inability to use zentry-clone Platforms; (ii) any conduct or content of any third party on zentry-clone Platforms; or (iii) unauthorized access, use, or alteration of your transmissions or content."
+      },
+      "twelevth": {
+        "title": "Indemnification",
+        "memo": "You agree to indemnify and hold harmless zentry-clone, its affiliates, officers, directors, employees, and agents, from and against any claims, liabilities, damages, losses, and expenses, including without limitation, reasonable legal and accounting fees, arising out of or in any way connected with your access to or use of zentry-clone Platforms or your violation of these Terms and Conditions."
+      },
+      "thirthin": {
+        "title": "Termination",
+        "memo": "zentry-clone may terminate or suspend your account and access to zentry-clone Platforms at any time, without prior notice or liability, for any reason, including if you breach these Terms and Conditions."
+      },
+      "fourthin": {
+        "title": "Governing Law",
+        "memo": "These Terms and Conditions are governed by and construed in accordance with the laws of the jurisdiction in which you reside. Any disputes arising out of or relating to these Terms and Conditions or your use of zentry-clone Platforms will be resolved in the courts of that jurisdiction."
+      },
+      "fiteen": {
+        "title": "Changes to Terms and Conditions",
+        "memo": "zentry-clone reserves the right to modify these Terms and Conditions at any time. We will notify you of any changes by posting the new Terms and Conditions on zentry-clone Platforms. Your continued use of zentry-clone Platforms after any such changes constitutes your acceptance of the new Terms and Conditions."
+      },
+      "sixteen": {
+        "title": "Contact Us",
+        "memo": "If you have any questions about these Terms and Conditions, please contact us at {contactEmail}"
+      }
+    }
+  },
+  "contactEmail": "support&#64;zentry-clone.com",
+  "SecurityPolicy": {
+    "heading": "zentry-clone Security Policy",
+    "intro": "At zentry-clone, we prioritize our users' safety and security, including riders and drivers. Our commitment to security encompasses rigorous data protection, reliable communication channels, and advanced safety measures, ensuring peace of mind for every journey. This policy outlines our protocols to protect your data, maintain platform security, and foster a safe environment for all.",
+    "content": {
+      "first": {
+        "title": "Data Security and Privacy",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Data Encryption:</span> zentry-clone employs industry-standard encryption (AES-256) to protect sensitive data during transit and storage. This includes personal details, payment information, and ride histories.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Access Control: </span>We utilize a role-based access control system, limiting data access strictly to authorized personnel. Our employees undergo regular training on privacy best practices to maintain data integrity.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Data Retention: </span>Personal information is retained only as long as necessary for the purposes stated in our Privacy Policy. Users may request data deletion as per our data management protocols.</p>"
+      },
+      "second": {
+        "title": "Account Security",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Secure Login Protocols:</span>zentry-clone employs multi-factor authentication (MFA) for account login to prevent unauthorized access. Users are advised to enable MFA and use strong passwords.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Suspicious Activity Monitoring:</span> Our system monitors for unusual login attempts or changes in user behavior. In cases of suspected account compromise, users are promptly notified, and security measures are enforced.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Recovery Assistance: </span> For users who experience login issues, we offer account recovery support through verified channels to maintain account security.</p>"
+      },
+      "third": {
+        "title": "Ride Safety Measures",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Real-Time Tracking:</span> All rides can be tracked in real-time through the app, providing riders and drivers with accurate navigation details and estimated arrival times. Riders have the option to share their trip details with trusted contacts.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Emergency Assistance (SOS): </span>The zentry-clone app includes an in-app SOS button, directly connecting users to emergency services in case of a safety concern. Additionally, our support team is notified to assist as necessary.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Driver Background Checks:</span> Drivers undergo a thorough vetting process, including background checks and verification of driving records. This is repeated annually to ensure ongoing safety compliance.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Vehicle Inspections:</span> All vehicles in the zentry-clone fleet are subject to regular inspections, confirming that they meet our safety standards. Drivers must submit updated inspection and maintenance records to operate on our platform.</p>"
+      },
+      "fourth": {
+        "title": "User Behavior Guidelines",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Zero-Tolerance Policy:</span> zentry-clone enforces a zero-tolerance policy for discrimination, harassment, or abuse of any kind. Both riders and drivers are expected to follow our Community Guidelines, and any violation may result in account suspension or permanent deactivation.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Reporting and Response:</span> Users can report misconduct through the app, enabling us to review and address issues efficiently. We encourage immediate reporting of any behavior that jeopardizes user safety or security.</p>"
+      },
+      "fifth": {
+        "title": "Privacy for Drivers and Riders",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Anonymized Communication:</span> Our in-app communication channels anonymize contact information, allowing riders and drivers to communicate without exchanging personal phone numbers.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Limited Access to Personal Information:</span> zentry-clone only shares essential information with drivers (such as pickup and drop-off locations) to facilitate rides, safeguarding other personal details of riders. </p>"
+      },
+      "sixth": {
+        "title": "Fraud Prevention",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Secure Payment Processing:</span> We partner with leading payment processors who comply with PCI-DSS standards to secure all transactions. Payment information is encrypted and securely managed, preventing unauthorized access. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Anti-Fraud Technology:</span> zentry-clone utilizes AI-based fraud detection tools that monitor for unusual activity patterns to prevent fraudulent behavior.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">User Education:</span> We educate users about potential phishing threats and advise them not to share sensitive information outside of the zentry-clone app.</p>"
+      },
+      "seventh": {
+        "title": "Contact and Support",
+        "memo": "If you have questions or concerns regarding security, or if you experience any issues, please contact our Security Team at {contactEmail} or through our in-app support chat.<br/> Our commitment to security is ongoing, and we review our policies regularly to adapt to new threats and technologies. zentry-clone reserves the right to update this policy as needed and will notify users of any significant changes. <br/>By following these protocols, zentry-clone aims to provide a secure and trusted platform for all users. Our dedication to safety and security ensures that riders and drivers can focus on the journey ahead with confidence."
+      }
+    },
+    "time": "Last Updated: Nov 6, 2024"
+  }
+}

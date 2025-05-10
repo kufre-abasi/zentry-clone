@@ -1,0 +1,234 @@
+{
+  "resolvedId": "/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/node_modules/gsap/utils/VelocityTracker.js",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "/*!\n * VelocityTracker: 3.13.0\n * https://gsap.com\n *\n * Copyright 2008-2025, GreenSock. All rights reserved.\n * Subject to the terms at https://gsap.com/standard-license\n * @author: Jack Doyle, jack@greensock.com\n*/\n\n/* eslint-disable */\nvar gsap,\n    _coreInitted,\n    _toArray,\n    _getUnit,\n    _first,\n    _ticker,\n    _time1,\n    _time2,\n    _getCache,\n    _getGSAP = function _getGSAP() {\n  return gsap || typeof window !== \"undefined\" && (gsap = window.gsap);\n},\n    _lookup = {},\n    _round = function _round(value) {\n  return Math.round(value * 10000) / 10000;\n},\n    _getID = function _getID(target) {\n  return _getCache(target).id;\n},\n    _getByTarget = function _getByTarget(target) {\n  return _lookup[_getID(typeof target === \"string\" ? _toArray(target)[0] : target)];\n},\n    _onTick = function _onTick(time) {\n  var pt = _first,\n      val; //if the frame rate is too high, we won't be able to track the velocity as well, so only update the values about 20 times per second\n\n  if (time - _time1 >= 0.05) {\n    _time2 = _time1;\n    _time1 = time;\n\n    while (pt) {\n      val = pt.g(pt.t, pt.p);\n\n      if (val !== pt.v1 || time - pt.t1 > 0.2) {\n        //use a threshold of 0.2 seconds for zeroing-out velocity. If we only use 0.05 and things update slightly slower, like some Android devices dispatch \"touchmove\" events sluggishly so 2 or 3 ticks of the gsap.ticker may elapse inbetween, thus it may appear like the object is not moving but it actually is but it's not updating as frequently. A threshold of 0.2 seconds seems to be a good balance. We want to update things frequently (0.05 seconds) when they're moving so that we can respond to fast motions accurately, but we want to be more resistant to go back to a zero velocity.\n        pt.v2 = pt.v1;\n        pt.v1 = val;\n        pt.t2 = pt.t1;\n        pt.t1 = time;\n      }\n\n      pt = pt._next;\n    }\n  }\n},\n    _types = {\n  deg: 360,\n  rad: Math.PI * 2\n},\n    _initCore = function _initCore() {\n  gsap = _getGSAP();\n\n  if (gsap) {\n    _toArray = gsap.utils.toArray;\n    _getUnit = gsap.utils.getUnit;\n    _getCache = gsap.core.getCache;\n    _ticker = gsap.ticker;\n    _coreInitted = 1;\n  }\n};\n\nvar PropTracker = function PropTracker(target, property, type, next) {\n  this.t = target;\n  this.p = property;\n  this.g = target._gsap.get;\n  this.rCap = _types[type || _getUnit(this.g(target, property))]; //rotational cap (for degrees, \"deg\", it's 360 and for radians, \"rad\", it's Math.PI * 2)\n\n  this.v1 = this.v2 = 0;\n  this.t1 = this.t2 = _ticker.time;\n\n  if (next) {\n    this._next = next;\n    next._prev = this;\n  }\n};\n\nexport var VelocityTracker = /*#__PURE__*/function () {\n  function VelocityTracker(target, property) {\n    if (!_coreInitted) {\n      _initCore();\n    }\n\n    this.target = _toArray(target)[0];\n    _lookup[_getID(this.target)] = this;\n    this._props = {};\n    property && this.add(property);\n  }\n\n  VelocityTracker.register = function register(core) {\n    gsap = core;\n\n    _initCore();\n  };\n\n  var _proto = VelocityTracker.prototype;\n\n  _proto.get = function get(property, skipRecentTick) {\n    var pt = this._props[property] || console.warn(\"Not tracking \" + property + \" velocity.\"),\n        val,\n        dif,\n        rotationCap;\n    val = parseFloat(skipRecentTick ? pt.v1 : pt.g(pt.t, pt.p));\n    dif = val - parseFloat(pt.v2);\n    rotationCap = pt.rCap;\n\n    if (rotationCap) {\n      //rotational values need special interpretation so that if, for example, they go from 179 to -178 degrees it is interpreted as a change of 3 instead of -357.\n      dif = dif % rotationCap;\n\n      if (dif !== dif % (rotationCap / 2)) {\n        dif = dif < 0 ? dif + rotationCap : dif - rotationCap;\n      }\n    }\n\n    return _round(dif / ((skipRecentTick ? pt.t1 : _ticker.time) - pt.t2));\n  };\n\n  _proto.getAll = function getAll() {\n    var result = {},\n        props = this._props,\n        p;\n\n    for (p in props) {\n      result[p] = this.get(p);\n    }\n\n    return result;\n  };\n\n  _proto.isTracking = function isTracking(property) {\n    return property in this._props;\n  };\n\n  _proto.add = function add(property, type) {\n    if (!(property in this._props)) {\n      if (!_first) {\n        _ticker.add(_onTick);\n\n        _time1 = _time2 = _ticker.time;\n      }\n\n      _first = this._props[property] = new PropTracker(this.target, property, type, _first);\n    }\n  };\n\n  _proto.remove = function remove(property) {\n    var pt = this._props[property],\n        prev,\n        next;\n\n    if (pt) {\n      prev = pt._prev;\n      next = pt._next;\n\n      if (prev) {\n        prev._next = next;\n      }\n\n      if (next) {\n        next._prev = prev;\n      } else if (_first === pt) {\n        _ticker.remove(_onTick);\n\n        _first = 0;\n      }\n\n      delete this._props[property];\n    }\n  };\n\n  _proto.kill = function kill(shallow) {\n    for (var p in this._props) {\n      this.remove(p);\n    }\n\n    if (!shallow) {\n      delete _lookup[_getID(this.target)];\n    }\n  };\n\n  VelocityTracker.track = function track(targets, properties, types) {\n    if (!_coreInitted) {\n      _initCore();\n    }\n\n    var result = [],\n        targs = _toArray(targets),\n        a = properties.split(\",\"),\n        t = (types || \"\").split(\",\"),\n        i = targs.length,\n        tracker,\n        j;\n\n    while (i--) {\n      tracker = _getByTarget(targs[i]) || new VelocityTracker(targs[i]);\n      j = a.length;\n\n      while (j--) {\n        tracker.add(a[j], t[j] || t[0]);\n      }\n\n      result.push(tracker);\n    }\n\n    return result;\n  };\n\n  VelocityTracker.untrack = function untrack(targets, properties) {\n    var props = (properties || \"\").split(\",\");\n\n    _toArray(targets).forEach(function (target) {\n      var tracker = _getByTarget(target);\n\n      if (tracker) {\n        if (!props.length) {\n          tracker.kill(1);\n        } else {\n          props.forEach(function (p) {\n            return tracker.remove(p);\n          });\n        }\n      }\n    });\n  };\n\n  VelocityTracker.isTracking = function isTracking(target, property) {\n    var tracker = _getByTarget(target);\n\n    return tracker && tracker.isTracking(property);\n  };\n\n  VelocityTracker.getVelocity = function getVelocity(target, property) {\n    var tracker = _getByTarget(target);\n\n    return !tracker || !tracker.isTracking(property) ? console.warn(\"Not tracking velocity of \" + property) : tracker.get(property);\n  };\n\n  return VelocityTracker;\n}();\nVelocityTracker.getByTarget = _getByTarget;\n_getGSAP() && gsap.registerPlugin(VelocityTracker);\nexport { VelocityTracker as default };",
+      "start": 1746838932615,
+      "end": 1746838932769,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1746838932769,
+      "end": 1746838932769,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1746838932769,
+      "end": 1746838932769,
+      "order": "pre"
+    },
+    {
+      "name": "unplugin-vue-i18n",
+      "start": 1746838932769,
+      "end": 1746838932769,
+      "order": "pre"
+    },
+    {
+      "name": "nuxtjs:i18n-macros-transform",
+      "start": 1746838932769,
+      "end": 1746838932769,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1746838932769,
+      "end": 1746838932769,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1746838932769,
+      "end": 1746838932769,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1746838932769,
+      "end": 1746838932769,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1746838932769,
+      "end": 1746838932769,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1746838932769,
+      "end": 1746838932769,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "start": 1746838932770,
+      "end": 1746838932770,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1746838932770,
+      "end": 1746838932770,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1746838932770,
+      "end": 1746838932770,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1746838932770,
+      "end": 1746838932770,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1746838932770,
+      "end": 1746838932770,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1746838932770,
+      "end": 1746838932771,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1746838932771,
+      "end": 1746838932771,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1746838932771,
+      "end": 1746838932771,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1746838932771,
+      "end": 1746838932771,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1746838932771,
+      "end": 1746838932771,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1746838932771,
+      "end": 1746838932771,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1746838932771,
+      "end": 1746838932771,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1746838932771,
+      "end": 1746838932771,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1746838932771,
+      "end": 1746838932772,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1746838932772,
+      "end": 1746838932772,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1746838932772,
+      "end": 1746838932772,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1746838932772,
+      "end": 1746838932772,
+      "order": "post"
+    },
+    {
+      "name": "nuxtjs:i18n-resource",
+      "start": 1746838932772,
+      "end": 1746838932772,
+      "order": "post"
+    },
+    {
+      "name": "nuxtjs:i18n-meta-deprecation",
+      "start": 1746838932772,
+      "end": 1746838932772,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1746838932772,
+      "end": 1746838932772,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1746838932772,
+      "end": 1746838932772,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1746838932772,
+      "end": 1746838932772,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1746838932772,
+      "end": 1746838932773,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1746838932773,
+      "end": 1746838932773,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1746838932773,
+      "end": 1746838932773,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1746838932773,
+      "end": 1746838932773,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1746838932773,
+      "end": 1746838932773,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1746838932773,
+      "end": 1746838932773,
+      "order": "normal"
+    }
+  ]
+}

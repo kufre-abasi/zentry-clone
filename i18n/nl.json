@@ -1,0 +1,1128 @@
+{
+  "navbar": {
+    "Rides": "Ritten",
+    "Drive": "Drijfveer",
+    "earn": "Verdien met Tec-R ",
+    "Products": "Producten",
+    "Company": "Bedrijf",
+    "Support": "Steun",
+    "Patner": "Partner van Tec-R",
+    "FleetOwners": "Vlooteigenaren",
+    "Logistics": "Tec-R Logistiek",
+    "Rentals": "Tec-R verhuur",
+    "AboutUs": "Over ons",
+    "Blog": "Bloggen",
+    "ContactUs": "Neem contact met ons op",
+    "Safety": "Veiligheid",
+    "OurBrand": "Ons merk"
+  },
+  "footer": {
+    "Subscribe": "Abonneren",
+    "Products": "Producten",
+    "Rides": "Ritten",
+    "Driver": "Drijfveer",
+    "Business": "Bedrijf",
+    "Earn_with_TecR": "Verdien met Tec-R",
+    "Patner_with_TecR": "Partner van Tec-R",
+    "Fleet_Owners": "Vlooteigenaren",
+    "Company": "Bedrijf",
+    "About_Us": "Over ons",
+    "Contact_Us": "Neem contact met ons op",
+    "Support": "Steun",
+    "Blog": "Bloggen",
+    "Privacy": "Privacy",
+    "Join_Us": "Sluit je bij ons aan",
+    "Terms_&_Condition": "Algemene voorwaarden",
+    "T_&_C": "T & C",
+    "Cookies": "Koekjes",
+    "Security": "Beveiliging",
+    "All_rights": "Alle rechten voorbehouden.",
+    "placeholder": "Voer uw e-mailadres in..."
+  },
+  "home": {
+    "section1": {
+      "homeIntroHeading": "Roep <br class=\"md:block hidden\" />   moeiteloos  <br class=\"md:block hidden\" />   uw reis op  <br class=\"md:block hidden\" />  met onze app.",
+      "homeIntroMemo": " Geniet van een handige <br class=\"md:block hidden\" /> rit-hailing-ervaring met onze app,<br class=\"md:block hidden\" /> waar u moeiteloos uw rit kunt <br class=\"md:block hidden\" /> aanvragen, volgen en betalen.  ",
+      "buttonText": "Download de app"
+    },
+    "section2": {
+      "heading": "Rijd om tijdens uw reis geld te verdienen.",
+      "buttonText": " Meer informatie",
+      "items": {
+        "title1": "Naadloze inkomsten onderweg",
+        "desc1": "Onze gebruiksvriendelijke app houdt uw kilometerstand bij en betaalt u voor de afgelegde afstand, zodat u op een probleemloze manier uw inkomen kunt aanvullen terwijl u onderweg bent.",
+        "title2": "Van punt A tot betaaldag",
+        "desc2": "Transformeer elke reis in een mogelijkheid om geld te verdienen. ",
+        "title3": "Betrouwbare inkomsten:",
+        "desc3": "Tec-R biedt een stabiele en betrouwbare bron van inkomsten, die financiële zekerheid en gemoedsrust biedt.",
+        "title4": "Uw vloot, uw inkomsten",
+        "desc4": " Zet uw wagenpark aan het werk en maximaliseer moeiteloos uw inkomsten. "
+      }
+    },
+    "section3": {
+      "heading": "Waarom voor ons kiezen?",
+      "intro": "Wij verbeteren uw stad <br class=\"md:block hidden\" /><span class=\"lg:text-[60px] text-[32px] tracking-[2%] font-medium !mb-6 text-brand md:leading-[86.4px] leading-[43.2px]\"> Mobiliteitservaring.</span>",
+      "items": {
+        "title1": "Wij bieden snelle en gemakkelijke ritten",
+        "desc1": "Onze rittenapp biedt een snel en naadloos proces om een ​​rit te boeken ",
+        "title2": "Wij bieden punten en beloningen",
+        "desc2": "Elke reis met zentry-clone brengt u dichter bij exclusieve beloningen",
+        "title3": "Wij bieden verschillende opties",
+        "desc3": "Afhankelijk van uw wensen kunt u kiezen uit een groot aantal voertuigopties."
+      }
+    },
+    "section4": {
+      "heading": "Onze diensten",
+      "subheading": "Ons brede productassortiment komt tegemoet aan uiteenlopende behoeften wereldwijd, waarbij de beschikbaarheid per land varieert.",
+      "intro": "Wij verbeteren uw stad <br class=\"md:block hidden\" /><span class=\"lg:text-[60px] text-[32px] tracking-[2%] font-medium !mb-6 text-brand md:leading-[86.4px] leading-[43.2px]\"> Mobiliteitservaring.</span>",
+      "items": {
+        "title1": "Regelmatige ritten",
+        "desc1": "Kies voor Tec-R reguliere ritten voor stressvrij reizen. ",
+        "title2": "Privéjet  ",
+        "desc2": "Geniet van luxe en gemak met ons privéjetpakket, met aanpasbare routes, VIP-services en voorzieningen van wereldklasse.",
+        "title3": "Tec-R Celeb/VIP",
+        "desc3": "Verbeter uw rit met het Celebrity/VIP Ride Plan voor een werkelijk luxueuze ervaring op maat van uw behoeften.",
+        "title4": "Tec-R Zakelijk",
+        "desc4": "Met één klik beheert u eenvoudig de reizen, facturering en uitgaven van uw medewerkers voor een probleemloze ervaring.",
+        "title5": "Tec-R-helikoptervlucht",
+        "desc5": "Tec-R tilt stedelijke mobiliteit naar nieuwe hoogten met zijn helikopterleaseservice, die een snelle en efficiënte manier biedt om door de stad te navigeren.",
+        "title6": "Tec-R transport",
+        "desc6": "Optimaliseer uw logistiek eenvoudig met onze oplossingen, zodat u verzekerd bent van een soepele bedrijfsvoering en een efficiënt gebruik van hulpbronnen."
+      }
+    },
+    "section5": {
+      "heading": "Bestel snel,  <br class=\"md:block hidden\" /> snel rijden.",
+      "subheading": "Waar u ook heen gaat, wij helpen u er veilig en comfortabel te komen. ",
+      "buttonText": "Scannen om te downloaden",
+      "items": {
+        "title1": "App downloaden in de App Store",
+        "desc1": "Onze rittenapp biedt een snel en naadloos proces om een ​​rit te boeken ",
+        "title2": "App downloaden in Play Store ",
+        "desc2": "Elke reis met zentry-clone brengt u dichter bij exclusieve beloningen"
+      }
+    },
+    "faqs": {
+      "first": {
+        "name": " Hoe download ik de Tec-R-app?",
+        "content": "U kunt de Tec-R-app downloaden via de App Store voor iOS-apparaten of Google Play Store voor Android-apparaten. "
+      },
+      "second": {
+        "name": " Hoe maak ik een account aan bij zentry-clone?",
+        "content": "Open de Tec-R-app en klik op 'Aanmelden'. "
+      },
+      "third": {
+        "name": "Hoe vraag ik een rit aan?",
+        "content": "Om een ​​rit aan te vragen, opent u eenvoudigweg onze app, voert u uw ophaal- en afleverlocaties in, selecteert u het voertuigtype van uw voorkeur en bevestigt u uw aanvraag. "
+      },
+      "fourth": {
+        "name": "Hoe kunt u betalen?",
+        "content": "We accepteren verschillende betaalmethoden, waaronder creditcards/betaalkaarten, Tec-R persoonlijke of familieportemonnee en contant geld. "
+      },
+      "fifth": {
+        "name": "Staat het tarief vast?",
+        "content": "Nee, het tarief varieert op basis van afstand, tijd en locatie."
+      },
+      "sixth": {
+        "name": "Hoe kan ik Tec-R-chauffeur worden?",
+        "content": "Om Tec-R-chauffeur te worden, downloadt u de Tec-R Driver-app. "
+      },
+      "seventh": {
+        "name": "Kan ik ritten vooraf inplannen met Tec-R?",
+        "content": "Ja, u kunt ritten vooraf plannen. "
+      }
+    }
+  },
+  "rides": {
+    "section1": {
+      "heading": {
+        "smooth": "Zacht",
+        "Rides": "Ritten",
+        "Seamless": "Naadloos",
+        "Booking": "Boeking"
+      },
+      "intro": "Alle ritten in één app, met verschillende <br class=\"md:block hidden\" /> pakketten om van te genieten",
+      "buttonText": "Download de app",
+      "items": {
+        "title1": "Selecteer",
+        "desc1": "Selecteer bestemming <br/> moeiteloos aanpakken.",
+        "title2": "Kiezen",
+        "desc2": "Kies voertuigen <br/> gebaseerd op smaken.",
+        "title3": "Bevestigen",
+        "desc3": "Bevestig de rit daarna <br/> details bekijken."
+      }
+    },
+    "section2": {
+      "buttonText": "Download de app",
+      "heading": {
+        "BikeRides": "Fietstochten",
+        "atYour": "bij Jouw",
+        "Fingertips": "Vingertoppen:",
+        "Seamless": "Naadloos",
+        "Unbeatable": "Onverslaanbaar",
+        "Experience": "Ervaring",
+        "Booking": "Boeking"
+      },
+      "intro": "Fiets vandaag nog het avontuur tegemoet met ons opwindende Bike Ride-pakket, verken schilderachtige routes, voel de wind door je haar en creëer onvergetelijke herinneringen."
+    },
+    "section3": {
+      "buttonText": "Download de app",
+      "heading": {
+        "Our": "Ons",
+        "PrivateJet": "Privéjet",
+        "Package": "Pakket:",
+        "offers": "aanbiedingen",
+        "Luxury": "Luxe",
+        "in": "in",
+        "the": "de",
+        "Skies": "Luchten"
+      },
+      "intro": "Geniet van luxe en gemak met ons privéjetpakket, met aanpasbare routes, VIP-services en voorzieningen van wereldklasse"
+    },
+    "section4": {
+      "buttonText": "Download de app",
+      "heading": {
+        "The": "De",
+        "Celebrity/VIP": "Beroemdheid/VIP",
+        "Ride": "Rijden:",
+        "Plan": "Plan",
+        "offers": "aanbiedingen",
+        "Exclusive": "Exclusief",
+        "and": "En",
+        "Personalized": "Gepersonaliseerd",
+        "Services": "Diensten"
+      },
+      "intro": "Verbeter uw rit met het Celebrity/VIP Ride Plan voor een werkelijk luxueuze ervaring op maat van uw behoeften. "
+    },
+    "section5": {
+      "heading": {
+        "Effortlessly": "Moeiteloos",
+        "manage": "beheren",
+        "employee": "medewerker",
+        "travel": "reis",
+        "with": "met",
+        "a": "A",
+        "on": "op",
+        "click": "klik",
+        "Tec-RBusiness": "Tec-R Zakelijk"
+      },
+      "intro": "Ons Business-pakket biedt een efficiënt beheer van de reizen van medewerkers met één klik, terwijl de facturering en onkosten eenvoudig worden afgehandeld voor een naadloze ervaring."
+    },
+    "section6": {
+      "buttonText": "Download de app",
+      "heading": {
+        "Experience": "Ervaring",
+        "an": "een",
+        "extraordinary": "uitzonderlijk",
+        "Trip": "Reis",
+        "with": "met",
+        "our": "ons ",
+        "exclusive": "exclusief",
+        "Helicopter": "Helikopter",
+        "Package": "Pakket"
+      },
+      "intro": "Ons helikopterpakket biedt een onvergetelijke en luxueuze ervaring. "
+    },
+    "section7": {
+      "buttonText": "Ontdek onze veiligheidsmaatregelen",
+      "heading": {
+        "Ensuring": "Zorgen",
+        "Safety": "Veiligheid",
+        "by": "door",
+        "prioritizing": "prioriteit geven",
+        "Riders": "Ruiter",
+        "well-being": "welzijn"
+      },
+      "intro": " Wij geven prioriteit aan uw veiligheid en respect, te beginnen bij uw eerste rit. "
+    },
+    "section8": {
+      "buttonText": "Ontdek onze veiligheidsmaatregelen",
+      "heading": {
+        "Everyone": "Iedereen",
+        "Deserves": "Verdient",
+        "a": "A",
+        "Ride": "Rijden:",
+        "Tec-R": "Tec-R",
+        "Accessibility": "Toegankelijkheid",
+        "Features": "Functies"
+      },
+      "intro": "Bij Tec-R geloven we dat iedereen een comfortabele en gemakkelijke ritervaring verdient. ",
+      "items": {
+        "title1": "Rolstoeltoegankelijke voertuigen",
+        "desc1": "Vraag rechtstreeks via de app een rolstoeltoegankelijk voertuig aan om een ​​vlotte en comfortabele rit te garanderen.",
+        "title2": "Toegankelijkheidsfuncties in de app",
+        "desc2": "Onze app is ontworpen om voor iedereen toegankelijk te zijn, inclusief functies zoals compatibiliteit met schermlezers, opties voor grotere lettergroottes en thema's met hoog contrast.",
+        "title3": "Extra hulp",
+        "desc3": "Geef aan of u specifieke assistentie nodig heeft tijdens het ophalen of wegbrengen, onze chauffeurs helpen u graag verder."
+      }
+    }
+  },
+  "Explore": "Ontdekken",
+  "More": "Meer",
+  "drive": {
+    "section1": {
+      "heading": {
+        "Drive": "Drijfveer",
+        "your": "jouw",
+        "Way": "Manier",
+        "Be": "Zijn",
+        "on": "op",
+        "Boss": "Baas",
+        "and": "En",
+        "Terms": "Voorwaarden",
+        "Earn": "Verdienen"
+      },
+      "intro": "Klaar om te rijden?  <br class=\"md:block hidden\" /> Vandaag verdienen als chauffeur bij zentry-clone!",
+      "buttonText": "Download de app"
+    },
+    "section2": {
+      "heading": "Aan de slag als chauffeur.",
+      "items": {
+        "title1": "Downloaden en aanmelden",
+        "desc1": "Download de Tec-R Driver-app (beschikbaar in de App Store of Google Play Store). ",
+        "title2": "Snelle verificatie",
+        "desc2": "Geef enkele basisdocumenten op, zoals uw rijbewijs, kentekenbewijs en verzekeringsbewijs (de vereisten kunnen variëren). ",
+        "title3": "Ga op pad!",
+        "desc3": "Na goedkeuring ontvangt u een melding en kunt u de bestuurdersmodus binnen de app activeren. "
+      }
+    },
+    "section3": {
+      "heading": "Voordelen van autorijden met zentry-clone.",
+      "intro": " Of u nu op zoek bent naar af en toe flexibiliteit of een vaste klant <br class=\"lg:flex hidden\" /> inkomstenstroom, kunt u met Tec-R op uw voorwaarden rijden.",
+      "items": {
+        "title1": "Flexibiliteit en vrijheid",
+        "desc1": "Rijd wanneer het u uitkomt. ",
+        "title2": "Consistente inkomsten",
+        "desc2": "Geniet van een stabiele inkomstenstroom met onze betrouwbare en concurrerende loontarieven, die financiële stabiliteit bieden.",
+        "title3": "Stimulansen en bonussen",
+        "desc3": "Verdien extra met op prestaties gebaseerde bonussen en incentives, waarmee u uw toewijding en harde werk beloont."
+      }
+    },
+    "section4": {
+      "heading": "Hoe de zentry-clone Driver-app werkt",
+      "intro": " Betrouwbaar en gebruiksvriendelijk, met alles wat u nodig heeft om te rijden en geld te verdienen wanneer u maar wilt.",
+      "items": {
+        "title1": "Downloaden en registreren",
+        "desc1": "Ga naar de Google Play Store of Apple App Store. ",
+        "title2": "Ritten ontvangen en accepteren",
+        "desc2": "Je ontvangt een melding wanneer er een ritaanvraag binnenkomt. Accepteer om de rit te bevestigen en door te gaan naar de ophaallocatie.",
+        "title3": "Navigeren naar ophaal- en afleverlocaties",
+        "desc3": "Gebruik de ingebouwde navigatie van de app om de ophaallocatie te bereiken. ",
+        "title4": "De rit voltooien en de inkomsten beheren",
+        "desc4": "Zodra de passagier is afgezet, tikt u in de app op ‘Rit beëindigen’.  "
+      }
+    },
+    "section5": {
+      "heading": "Populaire vragen van chauffeurs"
+    },
+    "section6": {
+      "heading": {
+        "Prioritizing": "Prioriteit geven",
+        "Driver": "Bestuurder",
+        "well-being": "Manier",
+        "to": "naar",
+        "ensure": "ervoor zorgen",
+        "Safety": "Veiligheid"
+      },
+      "intro": "Wij geven prioriteit aan uw veiligheid en respect, te beginnen bij uw eerste rit. ",
+      "buttonText": " Ontdek onze veiligheidsmaatregelen"
+    }
+  },
+  "partnerWithTecR": {
+    "section1": {
+      "heading": {
+        "Expand": "Uitbreiden",
+        "Your": "Jouw",
+        "Reach": "Bereik",
+        "Become": "Worden",
+        "a": "A",
+        "Tec-R": "Tec-R",
+        "Partner": "Partner"
+      },
+      "intro": "Word vandaag nog partner van Tec-R en geniet ervan <br class=\"md:block hidden\" /> meer bestellingen, hogere verkopen en <br class=\"md:block hidden\" /> ongeëvenaarde zichtbaarheid – begin met oogsten <br class=\"md:block hidden\" /> de voordelen nu!",
+      "buttonText": "Ga vandaag nog aan de slag"
+    },
+    "section2": {
+      "heading": {
+        "Why": "Waarom",
+        "with": "met",
+        "Tec-R": "Tec-R?",
+        "Partner": "Partner"
+      },
+      "intro": " We creëren een overtuigende waardepropositie die een diverse groep partners aantrekt en een win-win-ecosysteem voor alle belanghebbenden bevordert.",
+      "buttonText": "Ga vandaag nog aan de slag",
+      "items": {
+        "title1": "Uitgebreid bereik",
+        "desc1": "Toegang tot een groot en groeiend netwerk van wagenparkeigenaren en chauffeurs.",
+        "title2": "Verhoogde merkbekendheid",
+        "desc2": "Verhoogde merkbekendheid en bereik door co-marketingmogelijkheden.",
+        "title3": "Commissiemogelijkheden",
+        "desc3": "Mogelijkheden voor het genereren van inkomsten via verwijzingen of commissies.",
+        "title4": "Verbeterd serviceaanbod",
+        "desc4": "Integratie met een toonaangevend wagenparkbeheerplatform."
+      }
+    },
+    "section3": {
+      "heading": "Partnerschapsmogelijkheden",
+      "intro": " Tec-R, een toonaangevend ride-hailing-platform, verbindt rijders met chauffeurs en voertuigen.<br class=\"lg:flex hidden\" /> Wij bieden bedrijven verschillende samenwerkingsmogelijkheden om hun bereik te vergroten,<br class=\"lg:flex hidden\" /> inkomsten genereren en de dienstverlening verbeteren.",
+      "items": {
+        "title1": "Partnerschap van chauffeurs",
+        "desc1": "Sluit u aan bij het Tec-R-netwerk door u aan te melden met uw voertuig en verdien een commissie op elke voltooide rit.",
+        "title2": "Marketing- en uitbreidingspartnerschap",
+        "desc2": "Trek nieuwe klanten en bezoekers naar uw bedrijf door samen te werken met een veelgebruikt platform.",
+        "title3": "Technologie partnerschap",
+        "desc3": "Ontwikkel integraties tussen uw technologieoplossingen en het Tec-R-platform voor een naadloze gebruikerservaring.",
+        "title4": "Bedrijven voor wagenparkbeheer",
+        "desc4": "Bied uw bestaande wagenpark en chauffeurs aan een bredere klantenbasis aan via het Tec-R-platform."
+      }
+    },
+    "banner": {
+      "heading": {
+        "Expand": "Uitbreiden",
+        "Your": "Jouw",
+        "Reach": "Bereik",
+        "Today": "Vandaag!"
+      },
+      "intro": "Neem contact op om een ​​aangepast . <br class=\"lg:flex hidden\" />Partnerschap",
+      "buttonText": "Neem contact met ons op"
+    },
+    "FAQs": {
+      "heading": "Veelgestelde vragen",
+      "intro": "Vind snelle oplossingen voor veelgestelde vragen over onze ritten en<br class=\"md:block hidden\" />  andere diensten."
+    }
+  },
+  "earnWithTecR": {
+    "section1": {
+      "heading": {
+        "Empower": "Geef kracht",
+        "Your": "Jouw",
+        "Fleet": "Vloot",
+        "Optimize": "Optimaliseer",
+        "Business": "Bedrijf"
+      },
+      "intro": " Neem de controle over uw wagenparkactiviteiten met onze <br class=\"md:block hidden\" /> beheeroplossingen, kosten verlagen, stimuleren <br class=\"md:block hidden\" />productiviteit en het verkrijgen van waardevolle inzichten voor <br class=\"md:block hidden\" /> slimmere beslissingen.",
+      "buttonText": "Download de app"
+    },
+    "section2": {
+      "heading": {
+        "Benefits": "Voordelen",
+        "of": "van",
+        "Partnering": "Samenwerken",
+        "with": "met",
+        "Us": "Ons"
+      },
+      "intro": " Betrouwbaar en gebruiksvriendelijk, met alles wat u nodig heeft om te rijden en geld te verdienen wanneer u maar wilt.",
+      "items": {
+        "title1": "Lagere kosten",
+        "desc1": "Bespaar brandstof met geoptimaliseerde routes, verlaag de onderhoudskosten met preventieve planning en verlaag de verzekeringskosten door veilig rijgedrag.",
+        "title2": "Verhoogde productiviteit",
+        "desc2": "Optimaliseer leveringsschema's voor tijdige aankomsten, verbeter de efficiëntie van chauffeurs met gestroomlijnde taken en verminder uitvaltijd met preventief onderhoud.",
+        "title3": "Verbeterde veiligheid",
+        "desc3": "Bevorder veilig rijden en verminder het risico op ongevallen, vergroot de verantwoordelijkheid van de bestuurder met realtime tracking en zorg voor de veiligheid van voertuigen en activa"
+      }
+    },
+    "section3": {
+      "heading": "Hoe de zentry-clone-vloot werkt",
+      "intro": " Tec-r vereenvoudigt het wagenparkbeheer en stelt u in staat de controle over te nemen met een uitgebreide reeks functies.",
+      "items": {
+        "title1": "Lagere kosten",
+        "desc1": "Bespaar brandstof met geoptimaliseerde routes, verlaag de onderhoudskosten met preventieve planning en verlaag de verzekeringskosten door veilig rijgedrag.",
+        "title2": "Verhoogde productiviteit",
+        "desc2": "Optimaliseer leveringsschema's voor tijdige aankomsten, verbeter de efficiëntie van chauffeurs met gestroomlijnde taken en verminder uitvaltijd met preventief onderhoud.",
+        "title3": "Verbeterde veiligheid",
+        "desc3": "Bevorder veilig rijden en verminder het risico op ongevallen, vergroot de verantwoordelijkheid van de bestuurder met realtime tracking en zorg voor de veiligheid van voertuigen en activa"
+      }
+    },
+    "FAQs": {
+      "heading": "Veelgestelde vragen"
+    },
+    "banner": {
+      "heading": {
+        "Begin": "Beginnen",
+        "to": "naar",
+        "Earn": "Verdienen",
+        "with": "met!",
+        "your": "jouw",
+        "Vehicle": "Voertuig"
+      },
+      "intro": "Ontgrendel het potentieel van uw wagenpark <br class=\"lg:flex hidden\" /> en begin vandaag nog gratis met verdienen!",
+      "buttonText": "Aan de slag "
+    }
+  },
+  "TecRLogistics": {
+    "section1": {
+      "heading": {
+        "Simplify": "Vereenvoudigen",
+        "Deliveries": "Leveringen",
+        "with": "met",
+        "Tec-R": "Tec-R",
+        "Logistics": "Logistiek"
+      },
+      "intro": "Tec-R Logistics is een gestroomlijnde levering <br class=\"md:block hidden\" /> service komt naar de Tec-R-app.",
+      "buttonText": "Abonneren",
+      "subIntro": "Ontvang updates over onze lancering."
+    },
+    "section2": {
+      "heading": "Ontdek essentiële functies",
+      "intro": "Ontgrendel het volledige potentieel van ons product door het te verkennen<br class=\"md:block hidden\" /> essentiële kenmerken.",
+      "items": {
+        "title1": "Leveringen op aanvraag",
+        "desc1": "Plan ophalingen en leveringen wanneer het u uitkomt, rechtstreeks via de Tec-R-app.",
+        "title2": "Realtime volgen",
+        "desc2": "Volg uw pakket in realtime en bekijk de geschatte levertijden.",
+        "title3": "Meerdere bezorgopties",
+        "desc3": "Kies uit verschillende bezorgopties, afhankelijk van uw behoeften.",
+        "title4": "Concurrerende prijzen",
+        "desc4": "Krijg betaalbare en transparante prijzen voor uw leveringen."
+      }
+    },
+    "banner": {
+      "heading": "Meld u nu aan om vroegtijdig toegang te krijgen tot <br class=\"md:block hidden\" /> Tec-R Logistics & exclusieve kortingen!",
+      "intro": "Ontgrendel het potentieel van uw wagenpark <br class=\"lg:flex hidden\" /> en begin vandaag nog gratis met verdienen!",
+      "buttonText": "Abonneren"
+    }
+  },
+  "TecRRentals": {
+    "section1": {
+      "heading": {
+        "Rentals": "Verhuur",
+        "Your": "Jouw",
+        "Car": "Auto",
+        "Tec-R": "Tec-R",
+        "Rental": "Verhuur",
+        "Hub": "Middelpunt"
+      },
+      "intro": "Tec-R Rentals is een handige autoverhuurder <br class=\"md:block hidden\" /> service komt naar de Tec-R-app.",
+      "buttonText": "Abonneren",
+      "subIntro": "Ontvang updates over onze lancering."
+    },
+    "section2": {
+      "heading": "Ontdek essentiële functies",
+      "intro": "Ontgrendel het volledige potentieel van ons product door het te verkennen<br class=\"md:block hidden\" /> essentiële kenmerken.",
+      "items": {
+        "title1": "Ruime keuze aan voertuigen",
+        "desc1": "Kies uit een divers wagenpark dat aan uw behoeften voldoet, van compacte auto's tot ruime SUV's.",
+        "title2": "Eenvoudige in-app-boeking",
+        "desc2": "Boek uw huurauto snel en eenvoudig direct via de Tec-R app, altijd en overal.",
+        "title3": "Transparante prijzen",
+        "desc3": "Bekijk vooraf de prijzen zonder verborgen kosten. Weet precies wat u betaalt voordat u boekt.",
+        "title4": "Gemakkelijke keuzes voor ophalen en wegbrengen",
+        "desc4": "Geniet van flexibele ophaal- en terugbrengopties om autoverhuur naadloos in uw plannen te integreren."
+      }
+    },
+    "banner": {
+      "heading": "Meld u nu aan om vroegtijdig toegang te krijgen tot <br class=\"md:block hidden\" />Tec-R-verhuur en exclusieve kortingen!",
+      "intro": "Ontgrendel het potentieel van uw wagenpark <br class=\"lg:flex hidden\" /> en begin vandaag nog gratis met verdienen!",
+      "buttonText": "Abonneren"
+    }
+  },
+  "earn_faqs": {
+    "first": {
+      "name": "Hoe meld ik mij aan als wagenparkeigenaar bij Tec-R?",
+      "content": "Om u aan te melden als wagenparkeigenaar, downloadt u de Tec-R Driver-app uit de App Store of Google Play Store. "
+    },
+    "second": {
+      "name": "Welke documenten zijn vereist om mijn wagenpark te registreren?",
+      "content": "U moet voor alle bestuurders rijbewijzen, voertuigregistraties, verzekeringsbewijzen en eventuele relevante bedrijfslicenties overleggen. "
+    },
+    "third": {
+      "name": "Hoeveel voertuigen zijn er nodig om wagenparkeigenaar te zijn met Tec-R?",
+      "content": "Om in aanmerking te komen als wagenparkeigenaar met Tec-R heeft u doorgaans minimaal twee voertuigen nodig. "
+    },
+    "fourth": {
+      "name": "Hoe garandeert Tec-R de veiligheid van mijn wagenparkchauffeurs?",
+      "content": "Tec-R geeft prioriteit aan veiligheid met uitgebreide antecedentenonderzoek voor alle bestuurders, in-app veiligheidsfuncties zoals GPS-tracking en 24/7 ondersteuning om ervoor te zorgen dat er altijd hulp beschikbaar is."
+    },
+    "fifth": {
+      "name": "Kan ik de prestaties van mijn wagenpark in realtime volgen?",
+      "content": "Ja, de Tec-R-app biedt realtime tracking van al uw voertuigen, zodat u de locatie, ritstatus en prestaties van uw wagenpark kunt volgen."
+    }
+  },
+  "faqs": {
+    "first": {
+      "name": "Hoe meld ik mij aan als wagenparkeigenaar bij Tec-R?",
+      "content": "Om u aan te melden als wagenparkeigenaar, downloadt u de Tec-R Driver-app uit de App Store of Google Play Store. "
+    },
+    "second": {
+      "name": "Welke documenten zijn vereist om mijn wagenpark te registreren?",
+      "content": "U moet voor alle bestuurders rijbewijzen, voertuigregistraties, verzekeringsbewijzen en eventuele relevante bedrijfslicenties overleggen. "
+    },
+    "third": {
+      "name": "Hoeveel voertuigen zijn er nodig om wagenparkeigenaar te zijn met Tec-R?",
+      "content": "Om in aanmerking te komen als wagenparkeigenaar met Tec-R heeft u doorgaans minimaal twee voertuigen nodig. "
+    },
+    "fourth": {
+      "name": "Hoe garandeert Tec-R de veiligheid van mijn wagenparkchauffeurs?",
+      "content": "Tec-R geeft prioriteit aan veiligheid met uitgebreide antecedentenonderzoek voor alle bestuurders, in-app veiligheidsfuncties zoals GPS-tracking en 24/7 ondersteuning om ervoor te zorgen dat er altijd hulp beschikbaar is."
+    },
+    "fifth": {
+      "name": "Kan ik de prestaties van mijn wagenpark in realtime volgen?",
+      "content": "Ja, de Tec-R-app biedt realtime tracking van al uw voertuigen, zodat u de locatie, ritstatus en prestaties van uw wagenpark kunt volgen."
+    },
+    "sixth": {
+      "name": "Wat voor soort verdiensten kan ik als wagenparkeigenaar verwachten?",
+      "content": "De inkomsten kunnen variëren op basis van het aantal voertuigen, het aantal gereden uren en de vraag. "
+    },
+    "seventh": {
+      "name": "Hoe beheer ik de betalingen voor mijn wagenpark?",
+      "content": "Betalingen worden beheerd via de Tec-R-app. "
+    }
+  },
+  "contactUs": {
+    "heading": "Neem contact met ons op",
+    "intro": "Heeft u vragen of opmerkingen? ",
+    "cardHeading": "Contactgegevens",
+    "cardIntro": "Heeft u vragen of opmerkingen? ",
+    "buttonText": "Bericht verzenden",
+    "FirstName": "Voornaam",
+    "LastName": "Achternaam",
+    "E-mail": "E-mail",
+    "PhoneNumber": "Telefoonnummer",
+    "DropMessage": "Stuur een bericht..."
+  },
+  "AboutUs": {
+    "tag": "Over ons",
+    "heading": {
+      "Weaving": "Weven",
+      "Together": "Samen",
+      "Your": "Jouw",
+      "Urban": "Stedelijk",
+      "Journey": "Reis"
+    },
+    "intro": "Bij zentry-clone zijn we van mening dat het navigeren door de drukke straten van de stad geen gedoe hoeft te zijn. ",
+    "section5": {
+      "heading": " Onze missie: mensen in beweging brengen <br class=\"md:block hidden\" /> in het hart van het stadsontwerp.",
+      "intro": " We geven prioriteit aan voetgangers, fietsers en openbaar vervoer en creëren levendige gemeenschappen waar mensen floreren. "
+    },
+    "section6": {
+      "heading": "Onze waarden: wat ons definieert",
+      "intro": " Bij Tec-R zijn we toegewijd aan het gebied van technologie en het transformerende potentieel ervan.  <br class=\"md:block hidden\" /> visie reikt verder dan de technologie zelf en benadrukt het belang van kernwaarden <br class=\"md:block hidden\" /> die ons succes ondersteunen en onze acties sturen.",
+      "items": {
+        "title1": "Innovatie",
+        "desc1": "Wij richten ons op het voortdurend ontwikkelen en verleggen van grenzen op het gebied van technologische vooruitgang.",
+        "title2": "Efficiëntie",
+        "desc2": "Wij geven voortdurend prioriteit aan oplossingen die processen optimaliseren en resultaten maximaliseren.",
+        "title3": "Betrouwbaarheid",
+        "desc3": "We blijven vertrouwen opbouwen door middel van betrouwbare technologie die consistent resultaten levert."
+      }
+    },
+    "section7": {
+      "heading": "Ons verhaal: het overbruggen van de stedelijke kloof",
+      "intro": "Tec-R werd in 2024 opgericht met de visie om het stadsvervoer te transformeren door een efficiëntere, betrouwbaardere en gebruiksvriendelijkere mobiliteitsoplossing aan te bieden. "
+    },
+    "section2": {
+      "heading": "Toekomstvisie",
+      "intro": "Als we vooruitkijken, is het ons doel om duurzame oplossingen verder te integreren en onze diensten uit te breiden naar nieuwe markten, waarmee we onze missie voortzetten om het stadsleven voor iedereen beter te maken."
+    },
+    "section3": {
+      "heading": "Impactverhalen",
+      "intro": " Sinds onze oprichting zijn wij toegewijd aan het verbeteren en uitbreiden van onze dienstverlening. "
+    },
+    "section4": {
+      "heading": {
+        "Benefits": "Voordelen",
+        "of": "van",
+        "Using": "Gebruik",
+        "Our": "Ons",
+        "Services": "Diensten"
+      },
+      "items": {
+        "title1": "Kostenbesparingen",
+        "desc1": "Door gebruik te maken van onze service kunt u de overheadkosten verlagen en uw bedrijfsresultaat verhogen. ",
+        "title2": "Verbeterde efficiëntie",
+        "desc2": "Onze service stroomlijnt uw workflow, waardoor u tijd en moeite bespaart. Dankzij geautomatiseerde processen kunt u zich concentreren op wat het belangrijkst is.",
+        "title3": "Verbeterde veiligheid",
+        "desc3": "Uw gegevens zijn veilig bij ons. "
+      }
+    },
+    "banner": {
+      "heading": {
+        "Download": "Downloaden",
+        "the": "de",
+        "App": "App",
+        "Explore": "& Ontdekken",
+        "your": "jouw",
+        "City": "Stad"
+      },
+      "intro": "Ontgrendel het potentieel van uw wagenpark <br class=\"lg:flex hidden\" /> en begin vandaag nog gratis met verdienen!",
+      "buttonText": "Aan de slag "
+    }
+  },
+  "notFound": {
+    "title": "Oeps! ",
+    "subTitle": "We konden de pagina die u zocht niet vinden, maar we kunnen u zeker op weg helpen! ",
+    "buttonText": "Startpagina"
+  },
+  "safety": {
+    "heading": "Uw veiligheid,<br class=\"md:block hidden\" /> Onze prioriteit.",
+    "intro": "Bij zentry-clone geven we prioriteit aan veiligheid en creëren we een veilige omgeving voor rijders en chauffeurs door middel van uitgebreid beleid, technologie en een toegewijd team.",
+    "section2": {
+      "heading": "Een veilige ervaring creëren",
+      "intro": "Bij zentry-clone is veiligheid onze topprioriteit.  <br class=\"md:block hidden\" /> passagiers en chauffeurs door robuust beleid te implementeren en gebruik te maken van geavanceerde technologieën <br class=\"md:block hidden\" />technologie en vertrouwend op ons toegewijde ondersteuningsteam.",
+      "items": {
+        "title1": "Toegewijd ondersteuningsteam",
+        "desc1": "We hebben een team van veiligheidsspecialisten 24/7 beschikbaar om eventuele problemen of noodsituaties die zich tijdens uw reis kunnen voordoen, op te lossen.",
+        "title2": "Geavanceerde technologie",
+        "desc2": "Onze app is uitgerust met functies die de veiligheid bevorderen, zoals het realtime volgen van ritten, noodknoppen en in-app ID-verificatie.",
+        "title3": "Gedetailleerde vertoningen",
+        "desc3": "We voeren grondige antecedentenonderzoeken uit bij alle chauffeurs om hun kwalificaties en geschiktheid voor het platform te garanderen."
+      }
+    },
+    "section3": {
+      "heading": "Uw veiligheid tijdens elke rit",
+      "heading2": "Veiligheidstips voor de rijder",
+      "items": {
+        "title1": "Grondig doorgelichte chauffeurs",
+        "desc1": "We voeren grondige antecedentenonderzoeken uit bij alle chauffeurs om hun kwalificaties en geschiktheid voor het platform te garanderen.",
+        "title2": "Veilige en betrouwbare voertuigen",
+        "desc2": "Uw veiligheid is onze prioriteit, daarom ondergaan alle voertuigen in ons netwerk regelmatig onderhoudscontroles en voldoen ze aan strenge veiligheidsnormen.",
+        "title3": "Veiligheidsfuncties binnen handbereik",
+        "desc3": "Onze app bevat realtime ritregistratie, in-app ID-verificatie en noodknoppen om ervoor te zorgen dat u tijdens uw rit de controle behoudt en verbonden blijft."
+      },
+      "tips": {
+        "title1": "Controle van de bestuurder en het voertuig",
+        "desc1": "Controleer of de naam, het kenteken en het automodel van de bestuurder in uw app overeenkomen met de daadwerkelijke bestuurder en het voertuig. ",
+        "title2": "Veiligheid tijdens het ophalen",
+        "desc2": "Wacht in goed verlichte, bevolkte gebieden, vooral 's nachts. ",
+        "title3": "Zorgen voor een veilige rit",
+        "desc3": "Wanneer u in de auto stapt, doet u onmiddellijk uw veiligheidsgordel vast. ",
+        "title4": "Veiligheid na de rit",
+        "desc4": "Beoordeel en beoordeel uw chauffeur na elke rit om een ​​veilig platform te behouden. "
+      }
+    },
+    "section3View2": {
+      "heading": "Rijd met zekerheid",
+      "heading2": "Veiligheidstips voor chauffeurs",
+      "items": {
+        "title1": "Geverifieerde rijders",
+        "desc1": "We minimaliseren het risico voor chauffeurs door de identiteit van de rijder en de betaalmethoden te verifiëren voordat ze worden opgehaald.",
+        "title2": "Tweerichtingscommunicatie",
+        "desc2": "Met ons tweerichtingsfeedbacksysteem kunt u onveilig rijgedrag melden, waardoor we snel actie kunnen ondernemen om een ​​veilige rijervaring voor iedereen te garanderen.",
+        "title3": "Veilige en efficiënte routes",
+        "desc3": "We plannen uw reizen met vertrouwen met behulp van onze in-app-functies zoals realtime verkeersupdates, voorgestelde routes en stapsgewijze navigatie."
+      },
+      "tips": {
+        "title1": "Vóór de rit",
+        "desc1": "Voldoende rust nemen zorgt voor alertheid. ",
+        "title2": "Ruiters verifiëren",
+        "desc2": "Het bevestigen van de identiteit van de rijder voorkomt dat je de verkeerde persoon oppikt. Het bekijken van de beoordelingen van rijders (optioneel) levert aanvullende informatie op (indien beschikbaar).",
+        "title3": "Voorbereiden op de rit",
+        "desc3": "Het instellen van navigatie zorgt voor een vlotte route. Duidelijke communicatie verduidelijkt de ophaal-/afzetdetails. ",
+        "title4": "Veiligheid op de weg",
+        "desc4": "Door je op de weg te concentreren, wordt afleiding tot een minimum beperkt. Het naleven van de verkeersregels garandeert de veiligheid van iedereen. Door gebruik te maken van in-app-functies kun je direct reageren op veiligheidsproblemen"
+      }
+    },
+    "banner": {
+      "heading": "Meer informatie <br class=\"md:block hidden\" /> Over veiligheid",
+      "intro": "Download de app en leer meer over onze <br class=\"md:block hidden\" /> diensten en onderzoek naar veiligheidsbronnen.",
+      "buttonText": "Download de app"
+    }
+  },
+  "support": {
+    "heading": "zentry-clone-ondersteuningscentrum",
+    "intro": "Welkom bij het zentry-clone-ondersteuningscentrum. ",
+    "placeholder": "Waar heb je hulp bij nodig?",
+    "buttonText": "Zoekopdracht",
+    "items": {
+      "title1": "Ruiters",
+      "title2": "Chauffeurs",
+      "title3": "Vlooteigenaren"
+    },
+    "section2": {
+      "heading": "Populaire Help-artikelen"
+    },
+    "faqs": {
+      "first": {
+        "name": "Hoe een rit boeken?",
+        "content": "<div><span class=\" font-medium text-[20px]\">1. Hoe vraag ik een rit aan?</span><p class=\"text-[20px] font-normal\"> Om een ​​rit aan te vragen, opent u eenvoudigweg onze app, voert u uw ophaal- en afleverlocaties in, selecteert u het voertuigtype van uw voorkeur en bevestigt u uw aanvraag. </p></div><div><span class=\" font-medium text-[20px]\">2. Kan ik vooraf een rit plannen?</span><p class=\"text-[20px] font-normal\"> Ja, met zentry-clone kunt u vooraf een rit plannen door tijdens het boekingsproces de optie \"Schema\" te selecteren.  </p></div><div><span class=\" font-medium text-[20px]\">3. Wat zijn de verschillende ritopties die beschikbaar zijn?</span><p class=\"text-[20px] font-normal\"> zentry-clone biedt meerdere opties op basis van uw behoeften, waaronder zuinige en luxe voertuigcategorieën. </p></div><div><span class=\" font-medium text-[20px]\">4. Hoe gebruik ik een promotiecode tijdens het boeken?  </span><p class=\"text-[20px] font-normal\"> Wanneer u een rit boekt, voert u uw promotiecode in het daarvoor bestemde veld in voordat u bevestigt. </p></div><div><span class=\" font-medium text-[20px]\">5. Kan ik meerdere tussenstops aan mijn rit toevoegen?  </span><p class=\"text-[20px] font-normal\"> Ja, u kunt meerdere tussenstops toevoegen door \"Bestemming toevoegen\" te selecteren bij het invoeren van uw bestemming. </p></div>"
+      },
+      "second": {
+        "name": "Uw account beheren",
+        "content": "<div><span class=\" font-medium text-[20px]\">1. Hoe kan ik de locatie van mijn chauffeur in realtime volgen?</span><p class=\"text-[20px] font-normal\"> Zodra uw rit is bevestigd, verschijnt er een realtime kaart in de app, waarop de huidige locatie van uw chauffeur en de geschatte aankomsttijd worden weergegeven.</p></div><div><span class=\" font-medium text-[20px]\">2. Hoe neem ik tijdens de rit contact op met mijn chauffeur? </span><p class=\"text-[20px] font-normal\">U kunt via de app rechtstreeks contact opnemen met uw chauffeur door op de optie 'Contact' in de ritgegevens te tikken. </p></div><div><span class=\" font-medium text-[20px]\">3. Kan ik mijn bestemming tijdens de rit wijzigen? </span><p class=\"text-[20px] font-normal\">Nee, je kunt je bestemming tijdens de rit niet wijzigen.  </p></div><div><span class=\" font-medium text-[20px]\">4. Wat gebeurt er als mijn rit door mij of de chauffeur wordt geannuleerd?</span><p class=\"text-[20px] font-normal\">Als u een rit annuleert, kunnen er annuleringskosten in rekening worden gebracht, afhankelijk van het tijdstip van de annulering.  </p></div><div><span class=\" font-medium text-[20px]\">5. Hoe deel ik mijn ritgegevens met anderen, zoals vrienden of familie?  </span><p class=\"text-[20px] font-normal\"> Om uw ritgegevens te delen, tikt u op de optie 'Rit delen' in de ritgegevens en stuurt u de link naar uw contacten. </p></div>"
+      },
+      "third": {
+        "name": "Betalingsproblemen",
+        "content": "<div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div>"
+      },
+      "fourth": {
+        "name": "Hoe kunt u uw rit volgen?",
+        "content": ""
+      },
+      "fifth": {
+        "name": "Rittarieven en kosten begrijpen",
+        "content": ""
+      }
+    },
+    "banner": {
+      "heading": "Heeft u nog vragen? ",
+      "intro": "Hulp nodig? ",
+      "buttonText": "Neem contact met ons op",
+      "items": {
+        "title1": "Livechat",
+        "title2": "Neem contact met ons op"
+      }
+    },
+    "riders": {
+      "heading": "Ruiters",
+      "BookingaRide": {
+        "heading": "Een rit boeken",
+        "list": {
+          "title1": "Hoe vraag ik een rit aan?",
+          "content1": "Om een ​​rit aan te vragen, opent u eenvoudigweg onze app, voert u uw ophaal- en afleverlocaties in, selecteert u het voertuigtype van uw voorkeur en bevestigt u uw aanvraag. ",
+          "title2": "Kan ik vooraf een rit plannen?",
+          "content2": "Ja, met zentry-clone kunt u vooraf een rit plannen door tijdens het boekingsproces de optie \"Schema\" te selecteren. ",
+          "title3": "Welke verschillende ritopties zijn er?",
+          "content3": "zentry-clone biedt meerdere opties op basis van uw behoeften, waaronder zuinige en luxe voertuigcategorieën. ",
+          "title4": "Hoe gebruik ik een promotiecode tijdens het boeken?",
+          "content4": "Wanneer u een rit boekt, voert u uw promotiecode in het daarvoor bestemde veld in voordat u bevestigt. ",
+          "title5": "Kan ik een tussenstop aan mijn rit toevoegen?",
+          "content5": "Ja, u kunt meerdere tussenstops toevoegen door \"Bestemming toevoegen\" te selecteren bij het invoeren van uw bestemming. "
+        }
+      },
+      "ManagingYourRide": {
+        "heading": "Uw rit beheren",
+        "list": {
+          "title1": "Hoe kan ik de locatie van mijn chauffeur in realtime volgen?",
+          "content1": "Zodra uw rit is bevestigd, verschijnt er een realtime kaart in de app, waarop de huidige locatie van uw chauffeur en de geschatte aankomsttijd worden weergegeven.",
+          "title2": "Hoe neem ik tijdens de rit contact op met mijn chauffeur?",
+          "content2": "U kunt via de app rechtstreeks contact opnemen met uw chauffeur door op de optie 'Contact' in de ritgegevens te tikken.",
+          "title3": "Kan ik mijn bestemming tijdens de rit wijzigen?",
+          "content3": "Nee, je kunt je bestemming tijdens de rit niet wijzigen. ",
+          "title4": "Wat gebeurt er als mijn rit door mij of de chauffeur wordt geannuleerd?",
+          "content4": "Als u een rit annuleert, kunnen er annuleringskosten in rekening worden gebracht, afhankelijk van het tijdstip van de annulering. ",
+          "title5": "Hoe deel ik mijn ritgegevens met anderen, zoals vrienden of familie?",
+          "content5": "Om uw ritgegevens te delen, tikt u op de optie 'Rit delen' in de ritgegevens en stuurt u de link naar uw contacten. "
+        }
+      },
+      "PaymentAndFares": {
+        "heading": "Betaling en tarieven",
+        "list": {
+          "title1": "Hoe betaal ik voor mijn rit?",
+          "content1": "U kunt uw rit betalen met de betaalmethode die aan uw zentry-clone-account is gekoppeld, inclusief creditcards/betaalkaarten, digitale portemonnees of andere geaccepteerde opties in uw regio.",
+          "title2": "Kan ik mijn standaard betaalmethode wijzigen?",
+          "content2": "Ja, u kunt uw standaardbetaalmethode bijwerken in de app onder ‘Betalingsinstellingen’. ",
+          "title3": "Wat zijn de tariefberekeningsfactoren?",
+          "content3": "zentry-clone-tarieven worden berekend op basis van factoren zoals afstand, tijd, voertuigtype en realtime vraag. ",
+          "title4": "Kan ik een prijsopgave zien voordat ik een rit boek?",
+          "content4": "Ja, de app geeft een prijsopgave voordat u de rit bevestigt. ",
+          "title5": "Hoe krijg ik een betalingsbewijs voor mijn rit?",
+          "content5": "Na uw rit wordt een ontvangstbewijs naar uw geregistreerde e-mailadres verzonden. "
+        }
+      },
+      "AccountManagement": {
+        "heading": "Accountbeheer",
+        "list": {
+          "title1": "Hoe maak ik een zentry-clone-account aan?",
+          "content1": "Download de zentry-clone-app en open deze. ",
+          "title2": "Hoe update ik mijn accountgegevens?",
+          "content2": "Ga naar ‘Accountinstellingen’ in de app om uw persoonlijke gegevens bij te werken, inclusief e-mailadres, telefoonnummer en adres.",
+          "title3": "Hoe wijzig ik mijn wachtwoord?",
+          "content3": "In “Accountinstellingen” selecteert u “Wachtwoord wijzigen” en volgt u de aanwijzingen om uw wachtwoord opnieuw in te stellen.",
+          "title4": "Hoe verwijder ik mijn zentry-clone-account en reactiveer ik deze?",
+          "content4": "Om uw account te verwijderen, gaat u naar ‘Accountinstellingen’ en selecteert u ‘Account verwijderen’. "
+        }
+      },
+      "SafetyAndSecurity": {
+        "heading": "Veiligheid en beveiliging",
+        "list": {
+          "title1": "Welke veiligheidsvoorzieningen biedt zentry-clone?",
+          "content1": "zentry-clone bevat functies zoals het realtime volgen van ritten, SOS-noodhulp, antecedentenonderzoek van chauffeurs en de mogelijkheid om ritgegevens te delen met vertrouwde contacten.",
+          "title2": "Wat is het veiligheidsbeleid voor rijders van zentry-clone?",
+          "content2": "Het veiligheidsbeleid van zentry-clone zorgt ervoor dat chauffeurs en berijders zich aan de veiligheidsrichtlijnen houden. ",
+          "title3": "Wat moet ik doen als ik iets in de auto vergeet?",
+          "content3": "Als je iets in de auto vergeet, ga dan naar ‘Ritgeschiedenis’ en selecteer ‘Verloren voorwerp melden’. ",
+          "title4": "Hoe meld ik een veiligheidsprobleem of incident tijdens een rit?",
+          "content4": "Voor directe hulp kunt u de SOS-knop gebruiken. ",
+          "title5": "Kan ik om veiligheidsredenen mijn ritgegevens met een vriend delen?",
+          "content5": "Ja, de app heeft een optie 'Rit delen' waarmee u uw ritinformatie en realtime locatie naar vrienden of familieleden kunt sturen, zodat zij uw reis voor de veiligheid kunnen volgen."
+        }
+      }
+    },
+    "drivers": {
+      "heading": "Chauffeurs",
+      "GettingStarted": {
+        "heading": "Aan de slag met zentry-clone",
+        "list": {
+          "title1": "Hoe meld ik me aan om zentry-clone-chauffeur te worden?",
+          "content1": "Om u aan te melden, downloadt u de zentry-clone Driver-app, maakt u een account aan en rondt u het aanvraagproces af door de vereiste gegevens en documenten in te dienen. ",
+          "title2": "Welke documenten en informatie moet ik aanleveren?",
+          "content2": "U moet een geldig rijbewijs, kentekenbewijs, verzekeringsbewijs en een antecedentenonderzoek overleggen. ",
+          "title3": "Wat zijn de vereisten voor de leeftijd en staat van het voertuig?",
+          "content3": "Voertuigen moeten voldoen aan de minimumleeftijd van zentry-clone (vaak jonger dan 10 jaar) en moeten een voertuiginspectie doorstaan ​​om ervoor te zorgen dat ze voldoen aan onze veiligheids- en comfortnormen.",
+          "title4": "Hoe neem ik contact op met de zentry-clone-chauffeursondersteuning?",
+          "content4": "U kunt via de app contact opnemen met de chauffeursondersteuning door naar “Hulp en ondersteuning” te gaan of door een e-mail te sturen naar de speciale chauffeursondersteuningslijn in uw account.",
+          "title5": "Hoe update ik de gegevens van mijn chauffeursprofiel?",
+          "content5": "Ga in de zentry-clone Driver-app naar “Profielinstellingen” om uw persoonlijke en voertuiginformatie bij te werken. "
+        }
+      },
+      "DriverApp": {
+        "heading": "Met behulp van de zentry-clone Driver-app",
+        "list": {
+          "title1": "Hoe accepteer ik een ritaanvraag?",
+          "content1": "Wanneer er een ritaanvraag binnenkomt, zie je een melding op je scherm. ",
+          "title2": "Hoe gebruik ik de app voor navigatie tijdens een rit?",
+          "content2": "De zentry-clone Driver-app is geïntegreerd met een kaart. ",
+          "title3": "Hoe communiceer ik met renners via de app?",
+          "content3": "Je kunt renners rechtstreeks berichten sturen of bellen via de app. ",
+          "title4": "Wat moet ik doen als een passagier speciale verzoeken heeft of hulp nodig heeft?",
+          "content4": "Wees alert op verzoeken van rijders en stem daar waar mogelijk op in. ",
+          "title5": "Wat zijn de richtlijnen van zentry-clone voor het gedrag van passagiers en de passagiersetiquette?",
+          "content5": "zentry-clone verwacht van passagiers dat ze de chauffeurs, hun voertuigen en alle relevante veiligheidsvoorschriften respecteren. "
+        }
+      },
+      "EarningsAndPayments": {
+        "heading": "Inkomsten en betalingen",
+        "list": {
+          "title1": "Hoe worden de tarieven voor zentry-clone-ritten berekend?",
+          "content1": "Tarieven worden berekend op basis van afstand, tijd en eventuele toepasselijke kosten. ",
+          "title2": "Welke verschillende soorten vergoedingen of inhoudingen kunnen van toepassing zijn?",
+          "content2": "Typische inhoudingen kunnen servicekosten, annuleringskosten (indien van toepassing) en aanpassingen voor tolgelden of andere uitgaven omvatten, zoals vermeld in het vergoedingenbeleid van zentry-clone.",
+          "title3": "Hoe word ik betaald voor het rijden met zentry-clone?",
+          "content3": "De inkomsten worden wekelijks automatisch op uw gekoppelde bankrekening of gewenste betaalmethode gestort. ",
+          "title4": "Kan ik mijn gewenste betaalmethode wijzigen?",
+          "content4": "Ja, u kunt uw gewenste betaalmethode bijwerken in de app onder ‘Betalingsinstellingen’. ",
+          "title5": "Bezorgt zentry-clone facturen voor mijn verdiensten?",
+          "content5": "Ja, u heeft toegang tot uw wekelijkse of maandelijkse inkomstenoverzichten in de app onder 'Inkomsten' om facturen te bekijken en te downloaden."
+        }
+      },
+      "SafetyAndCustomerService": {
+        "heading": "Veiligheid en klantenservice",
+        "list": {
+          "title1": "Welke veiligheidsvoorzieningen biedt zentry-clone voor chauffeurs?",
+          "content1": "zentry-clone biedt in-app noodhulp, GPS-tracking en een functie waarmee chauffeurs hun ritgegevens kunnen delen met vertrouwde contacten. ",
+          "title2": "Hoe meld ik een veiligheidsprobleem of incident tijdens een rit?",
+          "content2": "Voor directe hulp gebruikt u de knop ‘Noodgeval’ in de app. ",
+          "title3": "Wat is het beleid van zentry-clone met betrekking tot rijgedrag en professionaliteit?",
+          "content3": "zentry-clone verwacht van alle chauffeurs dat ze zich professioneel gedragen, de verkeersregels naleven en passagiers respectvol behandelen. ",
+          "title4": "Hoe meld ik een probleem met het gedrag van een passagier of passagier?",
+          "content4": "Je kunt problemen met een passagier melden via het tabblad 'Ritgeschiedenis'. ",
+          "title5": "Wat moet ik doen als er tijdens een rit een ongeval of schade aan mijn voertuig optreedt?",
+          "content5": "Als u bij een ongeval betrokken raakt, zorg dan voor uw veiligheid en bel indien nodig de hulpdiensten. "
+        }
+      }
+    },
+    "fleetOwners": {
+      "heading": "Vlooteigenaren",
+      "ManagingYourFleet": {
+        "heading": "Beheer van uw vloot",
+        "list": {
+          "title1": " Hoe voeg ik voertuigen toe aan mijn zentry-clone-vloot?",
+          "content1": "Ga in het zentry-clone Fleet Dashboard naar ‘Vloot beheren’ en selecteer ‘Voertuig toevoegen’. ",
+          "title2": " Welke documenten en informatie zijn vereist voor elk voertuig?",
+          "content2": "Elk voertuig moet beschikken over een actueel kenteken, een geldig verzekeringscertificaat, een eigendomsbewijs en een recent keuringsrapport. ",
+          "title3": " Hoe controleer ik de prestaties en activiteit van de bestuurder op het platform?",
+          "content3": "In het zentry-clone Fleet Dashboard kunt u prestatiestatistieken van chauffeurs bekijken, zoals beoordelingen, ritvoltooiingspercentages en algemene activiteit. ",
+          "title4": "Zijn er strategieën om de inkomsten en efficiëntie van het wagenpark te maximaliseren? ",
+          "content4": "Ja, sommige strategieën omvatten het monitoren van piektijden, het schoonhouden en functioneren van voertuigen en het aanmoedigen van chauffeurs om ritaanvragen snel te accepteren. ",
+          "title5": "Hoe kan ik indien nodig een voertuig uit mijn wagenpark verwijderen? ",
+          "content5": "Selecteer in het wagenparkdashboard het voertuig dat u wilt verwijderen en klik op ‘Voertuig verwijderen’. "
+        }
+      },
+      "BillingAndInvoicing": {
+        "heading": "Facturering en facturatie",
+        "list": {
+          "title1": "Hoe worden de tarieven berekend voor ritten die door mijn wagenpark worden voltooid? ",
+          "content1": "Tarieven worden berekend op basis van afstand, tijd en eventuele extra kosten of toeslagen. ",
+          "title2": " Hoe kan ik de totale inkomsten en inkomsten van mijn wagenpark volgen?",
+          "content2": "Vlootinkomsten en -opbrengsten zijn beschikbaar in het Vlootdashboard onder het tabblad 'Inkomsten'. ",
+          "title3": " Welke kosten of inhoudingen kunnen van toepassing zijn op de vlootinkomsten?",
+          "content3": "Inhoudingen kunnen de servicekosten van zentry-clone, annuleringskosten en aanpassingen voor tolgelden omvatten. ",
+          "title4": "Hoe gaat zentry-clone om met uitbetalingen voor wagenparkactiviteiten? ",
+          "content4": "Uitbetalingen voor voltooide ritten worden wekelijks verwerkt en direct op de bankrekening gestort die aan uw Fleet Dashboard is gekoppeld. ",
+          "title5": " Wanneer en hoe vaak ontvang ik facturen voor de activiteiten van mijn wagenpark?",
+          "content5": "Facturen worden wekelijks gegenereerd en kunnen worden bekeken en gedownload via het Fleet Dashboard. "
+        }
+      },
+      "ComplianceAndRegulations": {
+        "heading": "Naleving en regelgeving",
+        "list": {
+          "title1": "Wat zijn de eisen van zentry-clone ten aanzien van voertuigonderhoud en veiligheidsinspecties?",
+          "content1": "zentry-clone vereist dat wagenparkvoertuigen regelmatig onderhoud ondergaan en een jaarlijkse veiligheidsinspectie doorstaan. ",
+          "title2": "Hoe kan ik ervoor zorgen dat mijn wagenparkvoertuigen voldoen aan de lokale regelgeving?",
+          "content2": "Om aan de regelgeving te blijven voldoen, moet u ervoor zorgen dat alle voertuigen uit het wagenpark zijn geregistreerd, verzekerd en geïnspecteerd volgens de lokale wetgeving. ",
+          "title3": "Biedt zentry-clone middelen of ondersteuning voor voertuigonderhoud?",
+          "content3": "Hoewel zentry-clone niet rechtstreeks onderhoudsdiensten levert, werken we samen met lokale dienstverleners die mogelijk kortingen aanbieden aan eigenaren van zentry-clone-vloot. ",
+          "title4": "Biedt zentry-clone verzekeringsopties of partnerschappen voor wagenparkeigenaren?",
+          "content4": "Ja, zentry-clone werkt samen met geselecteerde verzekeringsmaatschappijen die op maat gemaakte polissen aanbieden voor wagenparkactiviteiten. ",
+          "title5": "Hoe update ik de verzekeringsinformatie van mijn wagenpark binnen het platform?",
+          "content5": "Om verzekeringsinformatie bij te werken, gaat u naar het wagenparkdashboard, selecteert u het voertuig en navigeert u naar ‘Verzekeringsinformatie’. "
+        }
+      },
+      "SupportAndResources": {
+        "heading": "Ondersteuning en hulpmiddelen",
+        "list": {
+          "title1": "Biedt zentry-clone speciale ondersteuningskanalen voor wagenparkeigenaren?",
+          "content1": "Ja, wagenparkeigenaren hebben toegang tot een speciale ondersteuningslijn en kunnen ondersteuning bereiken via de in-app chat of e-mail voor snelle hulp. ",
+          "title2": "Hoe kan ik contact opnemen met de ondersteuning van wagenparkeigenaren voor hulp?",
+          "content2": "U kunt contact opnemen met de ondersteuning via het Fleet Dashboard door 'Hulp en ondersteuning' te selecteren. ",
+          "title3": "Biedt zentry-clone trainingsmateriaal of hulpmiddelen voor wagenparkeigenaren?",
+          "content3": "Ja, zentry-clone biedt trainingsbronnen, waaronder best practices voor wagenparkbeheer, tips voor het verbeteren van de prestaties van chauffeurs en bronnen voor het maximaliseren van de vlootinkomsten.",
+          "title4": "Hoe krijg ik toegang tot best practices of richtlijnen voor succesvol wagenparkbeheer?",
+          "content4": "Best practices voor wagenparkbeheer zijn beschikbaar in het wagenparkdashboard onder ‘Bronnen’. ",
+          "title5": "Zijn er leermiddelen beschikbaar voor chauffeurs binnen mijn wagenpark?",
+          "content5": "zentry-clone biedt trainingsvideo's, veiligheidstips en hulpmiddelen voor chauffeurs, rechtstreeks toegankelijk via de chauffeursapp. "
+        }
+      }
+    }
+  },
+  "PrivacyPolicy": {
+    "heading": "zentry-clone-privacybeleid",
+    "intro": "Bij zentry-clone geven we prioriteit aan uw privacy. ",
+    "items": {
+      "title1": "Bereik van dit beleid",
+      "title2": "De informatie die we verzamelen",
+      "title3": "De informatie die u ons verstrekt",
+      "title4": "Informatie die we verzamelen wanneer we het zentry-clone Platform gebruiken",
+      "title5": "Informatie die we verzamelen van derden",
+      "title6": "Hoe wij uw informatie gebruiken"
+    },
+    "content": {
+      "first": {
+        "title": "Bereik van dit beleid",
+        "memo": "Dit beleid is van toepassing op alle zentry-clone-gebruikers, inclusief rijders en chauffeurs en op alle zentry-clone-diensten en -platforms, inclusief onze apps, websites, functies en alle andere diensten die gezamenlijk worden aangeduid als zentry-clone-platforms."
+      },
+      "second": {
+        "title": "De informatie die we verzamelen",
+        "memo": "Wanneer u het zentry-clone Platform gebruikt, verzamelen wij de door u verstrekte informatie, gebruiksinformatie en informatie over uw apparaat. "
+      },
+      "third": {
+        "title": "Informatie die u aan ons verstrekt",
+        "memo": "<p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Accountregistratie: </span> Wanneer u een account aanmaakt bij zentry-clone, verzamelen wij de informatie die u ons verstrekt, zoals uw naam, e-mailadres, telefoonnummer, geboortedatum en betalingsgegevens.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Bestuurdersinformatie:  </span>Als u solliciteert als chauffeur, verzamelen wij de gegevens die u bij uw sollicitatie verstrekt, waaronder uw naam, e-mailadres, telefoonnummer, geboortedatum, profielfoto, fysiek adres, overheidsidentificatienummer zoals burgerservicenummer/sofinummer. </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Beoordelingen en feedback: </span> Wanneer u een beoordeling geeft en feedback geeft over passagiers of chauffeurs, verzamelen wij alle informatie die u in uw feedback verstrekt.</p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Mededeling: </span>Wanneer u contact met ons opneemt of wij contact met u opnemen, verzamelen wij alle informatie die u verstrekt, inclusief de inhoud van de berichten of bijlagen die u ons stuurt.</p>"
+      },
+      "fourth": {
+        "title": "Informatie die u aan ons verstrekt",
+        "memo": "<p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Locatie-informatie:  </span> Zeer goede ritten beginnen met een gemakkelijke en nauwkeurige pick-up.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Ruiters: </span>  We verzamelen de exacte locatie van uw apparaat wanneer u de zentry-clone-app opent en gebruikt, ook terwijl de app op de achtergrond draait vanaf het moment dat u een rit aanvraagt ​​tot deze eindigt.    </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Chauffeurs: </span>  We verzamelen de exacte locatie van uw apparaat wanneer u de app opent en gebruikt, ook wanneer de app op de achtergrond draait en in de bestuurdersmodus staat.   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Gebruiksinformatie: </span>  We verzamelen informatie over uw gebruik van het zentry-clone-platform, inclusief ritinformatie zoals de datum, tijd, bestemming, afstand, route, betaling en of u een promotie- of verwijzingscode gebruikt.   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Apparaatinformatie: </span>  We verzamelen informatie over de apparaten die u gebruikt om toegang te krijgen tot het zentry-clone-platform, inclusief apparaatmodel, IP-adres, type browser, versie van het besturingssysteem, identiteit van de provider of fabrikant, radiotype zoals 5G, voorkeuren en instellingen zoals voorkeur   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Communicatie tussen rijders en chauffeurs: </span>  We werken samen met een derde partij om telefoongesprekken en sms-berichten tussen passagiers en chauffeurs mogelijk te maken zonder het daadwerkelijke telefoonnummer van de ene partij met de andere te delen.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Adresboekcontacten: </span> U kunt uw apparaatrechten instellen om zentry-clone toegang te verlenen tot uw contactlijsten en zentry-clone opdracht te geven toegang te krijgen tot uw contactenlijst, om u te helpen bij het boeken van een rit voor vrienden en familie, en vrienden door te verwijzen naar zentry-clone.   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Cookies, analyses en technologieën van derden:</span>  We verzamelen informatie door het gebruik van \"cookies\", trackingpixels, tools voor gegevensanalyse zoals Google Analytics, SDK's en andere technologieën van derden om te begrijpen hoe u door het zentry-clone-platform navigeert en communiceert met zentry-clone-advertenties, om  </p>"
+      },
+      "fith": {
+        "title": "Informatie die we verzamelen van derden",
+        "memo": "<p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Diensten van derden:</span> Diensten van derden voorzien ons van de informatie die nodig is voor de kernaspecten van het zentry-clone Platform, maar ook voor aanvullende diensten, programma's, loyaliteitsvoordelen en promoties die uw ervaring met zentry-clone kunnen verbeteren. </p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Informatie over u verstrekt door specifieke diensten, zoals demografische en marketingsegmentinformatie.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Informatie om loyaliteits- en promotieprogramma's of applicaties, diensten of functies die u kiest om verbinding te maken of te koppelen aan uw zentry-clone-account, uit te voeren, zoals informatie over uw gebruik van dergelijke programma's, applicaties, diensten of functies</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Informatie over uw deelname aan programma's van derden die zaken als verzekeringsdekking en financiële instrumenten bieden, zoals informatie over verzekeringen, betalingen, transacties en fraudedetectie</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Informatie om het zentry-clone Platform veiliger te maken, zoals antecedentenonderzoek voor chauffeurs.</p></li></ul><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">Enterprise-programma's:</span> Wanneer u zentry-clone gebruikt via uw werkgever of een andere organisatie die deelneemt aan een van onze zentry-clone Business ondernemingsprogramma's, verzamelen wij informatie over u van die partijen, zoals uw naam en contactgegevens.</p><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">Conciërgeservice:</span> Soms kan een ander bedrijf of entiteit een zentry-clone-rit voor u bestellen. </p><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">Verwijzingsprogramma's: </span> Vrienden helpen vrienden het zentry-clone Platform te gebruiken.  </p><p class=\"text-[24px] font-normal\"><span class=\" text-[24px] font-medium\">Andere gebruikers en bronnen: </span>Andere gebruikers of publieke of externe bronnen zoals wetshandhavingsinstanties, verzekeraars, media of voetgangers kunnen ons informatie over u verstrekken, bijvoorbeeld als onderdeel van een onderzoek naar een incident of om u ondersteuning te bieden.</p>"
+      },
+      "sixth": {
+        "title": "Hoe we uw informatie gebruiken",
+        "memo": "<p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Wij gebruiken uw persoonlijke gegevens om:</span></p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Bied een zentry-clone-platform aan.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Reageer op juridische procedures en verplichtingen.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Verbeter zentry-clone-platforms.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Bied klantenondersteuning.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Bouw en onderhoud de zentry-clone-gemeenschap.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. Handhaaf de beveiliging en veiligheid van het zentry-clone Platform en zijn gebruikers.</p></li></ul><p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Het aanbieden van het zentry-clone-platform:</span> We gebruiken uw persoonlijke gegevens om een ​​nuttige, effectieve, efficiënte, intuïtieve en waardevolle ervaring op ons platform te bieden. </p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Controleer uw identiteit en onderhoud uw account, instellingen en voorkeuren.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Verbind u met uw ritten en volg hun voortgang.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Bereken prijzen en verwerk betalingen.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Laat passagiers en chauffeurs verbinding maken met betrekking tot hun rit en ervoor kiezen hun locatie met anderen te delen. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Met u communiceren over uw ritten en ervaringen.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. Verzamel feedback over uw ervaring.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">7. Organiseer wedstrijden, sweepstakes en andere promoties.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">8. Faciliteren van aanvullende diensten en programma’s met derde partijen.</p></li></ul><p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Het handhaven van de beveiliging en veiligheid van het zentry-clone Platform en zijn gebruikers: </span>Het bieden van een veilige ervaring is de drijfveer van ons platform, zowel onderweg als in onze apps. </p><ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Authenticeer gebruikers.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Controleer of chauffeurs en hun voertuigen voldoen aan de veiligheidseisen.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Stimuleer veilig rijgedrag en vermijd onveilige activiteiten.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Onderzoek en los incidenten, ongevallen en verzekeringsclaims op.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Vind en voorkom fraude, en blokkeer en verwijder onveilige of frauduleuze gebruikers van het zentry-clone Platform. </p></li></ul> <p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">zentry-clone-gemeenschap opbouwen en onderhouden:</span> zentry-clone wil een positief onderdeel van de gemeenschap zijn. </p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Met u communiceren over evenementen en promoties.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Personaliseer en bied inhoud, ervaringen, communicatie en advertenties om het zentry-clone-platform te promoten en te laten groeien en om donaties die u via het zentry-clone Platform wilt doen, te vergemakkelijken. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Bied klantenondersteuning door hard te werken om de best mogelijke ervaring te bieden, inclusief ondersteuning wanneer u die nodig heeft. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Verbeter het zentry-clone Platform, we werken er altijd aan om uw ervaring te verbeteren en u nieuwe en nuttige functies te bieden.  </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Onze activiteiten en processen monitoren en verbeteren, inclusief beveiligingspraktijken, algoritmen en andere modellen. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. Ontwikkel nieuwe producten, functies, partnerschappen en diensten. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">7. Voer onderzoek, tests en analyses uit.  </p></li></ul> <p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Reageren op juridische procedures en vereisten: </span>Soms leggen de wet, overheidsinstanties of andere regelgevende instanties ons eisen en verplichtingen op met betrekking tot de diensten die we willen leveren. </p> "
+      }
+    }
+  },
+  "TermsAndCondition": {
+    "heading": "Algemene voorwaarden van zentry-clone",
+    "items": {
+      "title1": "Invoering",
+      "title2": "Wijziging van de Overeenkomst",
+      "title3": "Geschiktheid",
+      "title4": "Accountregistratie",
+      "title5": "Gebruikersgedrag",
+      "title6": "Ritaanvragen en annuleringen",
+      "title7": "Betaling",
+      "title8": "Beoordelingen en feedback",
+      "title9": "Toestelmachtigingen",
+      "title10": "Diensten van derden",
+      "title11": "Beperking van aansprakelijkheid",
+      "title12": "Schadeloosstelling",
+      "title13": "Beëindiging",
+      "title14": "Toepasselijk recht",
+      "title15": "Wijzigingen in Algemene Voorwaarden",
+      "title16": "Neem contact met ons op"
+    },
+    "content": {
+      "first": {
+        "title": "Invoering",
+        "memo": "Welkom bij zentry-clone, een ritdienst die rijders met chauffeurs verbindt via onze platforms, waaronder apps, websites en andere diensten (gezamenlijk zentry-clone Platforms genoemd). "
+      },
+      "second": {
+        "title": "Wijziging van de Overeenkomst",
+        "memo": "zentry-clone behoudt zich het recht voor om de voorwaarden van deze Overeenkomst te wijzigen. "
+      },
+      "third": {
+        "title": "Geschiktheid",
+        "memo": "<p class=\"text-[24px] font-normal\">Om zentry-clone Platforms te gebruiken, moet u minimaal 18 jaar oud zijn en in staat zijn een juridisch bindend contract te sluiten.  </p><p class=\"text-[24px] font-normal\"> U zorgt ervoor dat het gebruik van het zentry-clone-platform door de minderjarige uitsluitend beperkt is tot de toegang tot en het gebruik van zentry-clone-diensten en/of diensten van derden, indien uitdrukkelijk toegestaan ​​onder de Aanvullende Overeenkomst die van toepassing is op dergelijke zentry-clone-diensten en/of diensten van derden.  </p><p class=\"text-[24px] font-normal\">U stelt vast dat de zentry-clone Diensten en/of Diensten van Derden geschikt zijn voor de minderjarige, </p><p class=\"text-[24px] font-normal\">U zorgt ervoor dat het gebruik door de minderjarige van het zentry-clone-platform en de toepasselijke zentry-clone-diensten en/of diensten van derden plaatsvindt in overeenstemming met en met inachtneming van alle toepasselijke veiligheidsinstructies en waarschuwingen in deze Overeenkomst, eventuele toepasselijke Aanvullende Overeenkomsten en de zentry-clone-overeenkomst. </p>"
+      },
+      "fourth": {
+        "title": "Gebruikersgedrag",
+        "memo": "Wanneer u een account aanmaakt bij zentry-clone, moet u nauwkeurige en volledige informatie verstrekken, waaronder uw naam, e-mailadres, telefoonnummer en betalingsinformatie. "
+      },
+      "fifth": {
+        "title": " Gebruikersgedrag",
+        "memo": "U gaat ermee akkoord de zentry-clone Platforms te gebruiken in overeenstemming met alle toepasselijke wet- en regelgeving. "
+      },
+      "sixth": {
+        "title": "Ritaanvragen en annuleringen",
+        "memo": "Ruiters kunnen ritten aanvragen via zentry-clone Platforms. "
+      },
+      "seventh": {
+        "title": "Betaling",
+        "memo": "Passagiers gaan ermee akkoord om voor elke rit het tarief te betalen dat in de app wordt weergegeven, inclusief mogelijk extra toeslagen, tolgelden of toeslagen. "
+      },
+      "eight": {
+        "title": "Beoordelingen en feedback",
+        "memo": "Na elke rit kunnen renners en chauffeurs elkaar beoordelen en feedback geven. "
+      },
+      "nine": {
+        "title": " Toestelmachtigingen",
+        "memo": "zentry-clone Platforms kunnen toegang vragen tot de locatiediensten, de contactenlijst en andere machtigingen van uw apparaat om een ​​betere ervaring te bieden. "
+      },
+      "tenth": {
+        "title": "Diensten van derden",
+        "memo": "zentry-clone kan diensten van derden gebruiken om bepaalde functies te faciliteren, zoals betalingsverwerking en communicatie tussen passagiers en chauffeurs. "
+      },
+      "eleventh": {
+        "title": "Beperking van aansprakelijkheid",
+        "memo": "Voor zover maximaal toegestaan ​​door de wet, is zentry-clone niet aansprakelijk voor enige indirecte, incidentele, speciale, vervolg- of punitieve schade, of enig verlies van winst of inkomsten, direct of indirect opgelopen, of enig verlies van gegevens, gebruik, "
+      },
+      "twelevth": {
+        "title": "Schadeloosstelling",
+        "memo": "U stemt ermee in om zentry-clone, haar dochterondernemingen, functionarissen, directeuren, werknemers en agenten schadeloos te stellen en te vrijwaren van en tegen alle claims, aansprakelijkheden, schade, verliezen en kosten, inclusief maar niet beperkt tot redelijke juridische en boekhoudkundige kosten, die voortvloeien uit "
+      },
+      "thirthin": {
+        "title": "Beëindiging",
+        "memo": "zentry-clone kan uw account en toegang tot zentry-clone Platforms op elk moment beëindigen of opschorten, zonder voorafgaande kennisgeving of aansprakelijkheid, om welke reden dan ook, ook als u deze Algemene Voorwaarden schendt."
+      },
+      "fourthin": {
+        "title": "Toepasselijk recht",
+        "memo": "Deze Algemene Voorwaarden worden beheerst door en geïnterpreteerd in overeenstemming met de wetten van het rechtsgebied waarin u woont. "
+      },
+      "fiteen": {
+        "title": "Wijzigingen in Algemene Voorwaarden",
+        "memo": "zentry-clone behoudt zich het recht voor om deze Algemene Voorwaarden op elk moment te wijzigen. "
+      },
+      "sixteen": {
+        "title": "Neem contact met ons op",
+        "memo": "Als u vragen heeft over deze Algemene voorwaarden, neem dan contact met ons op via {contactEmail}"
+      }
+    }
+  },
+  "contactEmail": "support@zentry-clone.com",
+  "SecurityPolicy": {
+    "heading": "zentry-clone-beveiligingsbeleid",
+    "intro": "Bij zentry-clone geven we prioriteit aan de veiligheid en beveiliging van onze gebruikers, inclusief passagiers en chauffeurs. ",
+    "content": {
+      "first": {
+        "title": "Gegevensbeveiliging en privacy",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Gegevenscodering:</span> zentry-clone maakt gebruik van industriestandaard encryptie (AES-256) om gevoelige gegevens te beschermen tijdens verzending en opslag. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Toegangscontrole: </span>We maken gebruik van een op rollen gebaseerd toegangscontrolesysteem, waarbij de toegang tot gegevens strikt wordt beperkt tot geautoriseerd personeel. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Gegevensretentie: </span>Persoonlijke gegevens worden slechts bewaard zolang als nodig is voor de doeleinden vermeld in ons Privacybeleid. </p>"
+      },
+      "second": {
+        "title": "Accountbeveiliging",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Veilige aanmeldingsprotocollen:</span>zentry-clone maakt gebruik van multi-factor authenticatie (MFA) voor accountaanmelding om ongeautoriseerde toegang te voorkomen. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Verdachte activiteitsmonitoring:</span> Ons systeem controleert op ongebruikelijke inlogpogingen of veranderingen in het gebruikersgedrag. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Hulp bij herstel: </span> Voor gebruikers die inlogproblemen ondervinden, bieden we ondersteuning voor accountherstel via geverifieerde kanalen om de accountbeveiliging te behouden.</p>"
+      },
+      "third": {
+        "title": "Veiligheidsmaatregelen tijdens het rijden",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Realtime volgen:</span> Alle ritten kunnen in realtime worden gevolgd via de app, waardoor passagiers en chauffeurs nauwkeurige navigatiegegevens en geschatte aankomsttijden krijgen. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Noodhulp (SOS): </span>De zentry-clone-app bevat een in-app SOS-knop, waarmee gebruikers rechtstreeks verbinding kunnen maken met hulpdiensten in geval van veiligheidsproblemen. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Achtergrondcontroles van chauffeurs:</span> Chauffeurs ondergaan een grondig controleproces, inclusief antecedentenonderzoek en verificatie van rijgegevens. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Voertuiginspecties:</span> Alle voertuigen in de zentry-clone-vloot worden regelmatig geïnspecteerd, wat bevestigt dat ze aan onze veiligheidsnormen voldoen. </p>"
+      },
+      "fourth": {
+        "title": "Richtlijnen voor gebruikersgedrag",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Nultolerantiebeleid:</span> zentry-clone hanteert een nultolerantiebeleid voor discriminatie, intimidatie of misbruik van welke aard dan ook. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Rapportage en reactie:</span> Gebruikers kunnen wangedrag via de app melden, waardoor we problemen efficiënt kunnen beoordelen en aanpakken. </p>"
+      },
+      "fifth": {
+        "title": "Privacy voor chauffeurs en passagiers",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Geanonimiseerde communicatie:</span> Onze in-app-communicatiekanalen anonimiseren contactgegevens, waardoor passagiers en chauffeurs kunnen communiceren zonder persoonlijke telefoonnummers uit te wisselen.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Beperkte toegang tot persoonlijke informatie:</span> zentry-clone deelt alleen essentiële informatie met chauffeurs (zoals ophaal- en afleverlocaties) om ritten te vergemakkelijken en andere persoonlijke gegevens van passagiers te beschermen. </p>"
+      },
+      "sixth": {
+        "title": "Fraudepreventie",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Veilige betalingsverwerking:</span> We werken samen met toonaangevende betalingsverwerkers die voldoen aan de PCI-DSS-normen om alle transacties te beveiligen.  </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Antifraudetechnologie:</span> zentry-clone maakt gebruik van AI-gebaseerde fraudedetectietools die monitoren op ongebruikelijke activiteitspatronen om frauduleus gedrag te voorkomen.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Gebruikerseducatie:</span> We informeren gebruikers over mogelijke phishing-bedreigingen en adviseren hen geen gevoelige informatie buiten de zentry-clone-app te delen.</p>"
+      },
+      "seventh": {
+        "title": "Contact en ondersteuning",
+        "memo": "Als u vragen of zorgen heeft over de beveiliging, of als u problemen ondervindt, neem dan contact op met ons beveiligingsteam via {contactEmail} of via onze in-app ondersteuningchat.<br/> Wij blijven ons inzetten voor beveiliging en we herzien ons beleid regelmatig om ons aan te passen aan nieuwe bedreigingen en technologieën.  <br/>Door deze protocollen te volgen, wil zentry-clone een veilig en vertrouwd platform bieden voor alle gebruikers. "
+      }
+    },
+    "time": "Laatst bijgewerkt: 6 november 2024"
+  }
+}

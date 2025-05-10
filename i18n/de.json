@@ -1,0 +1,1128 @@
+{
+  "navbar": {
+    "Rides": "Fahrten",
+    "Drive": "Fahren",
+    "earn": "Verdienen Sie mit Tec-R ",
+    "Products": "Produkte",
+    "Company": "Unternehmen",
+    "Support": "Unterstützung",
+    "Patner": "Partner von Tec-R",
+    "FleetOwners": "Flottenbesitzer",
+    "Logistics": "Tec-R Logistik",
+    "Rentals": "Tec-R-Verleih",
+    "AboutUs": "Über uns",
+    "Blog": "Blog",
+    "ContactUs": "Kontaktieren Sie uns",
+    "Safety": "Sicherheit",
+    "OurBrand": "Unsere Marke"
+  },
+  "footer": {
+    "Subscribe": "Abonnieren",
+    "Products": "Produkte",
+    "Rides": "Fahrten",
+    "Driver": "Fahren",
+    "Business": "Geschäft",
+    "Earn_with_TecR": "Verdienen Sie mit Tec-R",
+    "Patner_with_TecR": "Partner von Tec-R",
+    "Fleet_Owners": "Flottenbesitzer",
+    "Company": "Unternehmen",
+    "About_Us": "Über uns",
+    "Contact_Us": "Kontaktieren Sie uns",
+    "Support": "Unterstützung",
+    "Blog": "Blog",
+    "Privacy": "Privatsphäre",
+    "Join_Us": "Begleiten Sie uns",
+    "Terms_&_Condition": "Allgemeine Geschäftsbedingungen",
+    "T_&_C": "AGB",
+    "Cookies": "Kekse",
+    "Security": "Sicherheit",
+    "All_rights": "Alle Rechte vorbehalten.",
+    "placeholder": "Geben Sie Ihre E-Mail ein..."
+  },
+  "home": {
+    "section1": {
+      "homeIntroHeading": "Mühelos <br class=\"md:block hidden\" /> beschwöre deine <br class=\"md:block hidden\" /> Reise mit <br class=\"md:block hidden\" /> unsere App.",
+      "homeIntroMemo": " Genießen Sie eine bequeme Mitfahrgelegenheit <br class=\"md:block hidden\" /> Erleben Sie mit unserer App, wo Sie <br class=\"md:block hidden\" /> können mühelos anfordern, verfolgen und <br class=\"md:block hidden\" /> Bezahlen Sie Ihre Fahrt.",
+      "buttonText": "Laden Sie die App herunter"
+    },
+    "section2": {
+      "heading": "Fahren Sie, um auf Ihrer Reise Geld zu verdienen.",
+      "buttonText": " Erfahren Sie mehr",
+      "items": {
+        "title1": "Nahtloses Verdienen unterwegs",
+        "desc1": "Unsere benutzerfreundliche App verfolgt Ihren Kilometerstand und vergütet Sie für die zurückgelegte Strecke. So können Sie Ihr Einkommen unterwegs problemlos aufbessern.",
+        "title2": "Von Punkt A bis Zahltag",
+        "desc2": "Verwandeln Sie jede Reise in eine Möglichkeit, Geld zu verdienen. ",
+        "title3": "Zuverlässiger Verdienst:",
+        "desc3": "Tec-R bietet eine stabile und zuverlässige Einnahmequelle und sorgt für finanzielle Sicherheit und Seelenfrieden.",
+        "title4": "Ihre Flotte, Ihr Verdienst",
+        "desc4": " Setzen Sie Ihre Flotte ein und maximieren Sie mühelos Ihre Einnahmen. "
+      }
+    },
+    "section3": {
+      "heading": "Warum uns wählen?",
+      "intro": "Wir werten Ihr Urban auf <br class=\"md:block hidden\" /><span class=\"lg:text-[60px] text-[32px] tracking-[2%] font-medium !mb-6 text-brand md:leading-[86.4px] leading-[43.2px]\"> Mobilitätserfahrung.</span>",
+      "items": {
+        "title1": "Wir bieten schnelle und einfache Fahrten",
+        "desc1": "Unsere Fahrten-App bietet einen schnellen und nahtlosen Prozess zur Buchung einer Fahrt ",
+        "title2": "Wir bieten Punkte und Prämien",
+        "desc2": "Jede Fahrt mit zentry-clone bringt Sie exklusiven Prämien näher",
+        "title3": "Wir bieten vielfältige Möglichkeiten",
+        "desc3": "Sie können aus einer Reihe von Fahrzeugoptionen wählen, die Ihren Bedürfnissen entsprechen."
+      }
+    },
+    "section4": {
+      "heading": "Unsere Leistungen",
+      "subheading": "Unsere breite Produktpalette deckt weltweit unterschiedliche Bedürfnisse ab, wobei die Verfügbarkeit je nach Land variiert.",
+      "intro": "Wir werten Ihr Urban auf <br class=\"md:block hidden\" /><span class=\"lg:text-[60px] text-[32px] tracking-[2%] font-medium !mb-6 text-brand md:leading-[86.4px] leading-[43.2px]\"> Mobilitätserfahrung.</span>",
+      "items": {
+        "title1": "Regelmäßige Fahrten",
+        "desc1": "Wählen Sie die regulären Tec-R-Fahrten für stressfreies Reisen. ",
+        "title2": "Privatjet  ",
+        "desc2": "Gönnen Sie sich Luxus und Komfort mit unserem Privatjet-Paket mit individuell anpassbaren Reiserouten, VIP-Services und erstklassigen Annehmlichkeiten.",
+        "title3": "Tec-R Promi/VIP",
+        "desc3": "Erweitern Sie Ihre Fahrt mit dem Celebrity/VIP Ride Plan für ein wirklich luxuriöses Erlebnis, das auf Ihre Bedürfnisse zugeschnitten ist.",
+        "title4": "Tec-R-Geschäft",
+        "desc4": "Mit einem einzigen Klick können Sie Mitarbeiterreisen, Rechnungen und Ausgaben ganz einfach verwalten und sorgen so für ein stressfreies Erlebnis.",
+        "title5": "Tec-R-Helikopter-Reise",
+        "desc5": "Tec-R bringt die urbane Mobilität mit seinem Helikopter-Leasingservice auf ein neues Niveau und bietet eine schnelle und effiziente Möglichkeit, sich durch die Stadt zu bewegen.",
+        "title6": "Tec-R Transport",
+        "desc6": "Optimieren Sie Ihre Logistik ganz einfach mit unseren Lösungen und sorgen Sie so für reibungslose Abläufe und eine effiziente Ressourcennutzung."
+      }
+    },
+    "section5": {
+      "heading": "Bestellen Sie schnell,  <br class=\"md:block hidden\" /> fahre pünktlich.",
+      "subheading": "Wo auch immer Sie hingehen, wir helfen Ihnen, sicher und bequem dorthin zu gelangen. ",
+      "buttonText": "Zum Herunterladen scannen",
+      "items": {
+        "title1": "Laden Sie die App im App Store herunter",
+        "desc1": "Unsere Fahrten-App bietet einen schnellen und nahtlosen Prozess zur Buchung einer Fahrt ",
+        "title2": "Laden Sie die App im Play Store herunter ",
+        "desc2": "Jede Fahrt mit zentry-clone bringt Sie exklusiven Prämien näher"
+      }
+    },
+    "faqs": {
+      "first": {
+        "name": " Wie lade ich die Tec-R-App herunter?",
+        "content": "Sie können die Tec-R-App im App Store für iOS-Geräte oder im Google Play Store für Android-Geräte herunterladen. "
+      },
+      "second": {
+        "name": " Wie erstelle ich ein Konto bei zentry-clone?",
+        "content": "Öffnen Sie die Tec-R-App und klicken Sie auf „Anmelden“. "
+      },
+      "third": {
+        "name": "Wie beantrage ich eine Fahrt?",
+        "content": "Um eine Fahrt anzufordern, öffnen Sie einfach unsere App, geben Sie Ihre Abhol- und Abgabeorte ein, wählen Sie Ihren bevorzugten Fahrzeugtyp aus und bestätigen Sie Ihre Anfrage. "
+      },
+      "fourth": {
+        "name": "Wie erfolgt die Zahlung?",
+        "content": "Wir akzeptieren verschiedene Zahlungsmethoden, darunter Kredit-/Debitkarten, persönliche oder familiäre Tec-R-Geldbörsen und Bargeld. "
+      },
+      "fifth": {
+        "name": "Ist der Fahrpreis festgelegt?",
+        "content": "Nein, der Fahrpreis variiert je nach Entfernung, Zeit und Ort."
+      },
+      "sixth": {
+        "name": "Wie kann ich Tec-R-Fahrer werden?",
+        "content": "Um Tec-R-Fahrer zu werden, laden Sie die Tec-R Driver-App herunter. "
+      },
+      "seventh": {
+        "name": "Kann ich Fahrten mit Tec-R im Voraus planen?",
+        "content": "Ja, Sie können Fahrten im Voraus planen. "
+      }
+    }
+  },
+  "rides": {
+    "section1": {
+      "heading": {
+        "smooth": "Glatt",
+        "Rides": "Fahrten",
+        "Seamless": "Nahtlos",
+        "Booking": "Buchung"
+      },
+      "intro": "Alle Fahrten in einer App, mit unterschiedlichen <br class=\"md:block hidden\" /> Pakete zum Genießen",
+      "buttonText": "Holen Sie sich die App",
+      "items": {
+        "title1": "Wählen",
+        "desc1": "Ziel auswählen <br/> mühelos ansprechen.",
+        "title2": "Wählen",
+        "desc2": "Wählen Sie Fahrzeuge <br/> je nach Geschmack.",
+        "title3": "Bestätigen",
+        "desc3": "Bestätigen Sie anschließend die Fahrt <br/> Überprüfung von Details."
+      }
+    },
+    "section2": {
+      "buttonText": "Holen Sie sich die App",
+      "heading": {
+        "BikeRides": "Fahrradtouren",
+        "atYour": "bei Ihnen",
+        "Fingertips": "Fingerspitzen:",
+        "Seamless": "Nahtlos",
+        "Unbeatable": "Unschlagbar",
+        "Experience": "Erfahrung",
+        "Booking": "Buchung"
+      },
+      "intro": "Begeben Sie sich noch heute mit unserem aufregenden Radtour-Paket ins Abenteuer, erkunden Sie malerische Routen, spüren Sie das Rauschen des Windes in Ihren Haaren und schaffen Sie unvergessliche Erinnerungen."
+    },
+    "section3": {
+      "buttonText": "Holen Sie sich die App",
+      "heading": {
+        "Our": "Unser",
+        "PrivateJet": "Privatjet",
+        "Package": "Paket:",
+        "offers": "Angebote",
+        "Luxury": "Luxus",
+        "in": "In",
+        "the": "Die",
+        "Skies": "Himmel"
+      },
+      "intro": "Gönnen Sie sich Luxus und Komfort mit unserem Privatjet-Paket mit individuell anpassbaren Reiserouten, VIP-Services und erstklassigen Annehmlichkeiten"
+    },
+    "section4": {
+      "buttonText": "Holen Sie sich die App",
+      "heading": {
+        "The": "Der",
+        "Celebrity/VIP": "Berühmtheit/VIP",
+        "Ride": "Fahrt:",
+        "Plan": "Planen",
+        "offers": "Angebote",
+        "Exclusive": "Exklusiv",
+        "and": "Und",
+        "Personalized": "Personalisiert",
+        "Services": "Dienstleistungen"
+      },
+      "intro": "Erweitern Sie Ihre Fahrt mit dem Celebrity/VIP Ride Plan für ein wirklich luxuriöses Erlebnis, das auf Ihre Bedürfnisse zugeschnitten ist. "
+    },
+    "section5": {
+      "heading": {
+        "Effortlessly": "Mühelos",
+        "manage": "verwalten",
+        "employee": "Mitarbeiter",
+        "travel": "reisen",
+        "with": "mit",
+        "a": "A",
+        "on": "An",
+        "click": "klicken",
+        "Tec-RBusiness": "Tec-R-Geschäft"
+      },
+      "intro": "Unser Business-Paket bietet eine effiziente Verwaltung der Mitarbeiterreisen mit einem Klick und ermöglicht gleichzeitig eine einfache Rechnungs- und Spesenabwicklung für ein nahtloses Erlebnis."
+    },
+    "section6": {
+      "buttonText": "Holen Sie sich die App",
+      "heading": {
+        "Experience": "Erfahrung",
+        "an": "ein",
+        "extraordinary": "außergewöhnlich",
+        "Trip": "Reise",
+        "with": "mit",
+        "our": "unser",
+        "exclusive": "exklusiv",
+        "Helicopter": "Hubschrauber",
+        "Package": "Paket"
+      },
+      "intro": "Unser Helikopter-Paket bietet ein unvergessliches und luxuriöses Erlebnis. "
+    },
+    "section7": {
+      "buttonText": "Entdecken Sie unsere Sicherheitsmaßnahmen",
+      "heading": {
+        "Ensuring": "Sicherstellen",
+        "Safety": "Sicherheit",
+        "by": "von",
+        "prioritizing": "Priorisieren",
+        "Riders": "Fahrer",
+        "well-being": "Wohlbefinden"
+      },
+      "intro": " Wir legen Wert auf Ihre Sicherheit und Ihren Respekt, beginnend mit Ihrer ersten Fahrt. "
+    },
+    "section8": {
+      "buttonText": "Entdecken Sie unsere Sicherheitsmaßnahmen",
+      "heading": {
+        "Everyone": "Alle",
+        "Deserves": "Verdient",
+        "a": "A",
+        "Ride": "Fahrt:",
+        "Tec-R": "Tec-R",
+        "Accessibility": "Zugänglichkeit",
+        "Features": "Merkmale"
+      },
+      "intro": "Wir bei Tec-R glauben, dass jeder ein komfortables und bequemes Ride-Hailing-Erlebnis verdient. ",
+      "items": {
+        "title1": "Rollstuhlgerechte Fahrzeuge",
+        "desc1": "Fordern Sie direkt über die App ein rollstuhlgerechtes Fahrzeug an, um eine reibungslose und komfortable Fahrt zu gewährleisten.",
+        "title2": "In-App-Barrierefreiheitsfunktionen",
+        "desc2": "Unsere App ist so konzipiert, dass sie für jedermann zugänglich ist, einschließlich Funktionen wie Screenreader-Kompatibilität, Optionen für größere Schriftgrößen und kontrastreiche Designs.",
+        "title3": "Zusätzliche Unterstützung",
+        "desc3": "Geben Sie an, ob Sie bei der Abholung oder Rückgabe besondere Unterstützung benötigen. Unsere Fahrer helfen Ihnen gerne weiter."
+      }
+    }
+  },
+  "Explore": "Erkunden",
+  "More": "Mehr",
+  "drive": {
+    "section1": {
+      "heading": {
+        "Drive": "Fahren",
+        "your": "dein",
+        "Way": "Weg",
+        "Be": "Sei",
+        "on": "An",
+        "Boss": "Chef",
+        "and": "Und",
+        "Terms": "Bedingungen",
+        "Earn": "Verdienen"
+      },
+      "intro": "Bereit zum Fahren?  <br class=\"md:block hidden\" /> Verdienen Sie noch heute als Fahrer bei zentry-clone!",
+      "buttonText": "Laden Sie die App herunter"
+    },
+    "section2": {
+      "heading": "Beginnen Sie als Fahrer.",
+      "items": {
+        "title1": "Herunterladen und anmelden",
+        "desc1": "Laden Sie die Tec-R Driver-App herunter (verfügbar im App Store oder Google Play Store). ",
+        "title2": "Schnelle Überprüfung",
+        "desc2": "Stellen Sie einige grundlegende Dokumente wie Ihren Führerschein, Ihren Fahrzeugschein und einen Versicherungsnachweis bereit (Anforderungen können variieren). ",
+        "title3": "Machen Sie sich auf den Weg!",
+        "desc3": "Nach der Genehmigung erhalten Sie eine Benachrichtigung und können den Fahrermodus in der App aktivieren. "
+      }
+    },
+    "section3": {
+      "heading": "Vorteile des Fahrens mit zentry-clone.",
+      "intro": " Egal, ob Sie gelegentlich Flexibilität suchen oder regelmäßig <br class=\"lg:flex hidden\" /> Dank der Einnahmequelle von Tec-R können Sie zu Ihren Bedingungen fahren.",
+      "items": {
+        "title1": "Flexibilität und Freiheit",
+        "desc1": "Fahren Sie, wann immer es Ihnen passt. ",
+        "title2": "Konstante Erträge",
+        "desc2": "Genießen Sie ein stabiles Einkommen mit unseren zuverlässigen und wettbewerbsfähigen Vergütungen, die für finanzielle Stabilität sorgen.",
+        "title3": "Anreize und Boni",
+        "desc3": "Verdienen Sie zusätzliches Geld mit leistungsbasierten Prämien und Anreizen, die Ihr Engagement und Ihre harte Arbeit belohnen."
+      }
+    },
+    "section4": {
+      "heading": "So funktioniert die zentry-clone Driver-App",
+      "intro": " Zuverlässig und einfach zu bedienen, mit allem, was Sie brauchen, um zu fahren und Geld zu verdienen, wann Sie wollen.",
+      "items": {
+        "title1": "Herunterladen und registrieren",
+        "desc1": "Gehen Sie zum Google Play Store oder Apple App Store. ",
+        "title2": "Empfangen und Annehmen von Fahrten",
+        "desc2": "Sie erhalten eine Benachrichtigung, wenn eine Fahrtanfrage eingeht. Akzeptieren Sie diese, um die Fahrt zu bestätigen und zum Abholort zu gehen.",
+        "title3": "Navigieren zu Abhol- und Abgabeorten",
+        "desc3": "Nutzen Sie die integrierte Navigation der App, um zum Abholort zu gelangen. ",
+        "title4": "Abschluss der Fahrt und Verwaltung der Einnahmen",
+        "desc4": "Sobald der Passagier abgesetzt wurde, tippen Sie in der App auf „Fahrt beenden“.  "
+      }
+    },
+    "section5": {
+      "heading": "Beliebte Fragen von Fahrern"
+    },
+    "section6": {
+      "heading": {
+        "Prioritizing": "Priorisieren",
+        "Driver": "Treiber",
+        "well-being": "Weg",
+        "to": "Zu",
+        "ensure": "sicherstellen",
+        "Safety": "Sicherheit"
+      },
+      "intro": "Wir legen Wert auf Ihre Sicherheit und Ihren Respekt, beginnend mit Ihrer ersten Fahrt. ",
+      "buttonText": " Entdecken Sie unsere Sicherheitsmaßnahmen"
+    }
+  },
+  "partnerWithTecR": {
+    "section1": {
+      "heading": {
+        "Expand": "Expandieren",
+        "Your": "Dein",
+        "Reach": "Erreichen",
+        "Become": "Werden",
+        "a": "A",
+        "Tec-R": "Tec-R",
+        "Partner": "Partner"
+      },
+      "intro": "Werden Sie noch heute Partner von Tec-R und genießen Sie es <br class=\"md:block hidden\" /> mehr Bestellungen, höhere Umsätze usw <br class=\"md:block hidden\" /> Unübertroffene Sichtbarkeit – fangen Sie an zu ernten <br class=\"md:block hidden\" /> Jetzt die Vorteile nutzen!",
+      "buttonText": "Beginnen Sie noch heute"
+    },
+    "section2": {
+      "heading": {
+        "Why": "Warum",
+        "with": "mit",
+        "Tec-R": "Tec-R?",
+        "Partner": "Partner"
+      },
+      "intro": " Wir schaffen ein überzeugendes Wertversprechen, das einen vielfältigen Partnerpool anzieht und ein Win-Win-Ökosystem für alle Beteiligten fördert.",
+      "buttonText": "Beginnen Sie noch heute",
+      "items": {
+        "title1": "Erweiterte Reichweite",
+        "desc1": "Zugriff auf ein großes und wachsendes Netzwerk von Flottenbesitzern und Fahrern.",
+        "title2": "Erhöhte Markenbekanntheit",
+        "desc2": "Erhöhte Markenbekanntheit und Reichweite durch Co-Marketing-Möglichkeiten.",
+        "title3": "Provisionsmöglichkeiten",
+        "desc3": "Möglichkeiten zur Umsatzgenerierung durch Empfehlungen oder Provisionen.",
+        "title4": "Erweiterte Serviceangebote",
+        "desc4": "Integration mit einer führenden Flottenmanagementplattform."
+      }
+    },
+    "section3": {
+      "heading": "Partnerschaftsmöglichkeiten",
+      "intro": " Tec-R, eine führende Ride-Hailing-Plattform, verbindet Fahrer mit Fahrern und Fahrzeugen.<br class=\"lg:flex hidden\" /> Wir bieten Unternehmen verschiedene Möglichkeiten der Partnerschaft, um ihre Reichweite zu erweitern.<br class=\"lg:flex hidden\" /> Generieren Sie Einnahmen und verbessern Sie die Dienstleistungen.",
+      "items": {
+        "title1": "Fahrerpartnerschaft",
+        "desc1": "Treten Sie dem Tec-R-Netzwerk bei, indem Sie sich mit Ihrem Fahrzeug anmelden und verdienen Sie eine Provision für jede abgeschlossene Fahrt.",
+        "title2": "Marketing- und Expansionspartnerschaft",
+        "desc2": "Gewinnen Sie neue Kunden und Besucher für Ihr Unternehmen, indem Sie mit einer weit verbreiteten Plattform zusammenarbeiten.",
+        "title3": "Technologiepartnerschaft",
+        "desc3": "Entwickeln Sie Integrationen zwischen Ihren Technologielösungen und der Tec-R-Plattform für ein nahtloses Benutzererlebnis.",
+        "title4": "Flottenmanagementunternehmen",
+        "desc4": "Bieten Sie Ihre bestehende Fahrzeug- und Fahrerflotte über die Tec-R-Plattform einem breiteren Kundenstamm an."
+      }
+    },
+    "banner": {
+      "heading": {
+        "Expand": "Expandieren",
+        "Your": "Dein",
+        "Reach": "Erreichen",
+        "Today": "Heute!"
+      },
+      "intro": "Kontaktieren Sie uns, um eine individuelle Lösung zu entdecken. <br class=\"lg:flex hidden\" />Partnerschaft",
+      "buttonText": "Kontaktieren Sie uns"
+    },
+    "FAQs": {
+      "heading": "Häufig gestellte Fragen",
+      "intro": "Finden Sie schnelle Lösungen für häufige Fragen zu unserem Ride-Hailing und<br class=\"md:block hidden\" />  andere Dienstleistungen."
+    }
+  },
+  "earnWithTecR": {
+    "section1": {
+      "heading": {
+        "Empower": "Ermächtigen",
+        "Your": "Dein",
+        "Fleet": "Flotte",
+        "Optimize": "Optimieren",
+        "Business": "Geschäft"
+      },
+      "intro": " Übernehmen Sie mit uns die Kontrolle über Ihren Flottenbetrieb <br class=\"md:block hidden\" /> Managementlösungen, Kosten senken, steigern <br class=\"md:block hidden\" />Produktivität und gewinnen wertvolle Erkenntnisse für <br class=\"md:block hidden\" /> intelligentere Entscheidungen.",
+      "buttonText": "Holen Sie sich die App"
+    },
+    "section2": {
+      "heading": {
+        "Benefits": "Vorteile",
+        "of": "von",
+        "Partnering": "Partnerschaften",
+        "with": "mit",
+        "Us": "Uns"
+      },
+      "intro": " Zuverlässig und einfach zu bedienen, mit allem, was Sie brauchen, um zu fahren und Geld zu verdienen, wann Sie wollen.",
+      "items": {
+        "title1": "Reduzierte Kosten",
+        "desc1": "Sparen Sie Kraftstoff durch optimierte Routen, senken Sie Wartungskosten durch vorbeugende Planung und senken Sie Versicherungskosten durch sichere Fahrgewohnheiten.",
+        "title2": "Erhöhte Produktivität",
+        "desc2": "Optimieren Sie Lieferpläne für pünktliche Ankunft, steigern Sie die Effizienz der Fahrer durch optimierte Aufgaben und reduzieren Sie Ausfallzeiten durch vorbeugende Wartung.",
+        "title3": "Erhöhte Sicherheit",
+        "desc3": "Fördern Sie sicheres Fahren und reduzieren Sie das Unfallrisiko, erhöhen Sie die Verantwortung des Fahrers durch Echtzeitverfolgung und sorgen Sie für die Sicherheit von Fahrzeugen und Vermögenswerten"
+      }
+    },
+    "section3": {
+      "heading": "So funktioniert die zentry-clone-Flotte",
+      "intro": " Tec-r vereinfacht das Flottenmanagement und gibt Ihnen mit einem umfassenden Funktionspaket die Möglichkeit, die Kontrolle zu übernehmen.",
+      "items": {
+        "title1": "Reduzierte Kosten",
+        "desc1": "Sparen Sie Kraftstoff durch optimierte Routen, senken Sie Wartungskosten durch vorbeugende Planung und senken Sie Versicherungskosten durch sichere Fahrgewohnheiten.",
+        "title2": "Erhöhte Produktivität",
+        "desc2": "Optimieren Sie Lieferpläne für pünktliche Ankunft, steigern Sie die Effizienz der Fahrer durch optimierte Aufgaben und reduzieren Sie Ausfallzeiten durch vorbeugende Wartung.",
+        "title3": "Erhöhte Sicherheit",
+        "desc3": "Fördern Sie sicheres Fahren und reduzieren Sie das Unfallrisiko, erhöhen Sie die Verantwortung des Fahrers durch Echtzeitverfolgung und sorgen Sie für die Sicherheit von Fahrzeugen und Vermögenswerten"
+      }
+    },
+    "FAQs": {
+      "heading": "Häufig gestellte Fragen"
+    },
+    "banner": {
+      "heading": {
+        "Begin": "Beginnen",
+        "to": "Zu",
+        "Earn": "Verdienen",
+        "with": "mit!",
+        "your": "dein",
+        "Vehicle": "Fahrzeug"
+      },
+      "intro": "Schöpfen Sie das Potenzial Ihrer Flotte aus <br class=\"lg:flex hidden\" /> und verdienen Sie noch heute kostenlos!",
+      "buttonText": "Legen Sie los "
+    }
+  },
+  "TecRLogistics": {
+    "section1": {
+      "heading": {
+        "Simplify": "Vereinfachen",
+        "Deliveries": "Lieferungen",
+        "with": "mit",
+        "Tec-R": "Tec-R",
+        "Logistics": "Logistik"
+      },
+      "intro": "Tec-R Logistics ist eine optimierte Lieferung <br class=\"md:block hidden\" /> Dienst, der zur Tec-R-App kommt.",
+      "buttonText": "Abonnieren",
+      "subIntro": "Erhalten Sie Updates zu unserem Start."
+    },
+    "section2": {
+      "heading": "Entdecken Sie wesentliche Funktionen",
+      "intro": "Schöpfen Sie das volle Potenzial unseres Produkts aus, indem Sie es erkunden<br class=\"md:block hidden\" /> wesentliche Merkmale.",
+      "items": {
+        "title1": "Lieferungen auf Abruf",
+        "desc1": "Planen Sie Abholungen und Lieferungen ganz nach Ihren Wünschen direkt über die Tec-R-App.",
+        "title2": "Echtzeit-Tracking",
+        "desc2": "Verfolgen Sie Ihr Paket in Echtzeit und sehen Sie sich die geschätzten Lieferzeiten an.",
+        "title3": "Mehrere Lieferoptionen",
+        "desc3": "Wählen Sie aus einer Vielzahl von Lieferoptionen, die Ihren Anforderungen entsprechen.",
+        "title4": "Wettbewerbsfähige Preise",
+        "desc4": "Erhalten Sie erschwingliche und transparente Preise für Ihre Lieferungen."
+      }
+    },
+    "banner": {
+      "heading": "Melden Sie sich jetzt an, um frühzeitigen Zugriff zu erhalten <br class=\"md:block hidden\" /> Tec-R Logistics & exklusive Rabatte!",
+      "intro": "Schöpfen Sie das Potenzial Ihrer Flotte aus <br class=\"lg:flex hidden\" /> und verdienen Sie noch heute kostenlos!",
+      "buttonText": "Abonnieren"
+    }
+  },
+  "TecRRentals": {
+    "section1": {
+      "heading": {
+        "Rentals": "Vermietungen",
+        "Your": "Dein",
+        "Car": "Auto",
+        "Tec-R": "Tec-R",
+        "Rental": "Vermietung",
+        "Hub": "Nabe"
+      },
+      "intro": "Tec-R Rentals ist eine praktische Autovermietung <br class=\"md:block hidden\" /> Dienst, der zur Tec-R-App kommt.",
+      "buttonText": "Abonnieren",
+      "subIntro": "Erhalten Sie Updates zu unserem Start."
+    },
+    "section2": {
+      "heading": "Entdecken Sie wesentliche Funktionen",
+      "intro": "Schöpfen Sie das volle Potenzial unseres Produkts aus, indem Sie es erkunden<br class=\"md:block hidden\" /> wesentliche Merkmale.",
+      "items": {
+        "title1": "Große Auswahl an Fahrzeugen",
+        "desc1": "Wählen Sie aus einer vielfältigen Fahrzeugflotte passend zu Ihren Bedürfnissen, vom Kleinwagen bis zum geräumigen SUV.",
+        "title2": "Einfache In-App-Buchung",
+        "desc2": "Buchen Sie Ihren Mietwagen schnell und einfach direkt über die Tec-R-App, jederzeit und überall.",
+        "title3": "Transparente Preisgestaltung",
+        "desc3": "Sehen Sie sich die Preise im Voraus an, ohne versteckte Gebühren – wissen Sie genau, was Sie bezahlen, bevor Sie buchen.",
+        "title4": "Einfache Abhol- und Bringoptionen",
+        "desc4": "Profitieren Sie von flexiblen Abhol- und Rückgabeoptionen, um die Autovermietung nahtlos in Ihre Pläne zu integrieren."
+      }
+    },
+    "banner": {
+      "heading": "Melden Sie sich jetzt an, um frühzeitigen Zugriff zu erhalten <br class=\"md:block hidden\" />Tec-R-Verleih und exklusive Rabatte!",
+      "intro": "Schöpfen Sie das Potenzial Ihrer Flotte aus <br class=\"lg:flex hidden\" /> und verdienen Sie noch heute kostenlos!",
+      "buttonText": "Abonnieren"
+    }
+  },
+  "earn_faqs": {
+    "first": {
+      "name": "Wie melde ich mich als Flottenbesitzer bei Tec-R an?",
+      "content": "Um sich als Flottenbesitzer anzumelden, laden Sie die Tec-R Driver-App aus dem App Store oder Google Play Store herunter. "
+    },
+    "second": {
+      "name": "Welche Dokumente sind für die Registrierung meiner Flotte erforderlich?",
+      "content": "Sie müssen die Führerscheine aller Fahrer, Fahrzeugscheine, Versicherungsnachweise und alle relevanten Gewerbelizenzen vorlegen. "
+    },
+    "third": {
+      "name": "Wie viele Fahrzeuge sind erforderlich, um Flottenbesitzer bei Tec-R zu sein?",
+      "content": "Um sich als Flottenbesitzer bei Tec-R zu qualifizieren, benötigen Sie in der Regel mindestens zwei Fahrzeuge. "
+    },
+    "fourth": {
+      "name": "Wie gewährleistet Tec-R die Sicherheit meiner Flottenfahrer?",
+      "content": "Tec-R legt großen Wert auf Sicherheit mit umfassenden Hintergrundüberprüfungen für alle Fahrer, In-App-Sicherheitsfunktionen wie GPS-Tracking und Support rund um die Uhr, um sicherzustellen, dass immer Hilfe verfügbar ist."
+    },
+    "fifth": {
+      "name": "Kann ich die Leistung meiner Flotte in Echtzeit verfolgen?",
+      "content": "Ja, die Tec-R-App ermöglicht die Echtzeitverfolgung aller Ihrer Fahrzeuge, sodass Sie den Standort, den Fahrstatus und die Leistung Ihrer Flotte überwachen können."
+    }
+  },
+  "faqs": {
+    "first": {
+      "name": "Wie melde ich mich als Flottenbesitzer bei Tec-R an?",
+      "content": "Um sich als Flottenbesitzer anzumelden, laden Sie die Tec-R Driver-App aus dem App Store oder Google Play Store herunter. "
+    },
+    "second": {
+      "name": "Welche Dokumente sind für die Registrierung meiner Flotte erforderlich?",
+      "content": "Sie müssen die Führerscheine aller Fahrer, Fahrzeugscheine, Versicherungsnachweise und alle relevanten Gewerbelizenzen vorlegen. "
+    },
+    "third": {
+      "name": "Wie viele Fahrzeuge sind erforderlich, um Flottenbesitzer bei Tec-R zu sein?",
+      "content": "Um sich als Flottenbesitzer bei Tec-R zu qualifizieren, benötigen Sie in der Regel mindestens zwei Fahrzeuge. "
+    },
+    "fourth": {
+      "name": "Wie gewährleistet Tec-R die Sicherheit meiner Flottenfahrer?",
+      "content": "Tec-R legt großen Wert auf Sicherheit mit umfassenden Hintergrundüberprüfungen für alle Fahrer, In-App-Sicherheitsfunktionen wie GPS-Tracking und Support rund um die Uhr, um sicherzustellen, dass immer Hilfe verfügbar ist."
+    },
+    "fifth": {
+      "name": "Kann ich die Leistung meiner Flotte in Echtzeit verfolgen?",
+      "content": "Ja, die Tec-R-App ermöglicht die Echtzeitverfolgung aller Ihrer Fahrzeuge, sodass Sie den Standort, den Fahrstatus und die Leistung Ihrer Flotte überwachen können."
+    },
+    "sixth": {
+      "name": "Mit welchen Einnahmen kann ich als Fuhrparkbesitzer rechnen?",
+      "content": "Der Verdienst kann je nach Anzahl der Fahrzeuge, gefahrenen Stunden und Nachfrage variieren. "
+    },
+    "seventh": {
+      "name": "Wie verwalte ich die Zahlungen für meine Flotte?",
+      "content": "Zahlungen werden über die Tec-R-App verwaltet. "
+    }
+  },
+  "contactUs": {
+    "heading": "Kontaktieren Sie uns",
+    "intro": "Haben Sie Fragen oder Anmerkungen? ",
+    "cardHeading": "Kontaktinformationen",
+    "cardIntro": "Haben Sie Fragen oder Anmerkungen? ",
+    "buttonText": "Nachricht senden",
+    "FirstName": "Vorname",
+    "LastName": "Nachname",
+    "E-mail": "E-Mail",
+    "PhoneNumber": "Telefonnummer",
+    "DropMessage": "Hinterlassen Sie eine Nachricht..."
+  },
+  "AboutUs": {
+    "tag": "Über uns",
+    "heading": {
+      "Weaving": "Weberei",
+      "Together": "Zusammen",
+      "Your": "Dein",
+      "Urban": "Urban",
+      "Journey": "Reise"
+    },
+    "intro": "Wir bei zentry-clone glauben, dass das Navigieren in belebten Straßen der Stadt kein Problem sein sollte. ",
+    "section5": {
+      "heading": " Unsere Mission: Menschen vermitteln <br class=\"md:block hidden\" /> im Herzen des Städtebaus.",
+      "intro": " Wir geben Fußgängern, Radfahrern und öffentlichen Verkehrsmitteln Vorrang und schaffen lebendige Gemeinschaften, in denen sich die Menschen wohlfühlen. "
+    },
+    "section6": {
+      "heading": "Unsere Werte: Was uns ausmacht",
+      "intro": " Bei Tec-R widmen wir uns dem Bereich der Technologie und ihrem transformativen Potenzial.  <br class=\"md:block hidden\" /> Die Vision geht über die Technologie selbst hinaus und betont die Bedeutung der Grundwerte <br class=\"md:block hidden\" /> die unseren Erfolg untermauern und unser Handeln leiten.",
+      "items": {
+        "title1": "Innovation",
+        "desc1": "Wir konzentrieren uns darauf, die Grenzen des technologischen Fortschritts ständig weiterzuentwickeln und zu verschieben.",
+        "title2": "Effizienz",
+        "desc2": "Wir priorisieren ständig Lösungen, die Prozesse optimieren und Ergebnisse maximieren.",
+        "title3": "Zuverlässigkeit",
+        "desc3": "Wir bauen weiterhin Vertrauen durch zuverlässige Technologie auf, die stets Ergebnisse liefert."
+      }
+    },
+    "section7": {
+      "heading": "Unsere Geschichte: Überbrückung der städtischen Kluft",
+      "intro": "Tec-R wurde 2024 mit der Vision gegründet, den städtischen Verkehr durch das Angebot einer effizienteren, zuverlässigeren und benutzerfreundlicheren Mobilitätslösung zu verändern. "
+    },
+    "section2": {
+      "heading": "Zukunftsvision",
+      "intro": "Mit Blick auf die Zukunft ist es unser Ziel, nachhaltige Lösungen weiter zu integrieren und unsere Dienstleistungen auf neue Märkte auszudehnen und so unsere Mission fortzusetzen, das städtische Leben für alle besser zu machen."
+    },
+    "section3": {
+      "heading": "Wirkungsgeschichten",
+      "intro": " Seit unserer Gründung widmen wir uns der Verbesserung und Erweiterung unserer Dienstleistungen. "
+    },
+    "section4": {
+      "heading": {
+        "Benefits": "Vorteile",
+        "of": "von",
+        "Using": "Benutzen",
+        "Our": "Unser",
+        "Services": "Dienstleistungen"
+      },
+      "items": {
+        "title1": "Kosteneinsparungen",
+        "desc1": "Durch die Nutzung unseres Services können Sie die Gemeinkosten senken und Ihren Gewinn steigern. ",
+        "title2": "Verbesserte Effizienz",
+        "desc2": "Unser Service optimiert Ihren Arbeitsablauf und spart Ihnen Zeit und Mühe. Mit automatisierten Prozessen können Sie sich auf das Wesentliche konzentrieren.",
+        "title3": "Erhöhte Sicherheit",
+        "desc3": "Ihre Daten sind bei uns sicher. "
+      }
+    },
+    "banner": {
+      "heading": {
+        "Download": "Herunterladen",
+        "the": "Die",
+        "App": "App",
+        "Explore": "& Erkunden",
+        "your": "dein",
+        "City": "Stadt"
+      },
+      "intro": "Schöpfen Sie das Potenzial Ihrer Flotte aus <br class=\"lg:flex hidden\" /> und verdienen Sie noch heute kostenlos!",
+      "buttonText": "Legen Sie los "
+    }
+  },
+  "notFound": {
+    "title": "Hoppla! ",
+    "subTitle": "Wir konnten die von Ihnen gesuchte Seite nicht finden, aber wir können Sie auf jeden Fall weiterbringen! ",
+    "buttonText": "Homepage"
+  },
+  "safety": {
+    "heading": "Ihre Sicherheit,<br class=\"md:block hidden\" /> Unsere Priorität.",
+    "intro": "Bei zentry-clone legen wir großen Wert auf Sicherheit und schaffen durch umfassende Richtlinien, Technologie und ein engagiertes Team eine sichere Umgebung für Fahrer und Fahrer.",
+    "section2": {
+      "heading": "Ein sicheres Erlebnis schaffen",
+      "intro": "Bei zentry-clone steht Sicherheit an erster Stelle.  <br class=\"md:block hidden\" /> Fahrer und Fahrer durch die Umsetzung robuster Richtlinien und die Nutzung fortschrittlicher <br class=\"md:block hidden\" />Technologie und verlassen sich auf unser engagiertes Support-Team.",
+      "items": {
+        "title1": "Engagiertes Support-Team",
+        "desc1": "Wir verfügen rund um die Uhr über ein Team von Sicherheitsspezialisten, die sich um alle Bedenken oder Notfälle kümmern, die während Ihrer Reise auftreten können.",
+        "title2": "Fortschrittliche Technologie",
+        "desc2": "Unsere App ist mit Funktionen ausgestattet, die die Sicherheit fördern, wie z. B. Fahrtverfolgung in Echtzeit, Notfalltasten und In-App-ID-Überprüfung.",
+        "title3": "Detaillierte Vorführungen",
+        "desc3": "Wir führen gründliche Hintergrundüberprüfungen aller Fahrer durch, um ihre Qualifikationen und Eignung für die Plattform sicherzustellen."
+      }
+    },
+    "section3": {
+      "heading": "Ihre Sicherheit bei jeder Fahrt",
+      "heading2": "Tipps zur Fahrersicherheit",
+      "items": {
+        "title1": "Gründlich geprüfte Fahrer",
+        "desc1": "Wir führen gründliche Hintergrundüberprüfungen aller Fahrer durch, um ihre Qualifikationen und Eignung für die Plattform sicherzustellen.",
+        "title2": "Sichere und zuverlässige Fahrzeuge",
+        "desc2": "Ihre Sicherheit steht für uns an erster Stelle. Deshalb werden alle Fahrzeuge in unserem Netzwerk regelmäßigen Wartungskontrollen unterzogen und unterliegen strengen Sicherheitsstandards.",
+        "title3": "Sicherheitsfunktionen immer zur Hand",
+        "desc3": "Unsere App umfasst Echtzeit-Fahrtverfolgung, In-App-ID-Überprüfung und Notfalltasten, um sicherzustellen, dass Sie während Ihrer Fahrt die Kontrolle und Verbindung behalten."
+      },
+      "tips": {
+        "title1": "Überprüfung von Fahrer und Fahrzeug",
+        "desc1": "Überprüfen Sie, ob der Name, das Nummernschild und das Fahrzeugmodell des Fahrers in Ihrer App mit dem tatsächlichen Fahrer und Fahrzeug übereinstimmen. ",
+        "title2": "Sicherheit bei der Abholung",
+        "desc2": "Warten Sie in gut beleuchteten, besiedelten Gebieten, insbesondere nachts. ",
+        "title3": "Gewährleistung einer sicheren Fahrt",
+        "desc3": "Schnallen Sie sich beim Einsteigen in das Auto sofort an. ",
+        "title4": "Sicherheit nach der Fahrt",
+        "desc4": "Bewerten und bewerten Sie Ihren Fahrer nach jeder Fahrt, um eine sichere Plattform zu gewährleisten. "
+      }
+    },
+    "section3View2": {
+      "heading": "Fahren Sie mit Sicherheit",
+      "heading2": "Tipps zur Fahrersicherheit",
+      "items": {
+        "title1": "Verifizierte Fahrer",
+        "desc1": "Wir minimieren das Risiko für Fahrer, indem wir vor der Abholung die Identität und Zahlungsmethoden des Fahrers überprüfen.",
+        "title2": "Zwei-Wege-Kommunikation",
+        "desc2": "Mit unserem Zwei-Wege-Feedbacksystem können Sie unsicheres Fahrerverhalten melden, sodass wir schnell Maßnahmen ergreifen können, um ein sicheres Fahrerlebnis für alle zu gewährleisten.",
+        "title3": "Sichere und effiziente Routen",
+        "desc3": "Wir planen Ihre Reisen mit Zuversicht mithilfe unserer In-App-Funktionen wie Echtzeit-Verkehrsinformationen, Routenvorschlägen und Turn-by-Turn-Navigation."
+      },
+      "tips": {
+        "title1": "Vor der Fahrt",
+        "desc1": "Ausreichend Ruhe sorgt für Aufmerksamkeit. ",
+        "title2": "Fahrer verifizieren",
+        "desc2": "Durch die Bestätigung der Fahreridentität wird verhindert, dass die falsche Person mitgenommen wird. Die Überprüfung der Fahrerbewertungen (optional) liefert zusätzliche Informationen (falls verfügbar).",
+        "title3": "Vorbereitung auf die Fahrt",
+        "desc3": "Durch die Einrichtung der Navigation wird eine reibungslose Route gewährleistet. Eine klare Kommunikation klärt die Abhol- und Bringdetails. ",
+        "title4": "Sicherheit im Straßenverkehr",
+        "desc4": "Die Konzentration auf die Straße minimiert Ablenkungen. Die Einhaltung der Verkehrsregeln gewährleistet die Sicherheit aller. Die Verwendung von In-App-Funktionen ermöglicht eine sofortige Reaktion auf Sicherheitsbedenken"
+      }
+    },
+    "banner": {
+      "heading": "Erfahren Sie mehr <br class=\"md:block hidden\" /> Über Sicherheit",
+      "intro": "Laden Sie die App herunter und erfahren Sie mehr über unsere <br class=\"md:block hidden\" /> Dienstleistungen und erkunden Sie Sicherheitsressourcen.",
+      "buttonText": "Holen Sie sich die App"
+    }
+  },
+  "support": {
+    "heading": "zentry-clone Support Center",
+    "intro": "Willkommen im zentry-clone Support Center. ",
+    "placeholder": "Wobei benötigen Sie Hilfe?",
+    "buttonText": "Suchen",
+    "items": {
+      "title1": "Reiter",
+      "title2": "Treiber",
+      "title3": "Flottenbesitzer"
+    },
+    "section2": {
+      "heading": "Beliebte Hilfeartikel"
+    },
+    "faqs": {
+      "first": {
+        "name": "Wie buche ich eine Fahrt?",
+        "content": "<div><span class=\" font-medium text-[20px]\">1. Wie beantrage ich eine Fahrt?</span><p class=\"text-[20px] font-normal\"> Um eine Fahrt anzufordern, öffnen Sie einfach unsere App, geben Sie Ihre Abhol- und Abgabeorte ein, wählen Sie Ihren bevorzugten Fahrzeugtyp aus und bestätigen Sie Ihre Anfrage. </p></div><div><span class=\" font-medium text-[20px]\">2. Kann ich eine Fahrt im Voraus vereinbaren?</span><p class=\"text-[20px] font-normal\"> Ja, mit zentry-clone können Sie eine Fahrt im Voraus planen, indem Sie während des Buchungsvorgangs die Option „Planen“ auswählen.  </p></div><div><span class=\" font-medium text-[20px]\">3. Welche verschiedenen Fahroptionen gibt es?</span><p class=\"text-[20px] font-normal\"> zentry-clone bietet je nach Bedarf mehrere Optionen, darunter Economy- und Luxusfahrzeugkategorien. </p></div><div><span class=\" font-medium text-[20px]\">4. Wie verwende ich bei der Buchung einen Aktionscode?  </span><p class=\"text-[20px] font-normal\"> Geben Sie bei der Buchung einer Fahrt vor der Bestätigung Ihren Aktionscode in das dafür vorgesehene Feld ein. </p></div><div><span class=\" font-medium text-[20px]\">5. Kann ich meiner Fahrt mehrere Stopps hinzufügen?  </span><p class=\"text-[20px] font-normal\"> Ja, Sie können mehrere Stopps hinzufügen, indem Sie bei der Eingabe Ihres Ziels „Ziel hinzufügen“ auswählen. </p></div>"
+      },
+      "second": {
+        "name": "Verwalten Sie Ihr Konto",
+        "content": "<div><span class=\" font-medium text-[20px]\">1. Wie kann ich den Standort meines Fahrers in Echtzeit verfolgen?</span><p class=\"text-[20px] font-normal\"> Sobald Ihre Fahrt bestätigt ist, wird in der App eine Echtzeitkarte angezeigt, die den aktuellen Standort Ihres Fahrers und die voraussichtliche Ankunftszeit anzeigt.</p></div><div><span class=\" font-medium text-[20px]\">2. Wie kontaktiere ich meinen Fahrer während der Fahrt? </span><p class=\"text-[20px] font-normal\">Sie können Ihren Fahrer direkt über die App kontaktieren, indem Sie in den Fahrtdetails auf die Option „Kontakt“ tippen. </p></div><div><span class=\" font-medium text-[20px]\">3. Kann ich mein Ziel während der Fahrt ändern? </span><p class=\"text-[20px] font-normal\">Nein, Sie können Ihr Ziel während der Fahrt nicht ändern.  </p></div><div><span class=\" font-medium text-[20px]\">4. Was passiert, wenn meine Fahrt von mir oder dem Fahrer storniert wird?</span><p class=\"text-[20px] font-normal\">Wenn Sie eine Fahrt stornieren, kann je nach Zeitpunkt der Stornierung eine Stornogebühr anfallen.  </p></div><div><span class=\" font-medium text-[20px]\">5. Wie teile ich meine Fahrtdaten mit anderen wie Freunden oder der Familie?  </span><p class=\"text-[20px] font-normal\"> Um Ihre Fahrtdetails zu teilen, tippen Sie in den Fahrtdetails auf die Option „Fahrt teilen“ und senden Sie den Link an Ihre Kontakte. </p></div>"
+      },
+      "third": {
+        "name": "Zahlungsprobleme",
+        "content": "<div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div>"
+      },
+      "fourth": {
+        "name": "Wie kann ich meine Fahrt verfolgen?",
+        "content": ""
+      },
+      "fifth": {
+        "name": "Fahrpreise und Gebühren verstehen",
+        "content": ""
+      }
+    },
+    "banner": {
+      "heading": "Sie haben noch Fragen? ",
+      "intro": "Brauchen Sie Hilfe? ",
+      "buttonText": "Kontaktieren Sie uns",
+      "items": {
+        "title1": "Live-Chat",
+        "title2": "Kontaktieren Sie uns"
+      }
+    },
+    "riders": {
+      "heading": "Reiter",
+      "BookingaRide": {
+        "heading": "Eine Fahrt buchen",
+        "list": {
+          "title1": "Wie beantrage ich eine Fahrt?",
+          "content1": "Um eine Fahrt anzufordern, öffnen Sie einfach unsere App, geben Sie Ihre Abhol- und Abgabeorte ein, wählen Sie Ihren bevorzugten Fahrzeugtyp aus und bestätigen Sie Ihre Anfrage. ",
+          "title2": "Kann ich eine Fahrt im Voraus vereinbaren?",
+          "content2": "Ja, mit zentry-clone können Sie eine Fahrt im Voraus planen, indem Sie während des Buchungsvorgangs die Option „Planen“ auswählen. ",
+          "title3": "Welche verschiedenen Fahrmöglichkeiten gibt es?",
+          "content3": "zentry-clone bietet je nach Bedarf mehrere Optionen, darunter Economy- und Luxusfahrzeugkategorien. ",
+          "title4": "Wie verwende ich bei der Buchung einen Aktionscode?",
+          "content4": "Geben Sie bei der Buchung einer Fahrt vor der Bestätigung Ihren Aktionscode in das dafür vorgesehene Feld ein. ",
+          "title5": "Kann ich meiner Fahrt einen Stopp hinzufügen?",
+          "content5": "Ja, Sie können mehrere Stopps hinzufügen, indem Sie bei der Eingabe Ihres Ziels „Ziel hinzufügen“ auswählen. "
+        }
+      },
+      "ManagingYourRide": {
+        "heading": "Verwalten Sie Ihre Fahrt",
+        "list": {
+          "title1": "Wie kann ich den Standort meines Fahrers in Echtzeit verfolgen?",
+          "content1": "Sobald Ihre Fahrt bestätigt ist, wird in der App eine Echtzeitkarte angezeigt, die den aktuellen Standort Ihres Fahrers und die voraussichtliche Ankunftszeit anzeigt.",
+          "title2": "Wie kontaktiere ich meinen Fahrer während der Fahrt?",
+          "content2": "Sie können Ihren Fahrer direkt über die App kontaktieren, indem Sie in den Fahrtdetails auf die Option „Kontakt“ tippen.",
+          "title3": "Kann ich mein Ziel während der Fahrt ändern?",
+          "content3": "Nein, Sie können Ihr Ziel während der Fahrt nicht ändern. ",
+          "title4": "Was passiert, wenn meine Fahrt von mir oder dem Fahrer storniert wird?",
+          "content4": "Wenn Sie eine Fahrt stornieren, kann je nach Zeitpunkt der Stornierung eine Stornogebühr anfallen. ",
+          "title5": "Wie teile ich meine Fahrtdaten mit anderen wie Freunden oder der Familie?",
+          "content5": "Um Ihre Fahrtdetails zu teilen, tippen Sie in den Fahrtdetails auf die Option „Fahrt teilen“ und senden Sie den Link an Ihre Kontakte. "
+        }
+      },
+      "PaymentAndFares": {
+        "heading": "Zahlung und Tarife",
+        "list": {
+          "title1": "Wie bezahle ich meine Fahrt?",
+          "content1": "Sie können Ihre Fahrt mit der mit Ihrem zentry-clone-Konto verknüpften Zahlungsmethode bezahlen, einschließlich Kredit-/Debitkarten, digitalen Geldbörsen oder anderen in Ihrer Region akzeptierten Optionen.",
+          "title2": "Kann ich meine Standardzahlungsmethode ändern?",
+          "content2": "Ja, Sie können Ihre Standardzahlungsmethode in der App unter „Zahlungseinstellungen“ aktualisieren. ",
+          "title3": "Was sind die Faktoren für die Tarifberechnung?",
+          "content3": "zentry-clone-Tarife werden auf der Grundlage von Faktoren wie Entfernung, Zeit, Fahrzeugtyp und Echtzeitnachfrage berechnet. ",
+          "title4": "Kann ich einen Kostenvoranschlag einsehen, bevor ich eine Fahrt buche?",
+          "content4": "Ja, die App bietet einen Kostenvoranschlag, bevor Sie die Fahrt bestätigen. ",
+          "title5": "Wie erhalte ich eine Quittung für meine Fahrt?",
+          "content5": "Nach Ihrer Fahrt wird eine Quittung an Ihre registrierte E-Mail-Adresse gesendet. "
+        }
+      },
+      "AccountManagement": {
+        "heading": "Kontoverwaltung",
+        "list": {
+          "title1": "Wie erstelle ich ein zentry-clone-Konto?",
+          "content1": "Laden Sie die zentry-clone-App herunter und öffnen Sie sie. ",
+          "title2": "Wie aktualisiere ich meine Kontoinformationen?",
+          "content2": "Gehen Sie in der App zu „Kontoeinstellungen“, um Ihre persönlichen Daten, einschließlich E-Mail, Telefonnummer und Adresse, zu aktualisieren.",
+          "title3": "Wie ändere ich mein Passwort?",
+          "content3": "Wählen Sie unter „Kontoeinstellungen“ „Passwort ändern“ und befolgen Sie die Anweisungen zum Zurücksetzen Ihres Passworts.",
+          "title4": "Wie lösche ich mein zentry-clone-Konto und reaktiviere es?",
+          "content4": "Um Ihr Konto zu löschen, gehen Sie zu „Kontoeinstellungen“ und wählen Sie „Konto löschen“. "
+        }
+      },
+      "SafetyAndSecurity": {
+        "heading": "Sicherheit und Schutz",
+        "list": {
+          "title1": "Welche Sicherheitsfunktionen bietet zentry-clone?",
+          "content1": "zentry-clone umfasst Funktionen wie Fahrverfolgung in Echtzeit, SOS-Notfallhilfe, Hintergrundüberprüfungen des Fahrers und die Möglichkeit, Fahrdetails mit vertrauenswürdigen Kontakten zu teilen.",
+          "title2": "Wie lautet die Sicherheitsrichtlinie für Fahrer von zentry-clone?",
+          "content2": "Die Sicherheitsrichtlinien von zentry-clone stellen sicher, dass Fahrer und Mitfahrer die Sicherheitsrichtlinien einhalten. ",
+          "title3": "Was soll ich tun, wenn ich etwas im Auto vergesse?",
+          "content3": "Wenn Sie etwas im Auto vergessen, gehen Sie zu „Fahrtverlauf“ und wählen Sie „Verlorenen Gegenstand melden“. ",
+          "title4": "Wie melde ich ein Sicherheitsrisiko oder einen Vorfall während einer Fahrt?",
+          "content4": "Für sofortige Hilfe nutzen Sie die SOS-Taste. ",
+          "title5": "Kann ich aus Sicherheitsgründen meine Fahrtdaten mit einem Freund teilen?",
+          "content5": "Ja, die App verfügt über die Option „Fahrt teilen“, mit der Sie Ihre Fahrtinformationen und Ihren Standort in Echtzeit an Freunde oder Familienmitglieder senden können, damit diese Ihre Fahrt aus Sicherheitsgründen verfolgen können."
+        }
+      }
+    },
+    "drivers": {
+      "heading": "Treiber",
+      "GettingStarted": {
+        "heading": "Erste Schritte mit zentry-clone",
+        "list": {
+          "title1": "Wie bewerbe ich mich als zentry-clone-Fahrer?",
+          "content1": "Um sich zu bewerben, laden Sie die zentry-clone Driver-App herunter, erstellen Sie ein Konto und schließen Sie den Bewerbungsprozess ab, indem Sie Ihre erforderlichen Daten und Dokumente einreichen. ",
+          "title2": "Welche Unterlagen und Informationen muss ich bereitstellen?",
+          "content2": "Sie müssen einen gültigen Führerschein, einen Fahrzeugschein, einen Versicherungsnachweis und eine Hintergrundüberprüfung vorlegen. ",
+          "title3": "Was sind die Anforderungen an Alter und Zustand des Fahrzeugs?",
+          "content3": "Fahrzeuge müssen das Mindestalter von zentry-clone erfüllen (oft unter 10 Jahren) und eine Fahrzeuginspektion bestehen, um sicherzustellen, dass sie unseren Sicherheits- und Komfortstandards entsprechen.",
+          "title4": "Wie kontaktiere ich den Fahrersupport von zentry-clone?",
+          "content4": "Sie können den Fahrersupport über die App kontaktieren, indem Sie zu „Hilfe & Support“ navigieren oder eine E-Mail an die in Ihrem Konto angegebene spezielle Fahrersupport-Hotline senden.",
+          "title5": "Wie aktualisiere ich meine Fahrerprofilinformationen?",
+          "content5": "Gehen Sie in der zentry-clone Driver-App zu „Profileinstellungen“, um Ihre persönlichen Daten und Fahrzeugdaten zu aktualisieren. "
+        }
+      },
+      "DriverApp": {
+        "heading": "Verwendung der zentry-clone Driver App",
+        "list": {
+          "title1": "Wie nehme ich eine Fahrtanfrage an?",
+          "content1": "Wenn eine Fahrtanfrage eingeht, wird auf Ihrem Bildschirm eine Benachrichtigung angezeigt. ",
+          "title2": "Wie nutze ich die App zur Navigation während einer Fahrt?",
+          "content2": "Die zentry-clone Driver App ist mit einer Karte integriert. ",
+          "title3": "Wie kommuniziere ich mit Fahrern über die App?",
+          "content3": "Sie können Fahrern direkt über die App Nachrichten senden oder sie anrufen. ",
+          "title4": "Was soll ich tun, wenn ein Fahrer besondere Wünsche hat oder Hilfe benötigt?",
+          "content4": "Gehen Sie aufmerksam auf die Wünsche der Fahrer ein und gehen Sie nach Möglichkeit darauf ein. ",
+          "title5": "Was sind die Richtlinien von zentry-clone für das Fahrerverhalten und die Passagieretikette?",
+          "content5": "zentry-clone erwartet von den Fahrgästen, dass sie die Fahrer, ihre Fahrzeuge und alle relevanten Sicherheitsvorschriften respektieren. "
+        }
+      },
+      "EarningsAndPayments": {
+        "heading": "Einnahmen und Zahlungen",
+        "list": {
+          "title1": "Wie werden die Fahrpreise für zentry-clone-Fahrten berechnet?",
+          "content1": "Die Fahrpreise werden auf der Grundlage der Entfernung, der Zeit und aller anfallenden Gebühren berechnet. ",
+          "title2": "Welche verschiedenen Arten von Gebühren oder Abzügen können anfallen?",
+          "content2": "Typische Abzüge können eine Servicegebühr, Stornierungsgebühren (falls zutreffend) und Anpassungen für Mautgebühren oder andere Kosten sein, wie in der Gebührenrichtlinie von zentry-clone angegeben.",
+          "title3": "Wie werde ich für das Fahren mit zentry-clone bezahlt?",
+          "content3": "Die Einnahmen werden wöchentlich automatisch auf Ihr verknüpftes Bankkonto oder Ihre bevorzugte Zahlungsmethode eingezahlt. ",
+          "title4": "Kann ich meine bevorzugte Zahlungsmethode ändern?",
+          "content4": "Ja, Sie können Ihre bevorzugte Zahlungsmethode in der App unter „Zahlungseinstellungen“ aktualisieren. ",
+          "title5": "Stellt zentry-clone Rechnungen für meine Einnahmen aus?",
+          "content5": "Ja, Sie können in der App unter „Einnahmen“ auf Ihre wöchentlichen oder monatlichen Verdienstabrechnungen zugreifen, um Rechnungen einzusehen und herunterzuladen."
+        }
+      },
+      "SafetyAndCustomerService": {
+        "heading": "Sicherheit und Kundenservice",
+        "list": {
+          "title1": "Welche Sicherheitsfunktionen bietet zentry-clone für Fahrer?",
+          "content1": "zentry-clone bietet In-App-Notfallhilfe, GPS-Tracking und eine Funktion, mit der Fahrer ihre Fahrtdaten mit vertrauenswürdigen Kontakten teilen können. ",
+          "title2": "Wie melde ich ein Sicherheitsrisiko oder einen Vorfall während einer Fahrt?",
+          "content2": "Für sofortige Hilfe nutzen Sie den „Notfall“-Button in der App. ",
+          "title3": "Welche Richtlinien gelten bei zentry-clone hinsichtlich des Verhaltens und der Professionalität der Fahrer?",
+          "content3": "zentry-clone erwartet von allen Fahrern, dass sie sich professionell verhalten, die Verkehrsregeln befolgen und die Fahrer respektvoll behandeln. ",
+          "title4": "Wie melde ich ein Problem mit dem Verhalten eines Fahrers oder Beifahrers?",
+          "content4": "Sie können Probleme mit einem Fahrer über die Registerkarte „Fahrtverlauf“ melden. ",
+          "title5": "Was soll ich tun, wenn es während der Fahrt zu einem Unfall oder einem Schaden an meinem Fahrzeug kommt?",
+          "content5": "Wenn Sie in einen Unfall verwickelt sind, sorgen Sie für Ihre Sicherheit und rufen Sie bei Bedarf den Rettungsdienst an. "
+        }
+      }
+    },
+    "fleetOwners": {
+      "heading": "Flottenbesitzer",
+      "ManagingYourFleet": {
+        "heading": "Verwalten Sie Ihre Flotte",
+        "list": {
+          "title1": " Wie füge ich Fahrzeuge zu meiner zentry-clone-Flotte hinzu?",
+          "content1": "Gehen Sie im zentry-clone-Flotten-Dashboard auf „Fuhrpark verwalten“ und wählen Sie „Fahrzeug hinzufügen“. ",
+          "title2": " Welche Dokumente und Informationen werden für jedes Fahrzeug benötigt?",
+          "content2": "Jedes Fahrzeug muss über eine aktuelle Zulassung, einen gültigen Versicherungsschein, einen Eigentumsnachweis und einen aktuellen Inspektionsbericht verfügen. ",
+          "title3": " Wie überwache ich die Leistung und Aktivität der Fahrer auf der Plattform?",
+          "content3": "Im zentry-clone-Flotten-Dashboard können Sie Fahrerleistungskennzahlen wie Bewertungen, Fahrtabschlussquoten und Gesamtaktivität anzeigen. ",
+          "title4": "Gibt es Strategien zur Maximierung der Flottenerträge und -effizienz? ",
+          "content4": "Ja, einige Strategien umfassen die Überwachung der Hauptfahrzeiten, die Aufrechterhaltung der Fahrzeugsauberkeit und -funktionalität sowie die Ermutigung der Fahrer, Fahranfragen umgehend anzunehmen. ",
+          "title5": "Wie kann ich bei Bedarf ein Fahrzeug aus meiner Flotte entfernen? ",
+          "content5": "Wählen Sie im Flotten-Dashboard das Fahrzeug aus, das Sie entfernen möchten, und klicken Sie auf „Fahrzeug entfernen“. "
+        }
+      },
+      "BillingAndInvoicing": {
+        "heading": "Abrechnung und Fakturierung",
+        "list": {
+          "title1": "Wie werden die Fahrpreise für Fahrten meiner Flotte berechnet? ",
+          "content1": "Die Fahrpreise werden auf der Grundlage der Entfernung, der Zeit und etwaiger zusätzlicher Gebühren oder Zuschläge berechnet. ",
+          "title2": " Wie kann ich die Gesamteinnahmen und Einnahmen meiner Flotte verfolgen?",
+          "content2": "Flotteneinnahmen und -einnahmen sind im Flotten-Dashboard unter der Registerkarte „Einnahmen“ verfügbar. ",
+          "title3": " Welche Gebühren oder Abzüge können auf Flotteneinnahmen anfallen?",
+          "content3": "Zu den Abzügen können die Servicegebühren von zentry-clone, Stornierungsgebühren und Anpassungen der Mautgebühren gehören. ",
+          "title4": "Wie wickelt zentry-clone Auszahlungen für den Flottenbetrieb ab? ",
+          "content4": "Auszahlungen für abgeschlossene Fahrten werden wöchentlich verarbeitet und direkt auf das mit Ihrem Flotten-Dashboard verknüpfte Bankkonto überwiesen. ",
+          "title5": " Wann und wie oft erhalte ich Rechnungen für die Aktivitäten meiner Flotte?",
+          "content5": "Rechnungen werden wöchentlich erstellt und können im Flotten-Dashboard eingesehen und heruntergeladen werden. "
+        }
+      },
+      "ComplianceAndRegulations": {
+        "heading": "Compliance und Vorschriften",
+        "list": {
+          "title1": "Welche Anforderungen stellt zentry-clone an Fahrzeugwartung und Sicherheitsinspektionen?",
+          "content1": "zentry-clone verlangt, dass Flottenfahrzeuge regelmäßig gewartet werden und eine jährliche Sicherheitsinspektion bestehen. ",
+          "title2": "Wie kann ich sicherstellen, dass meine Flottenfahrzeuge den örtlichen Vorschriften entsprechen?",
+          "content2": "Um die Vorschriften einzuhalten, stellen Sie sicher, dass alle Flottenfahrzeuge gemäß den örtlichen Gesetzen registriert, versichert und geprüft sind. ",
+          "title3": "Bietet zentry-clone Ressourcen oder Unterstützung für die Fahrzeugwartung?",
+          "content3": "Obwohl zentry-clone keine direkten Wartungsdienste anbietet, arbeiten wir mit lokalen Dienstleistern zusammen, die zentry-clone-Flottenbesitzern möglicherweise Rabatte anbieten. ",
+          "title4": "Bietet zentry-clone Versicherungsoptionen oder Partnerschaften für Flottenbesitzer an?",
+          "content4": "Ja, zentry-clone arbeitet mit ausgewählten Versicherungsanbietern zusammen, die maßgeschneiderte Policen für den Flottenbetrieb anbieten. ",
+          "title5": "Wie aktualisiere ich die Versicherungsinformationen meiner Flotte innerhalb der Plattform?",
+          "content5": "Um Versicherungsinformationen zu aktualisieren, gehen Sie zum Flotten-Dashboard, wählen Sie das Fahrzeug aus und navigieren Sie zu „Versicherungsinformationen“. "
+        }
+      },
+      "SupportAndResources": {
+        "heading": "Support und Ressourcen",
+        "list": {
+          "title1": "Bietet zentry-clone spezielle Supportkanäle für Flottenbesitzer?",
+          "content1": "Ja, Flottenbesitzer haben Zugang zu einer speziellen Support-Hotline und können den Support über den In-App-Chat oder per E-Mail erreichen, um schnelle Hilfe zu erhalten. ",
+          "title2": "Wie kann ich den Support des Flottenbesitzers um Hilfe bitten?",
+          "content2": "Sie können den Support über das Flotten-Dashboard kontaktieren, indem Sie „Hilfe & Support“ auswählen. ",
+          "title3": "Bietet zentry-clone Schulungsmaterialien oder Ressourcen für Flottenbesitzer?",
+          "content3": "Ja, zentry-clone bietet Schulungsressourcen, darunter Best Practices für das Flottenmanagement, Tipps zur Verbesserung der Fahrerleistung und Ressourcen zur Maximierung der Flottenerträge.",
+          "title4": "Wie kann ich auf Best Practices oder Richtlinien für ein erfolgreiches Flottenmanagement zugreifen?",
+          "content4": "Best Practices für das Flottenmanagement finden Sie im Flotten-Dashboard unter „Ressourcen“. ",
+          "title5": "Stehen den Fahrern meiner Flotte Schulungsressourcen zur Verfügung?",
+          "content5": "zentry-clone bietet Schulungsvideos, Sicherheitstipps und Ressourcen für Fahrer, die direkt über die Fahrer-App zugänglich sind. "
+        }
+      }
+    }
+  },
+  "PrivacyPolicy": {
+    "heading": "Datenschutzrichtlinie von zentry-clone",
+    "intro": "Bei zentry-clone legen wir Wert auf Ihre Privatsphäre. ",
+    "items": {
+      "title1": "Geltungsbereich dieser Police",
+      "title2": "Die Informationen, die wir sammeln",
+      "title3": "Die Informationen, die Sie uns zur Verfügung stellen",
+      "title4": "Informationen, die wir sammeln, wenn wir die zentry-clone-Plattform nutzen",
+      "title5": "Informationen, die wir von Dritten sammeln",
+      "title6": "Wie wir Ihre Informationen verwenden"
+    },
+    "content": {
+      "first": {
+        "title": "Geltungsbereich dieser Police",
+        "memo": "Diese Richtlinie gilt für alle zentry-clone-Benutzer, einschließlich Fahrer und Fahrer, sowie für alle zentry-clone-Dienste und -Plattformen, einschließlich unserer Apps, Websites, Funktionen und aller anderen Dienste, die insgesamt als zentry-clone-Plattformen bezeichnet werden."
+      },
+      "second": {
+        "title": "Die Informationen, die wir sammeln",
+        "memo": "Wenn Sie die zentry-clone-Plattform nutzen, erfassen wir die von Ihnen bereitgestellten Informationen, Nutzungsinformationen und Informationen über Ihr Gerät. "
+      },
+      "third": {
+        "title": "Informationen, die Sie uns zur Verfügung stellen",
+        "memo": "<p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Kontoregistrierung: </span> Wenn Sie ein Konto bei zentry-clone erstellen, erfassen wir die von Ihnen bereitgestellten Informationen, wie Ihren Namen, Ihre E-Mail-Adresse, Ihre Telefonnummer, Ihr Geburtsdatum und Ihre Zahlungsinformationen.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Fahrerinformationen:  </span>Wenn Sie sich als Fahrer bewerben, erfassen wir die von Ihnen in Ihrer Bewerbung angegebenen Informationen, einschließlich Ihres Namens, Ihrer E-Mail-Adresse, Ihrer Telefonnummer, Ihres Geburtsdatums, Ihres Profilfotos, Ihrer Wohnadresse und Ihrer amtlichen Identifikationsnummer wie z. B. Sozialversicherungsnummer/Nationalversicherungsnummer </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Bewertungen und Feedback: </span> Wenn Sie Fahrer oder Fahrer bewerten und Feedback zu ihnen geben, erfassen wir alle Informationen, die Sie in Ihrem Feedback angeben.</p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Kommunikation: </span>Wenn Sie uns kontaktieren oder wir Sie kontaktieren, erfassen wir alle von Ihnen bereitgestellten Informationen, einschließlich der Inhalte der Nachrichten oder Anhänge, die Sie uns senden.</p>"
+      },
+      "fourth": {
+        "title": "Informationen, die Sie uns zur Verfügung stellen",
+        "memo": "<p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Standortinformationen:  </span> Sehr gute Fahrten beginnen mit einer einfachen und präzisen Aufnahme.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Fahrer: </span>  Wir erfassen den genauen Standort Ihres Geräts, wenn Sie die zentry-clone-App öffnen und nutzen, auch während die App von der Anfrage bis zum Ende einer Fahrt im Hintergrund läuft.    </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Treiber: </span>  Wir erfassen den genauen Standort Ihres Geräts, wenn Sie die App öffnen und verwenden, auch während die App im Hintergrund ausgeführt wird, wenn sie sich im Treibermodus befindet.   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Nutzungsinformationen: </span>  Wir erfassen Informationen über Ihre Nutzung der zentry-clone-Plattform, einschließlich Fahrtinformationen wie Datum, Uhrzeit, Ziel, Entfernung, Route, Zahlung und ob Sie einen Werbe- oder Empfehlungscode verwenden.   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Geräteinformationen: </span>  Wir erfassen Informationen über die Geräte, die Sie für den Zugriff auf die zentry-clone-Plattform verwenden, einschließlich Gerätemodell, IP-Adresse, Browsertyp, Version des Betriebssystems, Identität des Netzbetreibers oder Herstellers, Funktyp wie 5G, Präferenzen und Einstellungen wie bevorzugt   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Kommunikation zwischen Fahrern und Fahrern: </span>  Wir arbeiten mit einem Dritten zusammen, um Telefonanrufe und Textnachrichten zwischen Fahrern und Fahrern zu ermöglichen, ohne dass eine Partei der anderen die tatsächliche Telefonnummer mitteilt.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Adressbuchkontakte: </span> Sie können Ihre Geräteberechtigungen so einrichten, dass zentry-clone Zugriff auf Ihre Kontaktlisten gewährt und zentry-clone angewiesen wird, auf Ihre Kontaktliste zuzugreifen, um Ihnen bei der Buchung einer Fahrt für Freunde und Familien zu helfen und Freunde an zentry-clone zu verweisen.   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Cookies, Analysen und Technologien von Drittanbietern:</span>  Wir sammeln Informationen mithilfe von „Cookies“, Tracking-Pixeln, Datenanalysetools wie Google Analytics, SDKs und anderen Technologien von Drittanbietern, um zu verstehen, wie Sie durch die zentry-clone-Plattform navigieren und mit zentry-clone-Werbungen interagieren, um dies zu ermöglichen  </p>"
+      },
+      "fith": {
+        "title": "Informationen, die wir von Dritten sammeln",
+        "memo": "<p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Dienste Dritter:</span> Dienste Dritter stellen uns die Informationen zur Verfügung, die wir für Kernaspekte der zentry-clone-Plattform sowie für zusätzliche Dienste, Programme, Treuevorteile und Werbeaktionen benötigen, die Ihr Erlebnis mit zentry-clone verbessern können. </p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Informationen über Sie, die von bestimmten Diensten bereitgestellt werden, z. B. Informationen zu demografischen Merkmalen und Marketingsegmenten.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Informationen zur Durchführung von Treue- und Werbeprogrammen oder Anwendungen, Diensten oder Funktionen, die Sie mit Ihrem zentry-clone-Konto verknüpfen oder verknüpfen, z. B. Informationen über Ihre Nutzung solcher Programme, Anwendungen, Dienste oder Funktionen</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Informationen über Ihre Teilnahme an Programmen Dritter, die beispielsweise Versicherungsschutz und Finanzinstrumente wie Versicherungen, Zahlungen, Transaktionen und Informationen zur Betrugserkennung bereitstellen</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Informationen, um die zentry-clone-Plattform sicherer zu machen, z. B. Hintergrundüberprüfungsinformationen für Fahrer.</p></li></ul><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">Unternehmensprogramme:</span> Wenn Sie zentry-clone über Ihren Arbeitgeber oder eine andere Organisation nutzen, die an einem unserer zentry-clone Business-Unternehmensprogramme teilnimmt, erfassen wir von diesen Parteien Informationen über Sie, wie Ihren Namen und Kontaktinformationen.</p><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">Concierge-Service:</span> Manchmal bestellt Ihnen ein anderes Unternehmen oder eine andere Organisation eine zentry-clone-Fahrt. </p><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">Empfehlungsprogramme: </span> Freunde helfen Freunden bei der Nutzung der zentry-clone-Plattform.  </p><p class=\"text-[24px] font-normal\"><span class=\" text-[24px] font-medium\">Andere Benutzer und Quellen: </span>Andere Nutzer oder öffentliche oder dritte Quellen wie Strafverfolgungsbehörden, Versicherer, Medien oder Fußgänger können uns Informationen über Sie übermitteln, beispielsweise im Rahmen einer Untersuchung eines Vorfalls oder um Sie zu unterstützen.</p>"
+      },
+      "sixth": {
+        "title": "Wie wir Ihre Informationen verwenden",
+        "memo": "<p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Wir verwenden Ihre persönlichen Daten, um:</span></p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Bereitstellung der zentry-clone-Plattform.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Reagieren Sie auf rechtliche Verfahren und Verpflichtungen.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Verbessern Sie die zentry-clone-Plattformen.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Bieten Sie Kundensupport.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Aufbau und Pflege der zentry-clone-Community.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. Sorgen Sie für die Sicherheit der zentry-clone-Plattform und ihrer Benutzer.</p></li></ul><p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Bereitstellung der zentry-clone-Plattform:</span> Wir nutzen Ihre persönlichen Daten, um ein nützliches, effektives, effizientes, intuitives und lohnenswertes Erlebnis auf unserer Plattform zu bieten. </p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Überprüfen Sie Ihre Identität und pflegen Sie Ihr Konto, Ihre Einstellungen und Präferenzen.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Verbinden Sie sich mit Ihren Fahrten und verfolgen Sie deren Fortschritt.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Preise berechnen und Zahlungen abwickeln.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Ermöglichen Sie es Fahrern und Fahrern, sich bezüglich ihrer Fahrt zu vernetzen und ihren Standort mit anderen zu teilen. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Kommunizieren Sie mit Ihnen über Ihre Fahrten und Erfahrungen.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. Sammeln Sie Feedback zu Ihren Erfahrungen.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">7. Durchführung von Wettbewerben, Gewinnspielen und anderen Werbeaktionen.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">8. Ermöglichen Sie zusätzliche Dienste und Programme mit Dritten.</p></li></ul><p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Aufrechterhaltung der Sicherheit der zentry-clone-Plattform und ihrer Benutzer: </span>Der Antrieb unserer Plattform ist es, Ihnen ein sicheres Erlebnis zu bieten, sowohl unterwegs als auch in unseren Apps. </p><ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Authentifizieren Sie Benutzer.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Stellen Sie sicher, dass Fahrer und ihre Fahrzeuge die Sicherheitsanforderungen erfüllen.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Fördern Sie sicheres Fahrverhalten und vermeiden Sie unsichere Aktivitäten.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Untersuchen und lösen Sie Vorfälle, Unfälle und Versicherungsansprüche.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Betrug erkennen und verhindern sowie unsichere oder betrügerische Benutzer blockieren und von der zentry-clone-Plattform entfernen. </p></li></ul> <p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Aufbau und Pflege der zentry-clone-Community:</span> zentry-clone arbeitet daran, ein positiver Teil der Gemeinschaft zu sein. </p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Kommunizieren Sie mit Ihnen über Veranstaltungen und Werbeaktionen.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Personalisieren und bereitstellen Sie Inhalte, Erlebnisse, Mitteilungen und Werbung, um die zentry-clone-Plattform zu fördern und zu erweitern und um Spenden zu erleichtern, die Sie über die zentry-clone-Plattform tätigen möchten. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Bieten Sie Kundensupport, indem Sie hart daran arbeiten, das bestmögliche Erlebnis zu bieten, einschließlich der Unterstützung, wenn Sie sie benötigen. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Verbessern Sie die zentry-clone-Plattform. Wir arbeiten ständig daran, Ihr Erlebnis zu verbessern und Ihnen neue und hilfreiche Funktionen bereitzustellen.  </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Überwachen und verbessern Sie unsere Abläufe und Prozesse, einschließlich Sicherheitspraktiken, Algorithmen und anderer Modelle. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. Entwickeln Sie neue Produkte, Funktionen, Partnerschaften und Dienstleistungen. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">7. Führen Sie Recherchen, Tests und Analysen durch.  </p></li></ul> <p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Reaktion auf rechtliche Verfahren und Anforderungen: </span>Manchmal stellen uns das Gesetz, staatliche Stellen oder andere Regulierungsbehörden Anforderungen und Verpflichtungen in Bezug auf die Dienstleistungen, die wir erbringen möchten. </p> "
+      }
+    }
+  },
+  "TermsAndCondition": {
+    "heading": "Allgemeine Geschäftsbedingungen von zentry-clone",
+    "items": {
+      "title1": "Einführung",
+      "title2": "Änderung der Vereinbarung",
+      "title3": "Teilnahmeberechtigung",
+      "title4": "Kontoregistrierung",
+      "title5": "Benutzerverhalten",
+      "title6": "Fahrtanfragen und Stornierungen",
+      "title7": "Zahlung",
+      "title8": "Bewertungen und Feedback",
+      "title9": "Geräteberechtigungen",
+      "title10": "Dienste Dritter",
+      "title11": "Haftungsbeschränkung",
+      "title12": "Entschädigung",
+      "title13": "Beendigung",
+      "title14": "Geltendes Recht",
+      "title15": "Änderungen der Allgemeinen Geschäftsbedingungen",
+      "title16": "Kontaktieren Sie uns"
+    },
+    "content": {
+      "first": {
+        "title": "Einführung",
+        "memo": "Willkommen bei zentry-clone, einem Ride-Hailing-Dienst, der Fahrgäste mit Fahrern über unsere Plattformen, einschließlich Apps, Websites und andere Dienste (gemeinsam als zentry-clone-Plattformen bezeichnet), verbindet. "
+      },
+      "second": {
+        "title": "Änderung der Vereinbarung",
+        "memo": "zentry-clone behält sich das Recht vor, die Bedingungen dieser Vereinbarung zu ändern. "
+      },
+      "third": {
+        "title": "Teilnahmeberechtigung",
+        "memo": "<p class=\"text-[24px] font-normal\">Um zentry-clone-Plattformen nutzen zu können, müssen Sie mindestens 18 Jahre alt und in der Lage sein, einen rechtsverbindlichen Vertrag abzuschließen.  </p><p class=\"text-[24px] font-normal\"> Sie stellen sicher, dass die Nutzung der zentry-clone-Plattform durch Minderjährige ausschließlich auf den Zugriff auf und die Nutzung von zentry-clone-Diensten und/oder Drittanbieterdiensten beschränkt ist, sofern dies ausdrücklich gemäß der für diese zentry-clone-Dienste und/oder Drittanbieterdienste geltenden Zusatzvereinbarung gestattet ist  </p><p class=\"text-[24px] font-normal\">Sie stellen fest, dass die zentry-clone-Dienste und/oder die Dienste Dritter für den Minderjährigen geeignet sind. </p><p class=\"text-[24px] font-normal\">Sie stellen sicher, dass die Nutzung der zentry-clone-Plattform und der entsprechenden zentry-clone-Dienste und/oder Dienste Dritter durch den Minderjährigen unter Einhaltung und Anerkennung aller geltenden Sicherheitsanweisungen und Warnungen in dieser Vereinbarung, allen geltenden Zusatzvereinbarungen und der Tec erfolgt </p>"
+      },
+      "fourth": {
+        "title": "Benutzerverhalten",
+        "memo": "Wenn Sie ein Konto bei zentry-clone erstellen, müssen Sie genaue und vollständige Informationen angeben, einschließlich Ihres Namens, Ihrer E-Mail-Adresse, Telefonnummer und Zahlungsinformationen. "
+      },
+      "fifth": {
+        "title": " Benutzerverhalten",
+        "memo": "Sie erklären sich damit einverstanden, die zentry-clone-Plattformen in Übereinstimmung mit allen geltenden Gesetzen und Vorschriften zu nutzen. "
+      },
+      "sixth": {
+        "title": "Fahrtanfragen und Stornierungen",
+        "memo": "Fahrer können Fahrten über zentry-clone-Plattformen anfordern. "
+      },
+      "seventh": {
+        "title": "Zahlung",
+        "memo": "Die Fahrgäste erklären sich damit einverstanden, für jede Fahrt den in der App angezeigten Fahrpreis zu zahlen, der zusätzliche Gebühren, Mautgebühren oder Zuschläge beinhalten kann. "
+      },
+      "eight": {
+        "title": "Bewertungen und Feedback",
+        "memo": "Nach jeder Fahrt können sich Fahrer und Fahrer gegenseitig bewerten und Feedback geben. "
+      },
+      "nine": {
+        "title": " Geräteberechtigungen",
+        "memo": "zentry-clone-Plattformen fordern möglicherweise Zugriff auf die Standortdienste, die Kontaktliste und andere Berechtigungen Ihres Geräts an, um ein besseres Erlebnis zu bieten. "
+      },
+      "tenth": {
+        "title": "Dienste Dritter",
+        "memo": "zentry-clone kann Dienste Dritter nutzen, um bestimmte Funktionen zu ermöglichen, wie z. B. die Zahlungsabwicklung und die Kommunikation zwischen Fahrern und Fahrern. "
+      },
+      "eleventh": {
+        "title": "Haftungsbeschränkung",
+        "memo": "Im größtmöglichen gesetzlich zulässigen Umfang haftet zentry-clone nicht für indirekte, zufällige, besondere, Folge- oder Strafschäden oder für entgangene Gewinne oder Einnahmen, unabhängig davon, ob diese direkt oder indirekt entstanden sind, oder für Daten-, Nutzungs-, "
+      },
+      "twelevth": {
+        "title": "Entschädigung",
+        "memo": "Sie erklären sich damit einverstanden, zentry-clone, seine verbundenen Unternehmen, leitenden Angestellten, Direktoren, Mitarbeiter und Vertreter von allen daraus entstehenden Ansprüchen, Verbindlichkeiten, Schäden, Verlusten und Ausgaben, einschließlich, aber nicht beschränkt auf angemessene Anwalts- und Buchhaltungskosten, schadlos zu halten "
+      },
+      "thirthin": {
+        "title": "Beendigung",
+        "memo": "zentry-clone kann Ihr Konto und Ihren Zugriff auf die zentry-clone-Plattformen jederzeit ohne vorherige Ankündigung oder Haftung aus beliebigem Grund kündigen oder sperren, auch wenn Sie gegen diese Allgemeinen Geschäftsbedingungen verstoßen."
+      },
+      "fourthin": {
+        "title": "Geltendes Recht",
+        "memo": "Diese Allgemeinen Geschäftsbedingungen unterliegen den Gesetzen der Gerichtsbarkeit, in der Sie ansässig sind, und werden in Übereinstimmung mit diesen ausgelegt. "
+      },
+      "fiteen": {
+        "title": "Änderungen der Allgemeinen Geschäftsbedingungen",
+        "memo": "zentry-clone behält sich das Recht vor, diese Allgemeinen Geschäftsbedingungen jederzeit zu ändern. "
+      },
+      "sixteen": {
+        "title": "Kontaktieren Sie uns",
+        "memo": "Wenn Sie Fragen zu diesen Allgemeinen Geschäftsbedingungen haben, kontaktieren Sie uns bitte unter {contactEmail}"
+      }
+    }
+  },
+  "contactEmail": "support@zentry-clone.com",
+  "SecurityPolicy": {
+    "heading": "zentry-clone-Sicherheitsrichtlinie",
+    "intro": "Bei zentry-clone legen wir großen Wert auf die Sicherheit unserer Benutzer, einschließlich Fahrer und Fahrer. ",
+    "content": {
+      "first": {
+        "title": "Datensicherheit und Datenschutz",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Datenverschlüsselung:</span> zentry-clone verwendet branchenübliche Verschlüsselung (AES-256), um sensible Daten während der Übertragung und Speicherung zu schützen. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Zugangskontrolle: </span>Wir verwenden ein rollenbasiertes Zugriffskontrollsystem, das den Datenzugriff ausschließlich auf autorisiertes Personal beschränkt. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Datenaufbewahrung: </span>Persönliche Daten werden nur so lange gespeichert, wie es für die in unserer Datenschutzrichtlinie genannten Zwecke erforderlich ist. </p>"
+      },
+      "second": {
+        "title": "Kontosicherheit",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Sichere Anmeldeprotokolle:</span>zentry-clone verwendet für die Kontoanmeldung eine Multi-Faktor-Authentifizierung (MFA), um unbefugten Zugriff zu verhindern. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Überwachung verdächtiger Aktivitäten:</span> Unser System überwacht ungewöhnliche Anmeldeversuche oder Änderungen im Benutzerverhalten. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Wiederherstellungshilfe: </span> Für Benutzer, bei denen Anmeldeprobleme auftreten, bieten wir Unterstützung bei der Kontowiederherstellung über verifizierte Kanäle an, um die Kontosicherheit zu gewährleisten.</p>"
+      },
+      "third": {
+        "title": "Fahrsicherheitsmaßnahmen",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Echtzeit-Tracking:</span> Alle Fahrten können in Echtzeit über die App verfolgt werden, sodass Fahrgäste und Fahrer genaue Navigationsdetails und geschätzte Ankunftszeiten erhalten. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Notfallhilfe (SOS): </span>Die zentry-clone-App verfügt über eine SOS-Taste in der App, über die Benutzer im Falle eines Sicherheitsrisikos direkt mit dem Notdienst verbunden werden. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Hintergrundüberprüfungen der Fahrer:</span> Die Fahrer durchlaufen einen gründlichen Überprüfungsprozess, einschließlich Hintergrundüberprüfungen und Überprüfung der Fahraufzeichnungen. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Fahrzeuginspektionen:</span> Alle Fahrzeuge der zentry-clone-Flotte unterliegen regelmäßigen Inspektionen, die bestätigen, dass sie unseren Sicherheitsstandards entsprechen. </p>"
+      },
+      "fourth": {
+        "title": "Richtlinien zum Benutzerverhalten",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Null-Toleranz-Politik:</span> zentry-clone verfolgt eine Null-Toleranz-Politik gegenüber Diskriminierung, Belästigung oder Missbrauch jeglicher Art. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Berichterstattung und Reaktion:</span> Benutzer können Fehlverhalten über die App melden, sodass wir Probleme effizient überprüfen und beheben können. </p>"
+      },
+      "fifth": {
+        "title": "Privatsphäre für Fahrer und Mitfahrer",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Anonymisierte Kommunikation:</span> Unsere In-App-Kommunikationskanäle anonymisieren Kontaktinformationen, sodass Fahrer und Fahrer kommunizieren können, ohne persönliche Telefonnummern auszutauschen.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Eingeschränkter Zugriff auf personenbezogene Daten:</span> zentry-clone gibt nur wesentliche Informationen an Fahrer weiter (z. B. Abhol- und Abgabeorte), um Fahrten zu erleichtern und andere persönliche Daten der Fahrer zu schützen. </p>"
+      },
+      "sixth": {
+        "title": "Betrugsprävention",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Sichere Zahlungsabwicklung:</span> Wir arbeiten mit führenden Zahlungsabwicklern zusammen, die den PCI-DSS-Standards entsprechen, um alle Transaktionen abzusichern.  </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Technologie zur Betrugsbekämpfung:</span> zentry-clone nutzt KI-basierte Betrugserkennungstools, die auf ungewöhnliche Aktivitätsmuster achten, um betrügerisches Verhalten zu verhindern.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Benutzerschulung:</span> Wir informieren Benutzer über potenzielle Phishing-Bedrohungen und raten ihnen, vertrauliche Informationen nicht außerhalb der zentry-clone-App weiterzugeben.</p>"
+      },
+      "seventh": {
+        "title": "Kontakt und Support",
+        "memo": "Wenn Sie Fragen oder Bedenken zur Sicherheit haben oder Probleme auftreten, wenden Sie sich bitte an unser Sicherheitsteam unter {contactEmail} oder über unseren In-App-Support-Chat.<br/> Wir engagieren uns kontinuierlich für die Sicherheit und überprüfen unsere Richtlinien regelmäßig, um sie an neue Bedrohungen und Technologien anzupassen.  <br/>Durch die Einhaltung dieser Protokolle möchte zentry-clone allen Benutzern eine sichere und vertrauenswürdige Plattform bieten. "
+      }
+    },
+    "time": "Letzte Aktualisierung: 6. November 2024"
+  }
+}

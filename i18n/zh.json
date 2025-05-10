@@ -1,0 +1,1128 @@
+{
+  "navbar": {
+    "Rides": "游乐设施",
+    "Drive": "驾驶",
+    "earn": "通过 Tec-R 赚钱 ",
+    "Products": "产品",
+    "Company": "公司",
+    "Support": "支持",
+    "Patner": "与 Tec-R 合作",
+    "FleetOwners": "车队拥有者",
+    "Logistics": "泰克物流",
+    "Rentals": "泰克-R 出租",
+    "AboutUs": "关于我们",
+    "Blog": "博客",
+    "ContactUs": "联系我们",
+    "Safety": "安全",
+    "OurBrand": "我们的品牌"
+  },
+  "footer": {
+    "Subscribe": "订阅",
+    "Products": "产品",
+    "Rides": "游乐设施",
+    "Driver": "驾驶",
+    "Business": "商业",
+    "Earn_with_TecR": "通过 Tec-R 赚钱",
+    "Patner_with_TecR": "与 Tec-R 合作",
+    "Fleet_Owners": "车队拥有者",
+    "Company": "公司",
+    "About_Us": "关于我们",
+    "Contact_Us": "联系我们",
+    "Support": "支持",
+    "Blog": "博客",
+    "Privacy": "隐私",
+    "Join_Us": "加入我们",
+    "Terms_&_Condition": "条款及条件",
+    "T_&_C": "条款与条件",
+    "Cookies": "曲奇饼",
+    "Security": "安全",
+    "All_rights": "版权所有。",
+    "placeholder": "输入您的电子邮件..."
+  },
+  "home": {
+    "section1": {
+      "homeIntroHeading": "毫不费力地 <br class=\"md:block hidden\" /> 召唤你的 <br class=\"md:block hidden\" /> 旅程与 <br class=\"md:block hidden\" /> 我们的应用程序。",
+      "homeIntroMemo": " 享受便捷的网约车服务 <br class=\"md:block hidden\" /> 体验我们的应用程序，您可以在其中 <br class=\"md:block hidden\" /> 可以毫不费力地请求、跟踪和 <br class=\"md:block hidden\" /> 支付您的乘车费用。",
+      "buttonText": "下载应用程序"
+    },
+    "section2": {
+      "heading": "开车在旅途中赚钱。",
+      "buttonText": " 了解更多",
+      "items": {
+        "title1": "随时随地无缝盈利",
+        "desc1": "我们易于使用的应用程序会跟踪您的里程，并根据行驶距离向您支付费用，确保您在旅途中轻松地补充收入。",
+        "title2": "从A点到发薪日",
+        "desc2": "将每一次旅程变成赚钱的机会。",
+        "title3": "可靠的收入：",
+        "desc3": "Tec-R 提供稳定可靠的收入来源，提供财务安全和安心。",
+        "title4": "您的机队，您的收入",
+        "desc4": " 让您的车队投入工作并毫不费力地最大化您的收入。"
+      }
+    },
+    "section3": {
+      "heading": "为什么选择我们？",
+      "intro": "我们增强您的城市 <br class=\"md:block hidden\" /><span class=\"lg:text-[60px] text-[32px] tracking-[2%] font-medium !mb-6 text-brand md:leading-[86.4px] leading-[43.2px]\"> 移动体验。</span>",
+      "items": {
+        "title1": "我们提供快速便捷的乘车服务",
+        "desc1": "我们的乘车应用程序提供快速、无缝的乘车预订流程 ",
+        "title2": "我们提供积分和奖励",
+        "desc2": "zentry-clone 的每一次旅程都让您更接近独家奖励",
+        "title3": "我们提供多种选择",
+        "desc3": "您可以从一系列车辆选项中进行选择，以满足您的需求。"
+      }
+    },
+    "section4": {
+      "heading": "我们的服务",
+      "subheading": "我们广泛的产品系列可满足全球的多样化需求，且供应情况因国家/地区而异。",
+      "intro": "我们增强您的城市 <br class=\"md:block hidden\" /><span class=\"lg:text-[60px] text-[32px] tracking-[2%] font-medium !mb-6 text-brand md:leading-[86.4px] leading-[43.2px]\"> 移动体验。</span>",
+      "items": {
+        "title1": "常规游乐设施",
+        "desc1": "选择 Tec-R 常规行程，享受无忧旅行。",
+        "title2": "私人飞机  ",
+        "desc2": "我们的私人飞机套餐提供可定制的行程、VIP 服务和世界一流的设施，让您尽享奢华和便利。",
+        "title3": "Tec-R 名人/VIP",
+        "desc3": "通过名人/VIP 乘车计划提升您的乘车体验，享受根据您的需求量身定制的真正奢华的体验。",
+        "title4": "Tec-R 业务",
+        "desc4": "只需单击一下，即可轻松管理员工差旅、发票和支出，获得无忧体验。",
+        "title5": "Tec-R 直升机之旅",
+        "desc5": "Tec-R 凭借其直升机租赁服务将城市交通提升到新的高度，提供快速高效的城市导航方式。",
+        "title6": "Tec-R 运输",
+        "desc6": "使用我们的解决方案轻松优化您的物流，确保平稳运营和高效资源利用。"
+      }
+    },
+    "section5": {
+      "heading": "赶快下单吧，  <br class=\"md:block hidden\" /> 及时骑行。",
+      "subheading": "无论您去往何处，我们都会帮助您安全舒适地到达目的地。",
+      "buttonText": "扫描下载",
+      "items": {
+        "title1": "在 App Store 下载应用程序",
+        "desc1": "我们的乘车应用程序提供快速、无缝的乘车预订流程 ",
+        "title2": "在 Play 商店下载应用程序 ",
+        "desc2": "zentry-clone 的每一次旅程都让您更接近独家奖励"
+      }
+    },
+    "faqs": {
+      "first": {
+        "name": " 如何下载 Tec-R 应用程序？",
+        "content": "您可以从 iOS 设备的 App Store 或 Android 设备的 Google Play Store 下载 Tec-R 应用程序。"
+      },
+      "second": {
+        "name": " 如何创建 zentry-clone 帐户？",
+        "content": "打开 Tec-R 应用程序并单击“注册”。"
+      },
+      "third": {
+        "name": "如何叫车？",
+        "content": "要叫车，只需打开我们的应用程序，输入您的接送地点，选择您喜欢的车辆类型，然后确认您的请求。 "
+      },
+      "fourth": {
+        "name": "如何付款？",
+        "content": "我们接受各种付款方式，包括信用卡/借记卡、Tec-R 个人或家庭钱包以及现金。"
+      },
+      "fifth": {
+        "name": "票价是固定的吗？",
+        "content": "不，票价根据距离、时间和地点而有所不同。"
+      },
+      "sixth": {
+        "name": "我怎样才能成为一名 Tec-R 车手？",
+        "content": "要成为 Tec-R 驱动程序，请下载 Tec-R 驱动程序应用程序。"
+      },
+      "seventh": {
+        "name": "我可以通过 Tec-R 提前安排行程吗？",
+        "content": "是的，您可以提前安排行程。"
+      }
+    }
+  },
+  "rides": {
+    "section1": {
+      "heading": {
+        "smooth": "光滑的",
+        "Rides": "游乐设施",
+        "Seamless": "无缝的",
+        "Booking": "预订"
+      },
+      "intro": "所有游乐设施都在一个应用程序中，具有不同的 <br class=\"md:block hidden\" /> 套餐享受",
+      "buttonText": "获取应用程序",
+      "items": {
+        "title1": "选择",
+        "desc1": "选择目的地 <br/> 毫不费力地解决。",
+        "title2": "选择",
+        "desc2": "选择车辆 <br/> 根据口味。",
+        "title3": "确认",
+        "desc3": "确认乘车后 <br/> 审查细节。"
+      }
+    },
+    "section2": {
+      "buttonText": "获取应用程序",
+      "heading": {
+        "BikeRides": "骑自行车",
+        "atYour": "在你的",
+        "Fingertips": "指尖：",
+        "Seamless": "无缝的",
+        "Unbeatable": "无与伦比",
+        "Experience": "经验",
+        "Booking": "预订"
+      },
+      "intro": "今天就参加我们令人兴奋的自行车骑行套餐，踏入冒险之旅，探索风景优美的路线，感受风吹过头发的感觉，创造难忘的回忆。"
+    },
+    "section3": {
+      "buttonText": "获取应用程序",
+      "heading": {
+        "Our": "我们的",
+        "PrivateJet": "私人飞机",
+        "Package": "包裹：",
+        "offers": "优惠",
+        "Luxury": "奢华",
+        "in": "在",
+        "the": "这",
+        "Skies": "天空"
+      },
+      "intro": "通过我们的私人飞机套餐享受奢华和便利，提供可定制的行程、VIP 服务和世界一流的设施"
+    },
+    "section4": {
+      "buttonText": "获取应用程序",
+      "heading": {
+        "The": "这",
+        "Celebrity/VIP": "名人/贵宾",
+        "Ride": "骑：",
+        "Plan": "计划",
+        "offers": "优惠",
+        "Exclusive": "独家的",
+        "and": "和",
+        "Personalized": "个性化",
+        "Services": "服务"
+      },
+      "intro": "通过名人/VIP 乘车计划提升您的乘车体验，享受根据您的需求量身定制的真正奢华的体验。"
+    },
+    "section5": {
+      "heading": {
+        "Effortlessly": "毫不费力地",
+        "manage": "管理",
+        "employee": "员工",
+        "travel": "旅行",
+        "with": "和",
+        "a": "一个",
+        "on": "在",
+        "click": "点击",
+        "Tec-RBusiness": "Tec-R 业务"
+      },
+      "intro": "我们的商务套餐只需点击一下即可高效管理员工差旅，同时轻松处理发票和费用，实现无缝体验。"
+    },
+    "section6": {
+      "buttonText": "获取应用程序",
+      "heading": {
+        "Experience": "经验",
+        "an": "一个",
+        "extraordinary": "非凡的",
+        "Trip": "旅行",
+        "with": "和",
+        "our": "我们的",
+        "exclusive": "独家的",
+        "Helicopter": "直升机",
+        "Package": "包裹"
+      },
+      "intro": "我们的直升机套餐提供难忘的奢华体验。"
+    },
+    "section7": {
+      "buttonText": "探索我们的安全措施",
+      "heading": {
+        "Ensuring": "确保",
+        "Safety": "安全",
+        "by": "经过",
+        "prioritizing": "优先考虑",
+        "Riders": "骑手的",
+        "well-being": "福利"
+      },
+      "intro": " 从您第一次乘坐开始，我们就会优先考虑您的安全和尊重。"
+    },
+    "section8": {
+      "buttonText": "探索我们的安全措施",
+      "heading": {
+        "Everyone": "每个人",
+        "Deserves": "应得的",
+        "a": "一个",
+        "Ride": "骑：",
+        "Tec-R": "泰克-R",
+        "Accessibility": "无障碍",
+        "Features": "特征"
+      },
+      "intro": "在 Tec-R，我们相信每个人都应该获得舒适便捷的乘车体验。",
+      "items": {
+        "title1": "适合轮椅使用者的车辆",
+        "desc1": "直接通过应用程序请求适合轮椅通行的车辆，以确保平稳舒适的乘坐。",
+        "title2": "应用程序内辅助功能",
+        "desc2": "我们的应用程序旨在供所有人使用，包括屏幕阅读器兼容性、更大字体大小选项和高对比度主题等功能。",
+        "title3": "额外协助",
+        "desc3": "请注明您在接送过程中是否需要特定帮助，我们的司机将很乐意提供帮助。"
+      }
+    }
+  },
+  "Explore": "探索",
+  "More": "更多的",
+  "drive": {
+    "section1": {
+      "heading": {
+        "Drive": "驾驶",
+        "your": "你的",
+        "Way": "方式",
+        "Be": "是",
+        "on": "在",
+        "Boss": "老板",
+        "and": "和",
+        "Terms": "条款",
+        "Earn": "赚"
+      },
+      "intro": "准备好开车了吗？ <br class=\"md:block hidden\" /> 今天作为 zentry-clone 的司机赚钱！",
+      "buttonText": "下载应用程序"
+    },
+    "section2": {
+      "heading": "开始担任司机。",
+      "items": {
+        "title1": "下载并注册",
+        "desc1": "下载 Tec-R 驱动程序应用程序（可从 App Store 或 Google Play Store 获取）。",
+        "title2": "快速验证",
+        "desc2": "提供一些基本文件，例如驾驶执照、车辆登记和保险证明（要求可能有所不同）。 ",
+        "title3": "上路吧！",
+        "desc3": "获得批准后，您将收到通知并可以在应用程序内激活驾驶员模式。"
+      }
+    },
+    "section3": {
+      "heading": "使用 zentry-clone 驾驶的好处。",
+      "intro": " 无论您是寻求偶尔的灵活性还是定期的灵活性 <br class=\"lg:flex hidden\" /> 收入来源，Tec-R 让您按照自己的方式驾驶。",
+      "items": {
+        "title1": "灵活自由",
+        "desc1": "只要您适合就开车。",
+        "title2": "稳定的盈利",
+        "desc2": "通过我们可靠且有竞争力的薪资水平享受稳定的收入流，提供财务稳定性。",
+        "title3": "奖励和奖金",
+        "desc3": "通过基于绩效的奖金和激励措施赚取额外收入，奖励您的奉献和辛勤工作。"
+      }
+    },
+    "section4": {
+      "heading": "zentry-clone 司机应用程序的工作原理",
+      "intro": " 可靠且易于使用，提供您驾驶和赚钱所需的一切。",
+      "items": {
+        "title1": "下载并注册",
+        "desc1": "前往 Google Play 商店或 Apple App Store。",
+        "title2": "接收和接受乘车",
+        "desc2": "当有乘车请求时，您会收到通知。接受以确认乘车并前往上车地点。",
+        "title3": "导航至接送地点",
+        "desc3": "使用应用程序的内置导航到达上车地点。",
+        "title4": "完成旅程并管理收益",
+        "desc4": "乘客下车后，点击应用程序中的“结束行程”。  "
+      }
+    },
+    "section5": {
+      "heading": "司机的热门问题"
+    },
+    "section6": {
+      "heading": {
+        "Prioritizing": "确定优先顺序",
+        "Driver": "司机",
+        "well-being": "方式",
+        "to": "到",
+        "ensure": "确保",
+        "Safety": "安全"
+      },
+      "intro": "从您第一次乘坐开始，我们就会优先考虑您的安全和尊重。",
+      "buttonText": " 探索我们的安全措施"
+    }
+  },
+  "partnerWithTecR": {
+    "section1": {
+      "heading": {
+        "Expand": "扩张",
+        "Your": "你的",
+        "Reach": "抵达",
+        "Become": "变得",
+        "a": "一个",
+        "Tec-R": "泰克-R",
+        "Partner": "伙伴"
+      },
+      "intro": "立即与 Tec-R 合作并享受 <br class=\"md:block hidden\" /> 更多订单、增加销量以及 <br class=\"md:block hidden\" /> 无与伦比的可见度——开始收获 <br class=\"md:block hidden\" /> 现在的好处！",
+      "buttonText": "今天开始"
+    },
+    "section2": {
+      "heading": {
+        "Why": "为什么",
+        "with": "和",
+        "Tec-R": "技术-R？",
+        "Partner": "伙伴"
+      },
+      "intro": " 我们创造了令人信服的价值主张，吸引了多元化的合作伙伴，并为所有利益相关者培育了双赢的生态系统。",
+      "buttonText": "今天开始",
+      "items": {
+        "title1": "扩大影响范围",
+        "desc1": "访问庞大且不断增长的车队所有者和司机网络。",
+        "title2": "提高品牌知名度",
+        "desc2": "通过联合营销机会提高品牌知名度和影响力。",
+        "title3": "佣金机会",
+        "desc3": "通过推荐或佣金创收的机会。",
+        "title4": "增强的服务产品",
+        "desc4": "与领先的车队管理平台集成。"
+      }
+    },
+    "section3": {
+      "heading": "合作机会",
+      "intro": " Tec-R 是领先的乘车平台，将乘客与司机和车辆连接起来。<br class=\"lg:flex hidden\" /> 我们为企业提供各种合作机会来扩大其影响力，<br class=\"lg:flex hidden\" /> 创造收入并增强服务。",
+      "items": {
+        "title1": "司机合作伙伴",
+        "desc1": "通过注册您的车辆加入 Tec-R 网络，并在每次完成的骑行中赚取佣金。",
+        "title2": "营销和扩张合作伙伴关系",
+        "desc2": "通过与广泛使用的平台合作，吸引新客户和客流量到您的企业。",
+        "title3": "技术合作伙伴",
+        "desc3": "开发您的技术解决方案与 Tec-R 平台之间的集成，以获得无缝的用户体验。",
+        "title4": "车队管理公司",
+        "desc4": "通过 Tec-R 平台向更广泛的客户群提供您现有的车队和司机。"
+      }
+    },
+    "banner": {
+      "heading": {
+        "Expand": "扩张",
+        "Your": "你的",
+        "Reach": "抵达",
+        "Today": "今天！"
+      },
+      "intro": "联系我们探索定制的 . <br class=\"lg:flex hidden\" />合伙",
+      "buttonText": "联系我们"
+    },
+    "FAQs": {
+      "heading": "常见问题",
+      "intro": "寻找有关我们叫车和服务的常见问题的快速解决方案<br class=\"md:block hidden\" />  其他服务。"
+    }
+  },
+  "earnWithTecR": {
+    "section1": {
+      "heading": {
+        "Empower": "赋能",
+        "Your": "你的",
+        "Fleet": "舰队",
+        "Optimize": "优化",
+        "Business": "商业"
+      },
+      "intro": " 通过我们的控制您的车队运营 <br class=\"md:block hidden\" /> 管理解决方案，降低成本，提升 <br class=\"md:block hidden\" />生产力，并获得宝贵的见解 <br class=\"md:block hidden\" /> 更明智的决定。",
+      "buttonText": "获取应用程序"
+    },
+    "section2": {
+      "heading": {
+        "Benefits": "好处",
+        "of": "的",
+        "Partnering": "合作",
+        "with": "和",
+        "Us": "我们"
+      },
+      "intro": " 可靠且易于使用，提供您驾驶和赚钱所需的一切。",
+      "items": {
+        "title1": "降低成本",
+        "desc1": "通过优化路线节省燃油，通过预防性调度降低维护成本，并通过安全驾驶习惯减少保险费用。",
+        "title2": "提高生产力",
+        "desc2": "优化交货时间表以确保及时到达，通过简化任务提高驾驶员效率，并通过预防性维护减少停机时间。",
+        "title3": "增强安全性",
+        "desc3": "促进安全驾驶并降低事故风险，通过实时跟踪增强驾驶员责任，确保车辆和资产安全"
+      }
+    },
+    "section3": {
+      "heading": "zentry-clone 车队如何运作",
+      "intro": " Tec-r 简化了车队管理，让您能够通过一整套功能进行控制。",
+      "items": {
+        "title1": "降低成本",
+        "desc1": "通过优化路线节省燃油，通过预防性调度降低维护成本，并通过安全驾驶习惯减少保险费用。",
+        "title2": "提高生产力",
+        "desc2": "优化交货时间表以确保及时到达，通过简化任务提高驾驶员效率，并通过预防性维护减少停机时间。",
+        "title3": "增强安全性",
+        "desc3": "促进安全驾驶并降低事故风险，通过实时跟踪增强驾驶员责任，确保车辆和资产安全"
+      }
+    },
+    "FAQs": {
+      "heading": "常见问题"
+    },
+    "banner": {
+      "heading": {
+        "Begin": "开始",
+        "to": "到",
+        "Earn": "赚",
+        "with": "和！",
+        "your": "你的",
+        "Vehicle": "车辆"
+      },
+      "intro": "释放您车队的潜力 <br class=\"lg:flex hidden\" /> 今天就开始免费赚钱！",
+      "buttonText": "开始使用 "
+    }
+  },
+  "TecRLogistics": {
+    "section1": {
+      "heading": {
+        "Simplify": "简化",
+        "Deliveries": "交货",
+        "with": "和",
+        "Tec-R": "泰克-R",
+        "Logistics": "后勤"
+      },
+      "intro": "Tec-R Logistics 是一种简化的交付方式 <br class=\"md:block hidden\" /> 服务即将登陆 Tec-R 应用程序。",
+      "buttonText": "订阅",
+      "subIntro": "接收有关我们发布的最新消息。"
+    },
+    "section2": {
+      "heading": "探索基本功能",
+      "intro": "通过探索我们的产品来释放其全部潜力<br class=\"md:block hidden\" /> 基本特征。",
+      "items": {
+        "title1": "按需交付",
+        "desc1": "直接通过 Tec-R 应用程序在您方便的时候安排取货和送货。",
+        "title2": "实时追踪",
+        "desc2": "实时跟踪您的包裹并查看预计的递送时间。",
+        "title3": "多种交付选项",
+        "desc3": "从多种交付选项中进行选择以满足您的需求。",
+        "title4": "有竞争力的定价",
+        "desc4": "为您的送货提供实惠且透明的定价。"
+      }
+    },
+    "banner": {
+      "heading": "立即注册以抢先体验 <br class=\"md:block hidden\" /> Tec-R 物流和独家折扣！",
+      "intro": "释放您车队的潜力 <br class=\"lg:flex hidden\" /> 今天就开始免费赚钱！",
+      "buttonText": "订阅"
+    }
+  },
+  "TecRRentals": {
+    "section1": {
+      "heading": {
+        "Rentals": "出租",
+        "Your": "你的",
+        "Car": "车",
+        "Tec-R": "泰克-R",
+        "Rental": "出租",
+        "Hub": "中心"
+      },
+      "intro": "Tec-R Rentals 是一家便捷的汽车租赁公司 <br class=\"md:block hidden\" /> 服务即将登陆 Tec-R 应用程序。",
+      "buttonText": "订阅",
+      "subIntro": "接收有关我们发布的最新消息。"
+    },
+    "section2": {
+      "heading": "探索基本功能",
+      "intro": "通过探索我们的产品来释放其全部潜力<br class=\"md:block hidden\" /> 基本特征。",
+      "items": {
+        "title1": "多种车辆选择",
+        "desc1": "从紧凑型轿车到宽敞的 SUV，多种车型供您选择，满足您的需求。",
+        "title2": "简单的应用内预订",
+        "desc2": "随时随地通过 Tec-R 应用程序快速轻松地预订租车。",
+        "title3": "透明定价",
+        "desc3": "查看无隐藏费用的预付费用 - 在预订前准确了解您要支付的费用。",
+        "title4": "便捷的接送选择",
+        "desc4": "享受灵活的接送选项，将汽车租赁无缝整合到您的计划中。"
+      }
+    },
+    "banner": {
+      "heading": "立即注册以抢先体验 <br class=\"md:block hidden\" />Tec-R 租赁和独家折扣！",
+      "intro": "释放您车队的潜力 <br class=\"lg:flex hidden\" /> 今天就开始免费赚钱！",
+      "buttonText": "订阅"
+    }
+  },
+  "earn_faqs": {
+    "first": {
+      "name": "我如何注册成为 Tec-R 的车队所有者？",
+      "content": "要注册成为车队所有者，请从 App Store 或 Google Play Store 下载 Tec-R Driver 应用程序。"
+    },
+    "second": {
+      "name": "注册我的车队需要什么文件？",
+      "content": "您需要提供所有驾驶员的驾驶执照、车辆登记证、保险证明以及任何相关的营业执照。"
+    },
+    "third": {
+      "name": "拥有 Tec-R 的车队所有者需要多少辆车？",
+      "content": "要获得 Tec-R 车队所有者资格，您通常需要至少两辆车。"
+    },
+    "fourth": {
+      "name": "Tec-R 如何确保车队驾驶员的安全？",
+      "content": "Tec-R 将安全放在首位，对所有驾驶员进行全面的背景调查、GPS 跟踪等应用内安全功能，以及确保始终提供帮助的 24/7 支持。"
+    },
+    "fifth": {
+      "name": "我可以实时跟踪我的车队的表现吗？",
+      "content": "是的，Tec-R 应用程序可以实时跟踪您的所有车辆，让您可以监控车队的位置、行驶状态和性能。"
+    }
+  },
+  "faqs": {
+    "first": {
+      "name": "我如何注册成为 Tec-R 的车队所有者？",
+      "content": "要注册成为车队所有者，请从 App Store 或 Google Play Store 下载 Tec-R Driver 应用程序。"
+    },
+    "second": {
+      "name": "注册我的车队需要什么文件？",
+      "content": "您需要提供所有驾驶员的驾驶执照、车辆登记证、保险证明以及任何相关的营业执照。"
+    },
+    "third": {
+      "name": "拥有 Tec-R 的车队所有者需要多少辆车？",
+      "content": "要获得 Tec-R 车队所有者资格，您通常需要至少两辆车。"
+    },
+    "fourth": {
+      "name": "Tec-R 如何确保车队驾驶员的安全？",
+      "content": "Tec-R 将安全放在首位，对所有驾驶员进行全面的背景调查、GPS 跟踪等应用内安全功能，以及确保始终提供帮助的 24/7 支持。"
+    },
+    "fifth": {
+      "name": "我可以实时跟踪我的车队的表现吗？",
+      "content": "是的，Tec-R 应用程序可以实时跟踪您的所有车辆，让您可以监控车队的位置、行驶状态和性能。"
+    },
+    "sixth": {
+      "name": "作为车队所有者，我可以获得什么样的收入？",
+      "content": "收入可能会根据车辆数量、驾驶时间和需求而有所不同。 "
+    },
+    "seventh": {
+      "name": "如何管理我的车队的付款？",
+      "content": "付款通过 Tec-R 应用程序进行管理。"
+    }
+  },
+  "contactUs": {
+    "heading": "联系我们",
+    "intro": "有任何问题或意见吗？",
+    "cardHeading": "联系信息",
+    "cardIntro": "有任何问题或意见吗？",
+    "buttonText": "发送消息",
+    "FirstName": "名",
+    "LastName": "姓",
+    "E-mail": "电子邮件",
+    "PhoneNumber": "电话号码",
+    "DropMessage": "留言..."
+  },
+  "AboutUs": {
+    "tag": "关于我们",
+    "heading": {
+      "Weaving": "编织",
+      "Together": "一起",
+      "Your": "你的",
+      "Urban": "城市的",
+      "Journey": "旅行"
+    },
+    "intro": "在 zentry-clone，我们相信在繁忙的城市街道上行驶应该不是一件麻烦事。",
+    "section5": {
+      "heading": " 我们的使命：以人为本 <br class=\"md:block hidden\" /> 城市设计的核心。",
+      "intro": " 我们优先考虑行人、骑自行车的人和公共交通，创造充满活力的社区，让人们茁壮成长。"
+    },
+    "section6": {
+      "heading": "我们的价值观：什么定义了我们",
+      "intro": " 在 Tec-R，我们致力于技术领域及其变革潜力。 <br class=\"md:block hidden\" /> 愿景超越技术本身，强调核心价值观的重要性 <br class=\"md:block hidden\" /> 支撑我们的成功并指导我们的行动。",
+      "items": {
+        "title1": "创新",
+        "desc1": "我们专注于不断发展和突破技术进步的界限。",
+        "title2": "效率",
+        "desc2": "我们不断优先考虑优化流程和最大化结果的解决方案。",
+        "title3": "可靠性",
+        "desc3": "我们通过持续交付的可靠技术不断建立信任。"
+      }
+    },
+    "section7": {
+      "heading": "我们的故事：缩小城市差距",
+      "intro": "Tec-R 成立于 2024 年，其愿景是通过提供更高效、可靠和用户友好的移动解决方案来改变城市交通。 "
+    },
+    "section2": {
+      "heading": "未来愿景",
+      "intro": "展望未来，我们的目标是进一步整合可持续解决方案，并将我们的服务扩展到新市场，继续我们的使命，让每个人的城市生活变得更美好。"
+    },
+    "section3": {
+      "heading": "影响力故事",
+      "intro": " 自成立以来，我们一直致力于改善和扩展我们的服务。"
+    },
+    "section4": {
+      "heading": {
+        "Benefits": "好处",
+        "of": "的",
+        "Using": "使用",
+        "Our": "我们的",
+        "Services": "服务"
+      },
+      "items": {
+        "title1": "节省成本",
+        "desc1": "通过使用我们的服务，您可以降低管理费用并增加您的利润。",
+        "title2": "提高效率",
+        "desc2": "我们的服务简化您的工作流程，节省您的时间和精力通过自动化流程，您可以专注于最重要的事情。",
+        "title3": "增强安全性",
+        "desc3": "您的数据在我们这里是安全的。"
+      }
+    },
+    "banner": {
+      "heading": {
+        "Download": "下载",
+        "the": "这",
+        "App": "应用程序",
+        "Explore": "＆ 探索",
+        "your": "你的",
+        "City": "城市"
+      },
+      "intro": "释放您车队的潜力 <br class=\"lg:flex hidden\" /> 今天就开始免费赚钱！",
+      "buttonText": "开始使用 "
+    }
+  },
+  "notFound": {
+    "title": "哎呀！",
+    "subTitle": "我们找不到您正在寻找的页面，但我们绝对可以帮助您！",
+    "buttonText": "主页"
+  },
+  "safety": {
+    "heading": "您的安全，<br class=\"md:block hidden\" /> 我们的首要任务。",
+    "intro": "在 zentry-clone，我们将安全放在首位，通过全面的政策、技术和专门的团队为乘客和驾驶员创造一个安全的环境。",
+    "section2": {
+      "heading": "创造安全的体验",
+      "intro": "在 zentry-clone，安全是我们的首要任务。 <br class=\"md:block hidden\" /> 乘客和司机通过实施强有力的政策，利用先进的 <br class=\"md:block hidden\" />技术，并依靠我们专门的支持团队。",
+      "items": {
+        "title1": "专门的支持团队",
+        "desc1": "我们有一支安全专家团队 24/7 全天候为您服务，以解决您旅行期间可能出现的任何问题或紧急情况。",
+        "title2": "先进技术",
+        "desc2": "我们的应用程序配备了促进安全的功能，例如实时行程跟踪、紧急按钮和应用程序内 ID 验证。",
+        "title3": "详细放映",
+        "desc3": "我们对所有司机进行彻底的背景调查，以确保他们的资格和适合该平台的能力。"
+      }
+    },
+    "section3": {
+      "heading": "您每次骑行的安全",
+      "heading2": "骑手安全提示",
+      "items": {
+        "title1": "经过彻底审查的司机",
+        "desc1": "我们对所有司机进行彻底的背景调查，以确保他们的资格和适合该平台的能力。",
+        "title2": "安全可靠的车辆",
+        "desc2": "您的安全是我们的首要任务，因此我们网络中的所有车辆都会定期进行维护检查并遵守严格的安全标准。",
+        "title3": "触手可及的安全功能",
+        "desc3": "我们的应用程序包括实时行程跟踪、应用程序内 ID 验证和紧急按钮，以确保您在整个骑行过程中保持控制和连接。"
+      },
+      "tips": {
+        "title1": "验证驾驶员和车辆",
+        "desc1": "验证应用程序上的驾驶员姓名、车牌和汽车型号是否与实际驾驶员和车辆相符。",
+        "title2": "接送过程中的安全",
+        "desc2": "在光线充足、人口稠密的地区等待，尤其是在晚上。",
+        "title3": "确保安全乘车",
+        "desc3": "进入车内后，立即扣好安全带。",
+        "title4": "乘车后安全",
+        "desc4": "每次乘车后对您的司机进行评分和审查，以帮助维护平台的安全。"
+      }
+    },
+    "section3View2": {
+      "heading": "安心驾驶",
+      "heading2": "驾驶员安全提示",
+      "items": {
+        "title1": "已验证的骑手",
+        "desc1": "我们通过在接载前验证乘客身份和付款方式来最大程度地降低司机的风险。",
+        "title2": "双向通讯",
+        "desc2": "我们的双向反馈系统可让您报告不安全的骑手行为，使我们能够迅速采取行动，确保每个人都有安全的驾驶体验。",
+        "title3": "安全高效的路线",
+        "desc3": "我们使用实时路况更新、建议路线和路线规划导航等应用内功能，自信地规划您的行程。"
+      },
+      "tips": {
+        "title1": "骑行前",
+        "desc1": "充足的休息可以保证警觉性。",
+        "title2": "验证乘客",
+        "desc2": "确认乘客身份可防止接错人。查看乘客评级（可选）可提供附加信息（如果有）。",
+        "title3": "准备骑行",
+        "desc3": "设置导航可确保路线顺畅。清晰的沟通可明确接送细节。",
+        "title4": "道路安全",
+        "desc4": "专注于道路，最大限度地减少干扰。遵守交通法规可确保每个人的安全。使用应用程序内功能可以立即响应安全问题"
+      }
+    },
+    "banner": {
+      "heading": "了解更多 <br class=\"md:block hidden\" /> 关于安全",
+      "intro": "下载应用程序，了解有关我们的更多信息 <br class=\"md:block hidden\" /> 服务并探索安全资源。",
+      "buttonText": "获取应用程序"
+    }
+  },
+  "support": {
+    "heading": "zentry-clone 支持中心",
+    "intro": "欢迎来到 zentry-clone 支持中心。",
+    "placeholder": "您需要什么帮助？",
+    "buttonText": "搜索",
+    "items": {
+      "title1": "骑手",
+      "title2": "司机",
+      "title3": "车队拥有者"
+    },
+    "section2": {
+      "heading": "热门帮助文章"
+    },
+    "faqs": {
+      "first": {
+        "name": "如何预订乘车？",
+        "content": "<div><span class=\" font-medium text-[20px]\">1. 如何叫车？</span><p class=\"text-[20px] font-normal\"> 要叫车，只需打开我们的应用程序，输入您的接送地点，选择您喜欢的车辆类型，然后确认您的请求。 </p></div><div><span class=\" font-medium text-[20px]\">2. 可以提前预约乘车吗？</span><p class=\"text-[20px] font-normal\"> 是的，通过 zentry-clone，您可以通过在预订过程中选择“时间表”选项来提前安排乘车。 </p></div><div><span class=\" font-medium text-[20px]\">3. 有哪些不同的乘车选择？</span><p class=\"text-[20px] font-normal\"> zentry-clone 根据您的需求提供多种选择，包括经济型和豪华型车辆类别。</p></div><div><span class=\" font-medium text-[20px]\">4. 如何在预订时使用促销代码？  </span><p class=\"text-[20px] font-normal\"> 预订行程时，请在确认前在指定字段中输入您的促销代码。</p></div><div><span class=\" font-medium text-[20px]\">5. 我可以在行程中添加多个站点吗？  </span><p class=\"text-[20px] font-normal\"> 是的，您可以在输入目的地时选择“添加目的地”来添加多个停靠点。</p></div>"
+      },
+      "second": {
+        "name": "管理您的帐户",
+        "content": "<div><span class=\" font-medium text-[20px]\">1. 如何实时追踪司机的位置？</span><p class=\"text-[20px] font-normal\"> 确认您的行程后，应用程序上将显示实时地图，显示司机的当前位置和预计到达时间。</p></div><div><span class=\" font-medium text-[20px]\">2. 乘车过程中如何联系司机？ </span><p class=\"text-[20px] font-normal\">您可以通过点击行程详细信息中的“联系”选项，直接通过应用程序联系您的司机。 </p></div><div><span class=\" font-medium text-[20px]\">3. 行程中可以更改目的地吗？ </span><p class=\"text-[20px] font-normal\">不可以，您无法在骑行过程中修改目的地。 </p></div><div><span class=\" font-medium text-[20px]\">4. 如果我或司机取消我的行程会怎样？</span><p class=\"text-[20px] font-normal\">如果您取消行程，根据取消时间，可能会收取取消费用。 </p></div><div><span class=\" font-medium text-[20px]\">5. 如何与朋友或家人等其他人分享我的乘车详细信息？  </span><p class=\"text-[20px] font-normal\"> 要分享您的行程详细信息，请点击行程详细信息中的“共享行程”选项，然后将链接发送给您的联系人。</p></div>"
+      },
+      "third": {
+        "name": "付款问题",
+        "content": "<div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div>"
+      },
+      "fourth": {
+        "name": "如何追踪您的行程？",
+        "content": ""
+      },
+      "fifth": {
+        "name": "了解乘车费用和收费",
+        "content": ""
+      }
+    },
+    "banner": {
+      "heading": "还有疑问吗？",
+      "intro": "需要帮助吗？",
+      "buttonText": "联系我们",
+      "items": {
+        "title1": "实时聊天",
+        "title2": "联系我们"
+      }
+    },
+    "riders": {
+      "heading": "骑手",
+      "BookingaRide": {
+        "heading": "预订乘车",
+        "list": {
+          "title1": "如何叫车？",
+          "content1": "要叫车，只需打开我们的应用程序，输入您的接送地点，选择您喜欢的车辆类型，然后确认您的请求。 ",
+          "title2": "我可以提前安排乘车吗？",
+          "content2": "是的，通过 zentry-clone，您可以通过在预订过程中选择“时间表”选项来提前安排乘车。",
+          "title3": "有哪些不同的乘车选择？",
+          "content3": "zentry-clone 根据您的需求提供多种选择，包括经济型和豪华型车辆类别。",
+          "title4": "如何在预订时使用促销代码？",
+          "content4": "预订行程时，请在确认前在指定字段中输入您的促销代码。",
+          "title5": "我可以在行程中添加停靠点吗？",
+          "content5": "是的，您可以在输入目的地时选择“添加目的地”来添加多个停靠点。"
+        }
+      },
+      "ManagingYourRide": {
+        "heading": "管理您的行程",
+        "list": {
+          "title1": "如何实时追踪司机的位置？",
+          "content1": "确认您的行程后，应用程序上将显示实时地图，显示司机的当前位置和预计到达时间。",
+          "title2": "乘车期间如何联系我的司机？",
+          "content2": "您可以通过点击行程详细信息中的“联系”选项，直接通过应用程序联系您的司机。",
+          "title3": "我可以在行程中更改目的地吗？",
+          "content3": "不可以，您无法在骑行过程中修改目的地。",
+          "title4": "如果我或司机取消行程会怎样？",
+          "content4": "如果您取消行程，根据取消时间，可能会收取取消费用。",
+          "title5": "如何与朋友或家人等其他人分享我的乘车详细信息？",
+          "content5": "要分享您的行程详细信息，请点击行程详细信息中的“共享行程”选项，然后将链接发送给您的联系人。"
+        }
+      },
+      "PaymentAndFares": {
+        "heading": "付款方式和票价",
+        "list": {
+          "title1": "我如何支付乘车费用？",
+          "content1": "您可以使用与您的 zentry-clone 帐户关联的付款方式支付行程费用，包括信用卡/借记卡、数字钱包或您所在地区接受的其他选项。",
+          "title2": "我可以更改我的默认付款方式吗？",
+          "content2": "是的，您可以在应用程序的“付款设置”下更新您的默认付款方式。",
+          "title3": "票价计算因素有哪些？",
+          "content3": "zentry-clone 票价是根据距离、时间、车辆类型和实时需求等因素计算的。",
+          "title4": "我可以在预订乘车前查看票价估算吗？",
+          "content4": "是的，该应用程序会在您确认行程之前提供票价估算。",
+          "title5": "我如何获得乘车收据？",
+          "content5": "乘车后，收据将发送到您注册的电子邮件中。"
+        }
+      },
+      "AccountManagement": {
+        "heading": "账户管理",
+        "list": {
+          "title1": "如何创建 zentry-clone 帐户？",
+          "content1": "下载 zentry-clone 应用程序并打开它。",
+          "title2": "我如何更新我的帐户信息？",
+          "content2": "转到应用程序中的“帐户设置”以更新您的个人详细信息，包括电子邮件、电话号码和地址。",
+          "title3": "如何更改我的密码？",
+          "content3": "在“帐户设置”中，选择“更改密码”并按照提示重置密码。",
+          "title4": "如何删除我的 zentry-clone 帐户并重新激活它？",
+          "content4": "要删除您的帐户，请转到“帐户设置”并选择“删除帐户”。"
+        }
+      },
+      "SafetyAndSecurity": {
+        "heading": "安全保障",
+        "list": {
+          "title1": "zentry-clone 提供哪些安全功能？",
+          "content1": "zentry-clone 包括实时骑行跟踪、SOS 紧急援助、驾驶员背景调查以及与可信联系人共享骑行详细信息等功能。",
+          "title2": "zentry-clone 的骑手安全政策是什么？",
+          "content2": "zentry-clone 的安全政策确保驾驶员和乘客遵守安全准则。",
+          "title3": "如果我把东西忘在车里了怎么办？",
+          "content3": "如果您把东西忘在车里，请转到“乘车历史记录”并选择“报告丢失物品”。",
+          "title4": "如何报告乘车过程中的安全问题或事故？",
+          "content4": "如需立即帮助，请使用 SOS 按钮。",
+          "title5": "出于安全原因，我可以与朋友分享我的乘车详细信息吗？",
+          "content5": "是的，该应用程序有一个“共享乘车”选项，可让您将乘车信息和实时位置发送给朋友或家人，以便他们跟踪您的行程以确保安全。"
+        }
+      }
+    },
+    "drivers": {
+      "heading": "司机",
+      "GettingStarted": {
+        "heading": "开始使用 zentry-clone",
+        "list": {
+          "title1": "我如何申请成为 zentry-clone 司机？",
+          "content1": "如需申请，请下载 zentry-clone Driver 应用程序，创建帐户，然后提交所需的详细信息和文件来完成申请流程。 ",
+          "title2": "我需要提供什么文件和信息？",
+          "content2": "您需要提交有效的驾驶执照、车辆登记、保险证明和背景调查。",
+          "title3": "车龄和车况要求是什么？",
+          "content3": "车辆必须符合 zentry-clone 的最低车龄要求（通常低于 10 年），并且必须通过车辆检查，以确保其符合我们的安全和舒适标准。",
+          "title4": "如何联系 zentry-clone 司机支持？",
+          "content4": "您可以通过应用程序导航至“帮助与支持”或邮寄您帐户中提供的专用驾驶员支持热线来联系驾驶员支持。",
+          "title5": "如何更新我的驾驶员个人资料信息？",
+          "content5": "在 zentry-clone Driver 应用程序中，转到“个人资料设置”以更新您的个人和车辆信息。"
+        }
+      },
+      "DriverApp": {
+        "heading": "使用 zentry-clone 司机应用程序",
+        "list": {
+          "title1": "我如何接受乘车请求？",
+          "content1": "当有乘车请求时，您会在屏幕上看到一条通知。",
+          "title2": "乘车时如何使用该应用程序进行导航？",
+          "content2": "zentry-clone Driver 应用程序与地图集成。",
+          "title3": "如何通过应用程序与乘客沟通？",
+          "content3": "您可以直接通过应用程序向乘客发送消息或致电。",
+          "title4": "如果骑手有特殊要求或需要帮助，我该怎么办？",
+          "content4": "注意乘客的要求并尽可能满足他们的要求。",
+          "title5": "zentry-clone 针对骑手行为和乘客礼仪的指南是什么？",
+          "content5": "zentry-clone 希望乘客尊重司机、他们的车辆以及任何相关的安全法规。"
+        }
+      },
+      "EarningsAndPayments": {
+        "heading": "收入和付款",
+        "list": {
+          "title1": "zentry-clone 游乐设施的票价是如何计算的？",
+          "content1": "票价根据距离、时间和任何适用的费用计算。",
+          "title2": "可能适用哪些不同类型的费用或扣除？",
+          "content2": "典型的扣除额可能包括服务费、取消费用（如果适用）以及通行费调整或 zentry-clone 费用政策中规定的其他费用。",
+          "title3": "我如何通过 zentry-clone 获得驾驶报酬？",
+          "content3": "收入每周自动存入您关联的银行账户或首选付款方式。",
+          "title4": "我可以更改我的首选付款方式吗？",
+          "content4": "是的，您可以在应用程序的“付款设置”下更新您的首选付款方式。",
+          "title5": "zentry-clone 是否为我的收入提供发票？",
+          "content5": "是的，您可以在应用程序中的“收入”下访问您的每周或每月收入报表，以查看和下载发票。"
+        }
+      },
+      "SafetyAndCustomerService": {
+        "heading": "安全和客户服务",
+        "list": {
+          "title1": "zentry-clone 为驾驶员提供哪些安全功能？",
+          "content1": "zentry-clone 提供应用程序内紧急援助、GPS 跟踪以及驾驶员与值得信赖的联系人分享其乘车详细信息的功能。",
+          "title2": "如何报告乘车过程中的安全问题或事故？",
+          "content2": "如需立即帮助，请使用应用程序中的“紧急”按钮。",
+          "title3": "zentry-clone 关于驾驶员行为和专业精神的政策是什么？",
+          "content3": "zentry-clone 希望所有司机保持专业行为、遵守交通规则并尊重乘客。",
+          "title4": "如何报告乘客或乘客的行为问题？",
+          "content4": "您可以通过“骑行历史记录”选项卡向乘客报告问题。",
+          "title5": "如果在乘车过程中发生事故或车辆损坏，我该怎么办？",
+          "content5": "如果您发生事故，请确保您的安全，并在需要时致电紧急服务部门。"
+        }
+      }
+    },
+    "fleetOwners": {
+      "heading": "车队拥有者",
+      "ManagingYourFleet": {
+        "heading": "管理您的车队",
+        "list": {
+          "title1": " 如何将车辆添加到我的 zentry-clone 车队？",
+          "content1": "在 zentry-clone 车队仪表板中，转到“管理车队”并选择“添加车辆”。",
+          "title2": " 每辆车需要哪些文件和信息？",
+          "content2": "每辆车都必须有最新的登记、有效的保险证书、所有权证明和最近的检查报告。",
+          "title3": " 如何监控平台上驾驶员的表现和活动？",
+          "content3": "在 zentry-clone 车队仪表板中，您可以查看驾驶员绩效指标，例如评分、行程完成率和整体活动。",
+          "title4": "是否有最大化机队收益和效率的策略？ ",
+          "content4": "是的，一些策略包括监控高峰乘车时间、保持车辆清洁和功能以及鼓励司机及时接受乘车请求。 ",
+          "title5": "如果需要，如何将车辆从车队中移除？ ",
+          "content5": "在车队仪表板中，选择您要删除的车辆，然后单击“删除车辆”。"
+        }
+      },
+      "BillingAndInvoicing": {
+        "heading": "计费和发票",
+        "list": {
+          "title1": "我的车队完成的行程的票价如何计算？ ",
+          "content1": "票价根据距离、时间以及任何附加费用或附加费计算。 ",
+          "title2": " 我如何跟踪我的整体机队收入和收入？",
+          "content2": "车队收入和收入可在车队仪表板的“收入”选项卡下查看。",
+          "title3": " 哪些费用或扣除可能适用于机队收入？",
+          "content3": "扣除额可能包括 zentry-clone 的服务费、取消费和通行费调整。",
+          "title4": "zentry-clone 如何处理车队运营的支出？ ",
+          "content4": "已完成行程的付款每周处理一次，并直接存入与您的车队仪表板关联的银行帐户。",
+          "title5": " 我何时以及多久会收到车队活动的发票？",
+          "content5": "发票每周生成一次，可以从车队仪表板查看和下载。"
+        }
+      },
+      "ComplianceAndRegulations": {
+        "heading": "合规与法规",
+        "list": {
+          "title1": "zentry-clone 对车辆维护和安全检查有哪些要求？",
+          "content1": "zentry-clone 要求车队车辆定期维护并通过年度安全检查。",
+          "title2": "如何确保我的车队车辆符合当地法规？",
+          "content2": "为了保持合规性，请确保所有车队车辆均按照当地法律进行注册、投保和检查。 ",
+          "title3": "zentry-clone 是否提供车辆维护资源或支持？",
+          "content3": "虽然 zentry-clone 不直接提供维护服务，但我们与当地服务提供商合作，他们可能会为 zentry-clone 车队所有者提供折扣。",
+          "title4": "zentry-clone 是否为车队所有者提供任何保险选项或合作伙伴关系？",
+          "content4": "是的，zentry-clone 与精选的保险提供商合作，他们为车队运营提供量身定制的保单。",
+          "title5": "如何在平台内更新车队的保险信息？",
+          "content5": "要更新保险信息，请转到车队仪表板，选择车辆，然后导航至“保险信息”。"
+        }
+      },
+      "SupportAndResources": {
+        "heading": "支持和资源",
+        "list": {
+          "title1": "zentry-clone 是否为车队所有者提供专门的支持渠道？",
+          "content1": "是的，车队所有者可以使用专用支持热线，并可以通过应用程序内聊天或电子邮件获得支持以获得快速帮助。 ",
+          "title2": "我如何联系车队所有者支持寻求帮助？",
+          "content2": "您可以通过舰队仪表板选择“帮助和支持”来联系支持人员。",
+          "title3": "zentry-clone 是否为车队所有者提供培训材料或资源？",
+          "content3": "是的，zentry-clone 提供培训资源，包括车队管理的最佳实践、提高驾驶员表现的技巧以及最大化车队收益的资源。",
+          "title4": "如何获取成功车队管理的最佳实践或指南？",
+          "content4": "车队管理的最佳实践可在车队仪表板的“资源”下找到。",
+          "title5": "我的车队内的驾驶员有可用的教育资源吗？",
+          "content5": "zentry-clone 为驾驶员提供培训视频、安全提示和资源，可直接通过驾驶员应用程序访问。"
+        }
+      }
+    }
+  },
+  "PrivacyPolicy": {
+    "heading": "zentry-clone 隐私政策",
+    "intro": "在 zentry-clone，我们优先考虑您的隐私。",
+    "items": {
+      "title1": "本政策的范围",
+      "title2": "我们收集的信息",
+      "title3": "您向我们提供的信息",
+      "title4": "我们在使用 zentry-clone 平台时收集的信息",
+      "title5": "我们从第三方收集的信息",
+      "title6": "我们如何使用您的信息"
+    },
+    "content": {
+      "first": {
+        "title": "本政策的范围",
+        "memo": "本政策适用于所有 zentry-clone 用户（包括乘客和司机）以及所有 zentry-clone 服务和平台，包括我们的应用程序、网站、功能以及统称为 zentry-clone 平台的所有其他服务。"
+      },
+      "second": {
+        "title": "我们收集的信息",
+        "memo": "当您使用 zentry-clone 平台时，我们会收集您提供的信息、使用信息以及有关您的设备的信息。"
+      },
+      "third": {
+        "title": "您向我们提供的信息",
+        "memo": "<p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">账户注册： </span> 当您创建 zentry-clone 帐户时，我们会收集您提供给我们的信息，例如您的姓名、电子邮件地址、电话号码、出生日期和付款信息。 </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">司机信息：  </span>如果您申请成为司机，我们将收集您在申请中提供的信息，包括您的姓名、电子邮件地址、电话号码、出生日期、个人资料照片、实际地址、政府身份证号码，例如社会安全号码/国民保险号码</p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">评级和反馈： </span> 当您对乘客或司机进行评分并提供反馈时，我们会收集您在反馈中提供的所有信息。</p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">沟通： </span>当您联系我们或我们联系您时，我们会收集您提供的任何信息，包括您发送给我们的消息或附件的内容。</p>"
+      },
+      "fourth": {
+        "title": "您向我们提供的信息",
+        "memo": "<p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">地点信息：  </span> 良好的骑行体验始于轻松准确的接送。  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">车手： </span>  当您打开并使用 zentry-clone 应用程序时，包括从您叫车到结束期间该应用程序在后台运行期间，我们会收集您设备的精确位置。    </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">驱动程序： </span>  当您打开和使用应用程序时，包括当应用程序处于驱动程序模式时在后台运行时，我们会收集您设备的精确位置。  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">使用信息： </span>  我们收集有关您使用 zentry-clone 平台的信息，包括日期、时间、目的地、距离、路线、付款以及您是否使用促销或推荐代码等乘车信息。  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">设备信息： </span>  我们收集有关您用于访问 zentry-clone 平台的设备的信息，包括设备型号、IP 地址、浏览器类型、操作系统版本、运营商或制造商的身份、无线电类型（例如 5G）、偏好和设置（例如首选）  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">乘客和司机之间的通信： </span>  我们与第三方合作，为乘客和司机之间的电话和短信提供便利，而无需与另一方共享任何一方的实际电话号码。 </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">地址簿联系人： </span> 您可以设置设备权限，授予 zentry-clone 访问您的联系人列表的权限，并指示 zentry-clone 访问您的联系人列表，以帮助您为朋友和家人预订行程，并将朋友推荐给 zentry-clone。  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Cookie、分析和第三方技术：</span>  我们通过使用“cookie”、跟踪像素、Google Analytics 等数据分析工具、SDK 和其他第三方技术来收集信息，以了解您如何浏览 zentry-clone 平台并与 zentry-clone 广告互动，以便 </p>"
+      },
+      "fith": {
+        "title": "我们从第三方收集的信息",
+        "memo": "<p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">第三方服务：</span> 第三方服务为我们提供 zentry-clone 平台核心方面以及可增强您的 zentry-clone 体验的附加服务、计划、忠诚度福利和促销活动所需的信息。</p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. 特定服务提供的有关您的信息，例如人口统计和营销细分信息。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. 用于实施忠诚度和促销计划或您选择连接或链接到您的 zentry-clone 帐户的应用程序、服务或功能的信息，例如有关您使用此类计划、应用程序、服务或功能的信息</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. 有关您参与提供保险范围和金融工具等内容的第三方计划的信息，例如保险、付款、交易和欺诈检测信息</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. 使 zentry-clone 平台更安全的信息，例如驾驶员的背景调查信息。</p></li></ul><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">企业计划：</span> 当您通过您的雇主或参与我们 zentry-clone Business 企业计划之一的其他组织使用 zentry-clone 时，我们将从这些方收集有关您的信息，例如您的姓名和联系信息。</p><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">礼宾服务：</span> 有时，其他企业或实体可能会为您订购 zentry-clone 乘车服务。</p><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">推荐计划： </span> 朋友帮助朋友使用 zentry-clone 平台。 </p><p class=\"text-[24px] font-normal\"><span class=\" text-[24px] font-medium\">其他用户和来源： </span>其他用户或公共或第三方来源（例如执法机构、保险公司、媒体或行人）可能会向我们提供有关您的信息，例如作为事件调查的一部分或为您提供支持。</p>"
+      },
+      "sixth": {
+        "title": "我们如何使用您的信息",
+        "memo": "<p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">我们使用您的个人信息来：</span></p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. 提供zentry-clone平台。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. 回应法律诉讼和义务。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. 改进 zentry-clone 平台。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. 提供客户支持。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. 建立和维护 zentry-clone 社区。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. 维护zentry-clone平台及其用户的安全。</p></li></ul><p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">提供zentry-clone平台：</span> 我们使用您的个人信息是为了在我们的平台上提供有用、有效、高效、直观和有价值的体验。</p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. 验证您的身份并维护您的帐户、设置和首选项。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. 将您连接到您的游乐设施并跟踪其进度。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. 计算价格并处理付款。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. 允许乘客和司机就他们的行程进行联系，并选择与其他人分享他们的位置。 </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. 与您交流您的游乐设施和体验。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. 收集有关您的体验的反馈。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">7. 开展竞赛、抽奖和其他促销活动。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">8. 促进与第三方的额外服务和计划。</p></li></ul><p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">维护 zentry-clone 平台及其用户的安全： </span>为您提供安全可靠的体验推动我们的平台发展，无论是在路上还是在我们的应用程序上。</p><ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. 验证用户身份。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. 验证驾驶员及其车辆是否符合安全要求。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. 鼓励安全驾驶行为，避免不安全活动。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. 调查并解决事件、事故和保险索赔。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. 发现并防止欺诈，并阻止和删除 zentry-clone 平台上不安全或欺诈的用户。 </p></li></ul> <p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">建立和维护 zentry-clone 社区：</span> zentry-clone 致力于成为社区的积极组成部分。</p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. 与您沟通有关活动和促销的信息。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. 个性化并提供内容、体验、通信和广告，以推广和发展 zentry-clone 平台，并帮助促进您选择通过 zentry-clone 平台进行的捐赠。 </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. 提供客户支持，努力提供尽可能最佳的体验，包括在您需要时提供支持。</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. 完善zentry-clone平台，我们始终致力于改善您的体验并为您提供新的有用的功能。 </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. 监控和改进我们的运营和流程，包括安全实践、算法和其他建模。 </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. 开发新产品、功能、合作伙伴关系和服务。 </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">7. 进行研究、测试和分析。  </p></li></ul> <p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">回应法律诉讼和要求： </span>有时，法律、政府实体或其他监管机构对我们寻求提供的服务提出要求和义务。</p> "
+      }
+    }
+  },
+  "TermsAndCondition": {
+    "heading": "zentry-clone 条款和条件",
+    "items": {
+      "title1": "介绍",
+      "title2": "协议修改",
+      "title3": "合格",
+      "title4": "账户注册",
+      "title5": "用户行为",
+      "title6": "乘车请求和取消",
+      "title7": "支付",
+      "title8": "评级和反馈",
+      "title9": "设备权限",
+      "title10": "第三方服务",
+      "title11": "责任限制",
+      "title12": "保障",
+      "title13": "终止",
+      "title14": "适用法律",
+      "title15": "条款和条件的变更",
+      "title16": "联系我们"
+    },
+    "content": {
+      "first": {
+        "title": "介绍",
+        "memo": "欢迎使用 zentry-clone，这是一项叫车服务，通过我们的平台（包括应用程序、网站和其他服务（统称为 zentry-clone 平台））将乘客与司机联系起来。"
+      },
+      "second": {
+        "title": "协议修改",
+        "memo": "zentry-clone 保留修改本协议条款和条件的权利。"
+      },
+      "third": {
+        "title": "合格",
+        "memo": "<p class=\"text-[24px] font-normal\">要使用 zentry-clone 平台，您必须年满 18 岁并且有能力签订具有法律约束力的合同。 </p><p class=\"text-[24px] font-normal\"> 您确保未成年人对 zentry-clone 平台的使用仅限于访问和使用 zentry-clone 服务和/或第三方服务（适用于 zentry-clone 服务和/或第三方的补充协议明确允许的情况） </p><p class=\"text-[24px] font-normal\">您确定 zentry-clone 服务和/或第三方服务适合未成年人， </p><p class=\"text-[24px] font-normal\">您确保未成年人对 zentry-clone 平台和适用的 zentry-clone 服务和/或第三方服务的使用符合并确认本协议、任何适用的补充协议和 Tec 中的所有适用的安全说明和警告。 </p>"
+      },
+      "fourth": {
+        "title": "用户行为",
+        "memo": "当您创建 zentry-clone 帐户时，您必须提供准确且完整的信息，包括您的姓名、电子邮件地址、电话号码和付款信息。"
+      },
+      "fifth": {
+        "title": " 用户行为",
+        "memo": "您同意根据所有适用的法律和法规使用 zentry-clone 平台。"
+      },
+      "sixth": {
+        "title": "乘车请求和取消",
+        "memo": "乘客可以通过 zentry-clone 平台请求乘车。"
+      },
+      "seventh": {
+        "title": "支付",
+        "memo": "乘客同意支付应用程序中显示的每次乘车费用，其中可能包括额外费用、通行费或附加费。"
+      },
+      "eight": {
+        "title": "评级和反馈",
+        "memo": "每次骑行结束后，乘客和司机可以互相评价并提供反馈。"
+      },
+      "nine": {
+        "title": " 设备权限",
+        "memo": "zentry-clone 平台可能会请求访问您设备的位置服务、联系人列表和其他权限，以提供更好的体验。"
+      },
+      "tenth": {
+        "title": "第三方服务",
+        "memo": "zentry-clone 可能会使用第三方服务来促进某些功能，例如支付处理以及乘客和司机之间的通信。"
+      },
+      "eleventh": {
+        "title": "责任限制",
+        "memo": "在法律允许的最大范围内，zentry-clone 对任何间接、偶然、特殊、后果性或惩罚性损害，或任何直接或间接发生的利润或收入损失，或任何数据、使用、"
+      },
+      "twelevth": {
+        "title": "保障",
+        "memo": "您同意赔偿 zentry-clone 及其附属公司、管理人员、董事、雇员和代理人，使其免受因以下原因引起的任何索赔、责任、损害、损失和费用，包括但不限于合理的法律和会计费用："
+      },
+      "thirthin": {
+        "title": "终止",
+        "memo": "zentry-clone 可以出于任何原因（包括您违反这些条款和条件）随时终止或暂停您的帐户以及对 zentry-clone 平台的访问，而无需事先通知或承担责任。"
+      },
+      "fourthin": {
+        "title": "适用法律",
+        "memo": "这些条款和条件受您居住的司法管辖区的法律管辖并根据您居住的司法管辖区的法律解释。"
+      },
+      "fiteen": {
+        "title": "条款和条件的变更",
+        "memo": "zentry-clone 保留随时修改这些条款和条件的权利。"
+      },
+      "sixteen": {
+        "title": "联系我们",
+        "memo": "如果您对这些条款和条件有任何疑问，请通过 {contactEmail} 与我们联系"
+      }
+    }
+  },
+  "contactEmail": "support@zentry-clone.com",
+  "SecurityPolicy": {
+    "heading": "zentry-clone 安全政策",
+    "intro": "在 zentry-clone，我们优先考虑用户的安全，包括乘客和司机。",
+    "content": {
+      "first": {
+        "title": "数据安全和隐私",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">数据加密：</span> zentry-clone 采用行业标准加密 (AES-256) 来保护传输和存储过程中的敏感数据。</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">访问控制： </span>我们利用基于角色的访问控制系统，严格限制授权人员访问数据。</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">数据保留： </span>仅在我们的隐私政策中规定的目的所需的时间内保留个人信息。</p>"
+      },
+      "second": {
+        "title": "账户安全",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">安全登录协议：</span>zentry-clone 采用多重身份验证 (MFA) 进行帐户登录，以防止未经授权的访问。</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">可疑活动监控：</span> 我们的系统监控异常的登录尝试或用户行为的变化。</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">恢复援助： </span> 对于遇到登录问题的用户，我们通过经过验证的渠道提供帐户恢复支持，以维护帐户安全。</p>"
+      },
+      "third": {
+        "title": "乘车安全措施",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">实时追踪：</span> 所有行程都可以通过该应用程序实时跟踪，为乘客和司机提供准确的导航详细信息和预计到达时间。</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">紧急援助（SOS）： </span>zentry-clone 应用程序包含一个应用程序内 SOS 按钮，可在出现安全问题时直接将用户连接到紧急服务。</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">司机背景调查：</span> 司机要经过彻底的审查过程，包括背景调查和驾驶记录验证。</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">车辆检查：</span> zentry-clone 车队中的所有车辆都会接受定期检查，确认它们符合我们的安全标准。</p>"
+      },
+      "fourth": {
+        "title": "用户行为指南",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">零容忍政策：</span> zentry-clone 对任何形式的歧视、骚扰或虐待实施零容忍政策。</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">报告和回应：</span> 用户可以通过该应用程序举报不当行为，使我们能够有效地审查和解决问题。</p>"
+      },
+      "fifth": {
+        "title": "司机和乘客的隐私",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">匿名通讯：</span> 我们的应用内通信渠道对联系信息进行匿名化处理，使乘客和司机无需交换个人电话号码即可进行通信。</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">对个人信息的有限访问：</span> zentry-clone 仅与司机共享重要信息（例如上车和下车地点）以方便乘车，并保护乘客的其他个人信息。 </p>"
+      },
+      "sixth": {
+        "title": "预防欺诈",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">安全付款处理：</span> 我们与符合 PCI-DSS 标准的领先支付处理商合作，以确保所有交易的安全。 </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">反欺诈技术：</span> zentry-clone 利用基于人工智能的欺诈检测工具来监控异常活动模式，以防止欺诈行为。</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">用户教育程度：</span> 我们教育用户有关潜在的网络钓鱼威胁，并建议他们不要在 zentry-clone 应用程序之外共享敏感信息。</p>"
+      },
+      "seventh": {
+        "title": "联系与支持",
+        "memo": "如果您对安全有疑问或疑虑，或者遇到任何问题，请通过 {contactEmail} 或通过我们的应用内支持聊天联系我们的安全团队。<br/> 我们对安全的承诺始终如一，并定期审查我们的政策以适应新的威胁和技术。  <br/>通过遵循这些协议，zentry-clone 旨在为所有用户提供一个安全且值得信赖的平台。"
+      }
+    },
+    "time": "最后更新时间：2024 年 11 月 6 日"
+  }
+}

@@ -1,0 +1,1128 @@
+{
+  "navbar": {
+    "Rides": "Manèges",
+    "Drive": "Conduire",
+    "earn": "Gagnez avec Tec-R ",
+    "Products": "Produits",
+    "Company": "Entreprise",
+    "Support": "Soutien",
+    "Patner": "Devenez partenaire de Tec-R",
+    "FleetOwners": "Propriétaires de flotte",
+    "Logistics": "Tec-R Logistique",
+    "Rentals": "Locations Tec-R",
+    "AboutUs": "À propos de nous",
+    "Blog": "Blogue",
+    "ContactUs": "Contactez-nous",
+    "Safety": "Sécurité",
+    "OurBrand": "Notre marque"
+  },
+  "footer": {
+    "Subscribe": "S'abonner",
+    "Products": "Produits",
+    "Rides": "Manèges",
+    "Driver": "Conduire",
+    "Business": "Entreprise",
+    "Earn_with_TecR": "Gagnez avec Tec-R",
+    "Patner_with_TecR": "Devenez partenaire de Tec-R",
+    "Fleet_Owners": "Propriétaires de flotte",
+    "Company": "Entreprise",
+    "About_Us": "À propos de nous",
+    "Contact_Us": "Contactez-nous",
+    "Support": "Soutien",
+    "Blog": "Blogue",
+    "Privacy": "Confidentialité",
+    "Join_Us": "Rejoignez-nous",
+    "Terms_&_Condition": "Conditions générales",
+    "T_&_C": "Conditions générales",
+    "Cookies": "Cookies",
+    "Security": "Sécurité",
+    "All_rights": "Tous droits réservés.",
+    "placeholder": "Entrez votre email..."
+  },
+  "home": {
+    "section1": {
+      "homeIntroHeading": "Sans effort <br class=\"md:block hidden\" /> convoquez votre <br class=\"md:block hidden\" /> Voyagez avec <br class=\"md:block hidden\" /> notre application.",
+      "homeIntroMemo": " Profitez d'un trajet pratique <br class=\"md:block hidden\" /> expérience avec notre application, où vous <br class=\"md:block hidden\" /> peut facilement demander, suivre et <br class=\"md:block hidden\" /> payer votre trajet.",
+      "buttonText": "Téléchargez l'application"
+    },
+    "section2": {
+      "heading": "Conduisez pour gagner de l’argent pendant votre voyage.",
+      "buttonText": " Apprendre encore plus",
+      "items": {
+        "title1": "Des gains fluides en déplacement",
+        "desc1": "Notre application facile à utiliser suit votre kilométrage et vous rémunère pour la distance parcourue, vous garantissant ainsi un moyen sans tracas de compléter vos revenus lorsque vous êtes sur la route.",
+        "title2": "Du point A au jour de paie",
+        "desc2": "Transformez chaque voyage en une opportunité de gagner de l’argent. ",
+        "title3": "Des gains fiables :",
+        "desc3": "Tec-R offre une source de revenus stable et fiable, offrant sécurité financière et tranquillité d'esprit.",
+        "title4": "Votre flotte, vos revenus",
+        "desc4": " Mettez votre flotte à profit et maximisez vos revenus sans effort. "
+      }
+    },
+    "section3": {
+      "heading": "Pourquoi nous choisir ?",
+      "intro": "Nous améliorons votre urbain <br class=\"md:block hidden\" /><span class=\"lg:text-[60px] text-[32px] tracking-[2%] font-medium !mb-6 text-brand md:leading-[86.4px] leading-[43.2px]\"> Expérience de mobilité.</span>",
+      "items": {
+        "title1": "Nous proposons des balades rapides et faciles",
+        "desc1": "Notre application de course offre un processus rapide et transparent pour réserver un trajet ",
+        "title2": "Nous fournissons des points et des récompenses",
+        "desc2": "Chaque voyage avec zentry-clone vous rapproche de récompenses exclusives",
+        "title3": "Nous offrons une variété d'options",
+        "desc3": "Vous pouvez choisir parmi une gamme d'options de véhicules en fonction de vos besoins."
+      }
+    },
+    "section4": {
+      "heading": "Nos prestations",
+      "subheading": "Notre large gamme de produits répond à divers besoins à l’échelle mondiale, avec une disponibilité variable selon les pays.",
+      "intro": "Nous améliorons votre urbain <br class=\"md:block hidden\" /><span class=\"lg:text-[60px] text-[32px] tracking-[2%] font-medium !mb-6 text-brand md:leading-[86.4px] leading-[43.2px]\"> Expérience de mobilité.</span>",
+      "items": {
+        "title1": "Promenades régulières",
+        "desc1": "Choisissez les trajets réguliers Tec-R pour voyager sans stress. ",
+        "title2": "Jet Privé  ",
+        "desc2": "Offrez-vous le luxe et la commodité avec notre forfait jet privé, offrant des itinéraires personnalisables, des services VIP et des commodités de classe mondiale.",
+        "title3": "Tec-R Célébrité/VIP",
+        "desc3": "Élevez votre trajet avec le plan de trajet Celebrity/VIP pour une expérience vraiment luxueuse adaptée à vos besoins.",
+        "title4": "Entreprise Tec-R",
+        "desc4": "D'un simple clic, gérez facilement les déplacements, la facturation et les dépenses des employés pour une expérience sans tracas.",
+        "title5": "Voyage en hélicoptère Tec-R",
+        "desc5": "Tec-R porte la mobilité urbaine vers de nouveaux sommets avec son service de location d'hélicoptères, offrant un moyen rapide et efficace de naviguer dans la ville.",
+        "title6": "Transport Tec-R",
+        "desc6": "Optimisez facilement votre logistique avec nos solutions, garantissant des opérations fluides et une utilisation efficace des ressources."
+      }
+    },
+    "section5": {
+      "heading": "Commandez vite,  <br class=\"md:block hidden\" /> rouler rapidement.",
+      "subheading": "Où que vous alliez, nous vous aiderons à y arriver en toute sécurité et confortablement. ",
+      "buttonText": "Scannez pour télécharger",
+      "items": {
+        "title1": "Téléchargez l'application sur l'App Store",
+        "desc1": "Notre application de course offre un processus rapide et transparent pour réserver un trajet ",
+        "title2": "Téléchargez l'application sur Play Store ",
+        "desc2": "Chaque voyage avec zentry-clone vous rapproche de récompenses exclusives"
+      }
+    },
+    "faqs": {
+      "first": {
+        "name": " Comment télécharger l'application Tec-R ?",
+        "content": "Vous pouvez télécharger l'application Tec-R depuis l'App Store pour les appareils iOS ou le Google Play Store pour les appareils Android. "
+      },
+      "second": {
+        "name": " Comment créer un compte chez zentry-clone ?",
+        "content": "Ouvrez l'application Tec-R et cliquez sur « S'inscrire ». "
+      },
+      "third": {
+        "name": "Comment demander un trajet ?",
+        "content": "Pour demander un trajet, ouvrez simplement notre application, entrez vos lieux de prise en charge et de dépose, sélectionnez votre type de véhicule préféré et confirmez votre demande. "
+      },
+      "fourth": {
+        "name": "Comment effectuer le paiement ?",
+        "content": "Nous acceptons divers modes de paiement, notamment les cartes de crédit/débit, le portefeuille personnel ou familial Tec-R et les espèces. "
+      },
+      "fifth": {
+        "name": "Le tarif est-il fixe ?",
+        "content": "Non, le tarif varie en fonction de la distance, de l'heure et du lieu."
+      },
+      "sixth": {
+        "name": "Comment puis-je devenir pilote Tec-R ?",
+        "content": "Pour devenir pilote Tec-R, téléchargez l'application Tec-R Driver. "
+      },
+      "seventh": {
+        "name": "Puis-je planifier des courses à l'avance avec Tec-R ?",
+        "content": "Oui, vous pouvez planifier des courses à l'avance. "
+      }
+    }
+  },
+  "rides": {
+    "section1": {
+      "heading": {
+        "smooth": "Lisse",
+        "Rides": "Manèges",
+        "Seamless": "Sans couture",
+        "Booking": "Réservation"
+      },
+      "intro": "Tous les manèges dans une seule application, avec différents <br class=\"md:block hidden\" /> des forfaits pour profiter",
+      "buttonText": "Obtenez l'application",
+      "items": {
+        "title1": "Sélectionner",
+        "desc1": "Sélectionnez une destination <br/> adresser sans effort.",
+        "title2": "Choisir",
+        "desc2": "Choisissez des véhicules <br/> en fonction des goûts.",
+        "title3": "Confirmer",
+        "desc3": "Confirmez le trajet après <br/> examiner les détails."
+      }
+    },
+    "section2": {
+      "buttonText": "Obtenez l'application",
+      "heading": {
+        "BikeRides": "Balades à vélo",
+        "atYour": "chez vous",
+        "Fingertips": "Bouts des doigts :",
+        "Seamless": "Sans couture",
+        "Unbeatable": "Imbattable",
+        "Experience": "Expérience",
+        "Booking": "Réservation"
+      },
+      "intro": "Partez à l'aventure avec notre exaltant forfait Bike Ride dès aujourd'hui, explorez des routes panoramiques, sentez le vent dans vos cheveux et créez des souvenirs inoubliables."
+    },
+    "section3": {
+      "buttonText": "Obtenez l'application",
+      "heading": {
+        "Our": "Notre",
+        "PrivateJet": "Jet Privé",
+        "Package": "Emballer:",
+        "offers": "offres",
+        "Luxury": "Luxe",
+        "in": "dans",
+        "the": "le",
+        "Skies": "Ciels"
+      },
+      "intro": "Offrez-vous le luxe et la commodité avec notre forfait jet privé, offrant des itinéraires personnalisables, des services VIP et des commodités de classe mondiale."
+    },
+    "section4": {
+      "buttonText": "Obtenez l'application",
+      "heading": {
+        "The": "Le",
+        "Celebrity/VIP": "Célébrité/VIP",
+        "Ride": "Monter:",
+        "Plan": "Plan",
+        "offers": "offres",
+        "Exclusive": "Exclusif",
+        "and": "et",
+        "Personalized": "Personnalisé",
+        "Services": "Services"
+      },
+      "intro": "Élevez votre trajet avec le plan de trajet Celebrity/VIP pour une expérience vraiment luxueuse adaptée à vos besoins. "
+    },
+    "section5": {
+      "heading": {
+        "Effortlessly": "Sans effort",
+        "manage": "gérer",
+        "employee": "employé",
+        "travel": "voyage",
+        "with": "avec",
+        "a": "un",
+        "on": "sur",
+        "click": "cliquez",
+        "Tec-RBusiness": "Entreprise Tec-R"
+      },
+      "intro": "Notre offre Business offre une gestion efficace des déplacements des collaborateurs en un clic, tout en gérant facilement la facturation et les dépenses pour une expérience fluide."
+    },
+    "section6": {
+      "buttonText": "Obtenez l'application",
+      "heading": {
+        "Experience": "Expérience",
+        "an": "un",
+        "extraordinary": "extraordinaire",
+        "Trip": "Voyage",
+        "with": "avec",
+        "our": "notre",
+        "exclusive": "exclusif",
+        "Helicopter": "Hélicoptère",
+        "Package": "Emballer"
+      },
+      "intro": "Notre forfait hélicoptère offre une expérience inoubliable et luxueuse. "
+    },
+    "section7": {
+      "buttonText": "Découvrez nos mesures de sécurité",
+      "heading": {
+        "Ensuring": "Assurer",
+        "Safety": "Sécurité",
+        "by": "par",
+        "prioritizing": "prioriser",
+        "Riders": "Cavalier",
+        "well-being": "bien-être"
+      },
+      "intro": " Nous accordons la priorité à votre sécurité et à votre respect, dès votre première sortie. "
+    },
+    "section8": {
+      "buttonText": "Découvrez nos mesures de sécurité",
+      "heading": {
+        "Everyone": "Tout le monde",
+        "Deserves": "Mérite",
+        "a": "un",
+        "Ride": "Monter:",
+        "Tec-R": "Tec-R",
+        "Accessibility": "Accessibilité",
+        "Features": "Caractéristiques"
+      },
+      "intro": "Chez Tec-R, nous pensons que tout le monde mérite une expérience de covoiturage confortable et pratique. ",
+      "items": {
+        "title1": "Véhicules accessibles aux fauteuils roulants",
+        "desc1": "Demandez un véhicule accessible aux fauteuils roulants directement via l'application pour garantir une conduite fluide et confortable.",
+        "title2": "Fonctionnalités d'accessibilité dans l'application",
+        "desc2": "Notre application est conçue pour être accessible à tous, y compris des fonctionnalités telles que la compatibilité avec les lecteurs d'écran, les options de taille de police plus grande et les thèmes à contraste élevé.",
+        "title3": "Assistance supplémentaire",
+        "desc3": "Indiquez si vous avez besoin d'une assistance spécifique lors de la prise en charge ou du dépôt, et nos chauffeurs se feront un plaisir de vous aider."
+      }
+    }
+  },
+  "Explore": "Explorer",
+  "More": "Plus",
+  "drive": {
+    "section1": {
+      "heading": {
+        "Drive": "Conduire",
+        "your": "ton",
+        "Way": "Chemin",
+        "Be": "Être",
+        "on": "sur",
+        "Boss": "Chef",
+        "and": "et",
+        "Terms": "Termes",
+        "Earn": "Gagner"
+      },
+      "intro": "Prêt à conduire ?  <br class=\"md:block hidden\" /> gagnez en tant que conducteur avec zentry-clone dès aujourd'hui !",
+      "buttonText": "Téléchargez l'application"
+    },
+    "section2": {
+      "heading": "Démarrez en tant que pilote.",
+      "items": {
+        "title1": "Téléchargez et inscrivez-vous",
+        "desc1": "Téléchargez l'application Tec-R Driver (disponible sur l'App Store ou Google Play Store). ",
+        "title2": "Vérification rapide",
+        "desc2": "Fournissez certains documents de base comme votre permis de conduire, l'immatriculation du véhicule et une preuve d'assurance (les exigences peuvent varier). ",
+        "title3": "Prenez la route !",
+        "desc3": "Une fois approuvé, vous recevrez une notification et pourrez activer le mode conducteur dans l'application. "
+      }
+    },
+    "section3": {
+      "heading": "Avantages de conduire avec zentry-clone.",
+      "intro": " Que vous recherchiez une flexibilité occasionnelle ou régulière <br class=\"lg:flex hidden\" /> flux de revenus, Tec-R vous permet de conduire selon vos conditions.",
+      "items": {
+        "title1": "Flexibilité et liberté",
+        "desc1": "Conduisez quand cela vous convient. ",
+        "title2": "Des gains constants",
+        "desc2": "Profitez d'un flux de revenus stable grâce à nos taux de rémunération fiables et compétitifs, offrant une stabilité financière.",
+        "title3": "Incitations et bonus",
+        "desc3": "Gagnez plus grâce à des primes et des incitations basées sur les performances, récompensant votre dévouement et votre travail acharné."
+      }
+    },
+    "section4": {
+      "heading": "Comment fonctionne l'application zentry-clone Driver",
+      "intro": " Fiable et facile à utiliser, avec tout ce dont vous avez besoin pour conduire et gagner quand vous le souhaitez.",
+      "items": {
+        "title1": "Téléchargez et inscrivez-vous",
+        "desc1": "Accédez au Google Play Store ou à l'App Store d'Apple. ",
+        "title2": "Réception et acceptation des courses",
+        "desc2": "Vous recevrez une notification lorsqu'une demande de trajet arrivera. Acceptez pour confirmer le trajet et rendez-vous au lieu de prise en charge.",
+        "title3": "Navigation vers les lieux de prise en charge et de dépôt",
+        "desc3": "Utilisez la navigation intégrée de l'application pour atteindre le lieu de prise en charge. ",
+        "title4": "Terminer le parcours et gérer les revenus",
+        "desc4": "Une fois le passager déposé, appuyez sur « Fin du trajet » dans l'application.  "
+      }
+    },
+    "section5": {
+      "heading": "Questions fréquentes des conducteurs"
+    },
+    "section6": {
+      "heading": {
+        "Prioritizing": "Prioriser",
+        "Driver": "Conducteur",
+        "well-being": "Chemin",
+        "to": "à",
+        "ensure": "assurer",
+        "Safety": "Sécurité"
+      },
+      "intro": "Nous accordons la priorité à votre sécurité et à votre respect, dès votre première sortie. ",
+      "buttonText": " Découvrez nos mesures de sécurité"
+    }
+  },
+  "partnerWithTecR": {
+    "section1": {
+      "heading": {
+        "Expand": "Développer",
+        "Your": "Ton",
+        "Reach": "Atteindre",
+        "Become": "Devenir",
+        "a": "un",
+        "Tec-R": "Tec-R",
+        "Partner": "Partenaire"
+      },
+      "intro": "Associez-vous à Tec-R aujourd'hui et profitez <br class=\"md:block hidden\" /> plus de commandes, une augmentation des ventes et <br class=\"md:block hidden\" /> visibilité inégalée — commencez à récolter <br class=\"md:block hidden\" /> les avantages maintenant !",
+      "buttonText": "Commencez dès aujourd'hui"
+    },
+    "section2": {
+      "heading": {
+        "Why": "Pourquoi",
+        "with": "avec",
+        "Tec-R": "Tec-R?",
+        "Partner": "Partenaire"
+      },
+      "intro": " Nous créons une proposition de valeur convaincante qui attire un bassin diversifié de partenaires et favorise un écosystème gagnant-gagnant pour toutes les parties prenantes.",
+      "buttonText": "Commencez dès aujourd'hui",
+      "items": {
+        "title1": "Portée élargie",
+        "desc1": "Accès à un réseau vaste et croissant de propriétaires de flotte et de chauffeurs.",
+        "title2": "Notoriété accrue de la marque",
+        "desc2": "Augmentation de la notoriété et de la portée de la marque grâce à des opportunités de co-marketing.",
+        "title3": "Opportunités de commissions",
+        "desc3": "Opportunités de génération de revenus grâce à des références ou des commissions.",
+        "title4": "Offres de services améliorées",
+        "desc4": "Intégration avec une plateforme leader de gestion de flotte."
+      }
+    },
+    "section3": {
+      "heading": "Opportunités de partenariat",
+      "intro": " Tec-R, une plateforme leader de covoiturage, met en relation les passagers avec les conducteurs et les véhicules.<br class=\"lg:flex hidden\" /> Nous proposons aux entreprises diverses opportunités de partenariat pour élargir leur portée,<br class=\"lg:flex hidden\" /> générer des revenus et améliorer les services.",
+      "items": {
+        "title1": "Partenariat avec les chauffeurs",
+        "desc1": "Rejoignez le réseau Tec-R en vous inscrivant avec votre véhicule et gagnez une commission sur chaque trajet effectué.",
+        "title2": "Partenariat de marketing et d’expansion",
+        "desc2": "Attirez de nouveaux clients et du trafic vers votre entreprise en vous associant à une plateforme largement utilisée.",
+        "title3": "Partenariat technologique",
+        "desc3": "Développez des intégrations entre vos solutions technologiques et la plateforme Tec-R pour une expérience utilisateur fluide.",
+        "title4": "Sociétés de gestion de flotte",
+        "desc4": "Proposez votre flotte existante de véhicules et de chauffeurs à une clientèle plus large via la plateforme Tec-R."
+      }
+    },
+    "banner": {
+      "heading": {
+        "Expand": "Développer",
+        "Your": "Ton",
+        "Reach": "Atteindre",
+        "Today": "Aujourd'hui!"
+      },
+      "intro": "Contactez-nous pour découvrir une solution personnalisée. <br class=\"lg:flex hidden\" />Partenariat",
+      "buttonText": "Contactez-nous"
+    },
+    "FAQs": {
+      "heading": "Questions fréquemment posées",
+      "intro": "Trouvez des solutions rapides aux questions fréquentes concernant nos services de covoiturage et<br class=\"md:block hidden\" />  d'autres prestations."
+    }
+  },
+  "earnWithTecR": {
+    "section1": {
+      "heading": {
+        "Empower": "Habiliter",
+        "Your": "Ton",
+        "Fleet": "Flotte",
+        "Optimize": "Optimiser",
+        "Business": "Entreprise"
+      },
+      "intro": " Prenez le contrôle des opérations de votre flotte avec notre <br class=\"md:block hidden\" /> solutions de gestion, réduction des coûts, dynamisation <br class=\"md:block hidden\" />productivité et obtenir des informations précieuses pour <br class=\"md:block hidden\" /> des décisions plus intelligentes.",
+      "buttonText": "Obtenez l'application"
+    },
+    "section2": {
+      "heading": {
+        "Benefits": "Avantages",
+        "of": "de",
+        "Partnering": "Partenariat",
+        "with": "avec",
+        "Us": "Nous"
+      },
+      "intro": " Fiable et facile à utiliser, avec tout ce dont vous avez besoin pour conduire et gagner quand vous le souhaitez.",
+      "items": {
+        "title1": "Coûts réduits",
+        "desc1": "Économisez du carburant grâce à des itinéraires optimisés, réduisez les coûts de maintenance grâce à une planification préventive et réduisez les dépenses d'assurance grâce à des habitudes de conduite sûres.",
+        "title2": "Productivité accrue",
+        "desc2": "Optimisez les calendriers de livraison pour des arrivées ponctuelles, améliorez l'efficacité des chauffeurs grâce à des tâches rationalisées et réduisez les temps d'arrêt grâce à la maintenance préventive.",
+        "title3": "Sécurité améliorée",
+        "desc3": "Promouvez une conduite sûre et réduisez les risques d’accident, améliorez la responsabilité du conducteur grâce à un suivi en temps réel et garantissez la sécurité des véhicules et des actifs."
+      }
+    },
+    "section3": {
+      "heading": "Comment fonctionne la flotte zentry-clone",
+      "intro": " Tec-r simplifie la gestion de flotte et vous permet de prendre le contrôle grâce à une suite complète de fonctionnalités.",
+      "items": {
+        "title1": "Coûts réduits",
+        "desc1": "Économisez du carburant grâce à des itinéraires optimisés, réduisez les coûts de maintenance grâce à une planification préventive et réduisez les dépenses d'assurance grâce à des habitudes de conduite sûres.",
+        "title2": "Productivité accrue",
+        "desc2": "Optimisez les calendriers de livraison pour des arrivées ponctuelles, améliorez l'efficacité des chauffeurs grâce à des tâches rationalisées et réduisez les temps d'arrêt grâce à la maintenance préventive.",
+        "title3": "Sécurité améliorée",
+        "desc3": "Promouvez une conduite sûre et réduisez les risques d’accident, améliorez la responsabilité du conducteur grâce à un suivi en temps réel et garantissez la sécurité des véhicules et des actifs."
+      }
+    },
+    "FAQs": {
+      "heading": "Questions fréquemment posées"
+    },
+    "banner": {
+      "heading": {
+        "Begin": "Commencer",
+        "to": "à",
+        "Earn": "Gagner",
+        "with": "avec!",
+        "your": "ton",
+        "Vehicle": "Véhicule"
+      },
+      "intro": "Libérez le potentiel de votre flotte <br class=\"lg:flex hidden\" /> et commencez à gagner dès aujourd'hui gratuitement !",
+      "buttonText": "Commencer "
+    }
+  },
+  "TecRLogistics": {
+    "section1": {
+      "heading": {
+        "Simplify": "Simplifier",
+        "Deliveries": "Livraisons",
+        "with": "avec",
+        "Tec-R": "Tec-R",
+        "Logistics": "Logistique"
+      },
+      "intro": "Tec-R Logistics est une livraison rationalisée <br class=\"md:block hidden\" /> service à venir sur l'application Tec-R.",
+      "buttonText": "S'abonner",
+      "subIntro": "Recevez des mises à jour sur notre lancement."
+    },
+    "section2": {
+      "heading": "Explorez les fonctionnalités essentielles",
+      "intro": "Libérez tout le potentiel de notre produit en explorant ses<br class=\"md:block hidden\" /> fonctionnalités essentielles.",
+      "items": {
+        "title1": "Livraisons à la demande",
+        "desc1": "Planifiez les ramassages et les livraisons à votre convenance, directement via l'application Tec-R.",
+        "title2": "Suivi en temps réel",
+        "desc2": "Suivez votre colis en temps réel et consultez les délais de livraison estimés.",
+        "title3": "Plusieurs options de livraison",
+        "desc3": "Choisissez parmi une variété d'options de livraison en fonction de vos besoins.",
+        "title4": "Prix ​​compétitif",
+        "desc4": "Bénéficiez de tarifs abordables et transparents pour vos livraisons."
+      }
+    },
+    "banner": {
+      "heading": "Inscrivez-vous maintenant pour obtenir un accès anticipé à <br class=\"md:block hidden\" /> Tec-R Logistique et réductions exclusives !",
+      "intro": "Libérez le potentiel de votre flotte <br class=\"lg:flex hidden\" /> et commencez à gagner dès aujourd'hui gratuitement !",
+      "buttonText": "S'abonner"
+    }
+  },
+  "TecRRentals": {
+    "section1": {
+      "heading": {
+        "Rentals": "Locations",
+        "Your": "Ton",
+        "Car": "Voiture",
+        "Tec-R": "Tec-R",
+        "Rental": "De location",
+        "Hub": "Moyeu"
+      },
+      "intro": "Tec-R Rentals est une location de voiture pratique <br class=\"md:block hidden\" /> service à venir sur l'application Tec-R.",
+      "buttonText": "S'abonner",
+      "subIntro": "Recevez des mises à jour sur notre lancement."
+    },
+    "section2": {
+      "heading": "Explorez les fonctionnalités essentielles",
+      "intro": "Libérez tout le potentiel de notre produit en explorant ses<br class=\"md:block hidden\" /> fonctionnalités essentielles.",
+      "items": {
+        "title1": "Large choix de véhicules",
+        "desc1": "Choisissez parmi une flotte diversifiée de véhicules adaptés à vos besoins, des voitures compactes aux SUV spacieux.",
+        "title2": "Réservation simple dans l'application",
+        "desc2": "Réservez votre voiture de location rapidement et facilement directement via l'application Tec-R, à tout moment et en tout lieu.",
+        "title3": "Tarification transparente",
+        "desc3": "Consultez les prix initiaux sans frais cachés - sachez exactement ce que vous payez avant de réserver.",
+        "title4": "Choix faciles de prise en charge et de dépôt",
+        "desc4": "Profitez d'options flexibles de prise en charge et de restitution pour intégrer de manière transparente la location de voitures à vos projets."
+      }
+    },
+    "banner": {
+      "heading": "Inscrivez-vous maintenant pour obtenir un accès anticipé à <br class=\"md:block hidden\" />Locations Tec-R et réductions exclusives !",
+      "intro": "Libérez le potentiel de votre flotte <br class=\"lg:flex hidden\" /> et commencez à gagner dès aujourd'hui gratuitement !",
+      "buttonText": "S'abonner"
+    }
+  },
+  "earn_faqs": {
+    "first": {
+      "name": "Comment puis-je m'inscrire en tant que propriétaire de flotte chez Tec-R ?",
+      "content": "Pour vous inscrire en tant que propriétaire de flotte, téléchargez l'application Tec-R Driver depuis l'App Store ou Google Play Store. "
+    },
+    "second": {
+      "name": "Quels documents sont nécessaires pour immatriculer ma flotte ?",
+      "content": "Vous devrez fournir les permis de conduire pour tous les conducteurs, les immatriculations des véhicules, une preuve d'assurance et toute licence commerciale pertinente. "
+    },
+    "third": {
+      "name": "Combien de véhicules faut-il pour être propriétaire d’une flotte avec Tec-R ?",
+      "content": "Pour être admissible en tant que propriétaire de flotte avec Tec-R, vous avez généralement besoin d'au moins deux véhicules. "
+    },
+    "fourth": {
+      "name": "Comment Tec-R assure-t-il la sécurité des chauffeurs de ma flotte ?",
+      "content": "Tec-R donne la priorité à la sécurité avec une vérification complète des antécédents de tous les conducteurs, des fonctionnalités de sécurité intégrées à l'application telles que le suivi GPS et une assistance 24h/24 et 7j/7 pour garantir que l'aide est toujours disponible."
+    },
+    "fifth": {
+      "name": "Puis-je suivre les performances de ma flotte en temps réel ?",
+      "content": "Oui, l'application Tec-R fournit un suivi en temps réel de tous vos véhicules, vous permettant de surveiller l'emplacement, l'état de trajet et les performances de votre flotte."
+    }
+  },
+  "faqs": {
+    "first": {
+      "name": "Comment puis-je m'inscrire en tant que propriétaire de flotte chez Tec-R ?",
+      "content": "Pour vous inscrire en tant que propriétaire de flotte, téléchargez l'application Tec-R Driver depuis l'App Store ou Google Play Store. "
+    },
+    "second": {
+      "name": "Quels documents sont nécessaires pour immatriculer ma flotte ?",
+      "content": "Vous devrez fournir les permis de conduire pour tous les conducteurs, les immatriculations des véhicules, une preuve d'assurance et toute licence commerciale pertinente. "
+    },
+    "third": {
+      "name": "Combien de véhicules faut-il pour être propriétaire d’une flotte avec Tec-R ?",
+      "content": "Pour être admissible en tant que propriétaire de flotte avec Tec-R, vous avez généralement besoin d'au moins deux véhicules. "
+    },
+    "fourth": {
+      "name": "Comment Tec-R assure-t-il la sécurité des chauffeurs de ma flotte ?",
+      "content": "Tec-R donne la priorité à la sécurité avec une vérification complète des antécédents de tous les conducteurs, des fonctionnalités de sécurité intégrées à l'application telles que le suivi GPS et une assistance 24h/24 et 7j/7 pour garantir que l'aide est toujours disponible."
+    },
+    "fifth": {
+      "name": "Puis-je suivre les performances de ma flotte en temps réel ?",
+      "content": "Oui, l'application Tec-R fournit un suivi en temps réel de tous vos véhicules, vous permettant de surveiller l'emplacement, l'état de trajet et les performances de votre flotte."
+    },
+    "sixth": {
+      "name": "À quels types de revenus puis-je m'attendre en tant que propriétaire de flotte ?",
+      "content": "Les revenus peuvent varier en fonction du nombre de véhicules, des heures de conduite et de la demande. "
+    },
+    "seventh": {
+      "name": "Comment gérer les paiements de ma flotte ?",
+      "content": "Les paiements sont gérés via l'application Tec-R. "
+    }
+  },
+  "contactUs": {
+    "heading": "Contactez-nous",
+    "intro": "Vous avez des questions ou des commentaires ? ",
+    "cardHeading": "Coordonnées",
+    "cardIntro": "Vous avez des questions ou des commentaires ? ",
+    "buttonText": "Envoyer un message",
+    "FirstName": "Prénom",
+    "LastName": "Nom de famille",
+    "E-mail": "E-mail",
+    "PhoneNumber": "Numéro de téléphone",
+    "DropMessage": "Déposez un message..."
+  },
+  "AboutUs": {
+    "tag": "À propos de nous",
+    "heading": {
+      "Weaving": "Tissage",
+      "Together": "Ensemble",
+      "Your": "Ton",
+      "Urban": "Urbain",
+      "Journey": "Voyage"
+    },
+    "intro": "Chez zentry-clone, nous pensons que naviguer dans les rues animées de la ville ne devrait pas être un problème. ",
+    "section5": {
+      "heading": " Notre Mission : Mettre les gens <br class=\"md:block hidden\" /> au cœur du design urbain.",
+      "intro": " Nous accordons la priorité aux piétons, aux cyclistes et aux transports publics, créant ainsi des communautés dynamiques où les gens s'épanouissent. "
+    },
+    "section6": {
+      "heading": "Nos valeurs : ce qui nous définit",
+      "intro": " Chez Tec-R, nous nous consacrons au domaine de la technologie et à son potentiel de transformation.  <br class=\"md:block hidden\" /> la vision s'étend au-delà de la technologie elle-même, en mettant l'accent sur l'importance des valeurs fondamentales <br class=\"md:block hidden\" /> qui soutiennent notre réussite et guident nos actions.",
+      "items": {
+        "title1": "Innovation",
+        "desc1": "Nous nous efforçons constamment de développer et de repousser les limites des avancées technologiques.",
+        "title2": "Efficacité",
+        "desc2": "Nous donnons constamment la priorité aux solutions qui optimisent les processus et maximisent les résultats.",
+        "title3": "Fiabilité",
+        "desc3": "Nous continuons à bâtir la confiance grâce à une technologie fiable qui répond constamment aux attentes."
+      }
+    },
+    "section7": {
+      "heading": "Notre histoire : Combler le fossé urbain",
+      "intro": "Tec-R a été fondée en 2024 avec la vision de transformer le transport urbain en offrant une solution de mobilité plus efficace, fiable et conviviale. "
+    },
+    "section2": {
+      "heading": "Vision future",
+      "intro": "À l’avenir, notre objectif est d’intégrer davantage de solutions durables et d’étendre nos services à de nouveaux marchés, poursuivant ainsi notre mission visant à améliorer la vie urbaine pour tous."
+    },
+    "section3": {
+      "heading": "Histoires d'impact",
+      "intro": " Depuis notre création, nous nous engageons à améliorer et à étendre nos services. "
+    },
+    "section4": {
+      "heading": {
+        "Benefits": "Avantages",
+        "of": "de",
+        "Using": "En utilisant",
+        "Our": "Notre",
+        "Services": "Services"
+      },
+      "items": {
+        "title1": "Économies de coûts",
+        "desc1": "En utilisant notre service, vous pouvez réduire les frais généraux et augmenter vos résultats. ",
+        "title2": "Efficacité améliorée",
+        "desc2": "Notre service rationalise votre flux de travail, vous faisant gagner du temps et des efforts. Grâce aux processus automatisés, vous pouvez vous concentrer sur ce qui compte le plus.",
+        "title3": "Sécurité améliorée",
+        "desc3": "Vos données sont sécurisées chez nous. "
+      }
+    },
+    "banner": {
+      "heading": {
+        "Download": "Télécharger",
+        "the": "le",
+        "App": "Application",
+        "Explore": "& Explorer",
+        "your": "ton",
+        "City": "Ville"
+      },
+      "intro": "Libérez le potentiel de votre flotte <br class=\"lg:flex hidden\" /> et commencez à gagner dès aujourd'hui gratuitement !",
+      "buttonText": "Commencer "
+    }
+  },
+  "notFound": {
+    "title": "Oups ! ",
+    "subTitle": "Nous n'avons pas trouvé la page que vous cherchiez, mais nous pouvons certainement vous aider ! ",
+    "buttonText": "Page d'accueil"
+  },
+  "safety": {
+    "heading": "Votre sécurité,<br class=\"md:block hidden\" /> Notre priorité.",
+    "intro": "Chez zentry-clone, nous accordons la priorité à la sécurité, en créant un environnement sécurisé pour les passagers et les conducteurs grâce à des politiques complètes, une technologie et une équipe dédiée.",
+    "section2": {
+      "heading": "Créer une expérience sécurisée",
+      "intro": "Chez zentry-clone, la sécurité est notre priorité absolue.  <br class=\"md:block hidden\" /> passagers et conducteurs en mettant en œuvre des politiques robustes, en tirant parti des avancées <br class=\"md:block hidden\" />technologie et en s'appuyant sur notre équipe d'assistance dédiée.",
+      "items": {
+        "title1": "Équipe d'assistance dédiée",
+        "desc1": "Nous disposons d'une équipe de spécialistes de la sécurité disponibles 24h/24 et 7j/7 pour répondre à toute préoccupation ou urgence pouvant survenir pendant votre voyage.",
+        "title2": "Technologie avancée",
+        "desc2": "Notre application est équipée de fonctionnalités qui favorisent la sécurité, telles que le suivi des déplacements en temps réel, les boutons d'urgence et la vérification d'identité dans l'application.",
+        "title3": "Projections détaillées",
+        "desc3": "Nous effectuons des vérifications approfondies des antécédents de tous les conducteurs afin de garantir leurs qualifications et leur adéquation à la plateforme."
+      }
+    },
+    "section3": {
+      "heading": "Votre sécurité à chaque trajet",
+      "heading2": "Conseils de sécurité pour les cyclistes",
+      "items": {
+        "title1": "Pilotes minutieusement vérifiés",
+        "desc1": "Nous effectuons des vérifications approfondies des antécédents de tous les conducteurs afin de garantir leurs qualifications et leur adéquation à la plateforme.",
+        "title2": "Véhicules sûrs et fiables",
+        "desc2": "Votre sécurité est notre priorité, c'est pourquoi tous les véhicules de notre réseau sont soumis à des contrôles d'entretien réguliers et respectent des normes de sécurité strictes.",
+        "title3": "Des fonctionnalités de sécurité à portée de main",
+        "desc3": "Notre application comprend un suivi de voyage en temps réel, une vérification d'identité dans l'application et des boutons d'urgence pour vous assurer de rester en contrôle et connecté tout au long de votre trajet."
+      },
+      "tips": {
+        "title1": "Vérification du conducteur et du véhicule",
+        "desc1": "Vérifiez que le nom du conducteur, la plaque d'immatriculation et le modèle de voiture sur votre application correspondent au conducteur et au véhicule réels. ",
+        "title2": "Sécurité pendant le ramassage",
+        "desc2": "Attendez dans les zones bien éclairées et peuplées, surtout la nuit. ",
+        "title3": "Assurer un trajet en toute sécurité",
+        "desc3": "En entrant dans la voiture, attachez immédiatement votre ceinture de sécurité. ",
+        "title4": "Sécurité après le trajet",
+        "desc4": "Évaluez et examinez votre chauffeur après chaque trajet pour vous aider à maintenir une plate-forme sûre. "
+      }
+    },
+    "section3View2": {
+      "heading": "Conduisez avec assurance",
+      "heading2": "Conseils de sécurité pour les conducteurs",
+      "items": {
+        "title1": "Coureurs vérifiés",
+        "desc1": "Nous minimisons les risques pour les conducteurs en vérifiant l'identité des passagers et les méthodes de paiement avant la prise en charge.",
+        "title2": "Communication bidirectionnelle",
+        "desc2": "Notre système de feedback bidirectionnel vous permet de signaler un comportement dangereux du conducteur, nous permettant ainsi de prendre des mesures rapides pour garantir une expérience de conduite sûre pour tous.",
+        "title3": "Itinéraires sûrs et efficaces",
+        "desc3": "Nous planifions vos voyages en toute confiance grâce à nos fonctionnalités intégrées à l'application telles que les mises à jour du trafic en temps réel, les itinéraires suggérés et la navigation étape par étape."
+      },
+      "tips": {
+        "title1": "Avant le trajet",
+        "desc1": "Se reposer suffisamment garantit la vigilance. ",
+        "title2": "Vérification des coureurs",
+        "desc2": "La confirmation de l'identité du passager évite de récupérer la mauvaise personne. L'examen des notes du passager (facultatif) fournit des informations supplémentaires (si disponibles).",
+        "title3": "Préparation du voyage",
+        "desc3": "La configuration de la navigation garantit un itinéraire fluide. Une communication claire clarifie les détails de prise en charge/dépose. ",
+        "title4": "Sécurité sur la route",
+        "desc4": "Se concentrer sur la route minimise les distractions. Le respect du code de la route garantit la sécurité de tous. L'utilisation des fonctionnalités de l'application permet une réponse immédiate aux problèmes de sécurité."
+      }
+    },
+    "banner": {
+      "heading": "Apprendre encore plus <br class=\"md:block hidden\" /> À propos de la sécurité",
+      "intro": "Téléchargez l'application, apprenez-en plus sur notre <br class=\"md:block hidden\" /> services et explorer les ressources de sécurité.",
+      "buttonText": "Obtenez l'application"
+    }
+  },
+  "support": {
+    "heading": "Centre d'assistance zentry-clone",
+    "intro": "Bienvenue dans le centre d'assistance zentry-clone. ",
+    "placeholder": "Pour quoi avez-vous besoin d’aide ?",
+    "buttonText": "Recherche",
+    "items": {
+      "title1": "Cavaliers",
+      "title2": "Pilotes",
+      "title3": "Propriétaires de flotte"
+    },
+    "section2": {
+      "heading": "Articles d'aide populaires"
+    },
+    "faqs": {
+      "first": {
+        "name": "Comment réserver un trajet ?",
+        "content": "<div><span class=\" font-medium text-[20px]\">1. Comment demander un trajet ?</span><p class=\"text-[20px] font-normal\"> Pour demander un trajet, ouvrez simplement notre application, entrez vos lieux de prise en charge et de dépose, sélectionnez votre type de véhicule préféré et confirmez votre demande. </p></div><div><span class=\" font-medium text-[20px]\">2. Puis-je planifier un trajet à l'avance ?</span><p class=\"text-[20px] font-normal\"> Oui, avec zentry-clone, vous pouvez planifier une course à l'avance en sélectionnant l'option « Planifier » lors du processus de réservation.  </p></div><div><span class=\" font-medium text-[20px]\">3. Quelles sont les différentes options de trajet disponibles ?</span><p class=\"text-[20px] font-normal\"> zentry-clone propose plusieurs options en fonction de vos besoins, y compris les catégories de véhicules économiques et de luxe. </p></div><div><span class=\" font-medium text-[20px]\">4. Comment utiliser un code promo lors de la réservation ?  </span><p class=\"text-[20px] font-normal\"> Lors de la réservation d'une course, saisissez votre code promo dans le champ prévu à cet effet avant de confirmer. </p></div><div><span class=\" font-medium text-[20px]\">5. Puis-je ajouter plusieurs arrêts à mon trajet ?  </span><p class=\"text-[20px] font-normal\"> Oui, vous pouvez ajouter plusieurs arrêts en sélectionnant « Ajouter une destination » lors de la saisie de votre destination. </p></div>"
+      },
+      "second": {
+        "name": "Gérer votre compte",
+        "content": "<div><span class=\" font-medium text-[20px]\">1. Comment puis-je suivre la position de mon chauffeur en temps réel ?</span><p class=\"text-[20px] font-normal\"> Une fois votre trajet confirmé, une carte en temps réel apparaîtra sur l'application, indiquant la position actuelle de votre chauffeur et l'heure d'arrivée estimée.</p></div><div><span class=\" font-medium text-[20px]\">2. Comment contacter mon chauffeur pendant le trajet ? </span><p class=\"text-[20px] font-normal\">Vous pouvez contacter votre chauffeur directement via l'application en appuyant sur l'option « Contact » dans les détails du trajet. </p></div><div><span class=\" font-medium text-[20px]\">3. Puis-je changer de destination pendant le trajet ? </span><p class=\"text-[20px] font-normal\">Non, vous ne pouvez pas modifier votre destination pendant le trajet.  </p></div><div><span class=\" font-medium text-[20px]\">4. Que se passe-t-il si mon trajet est annulé par moi ou par le chauffeur ?</span><p class=\"text-[20px] font-normal\">Si vous annulez un trajet, des frais d'annulation peuvent s'appliquer en fonction du moment de l'annulation.  </p></div><div><span class=\" font-medium text-[20px]\">5. Comment puis-je partager les détails de mon trajet avec d'autres personnes, comme mes amis ou ma famille ?  </span><p class=\"text-[20px] font-normal\"> Pour partager les détails de votre trajet, appuyez sur l'option « Partager le trajet » dans les détails du trajet et envoyez le lien à vos contacts. </p></div>"
+      },
+      "third": {
+        "name": "Problèmes de paiement",
+        "content": "<div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div><div><span class=\" font-medium text-[20px]\"></span><p class=\"text-[20px] font-normal\"> </p></div>"
+      },
+      "fourth": {
+        "name": "Comment suivre votre trajet ?",
+        "content": ""
+      },
+      "fifth": {
+        "name": "Comprendre les tarifs et les frais des trajets",
+        "content": ""
+      }
+    },
+    "banner": {
+      "heading": "Vous avez encore des questions ? ",
+      "intro": "Besoin d'aide ? ",
+      "buttonText": "Contactez-nous",
+      "items": {
+        "title1": "Chat en direct",
+        "title2": "Contactez-nous"
+      }
+    },
+    "riders": {
+      "heading": "Cavaliers",
+      "BookingaRide": {
+        "heading": "Réservation d'un trajet",
+        "list": {
+          "title1": "Comment demander un trajet ?",
+          "content1": "Pour demander un trajet, ouvrez simplement notre application, entrez vos lieux de prise en charge et de dépose, sélectionnez votre type de véhicule préféré et confirmez votre demande. ",
+          "title2": "Puis-je planifier un trajet à l'avance ?",
+          "content2": "Oui, avec zentry-clone, vous pouvez planifier une course à l'avance en sélectionnant l'option « Planifier » lors du processus de réservation. ",
+          "title3": "Quelles sont les différentes options de balade disponibles ?",
+          "content3": "zentry-clone propose plusieurs options en fonction de vos besoins, y compris les catégories de véhicules économiques et de luxe. ",
+          "title4": "Comment utiliser un code promo lors de la réservation ?",
+          "content4": "Lors de la réservation d'une course, saisissez votre code promo dans le champ prévu à cet effet avant de confirmer. ",
+          "title5": "Puis-je ajouter un arrêt à mon trajet ?",
+          "content5": "Oui, vous pouvez ajouter plusieurs arrêts en sélectionnant « Ajouter une destination » lors de la saisie de votre destination. "
+        }
+      },
+      "ManagingYourRide": {
+        "heading": "Gérer votre trajet",
+        "list": {
+          "title1": "Comment puis-je suivre la position de mon chauffeur en temps réel ?",
+          "content1": "Une fois votre trajet confirmé, une carte en temps réel apparaîtra sur l'application, indiquant la position actuelle de votre chauffeur et l'heure d'arrivée estimée.",
+          "title2": "Comment contacter mon chauffeur pendant le trajet ?",
+          "content2": "Vous pouvez contacter votre chauffeur directement via l'application en appuyant sur l'option « Contact » dans les détails du trajet.",
+          "title3": "Puis-je changer de destination pendant le trajet ?",
+          "content3": "Non, vous ne pouvez pas modifier votre destination pendant le trajet. ",
+          "title4": "Que se passe-t-il si mon trajet est annulé par moi ou par le chauffeur ?",
+          "content4": "Si vous annulez un trajet, des frais d'annulation peuvent s'appliquer en fonction du moment de l'annulation. ",
+          "title5": "Comment puis-je partager les détails de mon trajet avec d'autres personnes, comme mes amis ou ma famille ?",
+          "content5": "Pour partager les détails de votre trajet, appuyez sur l'option « Partager le trajet » dans les détails du trajet et envoyez le lien à vos contacts. "
+        }
+      },
+      "PaymentAndFares": {
+        "heading": "Paiement et tarifs",
+        "list": {
+          "title1": "Comment puis-je payer mon trajet ?",
+          "content1": "Vous pouvez payer votre trajet en utilisant le mode de paiement lié à votre compte zentry-clone, y compris les cartes de crédit/débit, les portefeuilles numériques ou d'autres options acceptées dans votre région.",
+          "title2": "Puis-je modifier mon mode de paiement par défaut ?",
+          "content2": "Oui, vous pouvez mettre à jour votre mode de paiement par défaut dans l'application sous « Paramètres de paiement ». ",
+          "title3": "Quels sont les facteurs de calcul du tarif ?",
+          "content3": "Les tarifs zentry-clone sont calculés en fonction de facteurs tels que la distance, le temps, le type de véhicule et la demande en temps réel. ",
+          "title4": "Puis-je voir une estimation du tarif avant de réserver un trajet ?",
+          "content4": "Oui, l'application fournit une estimation du tarif avant de confirmer le trajet. ",
+          "title5": "Comment puis-je obtenir un reçu pour ma course ?",
+          "content5": "Après votre trajet, un reçu sera envoyé à votre adresse e-mail enregistrée. "
+        }
+      },
+      "AccountManagement": {
+        "heading": "Gestion des comptes",
+        "list": {
+          "title1": "Comment créer un compte zentry-clone ?",
+          "content1": "Téléchargez l'application zentry-clone et ouvrez-la. ",
+          "title2": "Comment mettre à jour les informations de mon compte ?",
+          "content2": "Accédez à « Paramètres du compte » dans l'application pour mettre à jour vos informations personnelles, notamment votre e-mail, votre numéro de téléphone et votre adresse.",
+          "title3": "Comment changer mon mot de passe ?",
+          "content3": "Dans « Paramètres du compte », sélectionnez « Modifier le mot de passe » et suivez les instructions pour réinitialiser votre mot de passe.",
+          "title4": "Comment supprimer mon compte zentry-clone et le réactiver ?",
+          "content4": "Pour supprimer votre compte, accédez à « Paramètres du compte » et sélectionnez « Supprimer le compte ». "
+        }
+      },
+      "SafetyAndSecurity": {
+        "heading": "Sûreté et sécurité",
+        "list": {
+          "title1": "Quelles sont les fonctionnalités de sécurité proposées par zentry-clone ?",
+          "content1": "zentry-clone comprend des fonctionnalités telles que le suivi des trajets en temps réel, l'assistance d'urgence SOS, la vérification des antécédents du conducteur et la possibilité de partager les détails du trajet avec des contacts de confiance.",
+          "title2": "Quelle est la politique de sécurité des passagers de zentry-clone ?",
+          "content2": "La politique de sécurité de zentry-clone garantit que les conducteurs et les passagers respectent les consignes de sécurité. ",
+          "title3": "Que dois-je faire si j’oublie quelque chose dans la voiture ?",
+          "content3": "Si vous oubliez quelque chose dans la voiture, accédez à « Historique des trajets » et sélectionnez « Signaler un objet perdu ». ",
+          "title4": "Comment signaler un problème de sécurité ou un incident lors d'un trajet ?",
+          "content4": "Pour une assistance immédiate, utilisez le bouton SOS. ",
+          "title5": "Puis-je partager les détails de mon trajet avec un ami pour des raisons de sécurité ?",
+          "content5": "Oui, l'application dispose d'une option « Partager le trajet » qui vous permet d'envoyer des informations sur votre trajet et votre position en temps réel à des amis ou des membres de votre famille, leur permettant ainsi de suivre votre voyage pour des raisons de sécurité."
+        }
+      }
+    },
+    "drivers": {
+      "heading": "Pilotes",
+      "GettingStarted": {
+        "heading": "Premiers pas avec zentry-clone",
+        "list": {
+          "title1": "Comment puis-je postuler pour devenir conducteur zentry-clone ?",
+          "content1": "Pour postuler, téléchargez l'application zentry-clone Driver, créez un compte et terminez le processus de candidature en soumettant vos informations et documents requis. ",
+          "title2": "Quels documents et informations dois-je fournir ?",
+          "content2": "Vous devrez soumettre un permis de conduire valide, l’immatriculation du véhicule, une preuve d’assurance et une vérification des antécédents. ",
+          "title3": "Quelles sont les exigences en matière d’âge et d’état du véhicule ?",
+          "content3": "Les véhicules doivent répondre à l’âge minimum requis par zentry-clone (souvent moins de 10 ans) et doivent passer une inspection du véhicule pour garantir qu’ils répondent à nos normes de sécurité et de confort.",
+          "title4": "Comment puis-je contacter l'assistance aux conducteurs zentry-clone ?",
+          "content4": "Vous pouvez contacter l'assistance aux conducteurs via l'application en accédant à « Aide et support » ou en envoyant un courrier à la ligne d'assistance aux conducteurs dédiée fournie dans votre compte.",
+          "title5": "Comment mettre à jour les informations de mon profil de conducteur ?",
+          "content5": "Dans l'application zentry-clone Driver, accédez à « Paramètres du profil » pour mettre à jour vos informations personnelles et celles de votre véhicule. "
+        }
+      },
+      "DriverApp": {
+        "heading": "Utilisation de l'application pilote zentry-clone",
+        "list": {
+          "title1": "Comment puis-je accepter une demande de trajet ?",
+          "content1": "Lorsqu'une demande de trajet arrive, vous verrez une notification sur votre écran. ",
+          "title2": "Comment utiliser l'application pour la navigation pendant un trajet ?",
+          "content2": "L'application zentry-clone Driver est intégrée à une carte. ",
+          "title3": "Comment puis-je communiquer avec les coureurs via l'application ?",
+          "content3": "Vous pouvez envoyer un message ou appeler les passagers directement via l'application. ",
+          "title4": "Que dois-je faire si un passager a des demandes particulières ou a besoin d'aide ?",
+          "content4": "Soyez attentif aux demandes des passagers et répondez-y autant que possible. ",
+          "title5": "Quelles sont les directives de zentry-clone concernant le comportement du conducteur et l'étiquette des passagers ?",
+          "content5": "zentry-clone attend des passagers qu'ils respectent les conducteurs, leurs véhicules et toutes les règles de sécurité pertinentes. "
+        }
+      },
+      "EarningsAndPayments": {
+        "heading": "Gains et paiements",
+        "list": {
+          "title1": "Comment sont calculés les tarifs des trajets zentry-clone ?",
+          "content1": "Les tarifs sont calculés en fonction de la distance, du temps et des frais applicables. ",
+          "title2": "Quels sont les différents types de frais ou de déductions susceptibles de s’appliquer ?",
+          "content2": "Les déductions typiques peuvent inclure des frais de service, des frais d'annulation (le cas échéant) et des ajustements pour les péages ou autres dépenses, comme indiqué dans la politique tarifaire de zentry-clone.",
+          "title3": "Comment puis-je être payé pour conduire avec zentry-clone ?",
+          "content3": "Les gains sont automatiquement déposés sur votre compte bancaire lié ou sur votre mode de paiement préféré sur une base hebdomadaire. ",
+          "title4": "Puis-je modifier mon mode de paiement préféré ?",
+          "content4": "Oui, vous pouvez mettre à jour votre mode de paiement préféré dans l'application sous « Paramètres de paiement ». ",
+          "title5": "zentry-clone fournit-il des factures pour mes gains ?",
+          "content5": "Oui, vous pouvez accéder à vos relevés de revenus hebdomadaires ou mensuels dans l'application sous « Gains » pour consulter et télécharger les factures."
+        }
+      },
+      "SafetyAndCustomerService": {
+        "heading": "Sécurité et service client",
+        "list": {
+          "title1": "Quelles fonctionnalités de sécurité zentry-clone offre-t-il aux conducteurs ?",
+          "content1": "zentry-clone propose une assistance d'urgence dans l'application, un suivi GPS et une fonctionnalité permettant aux conducteurs de partager les détails de leur trajet avec des contacts de confiance. ",
+          "title2": "Comment signaler un problème de sécurité ou un incident lors d'un trajet ?",
+          "content2": "Pour une assistance immédiate, utilisez le bouton « Urgence » dans l'application. ",
+          "title3": "Quelles sont les politiques de zentry-clone concernant le comportement et le professionnalisme des conducteurs ?",
+          "content3": "zentry-clone attend de tous les conducteurs qu'ils maintiennent un comportement professionnel, respectent les règles de circulation et traitent les passagers avec respect. ",
+          "title4": "Comment signaler un problème de comportement d'un conducteur ou d'un passager ?",
+          "content4": "Vous pouvez signaler des problèmes avec un passager via l'onglet « Historique des trajets ». ",
+          "title5": "Que dois-je faire en cas d'accident ou de dommages à mon véhicule pendant un trajet ?",
+          "content5": "Si vous êtes impliqué dans un accident, assurez votre sécurité et appelez les services d’urgence si nécessaire. "
+        }
+      }
+    },
+    "fleetOwners": {
+      "heading": "Propriétaires de flotte",
+      "ManagingYourFleet": {
+        "heading": "Gérer votre flotte",
+        "list": {
+          "title1": " Comment ajouter des véhicules à ma flotte zentry-clone ?",
+          "content1": "Dans le tableau de bord de la flotte zentry-clone, accédez à « Gérer la flotte » et sélectionnez « Ajouter un véhicule ». ",
+          "title2": " Quels documents et informations sont nécessaires pour chaque véhicule ?",
+          "content2": "Chaque véhicule doit avoir une immatriculation à jour, un certificat d'assurance valide, une preuve de propriété et un rapport d'inspection récent. ",
+          "title3": " Comment puis-je surveiller les performances et l'activité des conducteurs sur la plateforme ?",
+          "content3": "Dans le tableau de bord de la flotte zentry-clone, vous pouvez afficher les mesures de performance des conducteurs telles que les notes, les taux d'achèvement des trajets et l'activité globale. ",
+          "title4": "Existe-t-il des stratégies pour maximiser les revenus et l’efficacité de la flotte ? ",
+          "content4": "Oui, certaines stratégies incluent la surveillance des heures de pointe, le maintien de la propreté et de la fonctionnalité des véhicules et l'encouragement des conducteurs à accepter rapidement les demandes de trajet. ",
+          "title5": "Comment puis-je retirer un véhicule de ma flotte si nécessaire ? ",
+          "content5": "Dans le tableau de bord de la flotte, sélectionnez le véhicule que vous souhaitez supprimer et cliquez sur « Supprimer le véhicule ». "
+        }
+      },
+      "BillingAndInvoicing": {
+        "heading": "Facturation et facturation",
+        "list": {
+          "title1": "Comment les tarifs sont-ils calculés pour les trajets effectués par ma flotte ? ",
+          "content1": "Les tarifs sont calculés en fonction de la distance, du temps et des éventuels frais supplémentaires ou suppléments. ",
+          "title2": " Comment puis-je suivre les revenus et les revenus globaux de ma flotte ?",
+          "content2": "Les gains et les revenus de la flotte sont disponibles dans le tableau de bord de la flotte sous l'onglet « Gains ». ",
+          "title3": " Quels frais ou déductions peuvent s'appliquer aux revenus de la flotte ?",
+          "content3": "Les déductions peuvent inclure les frais de service de zentry-clone, les frais d’annulation et les ajustements des péages. ",
+          "title4": "Comment zentry-clone gère-t-il les paiements pour les opérations de flotte ? ",
+          "content4": "Les paiements pour les courses terminées sont traités chaque semaine et sont directement déposés sur le compte bancaire lié à votre tableau de bord de flotte. ",
+          "title5": " Quand et à quelle fréquence vais-je recevoir les factures de l'activité de ma flotte ?",
+          "content5": "Les factures sont générées chaque semaine et peuvent être consultées et téléchargées à partir du tableau de bord de la flotte. "
+        }
+      },
+      "ComplianceAndRegulations": {
+        "heading": "Conformité et réglementation",
+        "list": {
+          "title1": "Quelles sont les exigences de zentry-clone en matière d'entretien des véhicules et d'inspections de sécurité ?",
+          "content1": "zentry-clone exige que les véhicules de la flotte soient soumis à un entretien régulier et passent une inspection de sécurité annuelle. ",
+          "title2": "Comment puis-je m'assurer que ma flotte de véhicules est conforme aux réglementations locales ?",
+          "content2": "Pour rester conforme, assurez-vous que tous les véhicules de la flotte sont immatriculés, assurés et inspectés conformément aux lois locales. ",
+          "title3": "zentry-clone offre-t-il des ressources ou une assistance pour l'entretien des véhicules ?",
+          "content3": "Bien que zentry-clone ne fournisse pas directement de services de maintenance, nous collaborons avec des prestataires de services locaux qui peuvent offrir des réductions aux propriétaires de flotte zentry-clone. ",
+          "title4": "zentry-clone propose-t-il des options d'assurance ou des partenariats pour les propriétaires de flotte ?",
+          "content4": "Oui, zentry-clone s'associe à des assureurs sélectionnés qui proposent des polices sur mesure pour les opérations de flotte. ",
+          "title5": "Comment mettre à jour les informations d'assurance de ma flotte au sein de la plateforme ?",
+          "content5": "Pour mettre à jour les informations d'assurance, accédez au tableau de bord de la flotte, sélectionnez le véhicule et accédez à « Informations sur l'assurance ». "
+        }
+      },
+      "SupportAndResources": {
+        "heading": "Soutien et ressources",
+        "list": {
+          "title1": "zentry-clone propose-t-il des canaux d'assistance dédiés aux propriétaires de flotte ?",
+          "content1": "Oui, les propriétaires de flotte ont accès à une ligne d'assistance dédiée et peuvent contacter l'assistance via le chat intégré à l'application ou par e-mail pour une assistance rapide. ",
+          "title2": "Comment puis-je contacter l’assistance aux propriétaires de flotte pour obtenir de l’aide ?",
+          "content2": "Vous pouvez contacter l'assistance via le tableau de bord de la flotte en sélectionnant « Aide et support ». ",
+          "title3": "zentry-clone fournit-il du matériel de formation ou des ressources aux propriétaires de flotte ?",
+          "content3": "Oui, zentry-clone propose des ressources de formation, notamment les meilleures pratiques pour la gestion de flotte, des conseils pour améliorer les performances des conducteurs et des ressources pour maximiser les revenus de la flotte.",
+          "title4": "Comment puis-je accéder aux meilleures pratiques ou lignes directrices pour une gestion de flotte réussie ?",
+          "content4": "Les meilleures pratiques en matière de gestion de flotte sont disponibles dans le tableau de bord de flotte sous « Ressources ». ",
+          "title5": "Existe-t-il des ressources pédagogiques disponibles pour les conducteurs de ma flotte ?",
+          "content5": "zentry-clone propose des vidéos de formation, des conseils de sécurité et des ressources pour les conducteurs, accessibles directement via l'application conducteur. "
+        }
+      }
+    }
+  },
+  "PrivacyPolicy": {
+    "heading": "Politique de confidentialité de zentry-clone",
+    "intro": "Chez zentry-clone, nous accordons la priorité à votre vie privée. ",
+    "items": {
+      "title1": "Portée de cette politique",
+      "title2": "Les informations que nous collectons",
+      "title3": "Les informations que vous nous fournissez",
+      "title4": "Informations que nous collectons lorsque nous utilisons la plateforme zentry-clone",
+      "title5": "Informations que nous collectons auprès de tiers",
+      "title6": "Comment nous utilisons vos informations"
+    },
+    "content": {
+      "first": {
+        "title": "Portée de cette politique",
+        "memo": "Cette politique s'applique à tous les utilisateurs de zentry-clone, y compris les passagers et les chauffeurs, ainsi qu'à tous les services et plateformes zentry-clone, y compris nos applications, sites Web, fonctionnalités et tous les autres services appelés plateformes zentry-clone."
+      },
+      "second": {
+        "title": "Les informations que nous collectons",
+        "memo": "Lorsque vous utilisez la plateforme zentry-clone, nous collectons les informations que vous fournissez, les informations d'utilisation et les informations sur votre appareil. "
+      },
+      "third": {
+        "title": "Informations que vous nous fournissez",
+        "memo": "<p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Enregistrement du compte : </span> Lorsque vous créez un compte chez zentry-clone, nous collectons les informations que vous nous fournissez, telles que votre nom, votre adresse e-mail, votre numéro de téléphone, votre date de naissance et vos informations de paiement.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Informations sur le conducteur :  </span>Si vous postulez pour devenir chauffeur, nous collecterons les informations que vous fournissez dans votre candidature, notamment votre nom, votre adresse e-mail, votre numéro de téléphone, votre date de naissance, votre photo de profil, votre adresse physique, votre numéro d'identification gouvernemental tel que votre numéro de sécurité sociale/numéro d'assurance nationale. </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Notes et commentaires : </span> Lorsque vous évaluez et fournissez des commentaires sur des passagers ou des chauffeurs, nous collectons toutes les informations que vous fournissez dans vos commentaires.</p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Communication: </span>Lorsque vous nous contactez ou que nous vous contactons, nous collectons toutes les informations que vous fournissez, y compris le contenu des messages ou des pièces jointes que vous nous envoyez.</p>"
+      },
+      "fourth": {
+        "title": "Informations que vous nous fournissez",
+        "memo": "<p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Informations de localisation :  </span> De très bonnes balades commencent par un ramassage facile et précis.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Cavaliers : </span>  Nous collectons l'emplacement précis de votre appareil lorsque vous ouvrez et utilisez l'application zentry-clone, y compris lorsque l'application s'exécute en arrière-plan à partir du moment où vous demandez un trajet jusqu'à sa fin.    </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Pilotes : </span>  Nous collectons l'emplacement précis de votre appareil lorsque vous ouvrez et utilisez l'application, y compris lorsque l'application s'exécute en arrière-plan lorsqu'elle est en mode pilote.   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Informations d'utilisation : </span>  Nous collectons des informations sur votre utilisation de la plateforme zentry-clone, y compris des informations sur le trajet telles que la date, l'heure, la destination, la distance, l'itinéraire, le paiement et si vous utilisez un code promotionnel ou de parrainage.   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Informations sur l'appareil : </span>  Nous collectons des informations sur les appareils que vous utilisez pour accéder à la plateforme zentry-clone, y compris le modèle de l'appareil, l'adresse IP, le type de navigateur, la version du système d'exploitation, l'identité de l'opérateur ou du fabricant, le type de radio tel que la 5G, les préférences et paramètres tels que les préférences.   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Communications entre les coureurs et les conducteurs : </span>  Nous travaillons avec un tiers pour faciliter les appels téléphoniques et les messages texte entre les Passagers et les Chauffeurs sans partager le numéro de téléphone réel de l'une ou l'autre des parties avec l'autre.  </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Contacts du carnet d'adresses : </span> Vous pouvez définir les autorisations de votre appareil pour accorder à zentry-clone l'accès à vos listes de contacts et demander à zentry-clone d'accéder à votre liste de contacts, pour vous aider à réserver un trajet pour vos amis et votre famille, et parrainer des amis vers zentry-clone.   </p><p class=\"text-[24px] font-normal \"><span class=\" text-[24px] font-medium\">Cookies, analyses et technologies tierces :</span>  Nous collectons des informations via l'utilisation de « cookies », de pixels de suivi, d'outils d'analyse de données tels que Google Analytics, de SDK et d'autres technologies tierces pour comprendre comment vous naviguez sur la plateforme zentry-clone et interagissez avec les publicités zentry-clone, pour faire  </p>"
+      },
+      "fith": {
+        "title": "Informations que nous collectons auprès de tiers",
+        "memo": "<p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Services tiers :</span> Les services tiers nous fournissent les informations nécessaires aux aspects essentiels de la plateforme zentry-clone, ainsi que pour des services, programmes, avantages de fidélité et promotions supplémentaires qui peuvent améliorer votre expérience avec zentry-clone. </p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Informations vous concernant fournies par des services spécifiques, telles que des informations démographiques et de segments marketing.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Informations permettant de mettre en œuvre des programmes ou des applications, services ou fonctionnalités de fidélité et promotionnels que vous choisissez de connecter ou de lier à votre compte zentry-clone, telles que des informations sur votre utilisation de ces programmes, applications, services ou fonctionnalités.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Informations sur votre participation à des programmes tiers qui fournissent des éléments tels qu'une couverture d'assurance et des instruments financiers, tels que des informations sur l'assurance, les paiements, les transactions et la détection des fraudes.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Informations visant à rendre la plateforme zentry-clone plus sûre, comme des informations sur la vérification des antécédents des conducteurs.</p></li></ul><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">Programmes d'entreprise :</span> Lorsque vous utilisez zentry-clone par l'intermédiaire de votre employeur ou d'une autre organisation qui participe à l'un de nos programmes d'entreprise zentry-clone Business, nous collecterons des informations vous concernant auprès de ces parties, telles que votre nom et vos coordonnées.</p><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">Service de conciergerie :</span> Parfois, une autre entreprise ou entité peut vous commander un trajet zentry-clone. </p><p class=\"text-[24px] font-normal \"><span class=\"font-medium text-[24px]\">Programmes de parrainage : </span> Les amis aident leurs amis à utiliser la plateforme zentry-clone.  </p><p class=\"text-[24px] font-normal\"><span class=\" text-[24px] font-medium\">Autres utilisateurs et sources : </span>D'autres utilisateurs ou sources publiques ou tierces telles que les forces de l'ordre, les assureurs, les médias ou les piétons peuvent nous fournir des informations vous concernant, par exemple dans le cadre d'une enquête sur un incident ou pour vous apporter une assistance.</p>"
+      },
+      "sixth": {
+        "title": "Comment nous utilisons vos informations",
+        "memo": "<p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Nous utilisons vos informations personnelles pour :</span></p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Fournir la plateforme zentry-clone.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Répondre aux procédures et obligations judiciaires.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Améliorer les plateformes zentry-clone.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Fournir un support client.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Construire et maintenir la communauté zentry-clone.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. Maintenir la sécurité et la sûreté de la plateforme zentry-clone et de ses utilisateurs.</p></li></ul><p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Fourniture de la plateforme zentry-clone :</span> Nous utilisons vos informations personnelles pour offrir une expérience utile, efficace, efficiente, intuitive et intéressante sur notre plateforme. </p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Vérifiez votre identité et gérez votre compte, vos paramètres et vos préférences.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Connectez-vous à vos trajets et suivez leur progression.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Calculez les prix et traitez les paiements.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Permettez aux passagers et aux conducteurs de se connecter concernant leur trajet et de choisir de partager leur position avec d'autres. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Communiquez avec vous sur vos balades et votre expérience.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. Recueillez des commentaires concernant votre expérience.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">7. Organisez des concours, des tirages au sort et d'autres promotions.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">8. Faciliter des services et programmes supplémentaires avec des tiers.</p></li></ul><p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Maintenir la sécurité et la sûreté de la plateforme zentry-clone et de ses utilisateurs : </span>Vous offrir une expérience sûre et sécurisée est le moteur de notre plateforme, tant sur la route que sur nos applications. </p><ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Authentifiez les utilisateurs.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Vérifiez que les conducteurs et leurs véhicules répondent aux exigences de sécurité.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Encouragez un comportement de conduite sécuritaire et évitez les activités dangereuses.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Enquêter et résoudre les incidents, les accidents et les réclamations d'assurance.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Recherchez et prévenez la fraude, et bloquez et supprimez les utilisateurs dangereux ou frauduleux de la plateforme zentry-clone. </p></li></ul> <p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Création et maintien de la communauté zentry-clone :</span> zentry-clone s'efforce d'être un élément positif de la communauté. </p> <ul class=\"!list-decimal list-inside\"><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">1. Communiquez avec vous sur les événements et les promotions.</p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">2. Personnalisez et fournissez du contenu, des expériences, des communications et de la publicité pour promouvoir et développer la plateforme zentry-clone et faciliter les dons que vous choisissez de faire via la plateforme zentry-clone. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">3. Fournir un support client en travaillant dur pour offrir la meilleure expérience possible, notamment en vous aidant lorsque vous en avez besoin. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">4. Améliorez la plateforme zentry-clone, nous travaillons toujours pour améliorer votre expérience et vous fournir de nouvelles fonctionnalités utiles.  </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">5. Surveiller et améliorer nos opérations et processus, y compris les pratiques de sécurité, les algorithmes et autres modélisations. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">6. Développer de nouveaux produits, fonctionnalités, partenariats et services. </p></li><li class=\"lg:flex !mb-4\"><p class=\"text-[24px] font-normal\">7. Effectuer des recherches, des tests et des analyses.  </p></li></ul> <p class=\"text-[24px] font-normal\"><span class=\" font-medium text-[24px]\">Répondre aux procédures et exigences juridiques : </span>Parfois, la loi, les entités gouvernementales ou d'autres organismes de réglementation nous imposent des exigences et des obligations en ce qui concerne les services que nous cherchons à fournir. </p> "
+      }
+    }
+  },
+  "TermsAndCondition": {
+    "heading": "Termes et conditions de zentry-clone",
+    "items": {
+      "title1": "Introduction",
+      "title2": "Modification du Contrat",
+      "title3": "Admissibilité",
+      "title4": "Enregistrement de compte",
+      "title5": "Conduite de l'utilisateur",
+      "title6": "Demandes de courses et annulations",
+      "title7": "Paiement",
+      "title8": "Notes et commentaires",
+      "title9": "Autorisations de l'appareil",
+      "title10": "Services tiers",
+      "title11": "Limitation de responsabilité",
+      "title12": "Indemnité",
+      "title13": "Terminaison",
+      "title14": "Loi applicable",
+      "title15": "Modifications des conditions générales",
+      "title16": "Contactez-nous"
+    },
+    "content": {
+      "first": {
+        "title": "Introduction",
+        "memo": "Bienvenue sur zentry-clone, un service de covoiturage qui met en relation les passagers et les chauffeurs via nos plateformes, y compris des applications, des sites Web et d'autres services (collectivement appelés plateformes zentry-clone). "
+      },
+      "second": {
+        "title": "Modification du Contrat",
+        "memo": "zentry-clone se réserve le droit de modifier les termes et conditions du présent accord. "
+      },
+      "third": {
+        "title": "Admissibilité",
+        "memo": "<p class=\"text-[24px] font-normal\">Pour utiliser les plateformes zentry-clone, vous devez avoir au moins 18 ans et être capable de conclure un contrat juridiquement contraignant.  </p><p class=\"text-[24px] font-normal\"> Vous vous assurez que l'utilisation par le mineur de la plateforme zentry-clone est limitée uniquement à l'accès et à l'utilisation des services zentry-clone et/ou des services tiers lorsque cela est expressément autorisé en vertu de l'accord supplémentaire applicable à ces services zentry-clone et/ou tiers.  </p><p class=\"text-[24px] font-normal\">Vous déterminez que les Services zentry-clone et/ou les Services Tiers conviennent au mineur, </p><p class=\"text-[24px] font-normal\">Vous vous assurez que l'utilisation par le mineur de la plateforme zentry-clone et des services zentry-clone et/ou services tiers applicables est effectuée dans le respect et la reconnaissance de toutes les instructions de sécurité et avertissements applicables dans le présent accord, dans tous les accords supplémentaires applicables et dans le zentry-clone. </p>"
+      },
+      "fourth": {
+        "title": "Conduite de l'utilisateur",
+        "memo": "Lorsque vous créez un compte chez zentry-clone, vous devez fournir des informations exactes et complètes, notamment votre nom, votre adresse e-mail, votre numéro de téléphone et vos informations de paiement. "
+      },
+      "fifth": {
+        "title": " Conduite de l'utilisateur",
+        "memo": "Vous acceptez d'utiliser les plateformes zentry-clone conformément à toutes les lois et réglementations applicables. "
+      },
+      "sixth": {
+        "title": "Demandes de courses et annulations",
+        "memo": "Les coureurs peuvent demander des courses via les plateformes zentry-clone. "
+      },
+      "seventh": {
+        "title": "Paiement",
+        "memo": "Les passagers acceptent de payer le tarif affiché dans l'application pour chaque trajet, qui peut inclure des frais supplémentaires, des péages ou des suppléments. "
+      },
+      "eight": {
+        "title": "Notes et commentaires",
+        "memo": "Après chaque trajet, les passagers et les conducteurs peuvent s'évaluer mutuellement et donner leur avis. "
+      },
+      "nine": {
+        "title": " Autorisations de l'appareil",
+        "memo": "Les plateformes zentry-clone peuvent demander l'accès aux services de localisation, à la liste de contacts et à d'autres autorisations de votre appareil pour offrir une meilleure expérience. "
+      },
+      "tenth": {
+        "title": "Services tiers",
+        "memo": "zentry-clone peut utiliser des services tiers pour faciliter certaines fonctions, telles que le traitement des paiements et la communication entre les passagers et les chauffeurs. "
+      },
+      "eleventh": {
+        "title": "Limitation de responsabilité",
+        "memo": "Dans la mesure permise par la loi, zentry-clone n'est pas responsable de tout dommage indirect, accessoire, spécial, consécutif ou punitif, ni de toute perte de profits ou de revenus, qu'ils soient encourus directement ou indirectement, ou de toute perte de données, d'utilisation, "
+      },
+      "twelevth": {
+        "title": "Indemnité",
+        "memo": "Vous acceptez d'indemniser et de dégager zentry-clone, ses sociétés affiliées, dirigeants, administrateurs, employés et agents, de toute réclamation, responsabilité, dommage, perte et dépense, y compris, sans s'y limiter, les frais juridiques et comptables raisonnables, découlant de "
+      },
+      "thirthin": {
+        "title": "Terminaison",
+        "memo": "zentry-clone peut résilier ou suspendre votre compte et votre accès aux plateformes zentry-clone à tout moment, sans préavis ni responsabilité, pour quelque raison que ce soit, y compris si vous violez les présentes conditions générales."
+      },
+      "fourthin": {
+        "title": "Loi applicable",
+        "memo": "Ces termes et conditions sont régis et interprétés conformément aux lois de la juridiction dans laquelle vous résidez. "
+      },
+      "fiteen": {
+        "title": "Modifications des conditions générales",
+        "memo": "zentry-clone se réserve le droit de modifier les présentes Conditions Générales à tout moment. "
+      },
+      "sixteen": {
+        "title": "Contactez-nous",
+        "memo": "Si vous avez des questions sur ces conditions générales, veuillez nous contacter à {contactEmail}"
+      }
+    }
+  },
+  "contactEmail": "support@zentry-clone.com",
+  "SecurityPolicy": {
+    "heading": "Politique de sécurité de zentry-clone",
+    "intro": "Chez zentry-clone, nous accordons la priorité à la sûreté et à la sécurité de nos utilisateurs, y compris les conducteurs et les conducteurs. ",
+    "content": {
+      "first": {
+        "title": "Sécurité et confidentialité des données",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Cryptage des données :</span> zentry-clone utilise un cryptage standard de l'industrie (AES-256) pour protéger les données sensibles pendant le transit et le stockage. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Contrôle d'accès : </span>Nous utilisons un système de contrôle d'accès basé sur les rôles, limitant l'accès aux données strictement au personnel autorisé. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Conservation des données : </span>Les informations personnelles ne sont conservées que le temps nécessaire aux fins énoncées dans notre politique de confidentialité. </p>"
+      },
+      "second": {
+        "title": "Sécurité du compte",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Protocoles de connexion sécurisés :</span>zentry-clone utilise l'authentification multifacteur (MFA) pour la connexion au compte afin d'empêcher tout accès non autorisé. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Surveillance des activités suspectes :</span> Notre système surveille les tentatives de connexion inhabituelles ou les changements de comportement des utilisateurs. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Aide à la récupération : </span> Pour les utilisateurs rencontrant des problèmes de connexion, nous proposons une assistance à la récupération de compte via des canaux vérifiés pour maintenir la sécurité du compte.</p>"
+      },
+      "third": {
+        "title": "Mesures de sécurité de conduite",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Suivi en temps réel :</span> Tous les trajets peuvent être suivis en temps réel via l'application, fournissant aux passagers et aux conducteurs des détails de navigation précis et des heures d'arrivée estimées. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Assistance d'urgence (SOS) : </span>L'application zentry-clone comprend un bouton SOS intégré, connectant directement les utilisateurs aux services d'urgence en cas de problème de sécurité. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Vérification des antécédents du conducteur :</span> Les conducteurs sont soumis à un processus de contrôle approfondi, comprenant une vérification des antécédents et une vérification des dossiers de conduite. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Inspections des véhicules :</span> Tous les véhicules de la flotte zentry-clone sont soumis à des inspections régulières, confirmant qu'ils répondent à nos normes de sécurité. </p>"
+      },
+      "fourth": {
+        "title": "Lignes directrices relatives au comportement des utilisateurs",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Politique de tolérance zéro :</span> zentry-clone applique une politique de tolérance zéro en matière de discrimination, de harcèlement ou d'abus de toute sorte. </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Signalement et réponse :</span> Les utilisateurs peuvent signaler une mauvaise conduite via l'application, ce qui nous permet d'examiner et de résoudre les problèmes efficacement. </p>"
+      },
+      "fifth": {
+        "title": "Confidentialité des conducteurs et des passagers",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Communication anonymisée :</span> Nos canaux de communication intégrés à l'application anonymisent les informations de contact, permettant ainsi aux passagers et aux conducteurs de communiquer sans échanger leurs numéros de téléphone personnels.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Accès limité aux informations personnelles :</span> zentry-clone partage uniquement les informations essentielles avec les conducteurs (telles que les lieux de prise en charge et de dépose) pour faciliter les trajets, en protégeant les autres données personnelles des coureurs. </p>"
+      },
+      "sixth": {
+        "title": "Prévention de la fraude",
+        "memo": "<p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Traitement des paiements sécurisé :</span> Nous travaillons en partenariat avec les principaux processeurs de paiement conformes aux normes PCI-DSS pour sécuriser toutes les transactions.  </p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Technologie antifraude :</span> zentry-clone utilise des outils de détection de fraude basés sur l'IA qui surveillent les modèles d'activité inhabituels afin de prévenir les comportements frauduleux.</p><p class=\"text-[20px] font-normal\"><span class=\" font-medium text-[20px]\">Formation des utilisateurs :</span> Nous informons les utilisateurs sur les menaces potentielles de phishing et leur conseillons de ne pas partager d'informations sensibles en dehors de l'application zentry-clone.</p>"
+      },
+      "seventh": {
+        "title": "Contact et assistance",
+        "memo": "Si vous avez des questions ou des préoccupations concernant la sécurité, ou si vous rencontrez des problèmes, veuillez contacter notre équipe de sécurité à {contactEmail} ou via notre chat d'assistance intégré à l'application.<br/> Notre engagement en faveur de la sécurité est continu et nous révisons régulièrement nos politiques pour nous adapter aux nouvelles menaces et technologies.  <br/>En suivant ces protocoles, zentry-clone vise à fournir une plateforme sécurisée et fiable à tous les utilisateurs. "
+      }
+    },
+    "time": "Dernière mise à jour : 6 novembre 2024"
+  }
+}
