@@ -3,6 +3,7 @@ declare module 'vue' {
   export interface GlobalComponents {
     'PreloadersButtonPreloader': typeof import("../components/Preloaders/ButtonPreloader.vue")['default']
     'PreloadersPagePreloader': typeof import("../components/Preloaders/PagePreloader.vue")['default']
+    'SectionsHero': typeof import("../components/Sections/Hero.vue")['default']
     'UIDropDownFeatures': typeof import("../components/UI/DropDown/Features.vue")['default']
     'UIDropDownLanguage': typeof import("../components/UI/DropDown/Language.vue")['default']
     'UIDropDownMobileNavbarItem': typeof import("../components/UI/DropDown/MobileNavbarItem.vue")['default']
@@ -49,6 +50,7 @@ declare module 'vue' {
     'Body': typeof import("../node_modules/nuxt/dist/head/runtime/components")['Body']
     'LazyPreloadersButtonPreloader': typeof import("../components/Preloaders/ButtonPreloader.vue")['default']
     'LazyPreloadersPagePreloader': typeof import("../components/Preloaders/PagePreloader.vue")['default']
+    'LazySectionsHero': typeof import("../components/Sections/Hero.vue")['default']
     'LazyUIDropDownFeatures': typeof import("../components/UI/DropDown/Features.vue")['default']
     'LazyUIDropDownLanguage': typeof import("../components/UI/DropDown/Language.vue")['default']
     'LazyUIDropDownMobileNavbarItem': typeof import("../components/UI/DropDown/MobileNavbarItem.vue")['default']
@@ -98,6 +100,7 @@ declare module 'vue' {
 
 export const PreloadersButtonPreloader: typeof import("../components/Preloaders/ButtonPreloader.vue")['default']
 export const PreloadersPagePreloader: typeof import("../components/Preloaders/PagePreloader.vue")['default']
+export const SectionsHero: typeof import("../components/Sections/Hero.vue")['default']
 export const UIDropDownFeatures: typeof import("../components/UI/DropDown/Features.vue")['default']
 export const UIDropDownLanguage: typeof import("../components/UI/DropDown/Language.vue")['default']
 export const UIDropDownMobileNavbarItem: typeof import("../components/UI/DropDown/MobileNavbarItem.vue")['default']
@@ -144,6 +147,7 @@ export const Html: typeof import("../node_modules/nuxt/dist/head/runtime/compone
 export const Body: typeof import("../node_modules/nuxt/dist/head/runtime/components")['Body']
 export const LazyPreloadersButtonPreloader: typeof import("../components/Preloaders/ButtonPreloader.vue")['default']
 export const LazyPreloadersPagePreloader: typeof import("../components/Preloaders/PagePreloader.vue")['default']
+export const LazySectionsHero: typeof import("../components/Sections/Hero.vue")['default']
 export const LazyUIDropDownFeatures: typeof import("../components/UI/DropDown/Features.vue")['default']
 export const LazyUIDropDownLanguage: typeof import("../components/UI/DropDown/Language.vue")['default']
 export const LazyUIDropDownMobileNavbarItem: typeof import("../components/UI/DropDown/MobileNavbarItem.vue")['default']

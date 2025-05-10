@@ -1,0 +1,234 @@
+{
+  "resolvedId": "/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/node_modules/lucide-vue-next/dist/esm/icons/badge-dollar-sign.js",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "/**\n * @license lucide-vue-next v0.509.0 - ISC\n *\n * This source code is licensed under the ISC license.\n * See the LICENSE file in the root directory of this source tree.\n */\n\nimport createLucideIcon from '../createLucideIcon.js';\n\nconst BadgeDollarSign = createLucideIcon(\"badge-dollar-sign\", [\n  [\n    \"path\",\n    {\n      d: \"M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z\",\n      key: \"3c2336\"\n    }\n  ],\n  [\"path\", { d: \"M16 8h-6a2 2 0 1 0 0 4h4a2 2 0 1 1 0 4H8\", key: \"1h4pet\" }],\n  [\"path\", { d: \"M12 18V6\", key: \"zqpxq5\" }]\n]);\n\nexport { BadgeDollarSign as default };\n//# sourceMappingURL=badge-dollar-sign.js.map\n",
+      "start": 1746887678662,
+      "end": 1746887678693,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "pre"
+    },
+    {
+      "name": "unplugin-vue-i18n",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "pre"
+    },
+    {
+      "name": "nuxtjs:i18n-macros-transform",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1746887678693,
+      "end": 1746887678693,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1746887678693,
+      "end": 1746887678694,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "post"
+    },
+    {
+      "name": "nuxtjs:i18n-resource",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "post"
+    },
+    {
+      "name": "nuxtjs:i18n-meta-deprecation",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1746887678694,
+      "end": 1746887678694,
+      "order": "normal"
+    }
+  ]
+}
