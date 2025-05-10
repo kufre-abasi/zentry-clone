@@ -1,5 +1,5 @@
 <template>
-  <main><SectionsHero /></main>
+  <main><SectionsHero /> <SectionsWelcomeSection /></main>
 </template>
 <script setup lang="ts">
 useHead({
