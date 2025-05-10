@@ -1,0 +1,238 @@
+{
+  "resolvedId": "/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/components/Sections/WelcomeSection.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\n  <section class=\"h-full py-60 bg-[#DFDFF2]\">\n    <div class=\" \">\n      <div class=\" \">\n        <div class=\"flex flex-col gap-[36px] items-center justify-between\">\n          <h2\n            class=\"text-black uppercase leading-[1px] mb-[36px] gap-2 px-4 py-1.5 text-[12px] font-bold flex items-center\"\n          >\n            Welcome to Zentry\n          </h2>\n          <div class=\"\" disable=\"false\">\n            <h1\n              class=\"text-black text-8xl md:text-[90px] text-center ZENTRY-Regular font-extrabold leading-none\"\n            >\n              <span class=\"\">Discover the world's </span>\n              <br />\n              <span class=\"\">largest shared adventure</span>\n            </h1>\n          </div>\n        </div>\n        <div class=\" \">\n          <div class=\"relative\">\n            <div class=\"absolute top-0 left-0 w-full h-full\">\n              <img\n                class=\"w-full h-full object-cover\"\n                alt=\"\"\n                src=\"https://zentry.com/export/images/home/intro/custom-home-intro-desktop-outer@lg.webp\"\n                loading=\"lazy\"\n              />\n            </div>\n            <div\n              class=\"h-full w-full object-cover\"\n              style=\"\n                clip-path: path(\n                  'M 771.045 71.2609 L 771.045 71.2609 Q 779.045 71.172 780.043 79.1095 L 816.405 368.239 Q 817.403 376.177 809.445 376.996 L 598.198 398.742 Q 590.241 399.561 589.663 391.582 L 567.214 81.512 Q 566.636 73.5329 574.636 73.444 Z'\n                );\n              \"\n            >\n              <div class=\" \">\n                <img\n                  alt=\"custom-home-intro\"\n                  src=\"https://zentry.com/export/images/home/intro/custom-home-intro-desktop@lg.webp\"\n                  loading=\"lazy\"\n                />\n              </div>\n            </div>\n          </div>\n          <div class=\"text-center\">\n            <span class=\"text-black text-lg md:text-[14px] text-center\">\n              <b>The Metagame begins—your life, now an epic MMORPG</b>\n            </span>\n            <br />\n            <span\n              class=\"w-[30%] font-bold mx-auto text-gray-600 text-lg md:text-[14px] text-center\"\n              >Zentry is the unified play layer driving attention and contribution <br />\n              through cross-world AI gamification.</span\n            >\n          </div>\n        </div>\n      </div>\n      <!-- <div class=\" \">\n        <div class=\" \">\n          <div class=\"flex flex-col items-center justify-between\">\n            <span><b>Explore the Zentry Universe</b></span\n            ><span\n              >Immerse yourself in an IP-rich product universe where players, agentic AI\n              and blockchain lead the new economic paradigm.</span\n            >\n          </div>\n        </div>\n      </div> -->\n    </div>\n  </section>\n</template>\n\n<script>\nexport default {};\n</script>\n\n<style></style>\n",
+      "start": 1746913693153,
+      "end": 1746913693169,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1746913693169,
+      "end": 1746913693169,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1746913693169,
+      "end": 1746913693169,
+      "order": "pre"
+    },
+    {
+      "name": "unplugin-vue-i18n",
+      "start": 1746913693169,
+      "end": 1746913693169,
+      "order": "pre"
+    },
+    {
+      "name": "nuxtjs:i18n-macros-transform",
+      "start": 1746913693169,
+      "end": 1746913693170,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1746913693170,
+      "end": 1746913693170,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1746913693170,
+      "end": 1746913693170,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1746913693170,
+      "end": 1746913693170,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1746913693170,
+      "end": 1746913693170,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1746913693170,
+      "end": 1746913693170,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "\nconst _sfc_main = {};\n\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\n\nconst _hoisted_1 = { class: \"h-full py-60 bg-[#DFDFF2]\" }\nconst _hoisted_2 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"\" }, [\n  /*#__PURE__*/_createElementVNode(\"div\", { class: \"\" }, [\n    /*#__PURE__*/_createElementVNode(\"div\", { class: \"flex flex-col gap-[36px] items-center justify-between\" }, [\n      /*#__PURE__*/_createElementVNode(\"h2\", { class: \"text-black uppercase leading-[1px] mb-[36px] gap-2 px-4 py-1.5 text-[12px] font-bold flex items-center\" }, \" Welcome to Zentry \"),\n      /*#__PURE__*/_createElementVNode(\"div\", {\n        class: \"\",\n        disable: \"false\"\n      }, [\n        /*#__PURE__*/_createElementVNode(\"h1\", { class: \"text-black text-8xl md:text-[90px] text-center ZENTRY-Regular font-extrabold leading-none\" }, [\n          /*#__PURE__*/_createElementVNode(\"span\", { class: \"\" }, \"Discover the world's \"),\n          /*#__PURE__*/_createElementVNode(\"br\"),\n          /*#__PURE__*/_createElementVNode(\"span\", { class: \"\" }, \"largest shared adventure\")\n        ])\n      ])\n    ]),\n    /*#__PURE__*/_createElementVNode(\"div\", { class: \"\" }, [\n      /*#__PURE__*/_createElementVNode(\"div\", { class: \"relative\" }, [\n        /*#__PURE__*/_createElementVNode(\"div\", { class: \"absolute top-0 left-0 w-full h-full\" }, [\n          /*#__PURE__*/_createElementVNode(\"img\", {\n            class: \"w-full h-full object-cover\",\n            alt: \"\",\n            src: \"https://zentry.com/export/images/home/intro/custom-home-intro-desktop-outer@lg.webp\",\n            loading: \"lazy\"\n          })\n        ]),\n        /*#__PURE__*/_createElementVNode(\"div\", {\n          class: \"h-full w-full object-cover\",\n          style: {\"clip-path\":\"path(\\n                  'M 771.045 71.2609 L 771.045 71.2609 Q 779.045 71.172 780.043 79.1095 L 816.405 368.239 Q 817.403 376.177 809.445 376.996 L 598.198 398.742 Q 590.241 399.561 589.663 391.582 L 567.214 81.512 Q 566.636 73.5329 574.636 73.444 Z'\\n                )\"}\n        }, [\n          /*#__PURE__*/_createElementVNode(\"div\", { class: \"\" }, [\n            /*#__PURE__*/_createElementVNode(\"img\", {\n              alt: \"custom-home-intro\",\n              src: \"https://zentry.com/export/images/home/intro/custom-home-intro-desktop@lg.webp\",\n              loading: \"lazy\"\n            })\n          ])\n        ])\n      ]),\n      /*#__PURE__*/_createElementVNode(\"div\", { class: \"text-center\" }, [\n        /*#__PURE__*/_createElementVNode(\"span\", { class: \"text-black text-lg md:text-[14px] text-center\" }, [\n          /*#__PURE__*/_createElementVNode(\"b\", null, \"The Metagame begins—your life, now an epic MMORPG\")\n        ]),\n        /*#__PURE__*/_createElementVNode(\"br\"),\n        /*#__PURE__*/_createElementVNode(\"span\", { class: \"w-[30%] font-bold mx-auto text-gray-600 text-lg md:text-[14px] text-center\" }, [\n          /*#__PURE__*/_createTextVNode(\"Zentry is the unified play layer driving attention and contribution \"),\n          /*#__PURE__*/_createElementVNode(\"br\"),\n          /*#__PURE__*/_createTextVNode(\" through cross-world AI gamification.\")\n        ])\n      ])\n    ])\n  ])\n], -1)\nconst _hoisted_3 = [\n  _hoisted_2\n]\n\nfunction _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {\n  return (_openBlock(), _createElementBlock(\"section\", _hoisted_1, _hoisted_3))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1746913693170,
+      "end": 1746913693174,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1746913693174,
+      "end": 1746913693174,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "post"
+    },
+    {
+      "name": "nuxtjs:i18n-resource",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "post"
+    },
+    {
+      "name": "nuxtjs:i18n-meta-deprecation",
+      "start": 1746913693175,
+      "end": 1746913693175,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1746913693175,
+      "end": 1746913693177,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1746913693177,
+      "end": 1746913693177,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1746913693177,
+      "end": 1746913693177,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1746913693177,
+      "end": 1746913693177,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1746913693177,
+      "end": 1746913693177,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1746913693177,
+      "end": 1746913693177,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1746913693177,
+      "end": 1746913693177,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1746913693177,
+      "end": 1746913693177,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1746913693177,
+      "end": 1746913693177,
+      "order": "normal"
+    }
+  ]
+}

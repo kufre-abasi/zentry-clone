@@ -4,232 +4,232 @@
     {
       "name": "vite:load-fallback",
       "result": "\n// @ts-nocheck\n\n\nexport const localeCodes =  [\n  \"en\",\n  \"fr\",\n  \"nl\",\n  \"de\",\n  \"ar\",\n  \"it\",\n  \"pt\",\n  \"es\",\n  \"hi\",\n  \"zh\"\n]\n\nexport const localeLoaders = {\n  \"en\": [],\n  \"fr\": [],\n  \"nl\": [],\n  \"de\": [],\n  \"ar\": [],\n  \"it\": [],\n  \"pt\": [],\n  \"es\": [],\n  \"hi\": [],\n  \"zh\": []\n}\n\nexport const vueI18nConfigs = [\n  () => import(\"../i18n.config.ts?hash=bffaebcb&config=1\" /* webpackChunkName: \"__i18n_config_ts_bffaebcb\" */)\n]\n\nexport const nuxtI18nOptions = {\n  \"experimental\": {\n    \"localeDetector\": \"\",\n    \"switchLocalePathLinkSSR\": false,\n    \"autoImportTranslationFunctions\": false\n  },\n  \"bundle\": {\n    \"compositionOnly\": true,\n    \"runtimeOnly\": false,\n    \"fullInstall\": true,\n    \"dropMessageCompiler\": false\n  },\n  \"compilation\": {\n    \"jit\": true,\n    \"strictMessage\": true,\n    \"escapeHtml\": false\n  },\n  \"customBlocks\": {\n    \"defaultSFCLang\": \"json\",\n    \"globalSFCScope\": false\n  },\n  \"vueI18n\": \"./i18n.config.ts\",\n  \"locales\": [\n    {\n      \"code\": \"en\",\n      \"name\": \"English\"\n    },\n    {\n      \"code\": \"fr\",\n      \"name\": \"Français\"\n    },\n    {\n      \"code\": \"nl\",\n      \"name\": \"Dutch\"\n    },\n    {\n      \"code\": \"de\",\n      \"name\": \"German\"\n    },\n    {\n      \"code\": \"ar\",\n      \"name\": \"Arabic\"\n    },\n    {\n      \"code\": \"it\",\n      \"name\": \"Italian\"\n    },\n    {\n      \"code\": \"pt\",\n      \"name\": \"Portuguese\"\n    },\n    {\n      \"code\": \"es\",\n      \"name\": \"Spanish\"\n    },\n    {\n      \"code\": \"hi\",\n      \"name\": \"Hindi\"\n    },\n    {\n      \"code\": \"zh\",\n      \"name\": \"Chinese\"\n    }\n  ],\n  \"defaultLocale\": \"\",\n  \"defaultDirection\": \"ltr\",\n  \"routesNameSeparator\": \"___\",\n  \"trailingSlash\": false,\n  \"defaultLocaleRouteNameSuffix\": \"default\",\n  \"strategy\": \"prefix_except_default\",\n  \"lazy\": false,\n  \"langDir\": null,\n  \"detectBrowserLanguage\": {\n    \"alwaysRedirect\": false,\n    \"cookieCrossOrigin\": false,\n    \"cookieDomain\": null,\n    \"cookieKey\": \"i18n_redirected\",\n    \"cookieSecure\": false,\n    \"fallbackLocale\": \"\",\n    \"redirectOn\": \"root\",\n    \"useCookie\": true\n  },\n  \"differentDomains\": false,\n  \"baseUrl\": \"\",\n  \"dynamicRouteParams\": false,\n  \"customRoutes\": \"page\",\n  \"pages\": {},\n  \"skipSettingLocaleOnNavigate\": false,\n  \"types\": \"composition\",\n  \"debug\": false,\n  \"parallelPlugin\": false,\n  \"i18nModules\": []\n}\n\nexport const normalizedLocales = [\n  {\n    \"code\": \"en\",\n    \"name\": \"English\",\n    \"files\": []\n  },\n  {\n    \"code\": \"fr\",\n    \"name\": \"Français\",\n    \"files\": []\n  },\n  {\n    \"code\": \"nl\",\n    \"name\": \"Dutch\",\n    \"files\": []\n  },\n  {\n    \"code\": \"de\",\n    \"name\": \"German\",\n    \"files\": []\n  },\n  {\n    \"code\": \"ar\",\n    \"name\": \"Arabic\",\n    \"files\": []\n  },\n  {\n    \"code\": \"it\",\n    \"name\": \"Italian\",\n    \"files\": []\n  },\n  {\n    \"code\": \"pt\",\n    \"name\": \"Portuguese\",\n    \"files\": []\n  },\n  {\n    \"code\": \"es\",\n    \"name\": \"Spanish\",\n    \"files\": []\n  },\n  {\n    \"code\": \"hi\",\n    \"name\": \"Hindi\",\n    \"files\": []\n  },\n  {\n    \"code\": \"zh\",\n    \"name\": \"Chinese\",\n    \"files\": []\n  }\n]\n\nexport const NUXT_I18N_MODULE_ID = \"@nuxtjs/i18n\"\nexport const parallelPlugin = false\nexport const isSSG = false\n\nexport const DEFAULT_DYNAMIC_PARAMS_KEY = \"nuxtI18n\"\nexport const DEFAULT_COOKIE_KEY = \"i18n_redirected\"\nexport const SWITCH_LOCALE_PATH_LINK_IDENTIFIER = \"nuxt-i18n-slp\"\n",
-      "start": 1746891116112,
-      "end": 1746891116377,
+      "start": 1746913690358,
+      "end": 1746913690583,
       "sourcemaps": null
     },
     {
       "name": "nuxt:layer-aliasing",
-      "start": 1746891116377,
-      "end": 1746891116377,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "pre"
     },
     {
       "name": "nuxt:server-devonly:transform",
-      "start": 1746891116377,
-      "end": 1746891116377,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "pre"
     },
     {
       "name": "unplugin-vue-i18n",
-      "start": 1746891116377,
-      "end": 1746891116377,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "pre"
     },
     {
       "name": "nuxtjs:i18n-macros-transform",
-      "start": 1746891116377,
-      "end": 1746891116377,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "pre"
     },
     {
       "name": "nuxt:client-fallback-auto-id",
-      "start": 1746891116377,
-      "end": 1746891116377,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "pre"
     },
     {
       "name": "vite:css",
-      "start": 1746891116377,
-      "end": 1746891116377,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "vite:esbuild",
-      "start": 1746891116377,
-      "end": 1746891116377,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "vite:json",
-      "start": 1746891116377,
-      "end": 1746891116377,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "vite:worker",
-      "start": 1746891116377,
-      "end": 1746891116377,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "vite:vue",
-      "start": 1746891116377,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "vite:vue-jsx",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "nuxt:remove-plugin-metadata",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "nuxt:chunk-error",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "nuxt:components:imports",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "ssr-styles",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "vite:define",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "vite:css-post",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "vite:build-html",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "vite:worker-import-meta-url",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "vite:asset-import-meta-url",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "commonjs",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "vite:dynamic-import-vars",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "vite:import-glob",
-      "start": 1746891116378,
-      "end": 1746891116378,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "normal"
     },
     {
       "name": "nuxt:composable-keys",
-      "start": 1746891116378,
-      "end": 1746891116379,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "post"
     },
     {
       "name": "nuxtjs:i18n-resource",
-      "start": 1746891116379,
-      "end": 1746891116379,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "post"
     },
     {
       "name": "nuxtjs:i18n-meta-deprecation",
-      "start": 1746891116379,
-      "end": 1746891116379,
+      "start": 1746913690583,
+      "end": 1746913690583,
       "order": "post"
     },
     {
       "name": "nuxt:imports-transform",
-      "start": 1746891116379,
-      "end": 1746891116382,
+      "start": 1746913690583,
+      "end": 1746913690588,
       "order": "post"
     },
     {
       "name": "unctx:transform",
-      "start": 1746891116382,
-      "end": 1746891116385,
+      "start": 1746913690588,
+      "end": 1746913690588,
       "order": "post"
     },
     {
       "name": "nuxt:pages-macros-transform",
-      "start": 1746891116385,
-      "end": 1746891116385,
+      "start": 1746913690588,
+      "end": 1746913690588,
       "order": "post"
     },
     {
       "name": "nuxt:runtime-paths-dep",
-      "start": 1746891116386,
-      "end": 1746891116386,
+      "start": 1746913690588,
+      "end": 1746913690588,
       "order": "post"
     },
     {
       "name": "nuxt:route-injection-plugin",
-      "start": 1746891116386,
-      "end": 1746891116386,
+      "start": 1746913690588,
+      "end": 1746913690588,
       "order": "post"
     },
     {
       "name": "nuxt:components-loader",
-      "start": 1746891116386,
-      "end": 1746891116386,
+      "start": 1746913690588,
+      "end": 1746913690588,
       "order": "post"
     },
     {
       "name": "nuxt:tree-shake-composables:transform",
-      "start": 1746891116386,
-      "end": 1746891116386,
+      "start": 1746913690588,
+      "end": 1746913690588,
       "order": "post"
     },
     {
       "name": "vite:build-import-analysis",
       "result": "import { __vitePreload } from \"\u0000vite/preload-helper.js\";\n// @ts-nocheck\n\n\nexport const localeCodes =  [\n  \"en\",\n  \"fr\",\n  \"nl\",\n  \"de\",\n  \"ar\",\n  \"it\",\n  \"pt\",\n  \"es\",\n  \"hi\",\n  \"zh\"\n]\n\nexport const localeLoaders = {\n  \"en\": [],\n  \"fr\": [],\n  \"nl\": [],\n  \"de\": [],\n  \"ar\": [],\n  \"it\": [],\n  \"pt\": [],\n  \"es\": [],\n  \"hi\": [],\n  \"zh\": []\n}\n\nexport const vueI18nConfigs = [\n  () => __vitePreload(() => import(\"../i18n.config.ts?hash=bffaebcb&config=1\" /* webpackChunkName: \"__i18n_config_ts_bffaebcb\" */),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url)\n]\n\nexport const nuxtI18nOptions = {\n  \"experimental\": {\n    \"localeDetector\": \"\",\n    \"switchLocalePathLinkSSR\": false,\n    \"autoImportTranslationFunctions\": false\n  },\n  \"bundle\": {\n    \"compositionOnly\": true,\n    \"runtimeOnly\": false,\n    \"fullInstall\": true,\n    \"dropMessageCompiler\": false\n  },\n  \"compilation\": {\n    \"jit\": true,\n    \"strictMessage\": true,\n    \"escapeHtml\": false\n  },\n  \"customBlocks\": {\n    \"defaultSFCLang\": \"json\",\n    \"globalSFCScope\": false\n  },\n  \"vueI18n\": \"./i18n.config.ts\",\n  \"locales\": [\n    {\n      \"code\": \"en\",\n      \"name\": \"English\"\n    },\n    {\n      \"code\": \"fr\",\n      \"name\": \"Français\"\n    },\n    {\n      \"code\": \"nl\",\n      \"name\": \"Dutch\"\n    },\n    {\n      \"code\": \"de\",\n      \"name\": \"German\"\n    },\n    {\n      \"code\": \"ar\",\n      \"name\": \"Arabic\"\n    },\n    {\n      \"code\": \"it\",\n      \"name\": \"Italian\"\n    },\n    {\n      \"code\": \"pt\",\n      \"name\": \"Portuguese\"\n    },\n    {\n      \"code\": \"es\",\n      \"name\": \"Spanish\"\n    },\n    {\n      \"code\": \"hi\",\n      \"name\": \"Hindi\"\n    },\n    {\n      \"code\": \"zh\",\n      \"name\": \"Chinese\"\n    }\n  ],\n  \"defaultLocale\": \"\",\n  \"defaultDirection\": \"ltr\",\n  \"routesNameSeparator\": \"___\",\n  \"trailingSlash\": false,\n  \"defaultLocaleRouteNameSuffix\": \"default\",\n  \"strategy\": \"prefix_except_default\",\n  \"lazy\": false,\n  \"langDir\": null,\n  \"detectBrowserLanguage\": {\n    \"alwaysRedirect\": false,\n    \"cookieCrossOrigin\": false,\n    \"cookieDomain\": null,\n    \"cookieKey\": \"i18n_redirected\",\n    \"cookieSecure\": false,\n    \"fallbackLocale\": \"\",\n    \"redirectOn\": \"root\",\n    \"useCookie\": true\n  },\n  \"differentDomains\": false,\n  \"baseUrl\": \"\",\n  \"dynamicRouteParams\": false,\n  \"customRoutes\": \"page\",\n  \"pages\": {},\n  \"skipSettingLocaleOnNavigate\": false,\n  \"types\": \"composition\",\n  \"debug\": false,\n  \"parallelPlugin\": false,\n  \"i18nModules\": []\n}\n\nexport const normalizedLocales = [\n  {\n    \"code\": \"en\",\n    \"name\": \"English\",\n    \"files\": []\n  },\n  {\n    \"code\": \"fr\",\n    \"name\": \"Français\",\n    \"files\": []\n  },\n  {\n    \"code\": \"nl\",\n    \"name\": \"Dutch\",\n    \"files\": []\n  },\n  {\n    \"code\": \"de\",\n    \"name\": \"German\",\n    \"files\": []\n  },\n  {\n    \"code\": \"ar\",\n    \"name\": \"Arabic\",\n    \"files\": []\n  },\n  {\n    \"code\": \"it\",\n    \"name\": \"Italian\",\n    \"files\": []\n  },\n  {\n    \"code\": \"pt\",\n    \"name\": \"Portuguese\",\n    \"files\": []\n  },\n  {\n    \"code\": \"es\",\n    \"name\": \"Spanish\",\n    \"files\": []\n  },\n  {\n    \"code\": \"hi\",\n    \"name\": \"Hindi\",\n    \"files\": []\n  },\n  {\n    \"code\": \"zh\",\n    \"name\": \"Chinese\",\n    \"files\": []\n  }\n]\n\nexport const NUXT_I18N_MODULE_ID = \"@nuxtjs/i18n\"\nexport const parallelPlugin = false\nexport const isSSG = false\n\nexport const DEFAULT_DYNAMIC_PARAMS_KEY = \"nuxtI18n\"\nexport const DEFAULT_COOKIE_KEY = \"i18n_redirected\"\nexport const SWITCH_LOCALE_PATH_LINK_IDENTIFIER = \"nuxt-i18n-slp\"\n",
-      "start": 1746891116386,
-      "end": 1746891116386,
+      "start": 1746913690588,
+      "end": 1746913690588,
       "order": "normal",
       "sourcemaps": null
     },
     {
       "name": "vite:reporter",
-      "start": 1746891116386,
-      "end": 1746891116386,
+      "start": 1746913690588,
+      "end": 1746913690588,
       "order": "normal"
     }
   ]

@@ -14,7 +14,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DOIr63ts.js",
+    "file": "CZMGSvXd.js",
     "name": "entry",
     "src": "node_modules/nuxt/dist/app/entry.js",
     "isEntry": true,
@@ -22,7 +22,7 @@ const client_manifest = {
       "i18n.config.ts?hash=bffaebcb&config=1"
     ],
     "css": [
-      "entry.PFuyReS1.css"
+      "entry.BbTaEYxN.css"
     ],
     "assets": [
       "Roobert-Regular.DGaaRtf7.woff2",
@@ -33,8 +33,8 @@ const client_manifest = {
       "ZENTRY-Regular.BlM54AbI.woff"
     ]
   },
-  "entry.PFuyReS1.css": {
-    "file": "entry.PFuyReS1.css",
+  "entry.BbTaEYxN.css": {
+    "file": "entry.BbTaEYxN.css",
     "resourceType": "style",
     "prefetch": true,
     "preload": true
@@ -74,7 +74,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DECLJ_59.js",
+    "file": "w4wO5tKy.js",
     "name": "index",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
@@ -82,11 +82,11 @@ const client_manifest = {
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "css": [
-      "index.NegpDK2n.css"
+      "index.DcV1-JaY.css"
     ]
   },
-  "index.NegpDK2n.css": {
-    "file": "index.NegpDK2n.css",
+  "index.DcV1-JaY.css": {
+    "file": "index.DcV1-JaY.css",
     "resourceType": "style",
     "prefetch": true,
     "preload": true
