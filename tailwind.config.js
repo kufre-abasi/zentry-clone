@@ -14,6 +14,12 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        RoobertRegular: ['Roobert-Regular'],
+        RoobertMedium: ['Roobert-Medium'],
+
+        zentryRegular: ['ZENTRY-Regular']
+      },
       colors: {
         primary: {
           light: { defult: '#e8eaeb', hover: '#dcdfe1', active: '#b7bcc2' },

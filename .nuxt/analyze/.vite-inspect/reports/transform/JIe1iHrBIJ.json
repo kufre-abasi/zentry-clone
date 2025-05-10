@@ -4,230 +4,230 @@
     {
       "name": "vite:load-fallback",
       "result": "/*!\n * PixiPlugin 3.13.0\n * https://gsap.com\n *\n * @license Copyright 2008-2025, GreenSock. All rights reserved.\n * Subject to the terms at https://gsap.com/standard-license\n * @author: Jack Doyle, jack@greensock.com\n*/\n\n/* eslint-disable */\nvar gsap,\n    _splitColor,\n    _coreInitted,\n    _PIXI,\n    PropTween,\n    _getSetter,\n    _isV4,\n    _isV8Plus,\n    _windowExists = function _windowExists() {\n  return typeof window !== \"undefined\";\n},\n    _getGSAP = function _getGSAP() {\n  return gsap || _windowExists() && (gsap = window.gsap) && gsap.registerPlugin && gsap;\n},\n    _isFunction = function _isFunction(value) {\n  return typeof value === \"function\";\n},\n    _warn = function _warn(message) {\n  return console.warn(message);\n},\n    _idMatrix = [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0],\n    _lumR = 0.212671,\n    _lumG = 0.715160,\n    _lumB = 0.072169,\n    _filterClass = function _filterClass(name) {\n  return _isFunction(_PIXI[name]) ? _PIXI[name] : _PIXI.filters[name];\n},\n    // in PIXI 7.1, filters moved from PIXI.filters to just PIXI\n_applyMatrix = function _applyMatrix(m, m2) {\n  var temp = [],\n      i = 0,\n      z = 0,\n      y,\n      x;\n\n  for (y = 0; y < 4; y++) {\n    for (x = 0; x < 5; x++) {\n      z = x === 4 ? m[i + 4] : 0;\n      temp[i + x] = m[i] * m2[x] + m[i + 1] * m2[x + 5] + m[i + 2] * m2[x + 10] + m[i + 3] * m2[x + 15] + z;\n    }\n\n    i += 5;\n  }\n\n  return temp;\n},\n    _setSaturation = function _setSaturation(m, n) {\n  var inv = 1 - n,\n      r = inv * _lumR,\n      g = inv * _lumG,\n      b = inv * _lumB;\n  return _applyMatrix([r + n, g, b, 0, 0, r, g + n, b, 0, 0, r, g, b + n, 0, 0, 0, 0, 0, 1, 0], m);\n},\n    _colorize = function _colorize(m, color, amount) {\n  var c = _splitColor(color),\n      r = c[0] / 255,\n      g = c[1] / 255,\n      b = c[2] / 255,\n      inv = 1 - amount;\n\n  return _applyMatrix([inv + amount * r * _lumR, amount * r * _lumG, amount * r * _lumB, 0, 0, amount * g * _lumR, inv + amount * g * _lumG, amount * g * _lumB, 0, 0, amount * b * _lumR, amount * b * _lumG, inv + amount * b * _lumB, 0, 0, 0, 0, 0, 1, 0], m);\n},\n    _setHue = function _setHue(m, n) {\n  n *= Math.PI / 180;\n  var c = Math.cos(n),\n      s = Math.sin(n);\n  return _applyMatrix([_lumR + c * (1 - _lumR) + s * -_lumR, _lumG + c * -_lumG + s * -_lumG, _lumB + c * -_lumB + s * (1 - _lumB), 0, 0, _lumR + c * -_lumR + s * 0.143, _lumG + c * (1 - _lumG) + s * 0.14, _lumB + c * -_lumB + s * -0.283, 0, 0, _lumR + c * -_lumR + s * -(1 - _lumR), _lumG + c * -_lumG + s * _lumG, _lumB + c * (1 - _lumB) + s * _lumB, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1], m);\n},\n    _setContrast = function _setContrast(m, n) {\n  return _applyMatrix([n, 0, 0, 0, 0.5 * (1 - n), 0, n, 0, 0, 0.5 * (1 - n), 0, 0, n, 0, 0.5 * (1 - n), 0, 0, 0, 1, 0], m);\n},\n    _getFilter = function _getFilter(target, type) {\n  var filterClass = _filterClass(type),\n      filters = target.filters || [],\n      i = filters.length,\n      filter;\n\n  filterClass || _warn(type + \" not found. PixiPlugin.registerPIXI(PIXI)\");\n\n  while (--i > -1) {\n    if (filters[i] instanceof filterClass) {\n      return filters[i];\n    }\n  }\n\n  filter = new filterClass();\n\n  if (type === \"BlurFilter\") {\n    if (_isV8Plus) {\n      filter.strength = 0;\n    } else {\n      filter.blur = 0;\n    }\n  }\n\n  target.filters = [].concat(filters, [filter]);\n  return filter;\n},\n    _addColorMatrixFilterCacheTween = function _addColorMatrixFilterCacheTween(p, plugin, cache, vars) {\n  //we cache the ColorMatrixFilter components in a _gsColorMatrixFilter object attached to the target object so that it's easy to grab the current value at any time.\n  plugin.add(cache, p, cache[p], vars[p]);\n\n  plugin._props.push(p);\n},\n    _applyBrightnessToMatrix = function _applyBrightnessToMatrix(brightness, matrix) {\n  var filterClass = _filterClass(\"ColorMatrixFilter\"),\n      temp = new filterClass();\n\n  temp.matrix = matrix;\n  temp.brightness(brightness, true);\n  return temp.matrix;\n},\n    _copy = function _copy(obj) {\n  var copy = {},\n      p;\n\n  for (p in obj) {\n    copy[p] = obj[p];\n  }\n\n  return copy;\n},\n    _CMFdefaults = {\n  contrast: 1,\n  saturation: 1,\n  colorizeAmount: 0,\n  colorize: \"rgb(255,255,255)\",\n  hue: 0,\n  brightness: 1\n},\n    _parseColorMatrixFilter = function _parseColorMatrixFilter(target, v, pg) {\n  var filter = _getFilter(target, \"ColorMatrixFilter\"),\n      cache = target._gsColorMatrixFilter = target._gsColorMatrixFilter || _copy(_CMFdefaults),\n      combine = v.combineCMF && !(\"colorMatrixFilter\" in v && !v.colorMatrixFilter),\n      i,\n      matrix,\n      startMatrix;\n\n  startMatrix = filter.matrix;\n\n  if (v.resolution) {\n    filter.resolution = v.resolution;\n  }\n\n  if (v.matrix && v.matrix.length === startMatrix.length) {\n    matrix = v.matrix;\n\n    if (cache.contrast !== 1) {\n      _addColorMatrixFilterCacheTween(\"contrast\", pg, cache, _CMFdefaults);\n    }\n\n    if (cache.hue) {\n      _addColorMatrixFilterCacheTween(\"hue\", pg, cache, _CMFdefaults);\n    }\n\n    if (cache.brightness !== 1) {\n      _addColorMatrixFilterCacheTween(\"brightness\", pg, cache, _CMFdefaults);\n    }\n\n    if (cache.colorizeAmount) {\n      _addColorMatrixFilterCacheTween(\"colorize\", pg, cache, _CMFdefaults);\n\n      _addColorMatrixFilterCacheTween(\"colorizeAmount\", pg, cache, _CMFdefaults);\n    }\n\n    if (cache.saturation !== 1) {\n      _addColorMatrixFilterCacheTween(\"saturation\", pg, cache, _CMFdefaults);\n    }\n  } else {\n    matrix = _idMatrix.slice();\n\n    if (v.contrast != null) {\n      matrix = _setContrast(matrix, +v.contrast);\n\n      _addColorMatrixFilterCacheTween(\"contrast\", pg, cache, v);\n    } else if (cache.contrast !== 1) {\n      if (combine) {\n        matrix = _setContrast(matrix, cache.contrast);\n      } else {\n        _addColorMatrixFilterCacheTween(\"contrast\", pg, cache, _CMFdefaults);\n      }\n    }\n\n    if (v.hue != null) {\n      matrix = _setHue(matrix, +v.hue);\n\n      _addColorMatrixFilterCacheTween(\"hue\", pg, cache, v);\n    } else if (cache.hue) {\n      if (combine) {\n        matrix = _setHue(matrix, cache.hue);\n      } else {\n        _addColorMatrixFilterCacheTween(\"hue\", pg, cache, _CMFdefaults);\n      }\n    }\n\n    if (v.brightness != null) {\n      matrix = _applyBrightnessToMatrix(+v.brightness, matrix);\n\n      _addColorMatrixFilterCacheTween(\"brightness\", pg, cache, v);\n    } else if (cache.brightness !== 1) {\n      if (combine) {\n        matrix = _applyBrightnessToMatrix(cache.brightness, matrix);\n      } else {\n        _addColorMatrixFilterCacheTween(\"brightness\", pg, cache, _CMFdefaults);\n      }\n    }\n\n    if (v.colorize != null) {\n      v.colorizeAmount = \"colorizeAmount\" in v ? +v.colorizeAmount : 1;\n      matrix = _colorize(matrix, v.colorize, v.colorizeAmount);\n\n      _addColorMatrixFilterCacheTween(\"colorize\", pg, cache, v);\n\n      _addColorMatrixFilterCacheTween(\"colorizeAmount\", pg, cache, v);\n    } else if (cache.colorizeAmount) {\n      if (combine) {\n        matrix = _colorize(matrix, cache.colorize, cache.colorizeAmount);\n      } else {\n        _addColorMatrixFilterCacheTween(\"colorize\", pg, cache, _CMFdefaults);\n\n        _addColorMatrixFilterCacheTween(\"colorizeAmount\", pg, cache, _CMFdefaults);\n      }\n    }\n\n    if (v.saturation != null) {\n      matrix = _setSaturation(matrix, +v.saturation);\n\n      _addColorMatrixFilterCacheTween(\"saturation\", pg, cache, v);\n    } else if (cache.saturation !== 1) {\n      if (combine) {\n        matrix = _setSaturation(matrix, cache.saturation);\n      } else {\n        _addColorMatrixFilterCacheTween(\"saturation\", pg, cache, _CMFdefaults);\n      }\n    }\n  }\n\n  i = matrix.length;\n\n  while (--i > -1) {\n    if (matrix[i] !== startMatrix[i]) {\n      pg.add(startMatrix, i, startMatrix[i], matrix[i], \"colorMatrixFilter\");\n    }\n  }\n\n  pg._props.push(\"colorMatrixFilter\");\n},\n    _renderColor = function _renderColor(ratio, _ref) {\n  var t = _ref.t,\n      p = _ref.p,\n      color = _ref.color,\n      set = _ref.set;\n  set(t, p, color[0] << 16 | color[1] << 8 | color[2]);\n},\n    _renderDirtyCache = function _renderDirtyCache(ratio, _ref2) {\n  var g = _ref2.g;\n\n  if (_isV8Plus) {\n    g.fill();\n    g.stroke();\n  } else if (g) {\n    // in order for PixiJS to actually redraw GraphicsData, we've gotta increment the \"dirty\" and \"clearDirty\" values. If we don't do this, the values will be tween properly, but not rendered.\n    g.dirty++;\n    g.clearDirty++;\n  }\n},\n    _renderAutoAlpha = function _renderAutoAlpha(ratio, data) {\n  data.t.visible = !!data.t.alpha;\n},\n    _addColorTween = function _addColorTween(target, p, value, plugin) {\n  var currentValue = target[p],\n      startColor = _splitColor(_isFunction(currentValue) ? target[p.indexOf(\"set\") || !_isFunction(target[\"get\" + p.substr(3)]) ? p : \"get\" + p.substr(3)]() : currentValue),\n      endColor = _splitColor(value);\n\n  plugin._pt = new PropTween(plugin._pt, target, p, 0, 0, _renderColor, {\n    t: target,\n    p: p,\n    color: startColor,\n    set: _getSetter(target, p)\n  });\n  plugin.add(startColor, 0, startColor[0], endColor[0]);\n  plugin.add(startColor, 1, startColor[1], endColor[1]);\n  plugin.add(startColor, 2, startColor[2], endColor[2]);\n},\n    _colorProps = {\n  tint: 1,\n  lineColor: 1,\n  fillColor: 1,\n  strokeColor: 1\n},\n    _xyContexts = \"position,scale,skew,pivot,anchor,tilePosition,tileScale\".split(\",\"),\n    _contexts = {\n  x: \"position\",\n  y: \"position\",\n  tileX: \"tilePosition\",\n  tileY: \"tilePosition\"\n},\n    _colorMatrixFilterProps = {\n  colorMatrixFilter: 1,\n  saturation: 1,\n  contrast: 1,\n  hue: 1,\n  colorize: 1,\n  colorizeAmount: 1,\n  brightness: 1,\n  combineCMF: 1\n},\n    _DEG2RAD = Math.PI / 180,\n    _isString = function _isString(value) {\n  return typeof value === \"string\";\n},\n    _degreesToRadians = function _degreesToRadians(value) {\n  return _isString(value) && value.charAt(1) === \"=\" ? value.substr(0, 2) + parseFloat(value.substr(2)) * _DEG2RAD : value * _DEG2RAD;\n},\n    _renderPropWithEnd = function _renderPropWithEnd(ratio, data) {\n  return data.set(data.t, data.p, ratio === 1 ? data.e : Math.round((data.s + data.c * ratio) * 100000) / 100000, data);\n},\n    _addRotationalPropTween = function _addRotationalPropTween(plugin, target, property, startNum, endValue, radians) {\n  var cap = 360 * (radians ? _DEG2RAD : 1),\n      isString = _isString(endValue),\n      relative = isString && endValue.charAt(1) === \"=\" ? +(endValue.charAt(0) + \"1\") : 0,\n      endNum = parseFloat(relative ? endValue.substr(2) : endValue) * (radians ? _DEG2RAD : 1),\n      change = relative ? endNum * relative : endNum - startNum,\n      finalValue = startNum + change,\n      direction,\n      pt;\n\n  if (isString) {\n    direction = endValue.split(\"_\")[1];\n\n    if (direction === \"short\") {\n      change %= cap;\n\n      if (change !== change % (cap / 2)) {\n        change += change < 0 ? cap : -cap;\n      }\n    }\n\n    if (direction === \"cw\" && change < 0) {\n      change = (change + cap * 1e10) % cap - ~~(change / cap) * cap;\n    } else if (direction === \"ccw\" && change > 0) {\n      change = (change - cap * 1e10) % cap - ~~(change / cap) * cap;\n    }\n  }\n\n  plugin._pt = pt = new PropTween(plugin._pt, target, property, startNum, change, _renderPropWithEnd);\n  pt.e = finalValue;\n  return pt;\n},\n    _initCore = function _initCore() {\n  if (!_coreInitted) {\n    gsap = _getGSAP();\n    _PIXI = _coreInitted = _PIXI || _windowExists() && window.PIXI;\n    var version = _PIXI && _PIXI.VERSION && parseFloat(_PIXI.VERSION.split(\".\")[0]) || 0;\n    _isV4 = version === 4;\n    _isV8Plus = version >= 8;\n\n    _splitColor = function _splitColor(color) {\n      return gsap.utils.splitColor((color + \"\").substr(0, 2) === \"0x\" ? \"#\" + color.substr(2) : color);\n    }; // some colors in PIXI are reported as \"0xFF4421\" instead of \"#FF4421\".\n\n  }\n},\n    i,\n    p; //context setup...\n\n\nfor (i = 0; i < _xyContexts.length; i++) {\n  p = _xyContexts[i];\n  _contexts[p + \"X\"] = p;\n  _contexts[p + \"Y\"] = p;\n}\n\nexport var PixiPlugin = {\n  version: \"3.13.0\",\n  name: \"pixi\",\n  register: function register(core, Plugin, propTween) {\n    gsap = core;\n    PropTween = propTween;\n    _getSetter = Plugin.getSetter;\n\n    _initCore();\n  },\n  headless: true,\n  // doesn't need window\n  registerPIXI: function registerPIXI(pixi) {\n    _PIXI = pixi;\n  },\n  init: function init(target, values, tween, index, targets) {\n    _PIXI || _initCore();\n\n    if (!_PIXI) {\n      _warn(\"PIXI was not found. PixiPlugin.registerPIXI(PIXI);\");\n\n      return false;\n    }\n\n    var context, axis, value, colorMatrix, filter, p, padding, i, data, subProp;\n\n    for (p in values) {\n      context = _contexts[p];\n      value = values[p];\n\n      if (context) {\n        axis = ~p.charAt(p.length - 1).toLowerCase().indexOf(\"x\") ? \"x\" : \"y\";\n        this.add(target[context], axis, target[context][axis], context === \"skew\" ? _degreesToRadians(value) : value, 0, 0, 0, 0, 0, 1);\n      } else if (p === \"scale\" || p === \"anchor\" || p === \"pivot\" || p === \"tileScale\") {\n        this.add(target[p], \"x\", target[p].x, value);\n        this.add(target[p], \"y\", target[p].y, value);\n      } else if (p === \"rotation\" || p === \"angle\") {\n        //PIXI expects rotation in radians, but as a convenience we let folks define it in degrees and we do the conversion.\n        _addRotationalPropTween(this, target, p, target[p], value, p === \"rotation\");\n      } else if (_colorMatrixFilterProps[p]) {\n        if (!colorMatrix) {\n          _parseColorMatrixFilter(target, values.colorMatrixFilter || values, this);\n\n          colorMatrix = true;\n        }\n      } else if (p === \"blur\" || p === \"blurX\" || p === \"blurY\" || p === \"blurPadding\") {\n        filter = _getFilter(target, \"BlurFilter\");\n        this.add(filter, p, filter[p], value);\n\n        if (values.blurPadding !== 0) {\n          padding = values.blurPadding || Math.max(filter[p], value) * 2;\n          i = target.filters.length;\n\n          while (--i > -1) {\n            target.filters[i].padding = Math.max(target.filters[i].padding, padding); //if we don't expand the padding on all the filters, it can look clipped.\n          }\n        }\n      } else if (_colorProps[p]) {\n        if ((p === \"lineColor\" || p === \"fillColor\" || p === \"strokeColor\") && target instanceof _PIXI.Graphics) {\n          data = \"fillStyle\" in target ? [target] : (target.geometry || target).graphicsData; //\"geometry\" was introduced in PIXI version 5\n\n          subProp = p.substr(0, p.length - 5);\n          _isV8Plus && subProp === \"line\" && (subProp = \"stroke\"); // in v8, lineColor became strokeColor.\n\n          this._pt = new PropTween(this._pt, target, p, 0, 0, _renderDirtyCache, {\n            g: target.geometry || target\n          });\n          i = data.length;\n\n          while (--i > -1) {\n            _addColorTween(_isV4 ? data[i] : data[i][subProp + \"Style\"], _isV4 ? p : \"color\", value, this);\n          }\n        } else {\n          _addColorTween(target, p, value, this);\n        }\n      } else if (p === \"autoAlpha\") {\n        this._pt = new PropTween(this._pt, target, \"visible\", 0, 0, _renderAutoAlpha);\n        this.add(target, \"alpha\", target.alpha, value);\n\n        this._props.push(\"alpha\", \"visible\");\n      } else if (p !== \"resolution\") {\n        this.add(target, p, \"get\", value);\n      }\n\n      this._props.push(p);\n    }\n  }\n};\n_getGSAP() && gsap.registerPlugin(PixiPlugin);\nexport { PixiPlugin as default };",
-      "start": 1746887673531,
-      "end": 1746887673844,
+      "start": 1746891115527,
+      "end": 1746891116050,
       "sourcemaps": null
     },
     {
       "name": "nuxt:layer-aliasing",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "pre"
     },
     {
       "name": "nuxt:server-devonly:transform",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "pre"
     },
     {
       "name": "unplugin-vue-i18n",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "pre"
     },
     {
       "name": "nuxtjs:i18n-macros-transform",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "pre"
     },
     {
       "name": "nuxt:client-fallback-auto-id",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "pre"
     },
     {
       "name": "vite:css",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "normal"
     },
     {
       "name": "vite:esbuild",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "normal"
     },
     {
       "name": "vite:json",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "normal"
     },
     {
       "name": "vite:worker",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "normal"
     },
     {
       "name": "vite:vue",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "normal"
     },
     {
       "name": "vite:vue-jsx",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "normal"
     },
     {
       "name": "nuxt:remove-plugin-metadata",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "normal"
     },
     {
       "name": "nuxt:chunk-error",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116050,
+      "end": 1746891116050,
       "order": "normal"
     },
     {
       "name": "nuxt:components:imports",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116051,
+      "end": 1746891116051,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116051,
+      "end": 1746891116051,
       "order": "normal"
     },
     {
       "name": "ssr-styles",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116051,
+      "end": 1746891116051,
       "order": "normal"
     },
     {
       "name": "vite:define",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116051,
+      "end": 1746891116051,
       "order": "normal"
     },
     {
       "name": "vite:css-post",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116051,
+      "end": 1746891116051,
       "order": "normal"
     },
     {
       "name": "vite:build-html",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116051,
+      "end": 1746891116051,
       "order": "normal"
     },
     {
       "name": "vite:worker-import-meta-url",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116051,
+      "end": 1746891116051,
       "order": "normal"
     },
     {
       "name": "vite:asset-import-meta-url",
-      "start": 1746887673844,
-      "end": 1746887673844,
+      "start": 1746891116051,
+      "end": 1746891116051,
       "order": "normal"
     },
     {
       "name": "commonjs",
-      "start": 1746887673844,
-      "end": 1746887673848,
+      "start": 1746891116051,
+      "end": 1746891116055,
       "order": "normal"
     },
     {
       "name": "vite:dynamic-import-vars",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116055,
+      "end": 1746891116055,
       "order": "normal"
     },
     {
       "name": "vite:import-glob",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116055,
+      "end": 1746891116055,
       "order": "normal"
     },
     {
       "name": "nuxt:composable-keys",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116055,
+      "end": 1746891116055,
       "order": "post"
     },
     {
       "name": "nuxtjs:i18n-resource",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116055,
+      "end": 1746891116055,
       "order": "post"
     },
     {
       "name": "nuxtjs:i18n-meta-deprecation",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116055,
+      "end": 1746891116055,
       "order": "post"
     },
     {
       "name": "nuxt:imports-transform",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116055,
+      "end": 1746891116060,
       "order": "post"
     },
     {
       "name": "unctx:transform",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116060,
+      "end": 1746891116060,
       "order": "post"
     },
     {
       "name": "nuxt:pages-macros-transform",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116060,
+      "end": 1746891116060,
       "order": "post"
     },
     {
       "name": "nuxt:runtime-paths-dep",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116060,
+      "end": 1746891116067,
       "order": "post"
     },
     {
       "name": "nuxt:route-injection-plugin",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116067,
+      "end": 1746891116067,
       "order": "post"
     },
     {
       "name": "nuxt:components-loader",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116067,
+      "end": 1746891116067,
       "order": "post"
     },
     {
       "name": "nuxt:tree-shake-composables:transform",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116067,
+      "end": 1746891116068,
       "order": "post"
     },
     {
       "name": "vite:build-import-analysis",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116068,
+      "end": 1746891116068,
       "order": "normal"
     },
     {
       "name": "vite:reporter",
-      "start": 1746887673848,
-      "end": 1746887673848,
+      "start": 1746891116068,
+      "end": 1746891116068,
       "order": "normal"
     }
   ]

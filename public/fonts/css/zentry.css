@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'ZENTRY-Regular';
+    src: url('/public/fonts/zentry/ZENTRY-Regular.woff2') format('woff2'),
+         url('/public/fonts/zentry/ZENTRY-Regular.woff') format('woff');
+          font-weight: 400;
+         font-display: swap;
+         font-style: normal;
+  }
+  
+ 

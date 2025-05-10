@@ -4,232 +4,232 @@
     {
       "name": "virtual",
       "result": "import { default as indexERDdiS5RihMeta } from \"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue?macro=true\";\nexport default [\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___en\",\n    path: indexERDdiS5RihMeta?.path ?? \"/en\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\").then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___fr\",\n    path: indexERDdiS5RihMeta?.path ?? \"/fr\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\").then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___nl\",\n    path: indexERDdiS5RihMeta?.path ?? \"/nl\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\").then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___de\",\n    path: indexERDdiS5RihMeta?.path ?? \"/de\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\").then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___ar\",\n    path: indexERDdiS5RihMeta?.path ?? \"/ar\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\").then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___it\",\n    path: indexERDdiS5RihMeta?.path ?? \"/it\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\").then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___pt\",\n    path: indexERDdiS5RihMeta?.path ?? \"/pt\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\").then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___es\",\n    path: indexERDdiS5RihMeta?.path ?? \"/es\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\").then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___hi\",\n    path: indexERDdiS5RihMeta?.path ?? \"/hi\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\").then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___zh\",\n    path: indexERDdiS5RihMeta?.path ?? \"/zh\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\").then(m => m.default || m)\n  }\n]",
-      "start": 1746887671577,
-      "end": 1746887671577,
+      "start": 1746891113763,
+      "end": 1746891113763,
       "sourcemaps": null
     },
     {
       "name": "nuxt:layer-aliasing",
-      "start": 1746887671577,
-      "end": 1746887671577,
+      "start": 1746891113764,
+      "end": 1746891113764,
       "order": "pre"
     },
     {
       "name": "nuxt:server-devonly:transform",
-      "start": 1746887671577,
-      "end": 1746887671577,
+      "start": 1746891113764,
+      "end": 1746891113764,
       "order": "pre"
     },
     {
       "name": "unplugin-vue-i18n",
-      "start": 1746887671577,
-      "end": 1746887671578,
+      "start": 1746891113764,
+      "end": 1746891113764,
       "order": "pre"
     },
     {
       "name": "nuxtjs:i18n-macros-transform",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113764,
+      "end": 1746891113764,
       "order": "pre"
     },
     {
       "name": "nuxt:client-fallback-auto-id",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113764,
+      "end": 1746891113764,
       "order": "pre"
     },
     {
       "name": "vite:css",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113764,
+      "end": 1746891113764,
       "order": "normal"
     },
     {
       "name": "vite:esbuild",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113764,
+      "end": 1746891113764,
       "order": "normal"
     },
     {
       "name": "vite:json",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113764,
+      "end": 1746891113764,
       "order": "normal"
     },
     {
       "name": "vite:worker",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113764,
+      "end": 1746891113764,
       "order": "normal"
     },
     {
       "name": "vite:vue",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113764,
+      "end": 1746891113764,
       "order": "normal"
     },
     {
       "name": "vite:vue-jsx",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113764,
+      "end": 1746891113764,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113764,
+      "end": 1746891113764,
       "order": "normal"
     },
     {
       "name": "nuxt:remove-plugin-metadata",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113764,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "nuxt:chunk-error",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113765,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "nuxt:components:imports",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113765,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113765,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "ssr-styles",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113765,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "vite:define",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113765,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "vite:css-post",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113765,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "vite:build-html",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113765,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "vite:worker-import-meta-url",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113765,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "vite:asset-import-meta-url",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113765,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "commonjs",
-      "start": 1746887671578,
-      "end": 1746887671578,
+      "start": 1746891113765,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "vite:dynamic-import-vars",
-      "start": 1746887671578,
-      "end": 1746887671579,
+      "start": 1746891113765,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "vite:import-glob",
-      "start": 1746887671579,
-      "end": 1746887671579,
+      "start": 1746891113765,
+      "end": 1746891113765,
       "order": "normal"
     },
     {
       "name": "nuxt:composable-keys",
-      "start": 1746887671579,
-      "end": 1746887671579,
+      "start": 1746891113766,
+      "end": 1746891113766,
       "order": "post"
     },
     {
       "name": "nuxtjs:i18n-resource",
-      "start": 1746887671579,
-      "end": 1746887671579,
+      "start": 1746891113766,
+      "end": 1746891113766,
       "order": "post"
     },
     {
       "name": "nuxtjs:i18n-meta-deprecation",
-      "start": 1746887671579,
-      "end": 1746887671579,
+      "start": 1746891113766,
+      "end": 1746891113766,
       "order": "post"
     },
     {
       "name": "nuxt:imports-transform",
-      "start": 1746887671580,
-      "end": 1746887671583,
+      "start": 1746891113766,
+      "end": 1746891113769,
       "order": "post"
     },
     {
       "name": "unctx:transform",
-      "start": 1746887671583,
-      "end": 1746887671583,
+      "start": 1746891113770,
+      "end": 1746891113770,
       "order": "post"
     },
     {
       "name": "nuxt:pages-macros-transform",
-      "start": 1746887671583,
-      "end": 1746887671583,
+      "start": 1746891113770,
+      "end": 1746891113770,
       "order": "post"
     },
     {
       "name": "nuxt:runtime-paths-dep",
-      "start": 1746887671583,
-      "end": 1746887671583,
+      "start": 1746891113770,
+      "end": 1746891113770,
       "order": "post"
     },
     {
       "name": "nuxt:route-injection-plugin",
-      "start": 1746887671583,
-      "end": 1746887671583,
+      "start": 1746891113770,
+      "end": 1746891113770,
       "order": "post"
     },
     {
       "name": "nuxt:components-loader",
-      "start": 1746887671583,
-      "end": 1746887671583,
+      "start": 1746891113770,
+      "end": 1746891113770,
       "order": "post"
     },
     {
       "name": "nuxt:tree-shake-composables:transform",
-      "start": 1746887671583,
-      "end": 1746887671583,
+      "start": 1746891113770,
+      "end": 1746891113770,
       "order": "post"
     },
     {
       "name": "vite:build-import-analysis",
       "result": "import { __vitePreload } from \"\u0000vite/preload-helper.js\";import { default as indexERDdiS5RihMeta } from \"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue?macro=true\";\nexport default [\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___en\",\n    path: indexERDdiS5RihMeta?.path ?? \"/en\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___fr\",\n    path: indexERDdiS5RihMeta?.path ?? \"/fr\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___nl\",\n    path: indexERDdiS5RihMeta?.path ?? \"/nl\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___de\",\n    path: indexERDdiS5RihMeta?.path ?? \"/de\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___ar\",\n    path: indexERDdiS5RihMeta?.path ?? \"/ar\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___it\",\n    path: indexERDdiS5RihMeta?.path ?? \"/it\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___pt\",\n    path: indexERDdiS5RihMeta?.path ?? \"/pt\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___es\",\n    path: indexERDdiS5RihMeta?.path ?? \"/es\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___hi\",\n    path: indexERDdiS5RihMeta?.path ?? \"/hi\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: indexERDdiS5RihMeta?.name ?? \"index___zh\",\n    path: indexERDdiS5RihMeta?.path ?? \"/zh\",\n    meta: indexERDdiS5RihMeta || {},\n    alias: indexERDdiS5RihMeta?.alias || [],\n    redirect: indexERDdiS5RihMeta?.redirect,\n    component: () => __vitePreload(() => import(\"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/pages/index.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  }\n]",
-      "start": 1746887671583,
-      "end": 1746887671584,
+      "start": 1746891113770,
+      "end": 1746891113771,
       "order": "normal",
       "sourcemaps": null
     },
     {
       "name": "vite:reporter",
-      "start": 1746887671584,
-      "end": 1746887671584,
+      "start": 1746891113771,
+      "end": 1746891113771,
       "order": "normal"
     }
   ]

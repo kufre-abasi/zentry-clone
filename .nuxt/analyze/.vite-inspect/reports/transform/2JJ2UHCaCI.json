@@ -3,70 +3,70 @@
   "transforms": [
     {
       "name": "vite:load-fallback",
-      "result": "<template>\n  <div class=\"relative min-h-screen bg-black overflow-hidden\">\n    <!-- Full-screen background video -->\n    <div class=\"absolute inset-0 bg-gradient-to-r from-black/80 to-black/40 z-10\"></div>\n    <video\n      class=\"absolute inset-0 w-full h-full object-cover\"\n      autoplay\n      loop\n      muted\n      playsinline\n    >\n      <source\n        src=\"https://a.storyblok.com/f/271652/x/c4a3945939/hero-cut-1.mp4\"\n        type=\"video/mp4\"\n      />\n    </video>\n\n    <!-- Navigation -->\n    <header class=\"relative z-20 px-6 py-4 flex justify-between items-center\">\n      <div class=\"flex items-center gap-8\">\n        <!-- Logo -->\n        <div class=\"w-10 h-10\">\n          <img src=\"\" alt=\"Logo\" class=\"w-full h-full\" />\n        </div>\n\n        <!-- Left Nav Items -->\n        <div class=\"flex items-center gap-4\">\n          <div class=\"relative\">\n            <button\n              class=\"bg-gray-200/90 text-black px-4 py-1.5 rounded-full text-sm font-medium flex items-center\"\n            >\n              PRODUCTS\n              <ChevronDown class=\"ml-1 w-4 h-4\" />\n            </button>\n          </div>\n          <button\n            class=\"bg-transparent border border-white/20 text-white px-4 py-1.5 rounded-full text-sm font-medium\"\n          >\n            WHITEPAPER\n          </button>\n        </div>\n      </div>\n\n      <!-- Right Nav Items -->\n      <div class=\"flex items-center gap-6\">\n        <button class=\"text-white text-sm font-medium flex items-center\">\n          NEXUS\n          <ChevronDown class=\"ml-1 w-4 h-4\" />\n        </button>\n        <button class=\"text-white text-sm font-medium flex items-center\">\n          VAULT\n          <ChevronDown class=\"ml-1 w-4 h-4\" />\n        </button>\n        <button class=\"text-white text-sm font-medium\">PROLOGUE</button>\n        <button class=\"text-white text-sm font-medium\">ABOUT</button>\n        <button class=\"text-white text-sm font-medium\">CONTACT</button>\n        <button class=\"text-white\">\n          <Menu class=\"w-6 h-6\" />\n        </button>\n      </div>\n    </header>\n\n    <!-- Main Content -->\n    <main class=\"relative z-20 px-6 pt-16 flex flex-col h-[calc(100vh-80px)]\">\n      <div class=\"flex flex-col md:flex-row justify-between items-start h-full\">\n        <!-- Left Content -->\n        <div class=\"md:w-1/2 mt-8 md:mt-16\">\n          <h1\n            class=\"text-white text-8xl md:text-[150px] font-extrabold tracking-tighter leading-none\"\n          >\n            REDEFINE\n          </h1>\n          <div class=\"mt-4 text-white/90\">\n            <p class=\"text-xl\">Enter the Metagame</p>\n            <p class=\"text-xl\">Unleash the Play Economy</p>\n          </div>\n          <button\n            class=\"mt-8 bg-yellow-300/90 text-black px-6 py-3 rounded-full font-medium flex items-center hover:bg-yellow-300 transition-colors\"\n          >\n            <Play class=\"mr-2 w-5 h-5\" />\n            WATCH TRAILER\n          </button>\n        </div>\n\n        <!-- Right Content - Character Image -->\n        <div class=\"md:w-1/2 flex justify-end items-end h-full\">\n          <img\n            src=\" \"\n            alt=\"Game character\"\n            class=\"character-animation max-h-[80vh] object-contain z-10\"\n          />\n          <h2\n            class=\"text-white text-7xl md:text-[150px] font-extrabold tracking-tighter absolute bottom-4 right-6\"\n          >\n            GAMING\n          </h2>\n        </div>\n      </div>\n    </main>\n\n    <!-- Footer -->\n    <footer class=\"relative z-20 px-6 py-2 text-white/60 text-sm\">\n      <a href=\"https://zentry.com/whitepaper\" class=\"hover:text-white transition-colors\">\n        https://zentry.com/whitepaper\n      </a>\n    </footer>\n  </div>\n</template>\n\n<script setup>\nimport { ChevronDown, Menu, Play } from \"lucide-vue-next\";\nimport { onMounted } from \"vue\";\n\n// Ensure video plays properly on all devices\nonMounted(() => {\n  const video = document.querySelector(\"video\");\n\n  if (video) {\n    // Force video to play even on devices with autoplay restrictions\n    const playVideo = () => {\n      video.play().catch((error) => {\n        console.log(\"Video play error:\", error);\n        // Add event listener for user interaction to play video\n        document.addEventListener(\n          \"click\",\n          () => {\n            video.play();\n          },\n          { once: true }\n        );\n      });\n    };\n\n    playVideo();\n\n    // Make sure video is always playing\n    video.addEventListener(\"pause\", () => {\n      video.play();\n    });\n  }\n});\n</script>\n\n<style>\n@import url(\"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap\");\n\nhtml,\nbody {\n  font-family: \"Inter\", sans-serif;\n  margin: 0;\n  padding: 0;\n  background: #000;\n}\n\n/* Custom animation for the character */\n.character-animation {\n  animation: float 6s ease-in-out infinite;\n}\n\n@keyframes float {\n  0% {\n    transform: translateY(0px);\n  }\n  50% {\n    transform: translateY(-15px);\n  }\n  100% {\n    transform: translateY(0px);\n  }\n}\n</style>\n",
-      "start": 1746887676630,
-      "end": 1746887676794,
+      "result": "<template>\n  <div class=\"relative min-h-screen bg-black overflow-hidden\">\n    <!-- Full-screen background video -->\n    <div class=\"absolute inset-0 bg-gradient-to-r from-black/80 to-black/40 z-10\"></div>\n    <video\n      class=\"absolute inset-0 w-full h-full object-cover\"\n      autoplay\n      loop\n      muted\n      playsinline\n    >\n      <source\n        src=\"https://a.storyblok.com/f/271652/x/c4a3945939/hero-cut-1.mp4\"\n        type=\"video/mp4\"\n      />\n    </video>\n\n    <!-- Navigation -->\n    <header class=\"relative z-20 px-6 py-4 flex justify-between items-center\">\n      <div class=\"flex items-center gap-8\">\n        <!-- Logo -->\n        <div class=\"w-10 h-10\">\n          <img src=\"\" alt=\"Logo\" class=\"w-full h-full\" />\n        </div>\n\n        <!-- Left Nav Items -->\n        <div class=\"flex items-center gap-4\">\n          <div class=\"relative\">\n            <button\n              class=\"bg-gray-200/90 text-black px-4 py-1.5 rounded-full text-sm font-medium flex items-center\"\n            >\n              PRODUCTS\n              <ChevronDown class=\"ml-1 w-4 h-4\" />\n            </button>\n          </div>\n          <button\n            class=\"bg-transparent border border-white/20 text-white px-4 py-1.5 rounded-full text-sm font-medium\"\n          >\n            WHITEPAPER\n          </button>\n        </div>\n      </div>\n\n      <!-- Right Nav Items -->\n      <div class=\"flex items-center gap-6\">\n        <button class=\"text-white text-sm font-medium flex items-center\">\n          NEXUS\n          <ChevronDown class=\"ml-1 w-4 h-4\" />\n        </button>\n        <button class=\"text-white text-sm font-medium flex items-center\">\n          VAULT\n          <ChevronDown class=\"ml-1 w-4 h-4\" />\n        </button>\n        <button class=\"text-white text-sm font-medium\">PROLOGUE</button>\n        <button class=\"text-white text-sm font-medium\">ABOUT</button>\n        <button class=\"text-white text-sm font-medium\">CONTACT</button>\n        <button class=\"text-white\">\n          <Menu class=\"w-6 h-6\" />\n        </button>\n      </div>\n    </header>\n\n    <!-- Main Content -->\n    <main class=\"relative z-20 px-6 pt-16 flex flex-col h-[calc(100vh-80px)]\">\n      <div class=\"flex flex-col md:flex-row justify-between items-start h-full\">\n        <!-- Left Content -->\n        <div class=\"md:w-1/2 mt-8 md:mt-10\">\n          <h1\n            class=\"text-white text-8xl md:text-[150px] font-extrabold tracking-tighter leading-none\"\n          >\n            REDEFINE\n          </h1>\n          <div class=\"mt-4 text-white/90\">\n            <p class=\"text-xl\">Enter the Metagame</p>\n            <p class=\"text-xl\">Unleash the Play Economy</p>\n          </div>\n          <button\n            class=\"mt-8 bg-yellow-300/90 text-black px-6 py-3 rounded-full font-medium flex items-center hover:bg-yellow-300 transition-colors\"\n          >\n            <Play class=\"mr-2 w-5 h-5\" />\n            WATCH TRAILER\n          </button>\n        </div>\n\n        <!-- Right Content - Character Image -->\n        <div class=\"md:w-1/2 flex justify-end items-end h-full\">\n          <img\n            src=\" \"\n            alt=\"Game character\"\n            class=\"character-animation max-h-[80vh] object-contain z-10\"\n          />\n          <h2\n            class=\"text-white text-7xl md:text-[150px] font-extrabold tracking-tighter absolute bottom-4 right-6\"\n          >\n            GAMING\n          </h2>\n        </div>\n      </div>\n    </main>\n\n    <!-- Footer -->\n    <footer class=\"relative z-20 px-6 py-2 text-white/60 text-sm\">\n      <a href=\"https://zentry.com/whitepaper\" class=\"hover:text-white transition-colors\">\n        https://zentry.com/whitepaper\n      </a>\n    </footer>\n  </div>\n</template>\n\n<script setup>\nimport { ChevronDown, Menu, Play } from \"lucide-vue-next\";\nimport { onMounted } from \"vue\";\n\n// Ensure video plays properly on all devices\nonMounted(() => {\n  const video = document.querySelector(\"video\");\n\n  if (video) {\n    // Force video to play even on devices with autoplay restrictions\n    const playVideo = () => {\n      video.play().catch((error) => {\n        console.log(\"Video play error:\", error);\n        // Add event listener for user interaction to play video\n        document.addEventListener(\n          \"click\",\n          () => {\n            video.play();\n          },\n          { once: true }\n        );\n      });\n    };\n\n    playVideo();\n\n    // Make sure video is always playing\n    video.addEventListener(\"pause\", () => {\n      video.play();\n    });\n  }\n});\n</script>\n\n<style>\n@import url(\"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap\");\n\nhtml,\nbody {\n  font-family: \"Inter\", sans-serif;\n  margin: 0;\n  padding: 0;\n  background: #000;\n}\n\n/* Custom animation for the character */\n.character-animation {\n  animation: float 6s ease-in-out infinite;\n}\n\n@keyframes float {\n  0% {\n    transform: translateY(0px);\n  }\n  50% {\n    transform: translateY(-15px);\n  }\n  100% {\n    transform: translateY(0px);\n  }\n}\n</style>\n",
+      "start": 1746891119394,
+      "end": 1746891119396,
       "sourcemaps": null
     },
     {
       "name": "nuxt:layer-aliasing",
-      "start": 1746887676794,
-      "end": 1746887676794,
+      "start": 1746891119396,
+      "end": 1746891119396,
       "order": "pre"
     },
     {
       "name": "nuxt:server-devonly:transform",
-      "start": 1746887676794,
-      "end": 1746887676794,
+      "start": 1746891119396,
+      "end": 1746891119396,
       "order": "pre"
     },
     {
       "name": "unplugin-vue-i18n",
-      "start": 1746887676794,
-      "end": 1746887676794,
+      "start": 1746891119396,
+      "end": 1746891119396,
       "order": "pre"
     },
     {
       "name": "nuxtjs:i18n-macros-transform",
-      "start": 1746887676794,
-      "end": 1746887676800,
+      "start": 1746891119396,
+      "end": 1746891119399,
       "order": "pre"
     },
     {
       "name": "nuxt:client-fallback-auto-id",
-      "start": 1746887676800,
-      "end": 1746887676800,
+      "start": 1746891119399,
+      "end": 1746891119399,
       "order": "pre"
     },
     {
       "name": "vite:css",
-      "start": 1746887676800,
-      "end": 1746887676800,
+      "start": 1746891119399,
+      "end": 1746891119399,
       "order": "normal"
     },
     {
       "name": "vite:esbuild",
-      "start": 1746887676800,
-      "end": 1746887676800,
+      "start": 1746891119399,
+      "end": 1746891119399,
       "order": "normal"
     },
     {
       "name": "vite:json",
-      "start": 1746887676800,
-      "end": 1746887676800,
+      "start": 1746891119399,
+      "end": 1746891119399,
       "order": "normal"
     },
     {
       "name": "vite:worker",
-      "start": 1746887676800,
-      "end": 1746887676800,
+      "start": 1746891119399,
+      "end": 1746891119399,
       "order": "normal"
     },
     {
       "name": "vite:vue",
-      "result": "import { createElementVNode as _createElementVNode, unref as _unref, createVNode as _createVNode, createTextVNode as _createTextVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\n\nconst _hoisted_1 = { class: \"relative min-h-screen bg-black overflow-hidden\" }\nconst _hoisted_2 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"absolute inset-0 bg-gradient-to-r from-black/80 to-black/40 z-10\" }, null, -1)\nconst _hoisted_3 = /*#__PURE__*/_createElementVNode(\"video\", {\n  class: \"absolute inset-0 w-full h-full object-cover\",\n  autoplay: \"\",\n  loop: \"\",\n  muted: \"\",\n  playsinline: \"\"\n}, [\n  /*#__PURE__*/_createElementVNode(\"source\", {\n    src: \"https://a.storyblok.com/f/271652/x/c4a3945939/hero-cut-1.mp4\",\n    type: \"video/mp4\"\n  })\n], -1)\nconst _hoisted_4 = { class: \"relative z-20 px-6 py-4 flex justify-between items-center\" }\nconst _hoisted_5 = { class: \"flex items-center gap-8\" }\nconst _hoisted_6 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"w-10 h-10\" }, [\n  /*#__PURE__*/_createElementVNode(\"img\", {\n    src: '',\n    alt: \"Logo\",\n    class: \"w-full h-full\"\n  })\n], -1)\nconst _hoisted_7 = { class: \"flex items-center gap-4\" }\nconst _hoisted_8 = { class: \"relative\" }\nconst _hoisted_9 = { class: \"bg-gray-200/90 text-black px-4 py-1.5 rounded-full text-sm font-medium flex items-center\" }\nconst _hoisted_10 = /*#__PURE__*/_createElementVNode(\"button\", { class: \"bg-transparent border border-white/20 text-white px-4 py-1.5 rounded-full text-sm font-medium\" }, \" WHITEPAPER \", -1)\nconst _hoisted_11 = { class: \"flex items-center gap-6\" }\nconst _hoisted_12 = { class: \"text-white text-sm font-medium flex items-center\" }\nconst _hoisted_13 = { class: \"text-white text-sm font-medium flex items-center\" }\nconst _hoisted_14 = /*#__PURE__*/_createElementVNode(\"button\", { class: \"text-white text-sm font-medium\" }, \"PROLOGUE\", -1)\nconst _hoisted_15 = /*#__PURE__*/_createElementVNode(\"button\", { class: \"text-white text-sm font-medium\" }, \"ABOUT\", -1)\nconst _hoisted_16 = /*#__PURE__*/_createElementVNode(\"button\", { class: \"text-white text-sm font-medium\" }, \"CONTACT\", -1)\nconst _hoisted_17 = { class: \"text-white\" }\nconst _hoisted_18 = { class: \"relative z-20 px-6 pt-16 flex flex-col h-[calc(100vh-80px)]\" }\nconst _hoisted_19 = { class: \"flex flex-col md:flex-row justify-between items-start h-full\" }\nconst _hoisted_20 = { class: \"md:w-1/2 mt-8 md:mt-16\" }\nconst _hoisted_21 = /*#__PURE__*/_createElementVNode(\"h1\", { class: \"text-white text-8xl md:text-[150px] font-extrabold tracking-tighter leading-none\" }, \" REDEFINE \", -1)\nconst _hoisted_22 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"mt-4 text-white/90\" }, [\n  /*#__PURE__*/_createElementVNode(\"p\", { class: \"text-xl\" }, \"Enter the Metagame\"),\n  /*#__PURE__*/_createElementVNode(\"p\", { class: \"text-xl\" }, \"Unleash the Play Economy\")\n], -1)\nconst _hoisted_23 = { class: \"mt-8 bg-yellow-300/90 text-black px-6 py-3 rounded-full font-medium flex items-center hover:bg-yellow-300 transition-colors\" }\nconst _hoisted_24 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"md:w-1/2 flex justify-end items-end h-full\" }, [\n  /*#__PURE__*/_createElementVNode(\"img\", {\n    src: '',\n    alt: \"Game character\",\n    class: \"character-animation max-h-[80vh] object-contain z-10\"\n  }),\n  /*#__PURE__*/_createElementVNode(\"h2\", { class: \"text-white text-7xl md:text-[150px] font-extrabold tracking-tighter absolute bottom-4 right-6\" }, \" GAMING \")\n], -1)\nconst _hoisted_25 = /*#__PURE__*/_createElementVNode(\"footer\", { class: \"relative z-20 px-6 py-2 text-white/60 text-sm\" }, [\n  /*#__PURE__*/_createElementVNode(\"a\", {\n    href: \"https://zentry.com/whitepaper\",\n    class: \"hover:text-white transition-colors\"\n  }, \" https://zentry.com/whitepaper \")\n], -1)\n\nimport { ChevronDown, Menu, Play } from \"lucide-vue-next\";\nimport { onMounted } from \"vue\";\n\n// Ensure video plays properly on all devices\n\nconst _sfc_main = {\n  __name: 'Hero',\n  setup(__props) {\n\nonMounted(() => {\n  const video = document.querySelector(\"video\");\n\n  if (video) {\n    // Force video to play even on devices with autoplay restrictions\n    const playVideo = () => {\n      video.play().catch((error) => {\n        console.log(\"Video play error:\", error);\n        // Add event listener for user interaction to play video\n        document.addEventListener(\n          \"click\",\n          () => {\n            video.play();\n          },\n          { once: true }\n        );\n      });\n    };\n\n    playVideo();\n\n    // Make sure video is always playing\n    video.addEventListener(\"pause\", () => {\n      video.play();\n    });\n  }\n});\n\nreturn (_ctx, _cache) => {\n  return (_openBlock(), _createElementBlock(\"div\", _hoisted_1, [\n    _hoisted_2,\n    _hoisted_3,\n    _createElementVNode(\"header\", _hoisted_4, [\n      _createElementVNode(\"div\", _hoisted_5, [\n        _hoisted_6,\n        _createElementVNode(\"div\", _hoisted_7, [\n          _createElementVNode(\"div\", _hoisted_8, [\n            _createElementVNode(\"button\", _hoisted_9, [\n              _createTextVNode(\" PRODUCTS \"),\n              _createVNode(_unref(ChevronDown), { class: \"ml-1 w-4 h-4\" })\n            ])\n          ]),\n          _hoisted_10\n        ])\n      ]),\n      _createElementVNode(\"div\", _hoisted_11, [\n        _createElementVNode(\"button\", _hoisted_12, [\n          _createTextVNode(\" NEXUS \"),\n          _createVNode(_unref(ChevronDown), { class: \"ml-1 w-4 h-4\" })\n        ]),\n        _createElementVNode(\"button\", _hoisted_13, [\n          _createTextVNode(\" VAULT \"),\n          _createVNode(_unref(ChevronDown), { class: \"ml-1 w-4 h-4\" })\n        ]),\n        _hoisted_14,\n        _hoisted_15,\n        _hoisted_16,\n        _createElementVNode(\"button\", _hoisted_17, [\n          _createVNode(_unref(Menu), { class: \"w-6 h-6\" })\n        ])\n      ])\n    ]),\n    _createElementVNode(\"main\", _hoisted_18, [\n      _createElementVNode(\"div\", _hoisted_19, [\n        _createElementVNode(\"div\", _hoisted_20, [\n          _hoisted_21,\n          _hoisted_22,\n          _createElementVNode(\"button\", _hoisted_23, [\n            _createVNode(_unref(Play), { class: \"mr-2 w-5 h-5\" }),\n            _createTextVNode(\" WATCH TRAILER \")\n          ])\n        ]),\n        _hoisted_24\n      ])\n    ]),\n    _hoisted_25\n  ]))\n}\n}\n\n}\n\n\nimport \"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/components/Sections/Hero.vue?vue&type=style&index=0&lang.css\"\n\nexport default _sfc_main",
-      "start": 1746887676800,
-      "end": 1746887676815,
+      "result": "import { createElementVNode as _createElementVNode, unref as _unref, createVNode as _createVNode, createTextVNode as _createTextVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\n\nconst _hoisted_1 = { class: \"relative min-h-screen bg-black overflow-hidden\" }\nconst _hoisted_2 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"absolute inset-0 bg-gradient-to-r from-black/80 to-black/40 z-10\" }, null, -1)\nconst _hoisted_3 = /*#__PURE__*/_createElementVNode(\"video\", {\n  class: \"absolute inset-0 w-full h-full object-cover\",\n  autoplay: \"\",\n  loop: \"\",\n  muted: \"\",\n  playsinline: \"\"\n}, [\n  /*#__PURE__*/_createElementVNode(\"source\", {\n    src: \"https://a.storyblok.com/f/271652/x/c4a3945939/hero-cut-1.mp4\",\n    type: \"video/mp4\"\n  })\n], -1)\nconst _hoisted_4 = { class: \"relative z-20 px-6 py-4 flex justify-between items-center\" }\nconst _hoisted_5 = { class: \"flex items-center gap-8\" }\nconst _hoisted_6 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"w-10 h-10\" }, [\n  /*#__PURE__*/_createElementVNode(\"img\", {\n    src: '',\n    alt: \"Logo\",\n    class: \"w-full h-full\"\n  })\n], -1)\nconst _hoisted_7 = { class: \"flex items-center gap-4\" }\nconst _hoisted_8 = { class: \"relative\" }\nconst _hoisted_9 = { class: \"bg-gray-200/90 text-black px-4 py-1.5 rounded-full text-sm font-medium flex items-center\" }\nconst _hoisted_10 = /*#__PURE__*/_createElementVNode(\"button\", { class: \"bg-transparent border border-white/20 text-white px-4 py-1.5 rounded-full text-sm font-medium\" }, \" WHITEPAPER \", -1)\nconst _hoisted_11 = { class: \"flex items-center gap-6\" }\nconst _hoisted_12 = { class: \"text-white text-sm font-medium flex items-center\" }\nconst _hoisted_13 = { class: \"text-white text-sm font-medium flex items-center\" }\nconst _hoisted_14 = /*#__PURE__*/_createElementVNode(\"button\", { class: \"text-white text-sm font-medium\" }, \"PROLOGUE\", -1)\nconst _hoisted_15 = /*#__PURE__*/_createElementVNode(\"button\", { class: \"text-white text-sm font-medium\" }, \"ABOUT\", -1)\nconst _hoisted_16 = /*#__PURE__*/_createElementVNode(\"button\", { class: \"text-white text-sm font-medium\" }, \"CONTACT\", -1)\nconst _hoisted_17 = { class: \"text-white\" }\nconst _hoisted_18 = { class: \"relative z-20 px-6 pt-16 flex flex-col h-[calc(100vh-80px)]\" }\nconst _hoisted_19 = { class: \"flex flex-col md:flex-row justify-between items-start h-full\" }\nconst _hoisted_20 = { class: \"md:w-1/2 mt-8 md:mt-10\" }\nconst _hoisted_21 = /*#__PURE__*/_createElementVNode(\"h1\", { class: \"text-white text-8xl md:text-[150px] font-extrabold tracking-tighter leading-none\" }, \" REDEFINE \", -1)\nconst _hoisted_22 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"mt-4 text-white/90\" }, [\n  /*#__PURE__*/_createElementVNode(\"p\", { class: \"text-xl\" }, \"Enter the Metagame\"),\n  /*#__PURE__*/_createElementVNode(\"p\", { class: \"text-xl\" }, \"Unleash the Play Economy\")\n], -1)\nconst _hoisted_23 = { class: \"mt-8 bg-yellow-300/90 text-black px-6 py-3 rounded-full font-medium flex items-center hover:bg-yellow-300 transition-colors\" }\nconst _hoisted_24 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"md:w-1/2 flex justify-end items-end h-full\" }, [\n  /*#__PURE__*/_createElementVNode(\"img\", {\n    src: '',\n    alt: \"Game character\",\n    class: \"character-animation max-h-[80vh] object-contain z-10\"\n  }),\n  /*#__PURE__*/_createElementVNode(\"h2\", { class: \"text-white text-7xl md:text-[150px] font-extrabold tracking-tighter absolute bottom-4 right-6\" }, \" GAMING \")\n], -1)\nconst _hoisted_25 = /*#__PURE__*/_createElementVNode(\"footer\", { class: \"relative z-20 px-6 py-2 text-white/60 text-sm\" }, [\n  /*#__PURE__*/_createElementVNode(\"a\", {\n    href: \"https://zentry.com/whitepaper\",\n    class: \"hover:text-white transition-colors\"\n  }, \" https://zentry.com/whitepaper \")\n], -1)\n\nimport { ChevronDown, Menu, Play } from \"lucide-vue-next\";\nimport { onMounted } from \"vue\";\n\n// Ensure video plays properly on all devices\n\nconst _sfc_main = {\n  __name: 'Hero',\n  setup(__props) {\n\nonMounted(() => {\n  const video = document.querySelector(\"video\");\n\n  if (video) {\n    // Force video to play even on devices with autoplay restrictions\n    const playVideo = () => {\n      video.play().catch((error) => {\n        console.log(\"Video play error:\", error);\n        // Add event listener for user interaction to play video\n        document.addEventListener(\n          \"click\",\n          () => {\n            video.play();\n          },\n          { once: true }\n        );\n      });\n    };\n\n    playVideo();\n\n    // Make sure video is always playing\n    video.addEventListener(\"pause\", () => {\n      video.play();\n    });\n  }\n});\n\nreturn (_ctx, _cache) => {\n  return (_openBlock(), _createElementBlock(\"div\", _hoisted_1, [\n    _hoisted_2,\n    _hoisted_3,\n    _createElementVNode(\"header\", _hoisted_4, [\n      _createElementVNode(\"div\", _hoisted_5, [\n        _hoisted_6,\n        _createElementVNode(\"div\", _hoisted_7, [\n          _createElementVNode(\"div\", _hoisted_8, [\n            _createElementVNode(\"button\", _hoisted_9, [\n              _createTextVNode(\" PRODUCTS \"),\n              _createVNode(_unref(ChevronDown), { class: \"ml-1 w-4 h-4\" })\n            ])\n          ]),\n          _hoisted_10\n        ])\n      ]),\n      _createElementVNode(\"div\", _hoisted_11, [\n        _createElementVNode(\"button\", _hoisted_12, [\n          _createTextVNode(\" NEXUS \"),\n          _createVNode(_unref(ChevronDown), { class: \"ml-1 w-4 h-4\" })\n        ]),\n        _createElementVNode(\"button\", _hoisted_13, [\n          _createTextVNode(\" VAULT \"),\n          _createVNode(_unref(ChevronDown), { class: \"ml-1 w-4 h-4\" })\n        ]),\n        _hoisted_14,\n        _hoisted_15,\n        _hoisted_16,\n        _createElementVNode(\"button\", _hoisted_17, [\n          _createVNode(_unref(Menu), { class: \"w-6 h-6\" })\n        ])\n      ])\n    ]),\n    _createElementVNode(\"main\", _hoisted_18, [\n      _createElementVNode(\"div\", _hoisted_19, [\n        _createElementVNode(\"div\", _hoisted_20, [\n          _hoisted_21,\n          _hoisted_22,\n          _createElementVNode(\"button\", _hoisted_23, [\n            _createVNode(_unref(Play), { class: \"mr-2 w-5 h-5\" }),\n            _createTextVNode(\" WATCH TRAILER \")\n          ])\n        ]),\n        _hoisted_24\n      ])\n    ]),\n    _hoisted_25\n  ]))\n}\n}\n\n}\n\n\nimport \"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/components/Sections/Hero.vue?vue&type=style&index=0&lang.css\"\n\nexport default _sfc_main",
+      "start": 1746891119399,
+      "end": 1746891119408,
       "order": "normal",
       "sourcemaps": {
         "mappings": ""
@@ -74,164 +74,164 @@
     },
     {
       "name": "vite:vue-jsx",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119408,
+      "end": 1746891119408,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119408,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "nuxt:remove-plugin-metadata",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "nuxt:chunk-error",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "nuxt:components:imports",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "ssr-styles",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "vite:define",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "vite:css-post",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "vite:build-html",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "vite:worker-import-meta-url",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "vite:asset-import-meta-url",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "commonjs",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "vite:dynamic-import-vars",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "vite:import-glob",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "normal"
     },
     {
       "name": "nuxt:composable-keys",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "post"
     },
     {
       "name": "nuxtjs:i18n-resource",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "post"
     },
     {
       "name": "nuxtjs:i18n-meta-deprecation",
-      "start": 1746887676815,
-      "end": 1746887676815,
+      "start": 1746891119409,
+      "end": 1746891119409,
       "order": "post"
     },
     {
       "name": "nuxt:imports-transform",
-      "start": 1746887676815,
-      "end": 1746887676823,
+      "start": 1746891119409,
+      "end": 1746891119411,
       "order": "post"
     },
     {
       "name": "unctx:transform",
-      "start": 1746887676823,
-      "end": 1746887676823,
+      "start": 1746891119411,
+      "end": 1746891119411,
       "order": "post"
     },
     {
       "name": "nuxt:pages-macros-transform",
-      "start": 1746887676823,
-      "end": 1746887676823,
+      "start": 1746891119411,
+      "end": 1746891119411,
       "order": "post"
     },
     {
       "name": "nuxt:runtime-paths-dep",
-      "start": 1746887676823,
-      "end": 1746887676823,
+      "start": 1746891119411,
+      "end": 1746891119411,
       "order": "post"
     },
     {
       "name": "nuxt:route-injection-plugin",
-      "start": 1746887676823,
-      "end": 1746887676823,
+      "start": 1746891119411,
+      "end": 1746891119411,
       "order": "post"
     },
     {
       "name": "nuxt:components-loader",
-      "start": 1746887676823,
-      "end": 1746887676823,
+      "start": 1746891119411,
+      "end": 1746891119412,
       "order": "post"
     },
     {
       "name": "nuxt:tree-shake-composables:transform",
-      "start": 1746887676823,
-      "end": 1746887676823,
+      "start": 1746891119412,
+      "end": 1746891119412,
       "order": "post"
     },
     {
       "name": "vite:build-import-analysis",
-      "start": 1746887676823,
-      "end": 1746887676824,
+      "start": 1746891119412,
+      "end": 1746891119412,
       "order": "normal"
     },
     {
       "name": "vite:reporter",
-      "start": 1746887676824,
-      "end": 1746887676824,
+      "start": 1746891119412,
+      "end": 1746891119412,
       "order": "normal"
     }
   ]

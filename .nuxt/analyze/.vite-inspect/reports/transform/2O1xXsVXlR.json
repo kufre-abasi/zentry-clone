@@ -4,50 +4,50 @@
     {
       "name": "vite:vue",
       "result": "import { defineComponent as _defineComponent } from 'vue'\nimport { resolveComponent as _resolveComponent, createVNode as _createVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\n\n\nexport default /*#__PURE__*/_defineComponent({\n  __name: 'index',\n  setup(__props) {\n\nuseHead({\n  title: \"zentry-clone - Home\",\n  meta: [\n    { name: \"description\", content: `Effortlessly summon your journey with our App.` },\n  ],\n});\nuseSeoMeta({\n  title: \"zentry-clone\",\n  ogTitle: \"zentry-clone\",\n  description: `Effortlessly summon your journey with our App.`,\n  ogDescription: `Effortlessly summon your journey with our App.`,\n  // ogImage: \"https://example.com/image.png\",\n  // twitterCard: \"summary_large_image\",\n});\n\nreturn (_ctx: any,_cache: any) => {\n  const _component_SectionsHero = _resolveComponent(\"SectionsHero\")!\n\n  return (_openBlock(), _createElementBlock(\"main\", null, [\n    _createVNode(_component_SectionsHero)\n  ]))\n}\n}\n\n})",
-      "start": 1746887676305,
-      "end": 1746887676305
+      "start": 1746891118710,
+      "end": 1746891118710
     },
     {
       "name": "nuxt:layer-aliasing",
-      "start": 1746887676305,
-      "end": 1746887676305,
+      "start": 1746891118710,
+      "end": 1746891118710,
       "order": "pre"
     },
     {
       "name": "nuxt:server-devonly:transform",
-      "start": 1746887676305,
-      "end": 1746887676305,
+      "start": 1746891118710,
+      "end": 1746891118710,
       "order": "pre"
     },
     {
       "name": "unplugin-vue-i18n",
-      "start": 1746887676305,
-      "end": 1746887676305,
+      "start": 1746891118710,
+      "end": 1746891118712,
       "order": "pre"
     },
     {
       "name": "nuxtjs:i18n-macros-transform",
-      "start": 1746887676305,
-      "end": 1746887676305,
+      "start": 1746891118712,
+      "end": 1746891118712,
       "order": "pre"
     },
     {
       "name": "nuxt:client-fallback-auto-id",
-      "start": 1746887676305,
-      "end": 1746887676305,
+      "start": 1746891118712,
+      "end": 1746891118712,
       "order": "pre"
     },
     {
       "name": "vite:css",
-      "start": 1746887676305,
-      "end": 1746887676305,
+      "start": 1746891118712,
+      "end": 1746891118712,
       "order": "normal"
     },
     {
       "name": "vite:esbuild",
       "result": "import { defineComponent as _defineComponent } from \"vue\";\nimport { resolveComponent as _resolveComponent, createVNode as _createVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\";\nexport default /* @__PURE__ */ _defineComponent({\n  __name: \"index\",\n  setup(__props) {\n    useHead({\n      title: \"zentry-clone - Home\",\n      meta: [\n        { name: \"description\", content: `Effortlessly summon your journey with our App.` }\n      ]\n    });\n    useSeoMeta({\n      title: \"zentry-clone\",\n      ogTitle: \"zentry-clone\",\n      description: `Effortlessly summon your journey with our App.`,\n      ogDescription: `Effortlessly summon your journey with our App.`\n      // ogImage: \"https://example.com/image.png\",\n      // twitterCard: \"summary_large_image\",\n    });\n    return (_ctx, _cache) => {\n      const _component_SectionsHero = _resolveComponent(\"SectionsHero\");\n      return _openBlock(), _createElementBlock(\"main\", null, [\n        _createVNode(_component_SectionsHero)\n      ]);\n    };\n  }\n});\n",
-      "start": 1746887676305,
-      "end": 1746887676613,
+      "start": 1746891118712,
+      "end": 1746891119255,
       "order": "normal",
       "sourcemaps": {
         "version": 3,
@@ -63,135 +63,135 @@
     },
     {
       "name": "vite:json",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119255,
+      "end": 1746891119255,
       "order": "normal"
     },
     {
       "name": "vite:worker",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119255,
+      "end": 1746891119256,
       "order": "normal"
     },
     {
       "name": "vite:vue",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119256,
+      "end": 1746891119256,
       "order": "normal"
     },
     {
       "name": "vite:vue-jsx",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119256,
+      "end": 1746891119256,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119256,
+      "end": 1746891119256,
       "order": "normal"
     },
     {
       "name": "nuxt:remove-plugin-metadata",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119256,
+      "end": 1746891119256,
       "order": "normal"
     },
     {
       "name": "nuxt:chunk-error",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119256,
+      "end": 1746891119256,
       "order": "normal"
     },
     {
       "name": "nuxt:components:imports",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119256,
+      "end": 1746891119256,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119256,
+      "end": 1746891119256,
       "order": "normal"
     },
     {
       "name": "ssr-styles",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119256,
+      "end": 1746891119256,
       "order": "normal"
     },
     {
       "name": "vite:define",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119257,
+      "end": 1746891119257,
       "order": "normal"
     },
     {
       "name": "vite:css-post",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119259,
+      "end": 1746891119260,
       "order": "normal"
     },
     {
       "name": "vite:build-html",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119260,
+      "end": 1746891119260,
       "order": "normal"
     },
     {
       "name": "vite:worker-import-meta-url",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119260,
+      "end": 1746891119260,
       "order": "normal"
     },
     {
       "name": "vite:asset-import-meta-url",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119260,
+      "end": 1746891119260,
       "order": "normal"
     },
     {
       "name": "commonjs",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119260,
+      "end": 1746891119260,
       "order": "normal"
     },
     {
       "name": "vite:dynamic-import-vars",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119262,
+      "end": 1746891119262,
       "order": "normal"
     },
     {
       "name": "vite:import-glob",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119262,
+      "end": 1746891119262,
       "order": "normal"
     },
     {
       "name": "nuxt:composable-keys",
-      "start": 1746887676613,
-      "end": 1746887676613,
+      "start": 1746891119262,
+      "end": 1746891119262,
       "order": "post"
     },
     {
       "name": "nuxtjs:i18n-resource",
-      "start": 1746887676614,
-      "end": 1746887676614,
+      "start": 1746891119263,
+      "end": 1746891119263,
       "order": "post"
     },
     {
       "name": "nuxtjs:i18n-meta-deprecation",
-      "start": 1746887676614,
-      "end": 1746887676614,
+      "start": 1746891119263,
+      "end": 1746891119263,
       "order": "post"
     },
     {
       "name": "nuxt:imports-transform",
       "result": "import { useHead, useSeoMeta } from '@unhead/vue';\nimport { defineComponent as _defineComponent } from \"vue\";\nimport { resolveComponent as _resolveComponent, createVNode as _createVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\";\nexport default /* @__PURE__ */ _defineComponent({\n  __name: \"index\",\n  setup(__props) {\n    useHead({\n      title: \"zentry-clone - Home\",\n      meta: [\n        { name: \"description\", content: `Effortlessly summon your journey with our App.` }\n      ]\n    });\n    useSeoMeta({\n      title: \"zentry-clone\",\n      ogTitle: \"zentry-clone\",\n      description: `Effortlessly summon your journey with our App.`,\n      ogDescription: `Effortlessly summon your journey with our App.`\n      // ogImage: \"https://example.com/image.png\",\n      // twitterCard: \"summary_large_image\",\n    });\n    return (_ctx, _cache) => {\n      const _component_SectionsHero = _resolveComponent(\"SectionsHero\");\n      return _openBlock(), _createElementBlock(\"main\", null, [\n        _createVNode(_component_SectionsHero)\n      ]);\n    };\n  }\n});\n",
-      "start": 1746887676614,
-      "end": 1746887676616,
+      "start": 1746891119263,
+      "end": 1746891119264,
       "order": "post",
       "sourcemaps": {
         "version": 3,
@@ -204,51 +204,51 @@
     },
     {
       "name": "unctx:transform",
-      "start": 1746887676616,
-      "end": 1746887676616,
+      "start": 1746891119264,
+      "end": 1746891119264,
       "order": "post"
     },
     {
       "name": "nuxt:pages-macros-transform",
-      "start": 1746887676617,
-      "end": 1746887676617,
+      "start": 1746891119264,
+      "end": 1746891119264,
       "order": "post"
     },
     {
       "name": "nuxt:runtime-paths-dep",
-      "start": 1746887676617,
-      "end": 1746887676617,
+      "start": 1746891119264,
+      "end": 1746891119264,
       "order": "post"
     },
     {
       "name": "nuxt:route-injection-plugin",
-      "start": 1746887676617,
-      "end": 1746887676617,
+      "start": 1746891119264,
+      "end": 1746891119264,
       "order": "post"
     },
     {
       "name": "nuxt:components-loader",
       "result": "import { default as __nuxt_component_0 } from \"/Users/kufre-abasibassey/Documents/Projects/WEB2/zentry clone/untitled folder/zentry/components/Sections/Hero.vue\";\nimport { useHead, useSeoMeta } from '@unhead/vue';\nimport { defineComponent as _defineComponent } from \"vue\";\nimport { resolveComponent as _resolveComponent, createVNode as _createVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\";\nexport default /* @__PURE__ */ _defineComponent({\n  __name: \"index\",\n  setup(__props) {\n    useHead({\n      title: \"zentry-clone - Home\",\n      meta: [\n        { name: \"description\", content: `Effortlessly summon your journey with our App.` }\n      ]\n    });\n    useSeoMeta({\n      title: \"zentry-clone\",\n      ogTitle: \"zentry-clone\",\n      description: `Effortlessly summon your journey with our App.`,\n      ogDescription: `Effortlessly summon your journey with our App.`\n      // ogImage: \"https://example.com/image.png\",\n      // twitterCard: \"summary_large_image\",\n    });\n    return (_ctx, _cache) => {\n      const _component_SectionsHero = __nuxt_component_0;\n      return _openBlock(), _createElementBlock(\"main\", null, [\n        _createVNode(_component_SectionsHero)\n      ]);\n    };\n  }\n});\n",
-      "start": 1746887676617,
-      "end": 1746887676617,
+      "start": 1746891119264,
+      "end": 1746891119264,
       "order": "post"
     },
     {
       "name": "nuxt:tree-shake-composables:transform",
-      "start": 1746887676617,
-      "end": 1746887676617,
+      "start": 1746891119264,
+      "end": 1746891119264,
       "order": "post"
     },
     {
       "name": "vite:build-import-analysis",
-      "start": 1746887676617,
-      "end": 1746887676617,
+      "start": 1746891119264,
+      "end": 1746891119265,
       "order": "normal"
     },
     {
       "name": "vite:reporter",
-      "start": 1746887676617,
-      "end": 1746887676617,
+      "start": 1746891119265,
+      "end": 1746891119265,
       "order": "normal"
     }
   ]

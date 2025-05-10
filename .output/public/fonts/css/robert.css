@@ -1,0 +1,17 @@
+ @font-face {
+    font-family: 'Roobert-Regular';
+    src: url('/public/fonts/roobert/Roobert-Regular.woff2') format('woff2'),
+         url('/public/fonts/roobert/Roobert-Regular.woff') format('woff');
+          font-weight: 400;
+         font-display: swap;
+         font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Roobert-Medium';
+    src: url('/public/fonts/roobert/Roobert-Medium.woff2') format('woff2'),
+         url('/public/fonts/roobert/Roobert-Medium.woff') format('woff') ;
+         font-weight: 500;
+         font-display: swap;
+         font-style: normal;
+  }

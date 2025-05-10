@@ -64,7 +64,7 @@
     <main class="relative z-20 px-6 pt-16 flex flex-col h-[calc(100vh-80px)]">
       <div class="flex flex-col md:flex-row justify-between items-start h-full">
         <!-- Left Content -->
-        <div class="md:w-1/2 mt-8 md:mt-16">
+        <div class="md:w-1/2 mt-8 md:mt-10">
           <h1
             class="text-white text-8xl md:text-[150px] font-extrabold tracking-tighter leading-none"
           >
