@@ -1,5 +1,11 @@
 <template>
-  <main><SectionsHero /> <SectionsWelcomeSection /></main>
+  <main>
+    <SectionsHero />
+
+    <SectionsWelcomeSection />
+
+    <SectionsExploreSection />
+  </main>
 </template>
 <script setup lang="ts">
 useHead({

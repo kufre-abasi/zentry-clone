@@ -3,6 +3,7 @@ declare module 'vue' {
   export interface GlobalComponents {
     'PreloadersButtonPreloader': typeof import("../components/Preloaders/ButtonPreloader.vue")['default']
     'PreloadersPagePreloader': typeof import("../components/Preloaders/PagePreloader.vue")['default']
+    'SectionsExploreSection': typeof import("../components/Sections/ExploreSection.vue")['default']
     'SectionsHero': typeof import("../components/Sections/Hero.vue")['default']
     'SectionsWelcomeSection': typeof import("../components/Sections/WelcomeSection.vue")['default']
     'UIDropDownFeatures': typeof import("../components/UI/DropDown/Features.vue")['default']
@@ -51,6 +52,7 @@ declare module 'vue' {
     'Body': typeof import("../node_modules/nuxt/dist/head/runtime/components")['Body']
     'LazyPreloadersButtonPreloader': typeof import("../components/Preloaders/ButtonPreloader.vue")['default']
     'LazyPreloadersPagePreloader': typeof import("../components/Preloaders/PagePreloader.vue")['default']
+    'LazySectionsExploreSection': typeof import("../components/Sections/ExploreSection.vue")['default']
     'LazySectionsHero': typeof import("../components/Sections/Hero.vue")['default']
     'LazySectionsWelcomeSection': typeof import("../components/Sections/WelcomeSection.vue")['default']
     'LazyUIDropDownFeatures': typeof import("../components/UI/DropDown/Features.vue")['default']
@@ -102,6 +104,7 @@ declare module 'vue' {
 
 export const PreloadersButtonPreloader: typeof import("../components/Preloaders/ButtonPreloader.vue")['default']
 export const PreloadersPagePreloader: typeof import("../components/Preloaders/PagePreloader.vue")['default']
+export const SectionsExploreSection: typeof import("../components/Sections/ExploreSection.vue")['default']
 export const SectionsHero: typeof import("../components/Sections/Hero.vue")['default']
 export const SectionsWelcomeSection: typeof import("../components/Sections/WelcomeSection.vue")['default']
 export const UIDropDownFeatures: typeof import("../components/UI/DropDown/Features.vue")['default']
@@ -150,6 +153,7 @@ export const Html: typeof import("../node_modules/nuxt/dist/head/runtime/compone
 export const Body: typeof import("../node_modules/nuxt/dist/head/runtime/components")['Body']
 export const LazyPreloadersButtonPreloader: typeof import("../components/Preloaders/ButtonPreloader.vue")['default']
 export const LazyPreloadersPagePreloader: typeof import("../components/Preloaders/PagePreloader.vue")['default']
+export const LazySectionsExploreSection: typeof import("../components/Sections/ExploreSection.vue")['default']
 export const LazySectionsHero: typeof import("../components/Sections/Hero.vue")['default']
 export const LazySectionsWelcomeSection: typeof import("../components/Sections/WelcomeSection.vue")['default']
 export const LazyUIDropDownFeatures: typeof import("../components/UI/DropDown/Features.vue")['default']
