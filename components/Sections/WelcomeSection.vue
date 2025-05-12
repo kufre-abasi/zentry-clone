@@ -4,7 +4,7 @@
       <div class=" ">
         <div class="flex flex-col gap-[36px] items-center justify-between">
           <h2
-            class="text-black uppercase leading-[1px] mb-[36px] gap-2 px-4 py-1.5 text-[12px] font-bold flex items-center"
+            class="text-black uppercase font-RoobertMedium leading-[1px] mb-[36px] gap-2 px-4 py-1.5 text-[12px] !font-bold flex items-center"
           >
             Welcome to Zentry
           </h2>
@@ -29,7 +29,7 @@
               />
             </div>
             <div
-              class="h-full w-full object-cover"
+              class="h-[60vh] w-full object-cover"
               style="
                 clip-path: path(
                   'M 771.045 71.2609 L 771.045 71.2609 Q 779.045 71.172 780.043 79.1095 L 816.405 368.239 Q 817.403 376.177 809.445 376.996 L 598.198 398.742 Q 590.241 399.561 589.663 391.582 L 567.214 81.512 Q 566.636 73.5329 574.636 73.444 Z'
@@ -38,6 +38,7 @@
             >
               <div class=" ">
                 <img
+                  cl
                   alt="custom-home-intro"
                   src="https://zentry.com/export/images/home/intro/custom-home-intro-desktop@lg.webp"
                   loading="lazy"
@@ -45,13 +46,13 @@
               </div>
             </div>
           </div>
-          <div class="text-center">
-            <span class="text-black text-lg md:text-[14px] text-center">
+          <div class="text-center font-RoobertMedium">
+            <span class="text-black font-extrabold text-lg md:text-[18px] text-center">
               <b>The Metagame begins—your life, now an epic MMORPG</b>
             </span>
             <br />
             <span
-              class="w-[30%] font-bold mx-auto text-gray-600 text-lg md:text-[14px] text-center"
+              class="w-[30%] font-bold mx-auto text-gray-600 text-lg md:text-[18px] text-center"
               >Zentry is the unified play layer driving attention and contribution <br />
               through cross-world AI gamification.</span
             >
