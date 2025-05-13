@@ -1,11 +1,11 @@
 <template>
   <section class="section flex flex-col gap-16 py-40">
     <div class="container">
-      <div class="text-white mb-28">
+      <div class="text-white font-RoobertRegular mb-28">
         <span><b>Explore the Zentry Universe</b></span
         ><br />
 
-        <span
+        <span class="text-[#dfdff266] leading-[1.2px] text-[16.2px]"
           >Immerse yourself in an IP-rich product universe where <br />
           players, agentic AI and blockchain lead the new <br />
           economic paradigm.</span
@@ -45,11 +45,11 @@
           </div>
 
           <div class=" ">
-            <button
-              class="border-gray-200/90 border-[3px] bg-black text-white px-4 py-1.5 rounded-full transition-rounded hover:rounded-sm text-[9px] font-medium flex items-center"
+            <span
+              class="border-gray-200/50 uppercase w-fit border-[1px] bg-black text-gray-200/50 px-4 py-1.5 rounded-full transition-rounded hover:rounded-sm text-[9px] font-medium flex items-center"
             >
               Coming Soon
-            </button>
+            </span>
           </div>
         </div>
       </div>
@@ -89,11 +89,11 @@
           </div>
 
           <div class=" ">
-            <button
-              class="border-gray-200/90 border-[3px] bg-black text-white px-4 py-1.5 rounded-full transition-rounded hover:rounded-sm text-[9px] font-medium flex items-center"
+            <span
+              class="border-gray-200/50 uppercase w-fit border-[1px] bg-black text-gray-200/50 px-4 py-1.5 rounded-full transition-rounded hover:rounded-sm text-[9px] font-medium flex items-center"
             >
               Coming Soon
-            </button>
+            </span>
           </div>
         </div>
       </div>
@@ -134,12 +134,17 @@
               </div>
             </div>
 
-            <div class=" ">
-              <button
-                class="border-gray-200/90 border-[3px] bg-black text-white px-4 py-1.5 rounded-full transition-rounded hover:rounded-sm text-[9px] font-medium flex items-center"
+            <div class="flex gap-4 items-center">
+              <span
+                class="border-gray-200/50 uppercase w-fit border-[1px] bg-black text-gray-200/50 px-4 py-1.5 rounded-full transition-rounded hover:rounded-sm text-[9px] font-medium flex items-center"
               >
                 Coming Soon
-              </button>
+              </span>
+              <span
+                class="border-yellow-300 uppercase w-fit border-[1px] bg-black text-yellow-200 px-4 py-1.5 rounded-full transition-rounded hover:rounded-sm text-[9px] font-medium flex items-center"
+              >
+                Launch site
+              </span>
             </div>
           </div>
         </div>
@@ -177,11 +182,11 @@
             </div>
 
             <div class=" ">
-              <button
-                class="border-gray-200/90 border-[3px] bg-black text-white px-4 py-1.5 rounded-full transition-rounded hover:rounded-sm text-[9px] font-medium flex items-center"
+              <span
+                class="border-gray-200/50 w-fit border-[1px] bg-black text-gray-200/50 px-4 py-1.5 rounded-full transition-rounded hover:rounded-sm text-[9px] font-medium flex items-center"
               >
                 Coming Soon
-              </button>
+              </span>
             </div>
           </div>
         </div>
